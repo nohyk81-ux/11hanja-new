@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.11hanja.com/sitemap.xml
+#DaumWebMasterTool:3ac7a10d42ffd6ffaa05a249228c3d0e6d3905f17d53939fe17cca8a4dd45f9f:JZ5JbI+cO9+LNmdN9bG4wQ==
