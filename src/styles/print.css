@@ -16,7 +16,6 @@
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   page-break-after: always;
   page-break-inside: avoid;
   overflow: hidden;
@@ -28,7 +27,7 @@
   align-items: flex-end;
   border-bottom: 2px solid #000;
   padding-bottom: 6px;
-  margin-bottom: 8px;
+  margin-bottom: 15px;
   height: 38px;
 }
 
@@ -64,7 +63,7 @@
 
 .info-line {
   display: inline-block;
-  width: 60px;
+  width: 90px;
   border-bottom: 1.5px solid #000;
   height: 0;
   margin-bottom: 2px;
@@ -79,6 +78,7 @@
   flex: 1;
   height: 232mm;
   max-height: 232mm;
+  margin-bottom: auto;
   box-sizing: border-box;
 }
 
