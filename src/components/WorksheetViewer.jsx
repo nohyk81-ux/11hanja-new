@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Printer, X, FileCheck, Layers, Grid, ChevronLeft, ChevronRight } from 'lucide-react';
 import PrintWorksheet from './PrintWorksheet';
 
-export default function WorksheetViewer({ selectedHanjaList, onClose }) {
+export default function WorksheetViewer({ selectedHanjaList, onClose, onCloseAndClear }) {
   const [printMode, setPrintMode] = useState('single'); // 'single' | 'summary'
   const [currentPage, setCurrentPage] = useState(0);
 
@@ -67,11 +67,19 @@ export default function WorksheetViewer({ selectedHanjaList, onClose }) {
 
           <button
             className="btn-secondary"
-            style={{ background: '#334155', color: '#fff', border: 'none' }}
+            style={{ background: '#475569', color: '#fff', border: 'none' }}
             onClick={onClose}
           >
+            <Layers size={18} />
+            선택 유지하며 닫기
+          </button>
+          <button
+            className="btn-secondary"
+            style={{ background: '#334155', color: '#fff', border: 'none' }}
+            onClick={onCloseAndClear}
+          >
             <X size={18} />
-            닫기
+            선택 해제하며 닫기
           </button>
         </div>
       </div>
