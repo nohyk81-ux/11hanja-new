@@ -1,0 +1,267 @@
+/* A4 한자 쓰기 학습지 전용 인쇄 및 미리보기 정밀 CSS (획순 화살표 시인성 & 훈음 따라쓰기) */
+
+@page {
+  size: A4 portrait;
+  margin: 0;
+}
+
+.a4-page {
+  width: 210mm;
+  height: 296mm;
+  max-height: 296mm;
+  padding: 10mm 10mm 8mm 10mm;
+  margin: 0 auto 25px auto;
+  background: white;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  page-break-after: always;
+  page-break-inside: avoid;
+  overflow: hidden;
+}
+
+.a4-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-bottom: 2px solid #000;
+  padding-bottom: 6px;
+  margin-bottom: 8px;
+  height: 38px;
+}
+
+.a4-title-group h2 {
+  font-family: 'Gowun Batang', 'Noto Sans KR', serif;
+  font-size: 17pt;
+  font-weight: 700;
+  color: #000;
+  margin: 0;
+  line-height: 1.1;
+}
+
+.a4-title-group p {
+  font-size: 8pt;
+  color: #444;
+  margin-top: 2px;
+}
+
+.a4-user-info {
+  display: flex;
+  gap: 12px;
+  font-size: 9pt;
+  font-weight: 600;
+  align-items: flex-end;
+}
+
+.info-field {
+  display: flex;
+  align-items: flex-end;
+  gap: 4px;
+  line-height: 1.2;
+}
+
+.info-line {
+  display: inline-block;
+  width: 60px;
+  border-bottom: 1.5px solid #000;
+  height: 0;
+  margin-bottom: 2px;
+}
+
+/* --- 6x6 Practice Grid Layout (Total 36 cells) --- */
+.worksheet-grid-6x6 {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(6, 1fr);
+  gap: 5px;
+  flex: 1;
+  height: 232mm;
+  max-height: 232mm;
+  box-sizing: border-box;
+}
+
+/* Individual Practice Box (6x6 Cell) */
+.practice-box {
+  border: 1.5px solid #000;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+  background: #fff;
+  position: relative;
+  overflow: hidden;
+}
+
+/* 10x10 Square Area for Hanja */
+.practice-square {
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+/* Dashed Crosshair (+ shape) inside square */
+.crosshair-h {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  border-top: 1px dashed #cbd5e1;
+  pointer-events: none;
+}
+
+.crosshair-v {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  border-left: 1px dashed #cbd5e1;
+  pointer-events: none;
+}
+
+/* Hanja text styling in grid (Bold Large 46pt) */
+.char-content {
+  font-family: 'Gowun Batang', serif;
+  font-size: 46pt;
+  font-weight: 700;
+  line-height: 1;
+  z-index: 2;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Cell 1: Light contrast background for Hanja so red stroke order arrows stand out 100% inside stroke */
+.practice-box.stroke-guide .char-content {
+  color: #64748b;
+  opacity: 0.45;
+}
+
+.stroke-order-svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+  pointer-events: none;
+}
+
+.stroke-number-badge {
+  font-size: 7.5pt;
+  font-weight: 800;
+  fill: #be123c;
+  font-family: sans-serif;
+}
+
+/* Cells in Row 1 & Row 2: Light Tracing Shading (Clear Large 46pt Tracing) */
+.practice-box.tracing-cell .char-content {
+  color: #cbd5e1;
+  opacity: 0.9;
+  font-size: 46pt;
+  font-weight: 700;
+}
+
+/* Cells in Rows 3~6: Blank for writing */
+.practice-box.blank-cell .char-content {
+  display: none;
+}
+
+/* Bottom Meaning & Pronunciation Field ("뜻과 음을 기재할 수 있는 칸") */
+.huneum-field {
+  border-top: 1px solid #000;
+  background: #f8fafc;
+  padding: 2px 1px;
+  text-align: center;
+  font-size: 9.5pt;
+  font-weight: 700;
+  color: #000;
+  height: 22px;
+  min-height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+/* Rows 1 & 2: Light Gray Tracing Font for Hun-Eum (뜻과 음 음영 따라쓰기) */
+.practice-box.tracing-cell .huneum-field span {
+  color: #94a3b8;
+  font-size: 10pt;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.practice-box.stroke-guide .huneum-field span {
+  color: #000;
+  font-size: 10pt;
+  font-weight: 800;
+}
+
+.huneum-field.blank-huneum {
+  background: #fff;
+  color: transparent;
+}
+
+/* --- Print Footer --- */
+.a4-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #cbd5e1;
+  padding-top: 4px;
+  margin-top: 6px;
+  font-size: 7.5pt;
+  color: #64748b;
+  height: 16px;
+}
+
+/* --- PRINT MEDIA QUERY --- */
+@media print {
+  html, body {
+    background: #fff !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 210mm !important;
+    height: 297mm !important;
+  }
+
+  .site-header,
+  .control-bar,
+  .grid-status,
+  .action-buttons,
+  .search-box,
+  .site-footer,
+  .preview-toolbar,
+  .no-print {
+    display: none !important;
+  }
+
+  .main-content, .preview-body {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    background: transparent !important;
+  }
+
+  .a4-page {
+    box-shadow: none !important;
+    padding: 10mm 10mm 8mm 10mm !important;
+    width: 210mm !important;
+    height: 296mm !important;
+    margin: 0 auto !important;
+    page-break-after: always !important;
+    page-break-inside: avoid !important;
+  }
+}
