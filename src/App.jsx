@@ -131,8 +131,7 @@ export default function App() {
         ) : (
           <WorksheetViewer
             selectedHanjaList={selectedHanjaList}
-            onClose={() => setIsWorksheetOpen(false)}
-            onCloseAndClear={() => {
+            onClose={() => {
               setIsWorksheetOpen(false);
               setSelectedHanjaIds([]);
             }}
