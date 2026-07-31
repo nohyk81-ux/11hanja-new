@@ -248,7 +248,7 @@
     display: none !important;
   }
 
-  .main-content, .preview-body {
+  .main-content, .preview-body, .worksheet-preview-container {
     max-width: 100% !important;
     padding: 0 !important;
     margin: 0 !important;
