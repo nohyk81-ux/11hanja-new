@@ -2,6 +2,7 @@ import React, { useState, useMemo } from 'react';
 import Header from './components/Header';
 import HanjaGrid from './components/HanjaGrid';
 import WorksheetViewer from './components/WorksheetViewer';
+import StrokePractice from './components/StrokePractice';
 import NoticeModal from './components/NoticeModal';
 import ContactModal from './components/ContactModal';
 import PrivacyModal from './components/PrivacyModal';
@@ -112,8 +113,7 @@ export default function App() {
 
       {/* Main Content Area */}
       <main className="main-content">
-        {/* Menu: 한자 연습하기 */}
-        {!isWorksheetOpen ? (
+        {activeMenu === 'practice' && !isWorksheetOpen && (
           <HanjaGrid
             selectedGrade={selectedGrade}
             setSelectedGrade={setSelectedGrade}
@@ -128,13 +128,25 @@ export default function App() {
             onRandom5Generate={handleRandom5Generate}
             getCountByGrade={getCountByGrade}
           />
-        ) : (
+        )}
+        
+        {activeMenu === 'practice' && isWorksheetOpen && (
           <WorksheetViewer
             selectedHanjaList={selectedHanjaList}
             onClose={() => {
               setIsWorksheetOpen(false);
               setSelectedHanjaIds([]);
             }}
+          />
+        )}
+
+        {activeMenu === 'stroke' && (
+          <StrokePractice
+            selectedGrade={selectedGrade}
+            setSelectedGrade={setSelectedGrade}
+            searchQuery={searchQuery}
+            setSearchQuery={setSearchQuery}
+            filteredHanjaList={filteredHanjaList}
           />
         )}
       </main>
@@ -154,9 +166,9 @@ export default function App() {
             문의하기
           </button>
         </div>
-        <p style={{ marginTop: '8px' }}>© 2026 일일한자 (11HANJA.COM) - 급수별 무료 한자 쓰기 학습지</p>
+        <p style={{ marginTop: '8px' }}>© 2026 일일한자 (11HANJA.COM) - 무료한자 일일 학습지</p>
         <p style={{ marginTop: '4px' }}>
-          누구나 자유롭게 접속하여 A4 한자 쓰기 연습지를 무료로 인쇄하고 학습할 수 있습니다.
+          누구나 자유롭게 접속하여 한자 쓰기 학습지를 무료로 인쇄하고 학습할 수 있습니다.
         </p>
       </footer>
 

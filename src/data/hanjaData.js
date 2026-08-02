@@ -9352,17 +9352,6 @@ export const hanjaData = [
     strokes: []
   },
   {
-    id: '3-200',
-    grade: '3급',
-    character: '閑',
-    hun: '한가할',
-    eum: '한',
-    hunEum: '한가할 한',
-    radical: '',
-    totalStrokes: 12,
-    strokes: []
-  },
-  {
     id: 'j2-1',
     grade: '준2급',
     character: '暇',
