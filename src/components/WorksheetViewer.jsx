@@ -36,7 +36,7 @@ export default function WorksheetViewer({ selectedHanjaList, onClose }) {
           </span>
         </div>
 
-        <div style={{ display: 'flex', gap: '0.75rem', alignItems: 'center' }}>
+        <div className="preview-toolbar-actions" style={{ display: 'flex', gap: '0.75rem', alignItems: 'center', flexWrap: 'wrap' }}>
 
 
           {/* Pagination Controls */}
@@ -77,7 +77,7 @@ export default function WorksheetViewer({ selectedHanjaList, onClose }) {
       </div>
 
       {/* Printable Sheet Body */}
-      <div className="preview-body" style={{ background: '#64748b', padding: '2rem 1rem', minHeight: '100vh' }}>
+      <div className="preview-body" >
         <PrintWorksheet selectedHanjaList={selectedHanjaList} printMode={printMode} currentPage={currentPage} />
       </div>
     </div>
