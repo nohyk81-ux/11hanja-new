@@ -4,16 +4,16 @@ import { X, ShieldCheck } from 'lucide-react';
 export default function PrivacyModal({ onClose }) {
   return (
     <div className="modal-overlay" onClick={onClose}>
-      <div className="modal-content" style={{ maxWidth: '640px', maxHeight: '85vh' }} onClick={e => e.stopPropagation()}>
+      <div className="modal-content" style={{ maxWidth: '600px', maxHeight: '85vh' }} onClick={e => e.stopPropagation()}>
         <div className="modal-header">
           <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-            <ShieldCheck className="text-primary" size={22} />
-            <h2>개인정보처리방침 (Privacy Policy)</h2>
+            <ShieldCheck size={22} style={{ color: 'var(--primary)' }} />
+            <h2>개인정보처리방침</h2>
           </div>
           <button className="close-btn" onClick={onClose}><X size={20} /></button>
         </div>
 
-        <div className="modal-body" style={{ lineHeight: '1.7', fontSize: '0.92rem', color: '#334155' }}>
+        <div className="modal-body" style={{ lineHeight: '1.7', fontSize: '0.95rem', color: 'var(--gray-700)' }}>
           <p style={{ marginBottom: '1rem', color: '#64748b', fontSize: '0.85rem' }}>
             시행일자: 2026년 7월 31일
           </p>
@@ -61,7 +61,7 @@ export default function PrivacyModal({ onClose }) {
         </div>
 
         <div className="modal-footer">
-          <button className="btn-primary" onClick={onClose}>확인 및 닫기</button>
+          <button className="btn-primary" onClick={onClose}>확인</button>
         </div>
       </div>
     </div>

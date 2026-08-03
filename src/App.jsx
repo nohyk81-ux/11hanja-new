@@ -6,6 +6,7 @@ import StrokePractice from './components/StrokePractice';
 import NoticeModal from './components/NoticeModal';
 import ContactModal from './components/ContactModal';
 import PrivacyModal from './components/PrivacyModal';
+import FaqModal from './components/FaqModal';
 import { HANJA_DATABASE } from './data/hanjaData';
 import './styles/main.css';
 import './styles/print.css';
@@ -19,8 +20,8 @@ export default function App() {
   const [showNotice, setShowNotice] = useState(false);
   const [showContact, setShowContact] = useState(false);
   const [showPrivacy, setShowPrivacy] = useState(false);
+  const [showFaq, setShowFaq] = useState(false);
 
-  // Filter Hanja by Grade and Top Right Search Query
   const filteredHanjaList = useMemo(() => {
     return HANJA_DATABASE.filter((item) => {
       const matchesGrade = item.grade === selectedGrade;
@@ -147,6 +148,7 @@ export default function App() {
             searchQuery={searchQuery}
             setSearchQuery={setSearchQuery}
             filteredHanjaList={filteredHanjaList}
+            getCountByGrade={getCountByGrade}
           />
         )}
       </main>
@@ -162,6 +164,10 @@ export default function App() {
             공지사항
           </button>
           <span className="footer-sep">•</span>
+          <button className="footer-btn" onClick={() => setShowFaq(true)}>
+            자주 묻는 질문
+          </button>
+          <span className="footer-sep">•</span>
           <button className="footer-btn" onClick={() => setShowContact(true)}>
             문의하기
           </button>
@@ -174,6 +180,7 @@ export default function App() {
 
       {/* Modals */}
       {showNotice && <NoticeModal onClose={() => setShowNotice(false)} />}
+      {showFaq && <FaqModal onClose={() => setShowFaq(false)} />}
       {showContact && <ContactModal onClose={() => setShowContact(false)} />}
       {showPrivacy && <PrivacyModal onClose={() => setShowPrivacy(false)} />}
     </div>

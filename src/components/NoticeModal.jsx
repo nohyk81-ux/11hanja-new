@@ -1,15 +1,18 @@
 import React from 'react';
-import { X } from 'lucide-react';
+import { X, Bell } from 'lucide-react';
 
 export default function NoticeModal({ onClose }) {
   return (
     <div className="modal-overlay" onClick={onClose}>
-      <div className="modal-content" onClick={e => e.stopPropagation()}>
+      <div className="modal-content" style={{ maxWidth: '600px', maxHeight: '85vh' }} onClick={e => e.stopPropagation()}>
         <div className="modal-header">
-          <h2>공지사항</h2>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+            <Bell size={22} style={{ color: 'var(--primary)' }} />
+            <h2>공지사항</h2>
+          </div>
           <button className="close-btn" onClick={onClose}><X size={20} /></button>
         </div>
-        <div className="modal-body" style={{ lineHeight: '1.8' }}>
+        <div className="modal-body" style={{ lineHeight: '1.7', fontSize: '0.95rem', color: 'var(--gray-700)' }}>
           <h3>[업데이트] 1급~8급 전체 급수 추가!</h3>
           <p style={{ color: 'var(--gray-500)', fontSize: '0.9rem', marginBottom: '1rem' }}>2026.07.31</p>
           <p>

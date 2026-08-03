@@ -1,16 +1,21 @@
 import React, { useState, useEffect, useRef } from 'react';
-import HanziWriter from 'hanzi-writer';
+import { Search, FileText, Layers, X, Shuffle } from 'lucide-react';
+import * as HanziWriterModule from 'hanzi-writer';
 import GradeSelector from './GradeSelector';
+
+const HanziWriter = HanziWriterModule.default || HanziWriterModule;
+import { loadHanziData } from '../utils/hanziLoader';
 
 // UI 텍스트 상수를 분리하여 추후 다국어(i18n) 확장에 대비
 const UI_TEXT = {
   ko: {
     selectHanja: '왼쪽 목록에서 한자를 선택하세요.',
     autoPlay: '자동 재생',
-    quizMode: '직접 쓰기 (퀴즈)',
+    rePlay: '다시 재생',
+    quizMode: '연습하기',
     reset: '초기화',
     gradeFilter: '급수',
-    searchPlaceholder: '한자, 음, 뜻 검색...',
+    searchPlaceholder: '글자, 뜻(훈), 음(소리) 검색 (예: 水, 불, 수)',
     noData: '검색 결과가 없습니다.'
   }
 };
@@ -18,17 +23,44 @@ const UI_TEXT = {
 const currentLang = 'ko';
 const t = UI_TEXT[currentLang];
 
+// 추후 업데이트 및 디자인 변경을 대비한 HanziWriter 전역 설정 객체
+// 글자색 통일 요청에 따라 strokeColor와 radicalColor를 동일한 색상으로 설정함
+const WRITER_CONFIG = {
+  width: 320,
+  height: 320,
+  padding: 15,
+  showOutline: true,
+  strokeAnimationSpeed: 1,
+  delayBetweenStrokes: 150,
+  strokeColor: '#334155', // 기본 획 색상 (진한 회색)
+  radicalColor: '#334155', // 부수 색상 (획 색상과 통일하여 1가지 색으로 표시)
+  outlineColor: '#e2e8f0', // 외곽선 가이드 색상
+  drawingColor: '#e11d48', // 퀴즈 모드에서 사용자가 그릴 때의 펜 색상
+  showHintAfterMisses: 2, // 퀴즈 모드에서 2번 틀리면 힌트 표시
+};
+
 export default function StrokePractice({
   selectedGrade,
   setSelectedGrade,
   searchQuery,
   setSearchQuery,
   filteredHanjaList,
+  getCountByGrade,
 }) {
   const [selectedHanja, setSelectedHanja] = useState(null);
   const [mode, setMode] = useState('animate'); // 'animate' | 'quiz'
+  const [isAnimateDone, setIsAnimateDone] = useState(false);
+  const [isQuizDone, setIsQuizDone] = useState(false);
+  const [replayKey, setReplayKey] = useState(0);
   const writerRef = useRef(null);
   const containerRef = useRef(null);
+
+  const handleRandomPractice = () => {
+    if (filteredHanjaList.length > 0) {
+      const randomIndex = Math.floor(Math.random() * filteredHanjaList.length);
+      setSelectedHanja(filteredHanjaList[randomIndex]);
+    }
+  };
 
   // 급수가 변경되거나 검색어가 변경될 때 첫 번째 한자 자동 선택 방지 (사용자가 직접 선택하도록 유도)
   useEffect(() => {
@@ -42,39 +74,32 @@ export default function StrokePractice({
     if (!containerRef.current || !selectedHanja) return;
 
     containerRef.current.innerHTML = ''; // 이전 인스턴스 초기화
+    setIsAnimateDone(false);
+    setIsQuizDone(false);
 
-    const writer = HanziWriter.create(containerRef.current, selectedHanja.character, {
-      width: 320,
-      height: 320,
-      padding: 15,
-      showOutline: true,
-      strokeAnimationSpeed: 1,
-      delayBetweenStrokes: 150,
-      strokeColor: '#334155', // 진한 회색 (획)
-      radicalColor: '#16a34a', // 부수 색상 (선택적)
-      outlineColor: '#e2e8f0', // 외곽선 연회색
-      drawingColor: '#e11d48', // 퀴즈 모드 펜 색상
-      showHintAfterMisses: 2, // 2번 틀리면 힌트 표시
-      charDataLoader: (char, onComplete) => {
-        fetch(`https://cdn.jsdelivr.net/npm/hanzi-writer-data@2.0/${encodeURIComponent(char)}.json`)
-          .then(res => {
-            if (!res.ok) throw new Error('Not found');
-            return res.json();
-          })
-          .then(data => onComplete(data))
-          .catch(() => {
-            onComplete(null);
-          });
-      }
+    // 한자 문자를 NFKC 정규화하여 일부 한자(예: 륙) 재생 오류 방지
+    const normalizedChar = selectedHanja.character.normalize('NFKC');
+
+    const writer = HanziWriter.create(containerRef.current, normalizedChar, {
+      ...WRITER_CONFIG,
+      charDataLoader: loadHanziData
     });
     
     writerRef.current = writer;
 
     // 모드에 따라 실행
     if (mode === 'animate') {
-      writer.animateCharacter();
+      writer.animateCharacter({
+        onComplete: () => {
+          setIsAnimateDone(true);
+        }
+      });
     } else if (mode === 'quiz') {
-      writer.quiz();
+      writer.quiz({
+        onComplete: () => {
+          setIsQuizDone(true);
+        }
+      });
     }
 
     return () => {
@@ -83,34 +108,66 @@ export default function StrokePractice({
         writer.cancelQuiz();
       } catch (e) {}
     };
-  }, [selectedHanja, mode]);
+  }, [selectedHanja, mode, replayKey]);
 
   const handleReplay = () => {
-    if (writerRef.current) {
-      if (mode === 'animate') {
-        writerRef.current.cancelAnimation();
-        writerRef.current.animateCharacter();
-      } else {
-        writerRef.current.cancelQuiz();
-        writerRef.current.quiz();
-      }
+    if (mode === 'animate') {
+      // 컴포넌트를 완전히 새로 그려서 버그 없이 깨끗하게 다시 재생
+      setIsAnimateDone(false);
+      setReplayKey(prev => prev + 1);
+    } else {
+      if (!writerRef.current) return;
+      setIsQuizDone(false);
+      writerRef.current.cancelQuiz();
+      writerRef.current.quiz({
+        onComplete: () => setIsQuizDone(true)
+      });
     }
   };
 
   return (
-    <div className="stroke-practice-container no-print">
-      <div className="stroke-sidebar">
-        <div className="stroke-controls-top">
-          <GradeSelector selectedGrade={selectedGrade} setSelectedGrade={setSelectedGrade} />
-          <div className="search-box stroke-search">
+    <div>
+      {/* 한자 연습하기와 동일한 control-bar 구조 */}
+      <div className="control-bar no-print">
+        <div className="control-bar-header">
+          <div className="section-title">
+            <FileText className="text-primary" size={22} />
+            급수별 한자 선택
+          </div>
+          <div className="search-box">
+            <Search className="search-icon" size={18} />
             <input
               type="text"
+              className="search-input"
               placeholder={t.searchPlaceholder}
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="search-input"
             />
+            {searchQuery && (
+              <button
+                className="search-clear-btn"
+                onClick={() => setSearchQuery('')}
+                title="검색어 초기화"
+              >
+                <X size={16} />
+              </button>
+            )}
           </div>
+        </div>
+        <GradeSelector selectedGrade={selectedGrade} setSelectedGrade={setSelectedGrade} getCountByGrade={getCountByGrade} />
+      </div>
+
+      <div className="stroke-practice-container no-print">
+        <div className="stroke-sidebar">
+
+        <div className="stroke-random-btn-wrap">
+          <button
+            className="stroke-random-btn"
+            onClick={handleRandomPractice}
+            title="목록에서 무작위로 한자를 선택합니다"
+          >
+            <Shuffle size={16} /> 랜덤 연습하기
+          </button>
         </div>
 
         <div className="stroke-hanja-list">
@@ -126,7 +183,9 @@ export default function StrokePractice({
               </button>
             ))
           ) : (
-            <div className="empty-state">{t.noData}</div>
+            <div className="empty-state" style={{ gridColumn: '1 / -1', textAlign: 'center', padding: '2rem 0', color: 'var(--gray-500)' }}>
+              {t.noData}
+            </div>
           )}
         </div>
       </div>
@@ -136,8 +195,13 @@ export default function StrokePractice({
           <div className="stroke-viewer-card">
             <div className="viewer-header">
               <h2>{selectedHanja.character}</h2>
-              <span className="viewer-huneum">{selectedHanja.hun} {selectedHanja.eum}</span>
-              <span className="viewer-grade badge">{selectedHanja.grade}</span>
+              <div className="viewer-meta-row" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.25rem' }}>
+                <span className="viewer-huneum">{selectedHanja.hun} {selectedHanja.eum}</span>
+                <span className="viewer-grade badge" style={{ marginTop: 0 }}>{selectedHanja.grade}</span>
+                {selectedHanja.totalStrokes && (
+                  <span className="viewer-grade badge" style={{ marginTop: 0 }}>총 {selectedHanja.totalStrokes}획</span>
+                )}
+              </div>
             </div>
             
             <div className="viewer-canvas-wrap">
@@ -148,20 +212,29 @@ export default function StrokePractice({
               <div className="mode-tabs">
                 <button 
                   className={`mode-btn ${mode === 'animate' ? 'active' : ''}`}
-                  onClick={() => setMode('animate')}
+                  onClick={() => {
+                    if (mode === 'animate') {
+                      handleReplay();
+                    } else {
+                      setMode('animate');
+                    }
+                  }}
                 >
-                  {t.autoPlay}
+                  {isAnimateDone ? '다시 재생' : '자동 재생'}
                 </button>
                 <button 
                   className={`mode-btn ${mode === 'quiz' ? 'active' : ''}`}
-                  onClick={() => setMode('quiz')}
+                  onClick={() => {
+                    if (mode === 'quiz') {
+                      handleReplay();
+                    } else {
+                      setMode('quiz');
+                    }
+                  }}
                 >
-                  {t.quizMode}
+                  {isQuizDone ? '다시 연습하기' : t.quizMode}
                 </button>
               </div>
-              <button className="replay-btn" onClick={handleReplay}>
-                {t.reset}
-              </button>
             </div>
           </div>
         ) : (
@@ -171,5 +244,6 @@ export default function StrokePractice({
         )}
       </div>
     </div>
+  </div>
   );
 }

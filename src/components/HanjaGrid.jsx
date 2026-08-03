@@ -1,5 +1,5 @@
 import React from 'react';
-import { Search, Printer, CheckSquare, Square, FileText, Shuffle } from 'lucide-react';
+import { Search, Printer, CheckSquare, Square, FileText, Shuffle, X } from 'lucide-react';
 import GradeSelector from './GradeSelector';
 import HanjaCard from './HanjaCard';
 
@@ -37,6 +37,15 @@ export default function HanjaGrid({
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
             />
+            {searchQuery && (
+              <button
+                className="search-clear-btn"
+                onClick={() => setSearchQuery('')}
+                title="검색어 초기화"
+              >
+                <X size={16} />
+              </button>
+            )}
           </div>
         </div>
 

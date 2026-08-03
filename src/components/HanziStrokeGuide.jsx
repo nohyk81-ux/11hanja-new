@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import HanziWriter from 'hanzi-writer';
-
+import { loadHanziData } from '../utils/hanziLoader';
 /**
  * HanziStrokeGuide – Cell 1 한자 획순 가이드 컴포넌트
  * hanzi-writer 라이브러리를 사용하여 실제 획순 경로를 정확하게 표시합니다.
@@ -29,19 +29,7 @@ export default function HanziStrokeGuide({ character, size = 80 }) {
         showHintAfterMisses: false,
         strokeAnimationSpeed: 1,
         delayBetweenStrokes: 200,
-        charDataLoader: (char, onComplete) => {
-          // jsdelivr CDN에서 hanzi-writer-data 로드
-          fetch(`https://cdn.jsdelivr.net/npm/hanzi-writer-data@2.0/${encodeURIComponent(char)}.json`)
-            .then(res => {
-              if (!res.ok) throw new Error('Not found');
-              return res.json();
-            })
-            .then(data => onComplete(data))
-            .catch(() => {
-              // 데이터 없을 경우 빈 처리
-              onComplete(null);
-            });
-        }
+        charDataLoader: loadHanziData
       });
     } catch (e) {
       console.warn('HanziWriter error for', character, e);

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { X } from 'lucide-react';
+import { X, Mail } from 'lucide-react';
 
 export default function ContactModal({ onClose }) {
   const [agreed, setAgreed] = useState(false);
@@ -40,21 +40,24 @@ export default function ContactModal({ onClose }) {
 
   return (
     <div className="modal-overlay" onClick={onClose}>
-      <div className="modal-content" onClick={e => e.stopPropagation()}>
+      <div className="modal-content" style={{ maxWidth: '600px', maxHeight: '85vh' }} onClick={e => e.stopPropagation()}>
         <div className="modal-header">
-          <h2>문의하기</h2>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+            <Mail size={22} style={{ color: 'var(--primary)' }} />
+            <h2>문의하기</h2>
+          </div>
           <button className="close-btn" onClick={onClose}><X size={20} /></button>
         </div>
         
         {status === 'success' ? (
-          <div className="modal-body" style={{ textAlign: 'center', padding: '3rem 1.5rem' }}>
+          <div className="modal-body" style={{ textAlign: 'center', padding: '3rem 1.5rem', lineHeight: '1.7', fontSize: '0.95rem', color: 'var(--gray-700)' }}>
             <h3 style={{ color: 'var(--primary)', marginBottom: '1rem' }}>문의가 접수되었습니다!</h3>
             <p>소중한 의견 감사드립니다.<br/>입력하신 이메일로 빠른 시일 내에 답변드리겠습니다.</p>
-            <button className="btn-primary" style={{ marginTop: '2rem' }} onClick={onClose}>닫기</button>
+            <button className="btn-primary" style={{ marginTop: '2rem' }} onClick={onClose}>확인</button>
           </div>
         ) : (
           <form onSubmit={handleSubmit}>
-            <div className="modal-body" style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+            <div className="modal-body" style={{ display: 'flex', flexDirection: 'column', gap: '1rem', lineHeight: '1.7', fontSize: '0.95rem', color: 'var(--gray-700)' }}>
               <div className="form-group">
                 <label style={{ display: 'block', marginBottom: '0.5rem', fontWeight: '500' }}>성명</label>
                 <input 

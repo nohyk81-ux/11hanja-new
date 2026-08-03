@@ -1,5 +1,4 @@
-import React from 'react';
-import { getStrokeDetails } from '../data/hanjaData';
+import React, { useState, useEffect } from 'react';
 
 export default function PrintWorksheet({ selectedHanjaList, printMode, currentPage = 0 }) {
   if (!selectedHanjaList || selectedHanjaList.length === 0) return null;
@@ -21,13 +20,36 @@ export default function PrintWorksheet({ selectedHanjaList, printMode, currentPa
   );
 }
 
-// Cell 1 전용: 실제 획순 SVG 오버레이 컴포넌트
 function StrokeOrderSVG({ hanja }) {
-  const strokeData = hanja.strokes && hanja.strokes.length > 0
-    ? hanja.strokes
-    : getStrokeDetails(hanja.character);
+  const [strokeData, setStrokeData] = useState(null);
 
-  if (!strokeData || strokeData.length === 0) return null;
+  useEffect(() => {
+    let isMounted = true;
+    fetch(`/data/strokes/${encodeURIComponent(hanja.character)}.json`)
+      .then(res => res.json())
+      .then(data => {
+        if (isMounted) setStrokeData(data);
+      })
+      .catch(err => {
+        console.error('Failed to load stroke data for', hanja.character, err);
+        if (isMounted) setStrokeData([]);
+      });
+    return () => { isMounted = false; };
+  }, [hanja.character]);
+
+  if (!strokeData) {
+    return (
+      <div style={{
+        position: 'absolute', top: 0, left: 0, width: '100%', height: '100%',
+        display: 'flex', alignItems: 'center', justifyContent: 'center',
+        fontSize: '10px', color: '#cbd5e1'
+      }}>
+        ...
+      </div>
+    );
+  }
+
+  if (strokeData.length === 0) return null;
 
   const markerId = `arrow-${hanja.id}`;
 
@@ -36,8 +58,8 @@ function StrokeOrderSVG({ hanja }) {
       viewBox="0 0 100 100"
       style={{
         position: 'absolute',
-        top: 0, left: 0,
-        width: '100%', height: '100%',
+        top: '13%', left: '13%',
+        width: '74%', height: '74%',
         zIndex: 6,
         overflow: 'visible',
         pointerEvents: 'none',
@@ -64,34 +86,32 @@ function StrokeOrderSVG({ hanja }) {
 
       {/* 모든 획과 번호 배지: 클리핑 적용 */}
       <g clipPath={`url(#clip-${hanja.id})`}>
-        {/* 1) 획 경로 (연한 색으로 전체 미리 보여주기) */}
+        {/* 1) 획 경로 (연한 배경선) */}
         {strokeData.map((s, i) => (
           s.path ? (
             <path
               key={`bg-${i}`}
               d={s.path}
               fill="none"
-              stroke="#fca5a5"
-              strokeWidth="4"
+              stroke="#fecaca"
+              strokeWidth="3.5"
               strokeLinecap="round"
               strokeLinejoin="round"
-              opacity="0.5"
             />
           ) : null
         ))}
 
-        {/* 2) 획 경로 + 화살표 (진한 빨강) */}
+        {/* 2) 획 경로 (진한 얇은 선 + 화살표) */}
         {strokeData.map((s, i) => (
           s.path ? (
             <path
               key={`stroke-${i}`}
               d={s.path}
               fill="none"
-              stroke="#dc2626"
-              strokeWidth="2"
+              stroke="#ef4444"
+              strokeWidth="1.2"
               strokeLinecap="round"
               strokeLinejoin="round"
-              strokeDasharray="4,2"
               markerEnd={`url(#${markerId})`}
             />
           ) : null
@@ -106,20 +126,20 @@ function StrokeOrderSVG({ hanja }) {
           return (
             <g key={`badge-${i}`}>
               <circle
-                cx={cx} cy={cy} r={isComplex ? "4.5" : "6.5"}
+                cx={cx} cy={cy} r={isComplex ? "3.5" : "4.5"}
                 fill="white"
-                stroke="#dc2626"
-                strokeWidth={isComplex ? "1" : "1.5"}
+                stroke="#ef4444"
+                strokeWidth="0.8"
               />
               <text
                 x={cx} y={cy}
                 textAnchor="middle"
                 dominantBaseline="central"
                 style={{
-                  fontSize: isComplex ? (s.order > 9 ? '4px' : '4.5px') : (s.order > 9 ? '5.5px' : '7px'),
-                  fontWeight: '900',
-                  fill: '#be123c',
-                  fontFamily: 'Arial, sans-serif',
+                  fontSize: isComplex ? (s.order > 9 ? '3px' : '3.5px') : (s.order > 9 ? '4px' : '4.5px'),
+                  fontWeight: '800',
+                  fill: '#ef4444',
+                  fontFamily: 'sans-serif',
                 }}
               >
                 {s.order}
