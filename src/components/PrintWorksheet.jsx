@@ -117,22 +117,26 @@ function StrokeOrderSVG({ hanja }) {
           ) : null
         ))}
 
-        {/* 2) Red Directional Arrows (with white outline for visibility) */}
+        {/* 2) Red Directional Tracing (Full Median Path) */}
         {strokeData.map((s, i) => {
-          if (!s.start || !s.path) return null;
-          const line = getDirectionLine(s.start, s.path);
-          if (!line) return null;
+          if (!s.median || s.median.length === 0) return null;
+          
+          // Transform medians: x = x/10, y = 90 - y/10
+          const pts = s.median.map(pt => `${pt[0] / 10},${90 - pt[1] / 10}`).join(' ');
+
           return (
             <g key={`arrow-${i}`}>
-              <line
-                x1={line.x1} y1={line.y1} x2={line.x2} y2={line.y2}
-                stroke="white" strokeWidth="3"
-                strokeLinecap="round"
+              <polyline
+                points={pts}
+                fill="none"
+                stroke="white" strokeWidth="3.5"
+                strokeLinecap="round" strokeLinejoin="round"
               />
-              <line
-                x1={line.x1} y1={line.y1} x2={line.x2} y2={line.y2}
+              <polyline
+                points={pts}
+                fill="none"
                 stroke="#ef4444" strokeWidth="1.5"
-                strokeLinecap="round"
+                strokeLinecap="round" strokeLinejoin="round"
                 markerEnd={`url(#${markerId})`}
               />
             </g>
@@ -141,14 +145,26 @@ function StrokeOrderSVG({ hanja }) {
 
         {/* 3) Number Badges */}
         {strokeData.map((s, i) => {
-          if (!s.start) return null;
-          const cx = Math.max(8, Math.min(92, s.start.x));
-          const cy = Math.max(8, Math.min(92, s.start.y));
+          // Use the start of the median for badge placement, fallback to s.start
+          let cx = 50, cy = 50;
+          if (s.median && s.median.length > 0) {
+             cx = s.median[0][0] / 10;
+             cy = 90 - s.median[0][1] / 10;
+          } else if (s.start) {
+             cx = s.start.x;
+             cy = s.start.y;
+          } else {
+             return null;
+          }
+          
+          cx = Math.max(8, Math.min(92, cx));
+          cy = Math.max(8, Math.min(92, cy));
+          
           const isComplex = strokeData.length > 10;
           return (
             <g key={`badge-${i}`}>
               <circle
-                cx={cx} cy={cy} r={isComplex ? "3.5" : "4.5"}
+                cx={cx} cy={cy} r={isComplex ? "3.8" : "4.8"}
                 fill="white"
                 stroke="#ef4444"
                 strokeWidth="0.8"
@@ -158,7 +174,7 @@ function StrokeOrderSVG({ hanja }) {
                 textAnchor="middle"
                 dominantBaseline="central"
                 style={{
-                  fontSize: isComplex ? (s.order > 9 ? '3px' : '3.5px') : (s.order > 9 ? '4px' : '4.5px'),
+                  fontSize: isComplex ? (s.order > 9 ? '4px' : '4.5px') : (s.order > 9 ? '5px' : '5.5px'),
                   fontWeight: '800',
                   fill: '#ef4444',
                   fontFamily: 'sans-serif',
