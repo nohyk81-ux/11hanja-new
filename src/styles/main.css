@@ -1042,3 +1042,18 @@ body {
     gap: 1rem;
   }
 }
+
+@media (max-width: 600px) {
+  .mode-btn {
+    font-size: 0.85rem;
+    padding: 0.8rem 0.2rem;
+    word-break: keep-all;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .mode-tabs {
+    gap: 2px;
+  }
+}
