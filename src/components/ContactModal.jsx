@@ -18,7 +18,7 @@ export default function ContactModal({ onClose }) {
     const data = new FormData(form);
     
     try {
-      const response = await fetch('https://formspree.io/f/mqazowrw', {
+      const response = await fetch('https://formspree.io/f/mrpzzary', {
         method: 'POST',
         body: data,
         headers: {
@@ -51,13 +51,13 @@ export default function ContactModal({ onClose }) {
         
         {status === 'success' ? (
           <div className="modal-body" style={{ textAlign: 'center', padding: '3rem 1.5rem', lineHeight: '1.7', fontSize: '0.95rem', color: 'var(--gray-700)' }}>
-            <h3 style={{ color: 'var(--primary)', marginBottom: '1rem' }}>문의가 접수되었습니다!</h3>
-            <p>소중한 의견 감사드립니다.<br/>입력하신 이메일로 빠른 시일 내에 답변드리겠습니다.</p>
+            <h3 style={{ color: 'var(--primary)', marginBottom: '1rem' }}>문의가 접수되었습니다</h3>
+            <p>소중한 의견 감사합니다.<br/>입력하신 이메일로 빠른 시일 내에 답변 드리겠습니다.</p>
             <button className="btn-primary" style={{ marginTop: '2rem' }} onClick={onClose}>확인</button>
           </div>
         ) : (
-          <form onSubmit={handleSubmit}>
-            <div className="modal-body" style={{ display: 'flex', flexDirection: 'column', gap: '1rem', lineHeight: '1.7', fontSize: '0.95rem', color: 'var(--gray-700)' }}>
+          <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', overflow: 'hidden', flex: 1, minHeight: 0 }}>
+            <div className="modal-body" style={{ flex: 1, overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: '1rem', lineHeight: '1.7', fontSize: '0.95rem', color: 'var(--gray-700)' }}>
               <div className="form-group">
                 <label style={{ display: 'block', marginBottom: '0.5rem', fontWeight: '500' }}>성명</label>
                 <input 
