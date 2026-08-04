@@ -48,6 +48,7 @@ export default function StrokePractice({
   getCountByGrade,
 }) {
   const [selectedHanja, setSelectedHanja] = useState(null);
+  const [charData, setCharData] = useState(null);
   const [mode, setMode] = useState('animate'); // 'animate' | 'quiz'
   const [isAnimateDone, setIsAnimateDone] = useState(false);
   const [isQuizDone, setIsQuizDone] = useState(false);
@@ -76,6 +77,7 @@ export default function StrokePractice({
     containerRef.current.innerHTML = ''; // 이전 인스턴스 초기화
     setIsAnimateDone(false);
     setIsQuizDone(false);
+    setCharData(null); // 초기화
 
     // 한자 문자를 NFKC 정규화하여 일부 한자(예: 륙) 재생 오류 방지
     const normalizedChar = selectedHanja.character.normalize('NFKC');
@@ -88,7 +90,12 @@ export default function StrokePractice({
       ...WRITER_CONFIG,
       width: canvasSize,
       height: canvasSize,
-      charDataLoader: loadHanziData
+      charDataLoader: (char, onComplete) => {
+        loadHanziData(char, (data) => {
+          setCharData({ data, canvasSize });
+          onComplete(data);
+        });
+      }
     });
     
     writerRef.current = writer;
@@ -140,6 +147,20 @@ export default function StrokePractice({
         onComplete: () => setIsQuizDone(true)
       });
     }
+  };
+
+  const getStrokeStartPoints = () => {
+    if (!charData || !charData.data || !charData.data.medians) return [];
+    const size = charData.canvasSize;
+    const padding = WRITER_CONFIG.padding;
+    const innerSize = size - padding * 2;
+    return charData.data.medians.map(median => {
+      const startPoint = median[0];
+      return {
+        x: padding + (startPoint[0] / 1024) * innerSize,
+        y: padding + ((1024 - startPoint[1]) / 1024) * innerSize,
+      };
+    });
   };
 
   return (
@@ -221,8 +242,30 @@ export default function StrokePractice({
               </div>
             </div>
             
-            <div className="viewer-canvas-wrap">
+            <div className="viewer-canvas-wrap" style={{ position: 'relative' }}>
               <div ref={containerRef} className="hanzi-canvas"></div>
+              {mode === 'animate' && getStrokeStartPoints().map((pt, i) => (
+                <div key={i} style={{
+                  position: 'absolute',
+                  left: pt.x,
+                  top: pt.y,
+                  transform: 'translate(-50%, -50%)',
+                  width: '18px',
+                  height: '18px',
+                  borderRadius: '50%',
+                  backgroundColor: 'rgba(5, 150, 105, 0.85)', // primary color
+                  color: 'white',
+                  fontSize: '10px',
+                  fontWeight: 'bold',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  pointerEvents: 'none',
+                  zIndex: 10
+                }}>
+                  {i + 1}
+                </div>
+              ))}
             </div>
 
             <div className="viewer-actions">
