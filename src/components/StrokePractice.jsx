@@ -71,6 +71,48 @@ export default function StrokePractice({
     }
   }, [filteredHanjaList, selectedHanja]);
 
+  const [activeStrokeIndex, setActiveStrokeIndex] = useState(-1);
+  const cancelAnimRef = useRef(false);
+
+  useEffect(() => {
+    if (!writerRef.current || !charData || mode !== 'animate') return;
+    
+    let isCancelled = false;
+    cancelAnimRef.current = false;
+    setActiveStrokeIndex(-1);
+    setIsAnimateDone(false);
+    
+    const animateAll = async () => {
+      writerRef.current.hideCharacter();
+      const numStrokes = charData.data.strokes.length;
+      
+      // 약간의 시작 딜레이
+      await new Promise(r => setTimeout(r, 1000));
+      
+      for (let i = 0; i < numStrokes; i++) {
+        if (isCancelled || cancelAnimRef.current) return;
+        setActiveStrokeIndex(i); // 현재 그리기 시작한 획 번호
+        await new Promise(resolve => writerRef.current.animateStroke(i, { onComplete: resolve }));
+        if (isCancelled || cancelAnimRef.current) return;
+        
+        // 획 간 딜레이
+        await new Promise(r => setTimeout(r, 200));
+      }
+      
+      if (!isCancelled && !cancelAnimRef.current) {
+        setIsAnimateDone(true);
+      }
+    };
+    
+    animateAll();
+    
+    return () => {
+      isCancelled = true;
+      cancelAnimRef.current = true;
+      writerRef.current.cancelAnimation();
+    };
+  }, [charData, mode, replayKey]);
+
   useEffect(() => {
     if (!containerRef.current || !selectedHanja) return;
 
@@ -78,6 +120,7 @@ export default function StrokePractice({
     setIsAnimateDone(false);
     setIsQuizDone(false);
     setCharData(null); // 초기화
+    setActiveStrokeIndex(-1);
 
     // 한자 문자를 NFKC 정규화하여 일부 한자(예: 륙) 재생 오류 방지
     const normalizedChar = selectedHanja.character.normalize('NFKC');
@@ -100,14 +143,8 @@ export default function StrokePractice({
     
     writerRef.current = writer;
 
-    // 모드에 따라 실행
-    if (mode === 'animate') {
-      writer.animateCharacter({
-        onComplete: () => {
-          setIsAnimateDone(true);
-        }
-      });
-    } else if (mode === 'quiz') {
+    // 퀴즈 모드일 때만 자동 실행 (animate 모드는 위의 useEffect에서 제어)
+    if (mode === 'quiz') {
       writer.quiz({
         onComplete: () => {
           setIsQuizDone(true);
@@ -244,28 +281,31 @@ export default function StrokePractice({
             
             <div className="viewer-canvas-wrap" style={{ position: 'relative' }}>
               <div ref={containerRef} className="hanzi-canvas"></div>
-              {mode === 'animate' && getStrokeStartPoints().map((pt, i) => (
-                <div key={i} style={{
-                  position: 'absolute',
-                  left: pt.x,
-                  top: pt.y,
-                  transform: 'translate(-50%, -50%)',
-                  width: '18px',
-                  height: '18px',
-                  borderRadius: '50%',
-                  backgroundColor: 'rgba(5, 150, 105, 0.85)', // primary color
-                  color: 'white',
-                  fontSize: '10px',
-                  fontWeight: 'bold',
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  pointerEvents: 'none',
-                  zIndex: 10
-                }}>
-                  {i + 1}
-                </div>
-              ))}
+              {mode === 'animate' && getStrokeStartPoints().map((pt, i) => {
+                if (i > activeStrokeIndex) return null;
+                return (
+                  <div key={i} style={{
+                    position: 'absolute',
+                    left: pt.x,
+                    top: pt.y,
+                    transform: 'translate(-50%, -50%)',
+                    width: '18px',
+                    height: '18px',
+                    borderRadius: '50%',
+                    backgroundColor: 'rgba(5, 150, 105, 0.85)', // primary color
+                    color: 'white',
+                    fontSize: '10px',
+                    fontWeight: 'bold',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    pointerEvents: 'none',
+                    zIndex: 10
+                  }}>
+                    {i + 1}
+                  </div>
+                );
+              })}
             </div>
 
             <div className="viewer-actions">
