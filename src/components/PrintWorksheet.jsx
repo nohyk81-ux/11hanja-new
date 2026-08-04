@@ -53,6 +53,28 @@ function StrokeOrderSVG({ hanja }) {
 
   const markerId = `arrow-${hanja.id}`;
 
+  const getDirectionLine = (start, pathStr) => {
+    // Extract first coordinate after M
+    const match = pathStr.match(/M\s+[0-9.]+\s+[0-9.]+\s+[QLC]\s+([0-9.]+)\s+([0-9.]+)/);
+    if (!match) return null;
+    const nextX = parseFloat(match[1]);
+    const nextY = parseFloat(match[2]);
+    const dx = nextX - start.x;
+    const dy = nextY - start.y;
+    const dist = Math.sqrt(dx * dx + dy * dy);
+    if (dist < 0.1) return null;
+    
+    // Draw an arrow of fixed length (12 units)
+    const len = 12;
+    const factor = len / dist;
+    return {
+      x1: start.x,
+      y1: start.y,
+      x2: start.x + dx * factor,
+      y2: start.y + dy * factor
+    };
+  };
+
   return (
     <svg
       viewBox="0 0 100 100"
@@ -66,62 +88,62 @@ function StrokeOrderSVG({ hanja }) {
       }}
     >
       <defs>
-        {/* 클리핑: 글자 영역 내부만 표시 */}
         <clipPath id={`clip-${hanja.id}`}>
-          <rect x="8" y="8" width="84" height="84" />
+          <rect x="0" y="0" width="100" height="100" />
         </clipPath>
-        {/* 빨간 화살표 마커 */}
         <marker
           id={markerId}
           viewBox="0 0 8 8"
-          refX="6"
+          refX="5"
           refY="4"
-          markerWidth="3"
-          markerHeight="3"
+          markerWidth="4"
+          markerHeight="4"
           orient="auto"
         >
-          <path d="M 0 0 L 8 4 L 0 8 z" fill="#dc2626" />
+          <path d="M 0 0 L 8 4 L 0 8 z" fill="#ef4444" />
         </marker>
       </defs>
 
-      {/* 모든 획과 번호 배지: 클리핑 적용 */}
       <g clipPath={`url(#clip-${hanja.id})`}>
-        {/* 1) 획 경로 (연한 배경선) */}
+        {/* 1) Base Solid Character (Dark Gray) */}
         {strokeData.map((s, i) => (
           s.path ? (
             <path
-              key={`bg-${i}`}
+              key={`base-${i}`}
               d={s.path}
-              fill="none"
-              stroke="#fecaca"
-              strokeWidth="3.5"
-              strokeLinecap="round"
-              strokeLinejoin="round"
+              fill="#334155"
+              stroke="none"
             />
           ) : null
         ))}
 
-        {/* 2) 획 경로 (진한 얇은 선 + 화살표) */}
-        {strokeData.map((s, i) => (
-          s.path ? (
-            <path
-              key={`stroke-${i}`}
-              d={s.path}
-              fill="none"
-              stroke="#ef4444"
-              strokeWidth="1.2"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              markerEnd={`url(#${markerId})`}
-            />
-          ) : null
-        ))}
+        {/* 2) Red Directional Arrows (with white outline for visibility) */}
+        {strokeData.map((s, i) => {
+          if (!s.start || !s.path) return null;
+          const line = getDirectionLine(s.start, s.path);
+          if (!line) return null;
+          return (
+            <g key={`arrow-${i}`}>
+              <line
+                x1={line.x1} y1={line.y1} x2={line.x2} y2={line.y2}
+                stroke="white" strokeWidth="3"
+                strokeLinecap="round"
+              />
+              <line
+                x1={line.x1} y1={line.y1} x2={line.x2} y2={line.y2}
+                stroke="#ef4444" strokeWidth="1.5"
+                strokeLinecap="round"
+                markerEnd={`url(#${markerId})`}
+              />
+            </g>
+          );
+        })}
 
-        {/* 3) 획순 번호 원형 배지 */}
+        {/* 3) Number Badges */}
         {strokeData.map((s, i) => {
           if (!s.start) return null;
-          const cx = Math.max(14, Math.min(86, s.start.x));
-          const cy = Math.max(14, Math.min(86, s.start.y));
+          const cx = Math.max(8, Math.min(92, s.start.x));
+          const cy = Math.max(8, Math.min(92, s.start.y));
           const isComplex = strokeData.length > 10;
           return (
             <g key={`badge-${i}`}>
@@ -191,7 +213,7 @@ function A4SingleHanjaSheet({ hanja, isActive = true }) {
                 <div className="crosshair-v"></div>
 
                 {/* 한자 음영 글자 */}
-                {!isBlank && (
+                {(!isBlank && !isCell1) && (
                   <div className="char-content">{hanja.character}</div>
                 )}
 
