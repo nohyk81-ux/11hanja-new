@@ -26,6 +26,8 @@
 }
 
 body {
+  overflow-x: hidden;
+
   font-family: var(--font-sans);
   background-color: #f1f5f9;
   color: var(--dark);
@@ -992,5 +994,20 @@ body {
   }
   .footer-links {
     gap: 0.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .stroke-viewer-card {
+    min-width: 100%;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .stroke-sidebar {
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid #e2e8f0;
+    padding-right: 0;
+    padding-bottom: 1.5rem;
   }
 }
