@@ -1056,4 +1056,7 @@ body {
   .mode-tabs {
     gap: 2px;
   }
+  .stroke-hanja-list {
+    max-height: 220px;
+  }
 }
