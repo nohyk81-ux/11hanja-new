@@ -80,8 +80,14 @@ export default function StrokePractice({
     // 한자 문자를 NFKC 정규화하여 일부 한자(예: 륙) 재생 오류 방지
     const normalizedChar = selectedHanja.character.normalize('NFKC');
 
+    // 화면 크기에 따라 한자 캔버스 크기 동적 조절
+    const isMobile = window.innerWidth <= 768;
+    const canvasSize = isMobile ? 250 : 320;
+
     const writer = HanziWriter.create(containerRef.current, normalizedChar, {
       ...WRITER_CONFIG,
+      width: canvasSize,
+      height: canvasSize,
       charDataLoader: loadHanziData
     });
     
