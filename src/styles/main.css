@@ -459,11 +459,24 @@ body {
   line-height: 1;
 }
 
+@media (max-width: 600px) {
+  .hanja-char-display {
+    font-size: 2.6rem;
+  }
+}
+
 .hanja-huneum {
   font-size: 1.1rem;
   font-weight: 700;
   color: var(--primary);
   margin-bottom: 0.4rem;
+  word-break: keep-all;
+}
+
+@media (max-width: 600px) {
+  .hanja-huneum {
+    font-size: 1rem;
+  }
 }
 
 .hanja-meta {
