@@ -116,9 +116,20 @@ export default function StrokePractice({
     };
   }, [selectedHanja, mode, replayKey]);
 
+  const handleNextHanja = () => {
+    if (!filteredHanjaList || filteredHanjaList.length === 0 || !selectedHanja) return;
+    const currentIndex = filteredHanjaList.findIndex(h => h.id === selectedHanja.id);
+    if (currentIndex !== -1) {
+      const nextIndex = (currentIndex + 1) % filteredHanjaList.length;
+      setSelectedHanja(filteredHanjaList[nextIndex]);
+      // 다음 글자로 넘어가면 연습 모드 유지 및 초기화
+      setMode('quiz');
+      setIsQuizDone(false);
+    }
+  };
+
   const handleReplay = () => {
     if (mode === 'animate') {
-      // 컴포넌트를 완전히 새로 그려서 버그 없이 깨끗하게 다시 재생
       setIsAnimateDone(false);
       setReplayKey(prev => prev + 1);
     } else {
@@ -215,32 +226,55 @@ export default function StrokePractice({
             </div>
 
             <div className="viewer-actions">
-              <div className="mode-tabs">
-                <button 
-                  className={`mode-btn ${mode === 'animate' ? 'active' : ''}`}
-                  onClick={() => {
-                    if (mode === 'animate') {
-                      handleReplay();
-                    } else {
-                      setMode('animate');
-                    }
-                  }}
-                >
-                  {isAnimateDone ? '다시 재생' : '자동 재생'}
-                </button>
-                <button 
-                  className={`mode-btn ${mode === 'quiz' ? 'active' : ''}`}
-                  onClick={() => {
-                    if (mode === 'quiz') {
-                      handleReplay();
-                    } else {
-                      setMode('quiz');
-                    }
-                  }}
-                >
-                  {isQuizDone ? '다시 연습하기' : t.quizMode}
-                </button>
-              </div>
+              {mode === 'quiz' && isQuizDone ? (
+                <div className="mode-tabs">
+                  <button 
+                    className="mode-btn"
+                    onClick={() => setMode('animate')}
+                  >
+                    자동 재생
+                  </button>
+                  <button 
+                    className="mode-btn"
+                    onClick={handleReplay}
+                  >
+                    다시 연습하기
+                  </button>
+                  <button 
+                    className="mode-btn active"
+                    onClick={handleNextHanja}
+                  >
+                    다음 글자
+                  </button>
+                </div>
+              ) : (
+                <div className="mode-tabs">
+                  <button 
+                    className={`mode-btn ${mode === 'animate' ? 'active' : ''}`}
+                    onClick={() => {
+                      if (mode === 'animate') {
+                        handleReplay();
+                      } else {
+                        setMode('animate');
+                      }
+                    }}
+                  >
+                    {isAnimateDone ? '다시 재생' : '자동 재생'}
+                  </button>
+                  <button 
+                    className={`mode-btn ${mode === 'quiz' ? 'active' : ''}`}
+                    onClick={() => {
+                      if (mode === 'quiz') {
+                        handleReplay();
+                      } else {
+                        setMode('quiz');
+                      }
+                    }}
+                  >
+                    {isQuizDone ? '다시 연습하기' : t.quizMode}
+                  </button>
+                </div>
+              )}
             </div>
           </div>
         ) : (
