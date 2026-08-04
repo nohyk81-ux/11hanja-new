@@ -109,7 +109,9 @@ export default function StrokePractice({
     return () => {
       isCancelled = true;
       cancelAnimRef.current = true;
-      writerRef.current.cancelAnimation();
+      try {
+        if (writerRef.current) writerRef.current.cancelAnimation();
+      } catch (e) {}
     };
   }, [charData, mode, replayKey]);
 
@@ -154,8 +156,10 @@ export default function StrokePractice({
 
     return () => {
       try {
-        writer.cancelAnimation();
-        writer.cancelQuiz();
+        if (writer) {
+          writer.cancelAnimation();
+          writer.cancelQuiz();
+        }
       } catch (e) {}
     };
   }, [selectedHanja, mode, replayKey]);
