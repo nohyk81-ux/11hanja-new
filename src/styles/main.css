@@ -1096,7 +1096,17 @@ body {
     gap: 2px;
   }
   .stroke-hanja-list {
-    max-height: 220px;
+    max-height: 280px;
+  }
+  .stroke-hanja-btn {
+    padding: 0.8rem 0.5rem;
+  }
+  .stroke-hanja-btn .s-char {
+    font-size: 2rem;
+    margin: 0.2rem 0;
+  }
+  .stroke-hanja-btn .s-huneum {
+    font-size: 0.95rem;
   }
   .action-btn {
     padding: 0.4rem 0.4rem;
