@@ -9,7 +9,7 @@ import { loadHanziData } from '../utils/hanziLoader';
 // UI 텍스트 상수를 분리하여 추후 다국어(i18n) 확장에 대비
 const UI_TEXT = {
   ko: {
-    selectHanja: '왼쪽 목록에서 한자를 선택하세요.',
+    selectHanja: '목록에서 한자를 선택하세요.',
     autoPlay: '자동 재생',
     rePlay: '다시 재생',
     quizMode: '연습하기',
