@@ -80,7 +80,7 @@ export default function HanjaGrid({
               onClick={onGenerateWorksheet}
             >
               <Printer size={16} />
-              선택 한자 학습지 생성하기
+              선택 한자 학습지 생성
             </button>
             <button
               className="btn-random"
@@ -89,7 +89,7 @@ export default function HanjaGrid({
               title={`${selectedGrade} 한자 중 5자를 랜덤으로 선택하여 학습지를 생성합니다`}
             >
               <Shuffle size={16} />
-              랜덤 5자 출력하기
+              랜덤 5자 학습지 생성
             </button>
           </div>
         </div>
