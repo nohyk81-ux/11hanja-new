@@ -32,7 +32,7 @@ export default function WorksheetViewer({ selectedHanjaList, onClose }) {
         <div className="toolbar-title">
           <FileCheck size={20} className="text-primary" />
           <span>
-            A4 학습지 미리보기 (선택한 한자: <strong style={{ color: '#10b981' }}>{count}개</strong>만 생성됨)
+            학습지 인쇄 미리보기 (선택한 한자: <strong style={{ color: '#10b981' }}>{count}개</strong>만 생성됨)
           </span>
         </div>
 
@@ -62,7 +62,7 @@ export default function WorksheetViewer({ selectedHanjaList, onClose }) {
 
           <button className="btn-primary" onClick={handlePrint}>
             <Printer size={18} />
-            선택한 {count}개 A4 인쇄하기
+            선택한 {count}개 인쇄하기
           </button>
 
           <button
