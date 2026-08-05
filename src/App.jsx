@@ -1,4 +1,5 @@
 import React, { useState, useMemo } from 'react';
+import { Printer } from 'lucide-react';
 import Header from './components/Header';
 import HanjaGrid from './components/HanjaGrid';
 import WorksheetViewer from './components/WorksheetViewer';
@@ -21,6 +22,7 @@ export default function App() {
   const [showContact, setShowContact] = useState(false);
   const [showPrivacy, setShowPrivacy] = useState(false);
   const [showFaq, setShowFaq] = useState(false);
+  const [isPreparingPrint, setIsPreparingPrint] = useState(false);
 
   const filteredHanjaList = useMemo(() => {
     return HANJA_DATABASE.filter((item) => {
@@ -73,7 +75,12 @@ export default function App() {
       alert('학습지를 생성할 한자를 카드에서 직접 선택하거나 [전체 선택] 버튼을 눌러주세요.');
       return;
     }
-    setIsWorksheetOpen(true);
+    
+    setIsPreparingPrint(true);
+    setTimeout(() => {
+      setIsPreparingPrint(false);
+      setIsWorksheetOpen(true);
+    }, 3000);
   };
 
   // Select 5 random Hanja from currently selected grade and open worksheet preview
@@ -89,7 +96,12 @@ export default function App() {
     const selected5Ids = selected5.map((h) => h.id);
 
     setSelectedHanjaIds(selected5Ids);
-    setIsWorksheetOpen(true);
+    
+    setIsPreparingPrint(true);
+    setTimeout(() => {
+      setIsPreparingPrint(false);
+      setIsWorksheetOpen(true);
+    }, 3000);
   };
 
   // Quick print handler from header
@@ -99,7 +111,12 @@ export default function App() {
       setSelectedHanjaIds(filteredHanjaList.map((h) => h.id));
     }
     setActiveMenu('practice');
-    setIsWorksheetOpen(true);
+    
+    setIsPreparingPrint(true);
+    setTimeout(() => {
+      setIsPreparingPrint(false);
+      setIsWorksheetOpen(true);
+    }, 3000);
   };
 
   return (
@@ -180,9 +197,23 @@ export default function App() {
 
       {/* Modals */}
       {showNotice && <NoticeModal onClose={() => setShowNotice(false)} />}
-      {showFaq && <FaqModal onClose={() => setShowFaq(false)} />}
       {showContact && <ContactModal onClose={() => setShowContact(false)} />}
       {showPrivacy && <PrivacyModal onClose={() => setShowPrivacy(false)} />}
+      {showFaq && <FaqModal onClose={() => setShowFaq(false)} />}
+      
+      {isPreparingPrint && (
+        <div className="modal-overlay">
+          <div className="modal-content" style={{ maxWidth: '350px', textAlign: 'center', padding: '3rem 2rem' }}>
+            <div style={{ marginBottom: '1.5rem', color: 'var(--primary)', display: 'flex', justifyContent: 'center' }}>
+              <Printer size={56} style={{ animation: 'pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite' }} />
+            </div>
+            <h2 style={{ marginBottom: '1rem', color: 'var(--dark)' }}>인쇄 준비중입니다...</h2>
+            <p style={{ color: 'var(--gray-500)', fontSize: '1rem', lineHeight: '1.5' }}>
+              잠시만 기다려주세요.<br />학습지를 생성하고 있습니다.
+            </p>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
