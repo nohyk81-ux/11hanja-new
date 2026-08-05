@@ -25,7 +25,7 @@ function StrokeOrderSVG({ hanja }) {
 
   useEffect(() => {
     let isMounted = true;
-    fetch(`/data/strokes/${encodeURIComponent(hanja.character)}.json`)
+    fetch(`/data/strokes/${encodeURIComponent(hanja.character)}.json?v=3`)
       .then(res => res.json())
       .then(data => {
         if (isMounted) setStrokeData(data);

@@ -32,8 +32,8 @@ const WRITER_CONFIG = {
   showOutline: true,
   strokeAnimationSpeed: 1,
   delayBetweenStrokes: 150,
-  strokeColor: '#334155', // 기본 획 색상 (진한 회색)
-  radicalColor: '#334155', // 부수 색상 (획 색상과 통일하여 1가지 색으로 표시)
+  strokeColor: '#0f172a', // 기본 획 색상 (var(--dark)와 통일)
+  radicalColor: '#0f172a', // 부수 색상 (var(--dark)와 통일)
   outlineColor: '#e2e8f0', // 외곽선 가이드 색상
   drawingColor: '#e11d48', // 퀴즈 모드에서 사용자가 그릴 때의 펜 색상
   showHintAfterMisses: 2, // 퀴즈 모드에서 2번 틀리면 힌트 표시
