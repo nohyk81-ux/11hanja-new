@@ -30,15 +30,14 @@ export default function PrivacyModal({ onClose }) {
           </p>
 
           <h4 style={{ fontSize: '1rem', color: '#0f172a', marginTop: '1.2rem', marginBottom: '0.4rem' }}>
-            2. 쿠키(Cookie) 및 서드파티 광고 기술 사용 (구글 애드센스)
+            2. 쿠키(Cookie) 및 서드파티 분석/광고 기술 사용
           </h4>
           <p>
-            본 서비스는 서비스 개선 및 운영비 마련을 위하여 구글 애드센스(Google AdSense) 등 제3자 광고 서비스를 이용할 수 있습니다.
+            본 서비스는 서비스 이용 행태 분석 및 운영비 마련을 위하여 마이크로소프트 클레리티(Microsoft Clarity)와 구글 애드센스(Google AdSense) 등 제3자 서비스를 이용하고 있습니다.
           </p>
           <ul style={{ paddingLeft: '1.2rem', marginTop: '0.5rem', marginBottom: '0.8rem' }}>
-            <li>구글(Google)을 포함한 제3자 제공업체는 이용자의 이전 웹사이트 방문 기록을 바탕으로 맞춤형 광고를 제공하기 위해 쿠키(Cookie)를 사용합니다.</li>
-            <li>구글의 광고 쿠키 사용을 통해 구글 및 파트너사는 이용자의 본 사이트 및 다른 웹사이트 방문 정보를 바탕으로 적절한 광고를 게재합니다.</li>
-            <li>이용자는 구글 광고 설정(<a href="https://www.google.com/settings/ads" target="_blank" rel="noreferrer" style={{ color: '#0284c7', textDecoration: 'underline' }}>google.com/settings/ads</a>)을 방문하여 맞춤형 광고 수신을 거부할 수 있습니다.</li>
+            <li><strong>마이크로소프트 클레리티(Microsoft Clarity):</strong> 이용자의 웹사이트 사용 방식(클릭, 스크롤 등 행동 데이터)을 분석하기 위해 사용됩니다. 수집된 데이터는 익명화되어 처리되며, 마이크로소프트 개인정보처리방침(<a href="https://privacy.microsoft.com/ko-kr/privacystatement" target="_blank" rel="noreferrer" style={{ color: '#0284c7', textDecoration: 'underline' }}>privacy.microsoft.com</a>)이 적용됩니다.</li>
+            <li><strong>구글 애드센스(Google AdSense):</strong> 이용자의 이전 방문 기록을 바탕으로 맞춤형 광고를 제공하기 위해 쿠키를 사용합니다. 구글 광고 설정(<a href="https://www.google.com/settings/ads" target="_blank" rel="noreferrer" style={{ color: '#0284c7', textDecoration: 'underline' }}>google.com/settings/ads</a>)을 통해 맞춤형 광고 수신을 거부할 수 있습니다.</li>
           </ul>
 
           <h4 style={{ fontSize: '1rem', color: '#0f172a', marginTop: '1.2rem', marginBottom: '0.4rem' }}>
