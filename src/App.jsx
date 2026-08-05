@@ -76,6 +76,11 @@ export default function App() {
       return;
     }
     
+    if (selectedHanjaIds.length > 30) {
+      alert('학습지는 한 번에 최대 30자까지만 생성할 수 있습니다. 30자 이하로 선택해 주세요.');
+      return;
+    }
+    
     setIsPreparingPrint(true);
     setTimeout(() => {
       setIsPreparingPrint(false);
@@ -106,10 +111,18 @@ export default function App() {
 
   // Quick print handler from header
   const handleQuickPrint = () => {
+    let targetIds = selectedHanjaIds;
     if (selectedHanjaIds.length === 0 && filteredHanjaList.length > 0) {
       // If none selected, default to selecting all in current grade for convenience
-      setSelectedHanjaIds(filteredHanjaList.map((h) => h.id));
+      targetIds = filteredHanjaList.map((h) => h.id);
+      setSelectedHanjaIds(targetIds);
     }
+
+    if (targetIds.length > 30) {
+      alert('학습지는 한 번에 최대 30자까지만 생성할 수 있습니다. 30자 이하로 선택해 주세요.');
+      return;
+    }
+
     setActiveMenu('practice');
     
     setIsPreparingPrint(true);
