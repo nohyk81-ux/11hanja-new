@@ -33,11 +33,11 @@ export default function Header({ activeMenu, setActiveMenu, onOpenNotice, onOpen
         <div className="header-actions">
           <button className="action-btn" onClick={onOpenNotice}>
             <Bell size={18} />
-            공지사항
+            <span>공지사항</span>
           </button>
           <button className="action-btn" onClick={onOpenContact}>
             <Mail size={18} />
-            문의하기
+            <span>문의하기</span>
           </button>
         </div>
       </div>
