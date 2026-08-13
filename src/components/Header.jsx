@@ -1,40 +1,42 @@
 import React from 'react';
+import { NavLink, Link } from 'react-router-dom';
 import { BookOpen, HelpCircle, Layers, Bell, Mail } from 'lucide-react';
 
-export default function Header({ activeMenu, setActiveMenu, onOpenNotice, onOpenContact }) {
+export default function Header({ onOpenNotice, onOpenContact }) {
   return (
     <header className="site-header no-print">
       <div className="header-inner">
-        <a href="#" className="brand-logo" onClick={() => setActiveMenu('practice')}>
+        <Link to="/" className="brand-logo">
           <div className="logo-badge">日</div>
           <div className="brand-text">
             <h1>일일한자</h1>
             <span>11HANJA.COM</span>
           </div>
-        </a>
+        </Link>
 
         <nav className="main-nav">
-          <button
-            className={`nav-btn ${activeMenu === 'practice' ? 'active' : ''}`}
-            onClick={() => setActiveMenu('practice')}
+          <NavLink
+            to="/"
+            className={({ isActive }) => `nav-btn ${isActive ? 'active' : ''}`}
+            end
           >
             <BookOpen size={18} />
             한자 연습하기
-          </button>
-          <button
-            className={`nav-btn ${activeMenu === 'stroke' ? 'active' : ''}`}
-            onClick={() => setActiveMenu('stroke')}
+          </NavLink>
+          <NavLink
+            to="/stroke"
+            className={({ isActive }) => `nav-btn ${isActive ? 'active' : ''}`}
           >
             <Layers size={18} />
             획순 연습하기
-          </button>
-          <button
-            className={`nav-btn ${activeMenu === 'story' ? 'active' : ''}`}
-            onClick={() => setActiveMenu('story')}
+          </NavLink>
+          <NavLink
+            to="/story"
+            className={({ isActive }) => `nav-btn ${isActive ? 'active' : ''}`}
           >
             <BookOpen size={18} />
             한자 이야기
-          </button>
+          </NavLink>
         </nav>
 
         <div className="header-actions">

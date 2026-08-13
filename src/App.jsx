@@ -1,4 +1,5 @@
 import React, { useState, useMemo } from 'react';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { Printer } from 'lucide-react';
 import Header from './components/Header';
 import HanjaGrid from './components/HanjaGrid';
@@ -136,59 +137,72 @@ export default function App() {
   };
 
   return (
-    <div className="app-container">
-      {/* Header */}
-      <Header
-        activeMenu={activeMenu}
-        setActiveMenu={setActiveMenu}
-        onOpenNotice={() => setShowNotice(true)}
-        onOpenContact={() => setShowContact(true)}
-      />
+    <BrowserRouter>
+      <div className="app-container">
+        {/* Header */}
+        <Header
+          onOpenNotice={() => setShowNotice(true)}
+          onOpenContact={() => setShowContact(true)}
+        />
 
-      {/* Main Content Area */}
-      <main className="main-content">
-        {activeMenu === 'practice' && !isWorksheetOpen && (
-          <HanjaGrid
-            selectedGrade={selectedGrade}
-            setSelectedGrade={setSelectedGrade}
-            searchQuery={searchQuery}
-            setSearchQuery={setSearchQuery}
-            filteredHanjaList={filteredHanjaList}
-            selectedHanjaIds={selectedHanjaIds}
-            onToggleSelect={handleToggleSelect}
-            onSelectAll={handleSelectAll}
-            onDeselectAll={handleDeselectAll}
-            onGenerateWorksheet={handleGenerateWorksheet}
-            onRandom5Generate={handleRandom5Generate}
-            getCountByGrade={getCountByGrade}
-          />
-        )}
-        
-        {activeMenu === 'practice' && isWorksheetOpen && (
-          <WorksheetViewer
-            selectedHanjaList={selectedHanjaList}
-            onClose={() => {
-              setIsWorksheetOpen(false);
-              setSelectedHanjaIds([]);
-            }}
-          />
-        )}
-
-        {activeMenu === 'stroke' && (
-          <StrokePractice
-            selectedGrade={selectedGrade}
-            setSelectedGrade={setSelectedGrade}
-            searchQuery={searchQuery}
-            setSearchQuery={setSearchQuery}
-            filteredHanjaList={filteredHanjaList}
-            getCountByGrade={getCountByGrade}
-          />
-        )}
-
-        {activeMenu === 'story' && (
-          <HanjaStory />
-        )}
-      </main>
+        {/* Main Content Area */}
+        <main className="main-content">
+          <Routes>
+            <Route 
+              path="/" 
+              element={
+                !isWorksheetOpen && (
+                  <HanjaGrid
+                    selectedGrade={selectedGrade}
+                    setSelectedGrade={setSelectedGrade}
+                    searchQuery={searchQuery}
+                    setSearchQuery={setSearchQuery}
+                    filteredHanjaList={filteredHanjaList}
+                    selectedHanjaIds={selectedHanjaIds}
+                    onToggleSelect={handleToggleSelect}
+                    onSelectAll={handleSelectAll}
+                    onDeselectAll={handleDeselectAll}
+                    onGenerateWorksheet={handleGenerateWorksheet}
+                    onRandom5Generate={handleRandom5Generate}
+                    getCountByGrade={getCountByGrade}
+                  />
+                )
+              } 
+            />
+            <Route 
+              path="/stroke" 
+              element={
+                <StrokePractice
+                  selectedGrade={selectedGrade}
+                  setSelectedGrade={setSelectedGrade}
+                  searchQuery={searchQuery}
+                  setSearchQuery={setSearchQuery}
+                  filteredHanjaList={filteredHanjaList}
+                  getCountByGrade={getCountByGrade}
+                />
+              } 
+            />
+            <Route 
+              path="/story" 
+              element={<HanjaStory />} 
+            />
+            <Route path="*" element={<Navigate to="/" replace />} />
+          </Routes>
+          
+          <Routes>
+            <Route path="/" element={
+              isWorksheetOpen && (
+                <WorksheetViewer
+                  selectedHanjaList={selectedHanjaList}
+                  onClose={() => {
+                    setIsWorksheetOpen(false);
+                    setSelectedHanjaIds([]);
+                  }}
+                />
+              )
+            } />
+          </Routes>
+        </main>
 
       {/* Footer */}
       <footer className="site-footer no-print">
@@ -240,5 +254,6 @@ export default function App() {
         </div>
       )}
     </div>
+    </BrowserRouter>
   );
 }
