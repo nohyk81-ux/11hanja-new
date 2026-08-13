@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-
+import { loadHanziData } from '../utils/hanziLoader';
 export default function PrintWorksheet({ selectedHanjaList, printMode, currentPage = 0 }) {
   if (!selectedHanjaList || selectedHanjaList.length === 0) return null;
 
@@ -25,19 +25,13 @@ function StrokeOrderSVG({ hanja }) {
 
   useEffect(() => {
     let isMounted = true;
-    fetch(`/data/strokes/${encodeURIComponent(hanja.character)}.json?v=3`)
-      .then(res => res.json())
-      .then(data => {
-        if (isMounted) setStrokeData(data);
-      })
-      .catch(err => {
-        console.error('Failed to load stroke data for', hanja.character, err);
-        if (isMounted) setStrokeData([]);
-      });
+    loadHanziData(hanja.character, (data) => {
+      if (isMounted) setStrokeData(data);
+    });
     return () => { isMounted = false; };
   }, [hanja.character]);
 
-  if (!strokeData) {
+  if (!strokeData || !strokeData.strokes) {
     return (
       <div style={{
         position: 'absolute', top: 0, left: 0, width: '100%', height: '100%',
@@ -49,31 +43,9 @@ function StrokeOrderSVG({ hanja }) {
     );
   }
 
-  if (strokeData.length === 0) return null;
+  if (strokeData.strokes.length === 0) return null;
 
   const markerId = `arrow-${hanja.id}`;
-
-  const getDirectionLine = (start, pathStr) => {
-    // Extract first coordinate after M
-    const match = pathStr.match(/M\s+[0-9.]+\s+[0-9.]+\s+[QLC]\s+([0-9.]+)\s+([0-9.]+)/);
-    if (!match) return null;
-    const nextX = parseFloat(match[1]);
-    const nextY = parseFloat(match[2]);
-    const dx = nextX - start.x;
-    const dy = nextY - start.y;
-    const dist = Math.sqrt(dx * dx + dy * dy);
-    if (dist < 0.1) return null;
-    
-    // Draw an arrow of fixed length (12 units)
-    const len = 12;
-    const factor = len / dist;
-    return {
-      x1: start.x,
-      y1: start.y,
-      x2: start.x + dx * factor,
-      y2: start.y + dy * factor
-    };
-  };
 
   return (
     <svg
@@ -105,62 +77,56 @@ function StrokeOrderSVG({ hanja }) {
       </defs>
 
       <g clipPath={`url(#clip-${hanja.id})`}>
-        {/* 1) Base Solid Character (Dark Gray) */}
-        {strokeData.map((s, i) => (
-          s.path ? (
+        {/* Transform hanzi-writer grid to 100x100 SVG grid */}
+        <g transform="scale(0.09765625, -0.09765625) translate(0, -900)">
+          {/* 1) Base Solid Character (Dark Gray) */}
+          {strokeData.strokes.map((path, i) => (
             <path
               key={`base-${i}`}
-              d={s.path}
+              d={path}
               fill="#334155"
               stroke="none"
             />
-          ) : null
-        ))}
+          ))}
 
-        {/* 2) Red Directional Tracing (Full Median Path) */}
-        {strokeData.map((s, i) => {
-          if (!s.median || s.median.length === 0) return null;
+          {/* 2) Red Directional Tracing (Full Median Path) */}
+          {strokeData.medians.map((median, i) => {
+            if (!median || median.length === 0) return null;
+            const pts = median.map(pt => `${pt[0]},${pt[1]}`).join(' ');
+
+            return (
+              <g key={`arrow-${i}`}>
+                <polyline
+                  points={pts}
+                  fill="none"
+                  stroke="white" strokeWidth="35"
+                  strokeLinecap="round" strokeLinejoin="round"
+                />
+                <polyline
+                  points={pts}
+                  fill="none"
+                  stroke="#ef4444" strokeWidth="15"
+                  strokeLinecap="round" strokeLinejoin="round"
+                  markerEnd={`url(#${markerId})`}
+                />
+              </g>
+            );
+          })}
+        </g>
+
+        {/* 3) Number Badges (rendered outside the transform so text is not flipped) */}
+        {strokeData.medians.map((median, i) => {
+          if (!median || median.length === 0) return null;
           
-          // Transform medians: x = x/10, y = 90 - y/10
-          const pts = s.median.map(pt => `${pt[0] / 10},${90 - pt[1] / 10}`).join(' ');
-
-          return (
-            <g key={`arrow-${i}`}>
-              <polyline
-                points={pts}
-                fill="none"
-                stroke="white" strokeWidth="3.5"
-                strokeLinecap="round" strokeLinejoin="round"
-              />
-              <polyline
-                points={pts}
-                fill="none"
-                stroke="#ef4444" strokeWidth="1.5"
-                strokeLinecap="round" strokeLinejoin="round"
-                markerEnd={`url(#${markerId})`}
-              />
-            </g>
-          );
-        })}
-
-        {/* 3) Number Badges */}
-        {strokeData.map((s, i) => {
-          // Use the start of the median for badge placement, fallback to s.start
-          let cx = 50, cy = 50;
-          if (s.median && s.median.length > 0) {
-             cx = s.median[0][0] / 10;
-             cy = 90 - s.median[0][1] / 10;
-          } else if (s.start) {
-             cx = s.start.x;
-             cy = s.start.y;
-          } else {
-             return null;
-          }
+          // Transform first median point to 100x100 space manually for the badge
+          let cx = median[0][0] * 0.09765625;
+          let cy = (900 - median[0][1]) * 0.09765625;
           
           cx = Math.max(8, Math.min(92, cx));
           cy = Math.max(8, Math.min(92, cy));
           
-          const isComplex = strokeData.length > 10;
+          const isComplex = strokeData.strokes.length > 10;
+          const order = i + 1;
           return (
             <g key={`badge-${i}`}>
               <circle
@@ -174,13 +140,13 @@ function StrokeOrderSVG({ hanja }) {
                 textAnchor="middle"
                 dominantBaseline="central"
                 style={{
-                  fontSize: isComplex ? (s.order > 9 ? '4px' : '4.5px') : (s.order > 9 ? '5px' : '5.5px'),
+                  fontSize: isComplex ? (order > 9 ? '4px' : '4.5px') : (order > 9 ? '5px' : '5.5px'),
                   fontWeight: '800',
                   fill: '#ef4444',
                   fontFamily: 'sans-serif',
                 }}
               >
-                {s.order}
+                {order}
               </text>
             </g>
           );
