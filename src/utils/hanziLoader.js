@@ -6,7 +6,7 @@ const LOCAL_OVERRIDES = ['擧', '敎', '産', '直', '絲'];
 export const loadHanziData = (char, onComplete) => {
   // 로컬 오버라이드 대상이면 로컬 JSON을 즉시 사용
   if (LOCAL_OVERRIDES.includes(char)) {
-    fetch(`/data/strokes-hw/${encodeURIComponent(char)}.json?v=14`)
+    fetch(`/data/strokes-hw/${encodeURIComponent(char)}.json?v=15`)
       .then(res => res.json())
       .then(data => onComplete(data))
       .catch(err => {
