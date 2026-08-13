@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.5/dist/hanzi-writer.min.js"></script>
+</head>
+<body>
+  <div id="character-target-div"></div>
+  <script>
+    fetch('/custom-data/直.json')
+      .then(res => res.json())
+      .then(charData => {
+        var writer = HanziWriter.create('character-target-div', '直', {
+          width: 400,
+          height: 400,
+          padding: 20,
+          charDataLoader: function(char, onComplete) {
+            onComplete(charData);
+          }
+        });
+        writer.loopCharacterAnimation();
+      });
+  </script>
+</body>
+</html>
