@@ -61,7 +61,6 @@ export default function GuideModal({ onClose }) {
             <h3 style={{ color: 'var(--primary)', marginBottom: '1rem' }}>💡 100% 활용 꿀팁</h3>
             <ul style={{ listStyleType: 'disc', paddingLeft: '1.5rem', color: 'var(--gray-700)' }}>
               <li style={{ marginBottom: '0.5rem' }}><strong>랜덤 추출:</strong> 어떤 한자를 공부할지 고민된다면 [무작위 5자 추출] 버튼을 활용해 매일 새로운 한자를 학습해 보세요.</li>
-              <li style={{ marginBottom: '0.5rem' }}><strong>다크 모드:</strong> 야간에 학습할 때 눈이 부시지 않도록 우측 상단의 테마 버튼을 눌러 화면을 어둡게 변경할 수 있습니다.</li>
               <li><strong>검색 기능:</strong> 기억나지 않는 한자가 있다면 상단 검색창에 한글(음/뜻)이나 한자를 직접 입력하여 빠르게 찾아보세요.</li>
             </ul>
           </section>
