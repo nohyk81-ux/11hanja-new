@@ -4,6 +4,7 @@ import Header from './components/Header';
 import HanjaGrid from './components/HanjaGrid';
 import WorksheetViewer from './components/WorksheetViewer';
 import StrokePractice from './components/StrokePractice';
+import HanjaStory from './components/HanjaStory';
 import NoticeModal from './components/NoticeModal';
 import ContactModal from './components/ContactModal';
 import PrivacyModal from './components/PrivacyModal';
@@ -182,6 +183,10 @@ export default function App() {
             filteredHanjaList={filteredHanjaList}
             getCountByGrade={getCountByGrade}
           />
+        )}
+
+        {activeMenu === 'story' && (
+          <HanjaStory />
         )}
       </main>
 

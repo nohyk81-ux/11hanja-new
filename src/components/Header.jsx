@@ -28,6 +28,13 @@ export default function Header({ activeMenu, setActiveMenu, onOpenNotice, onOpen
             <Layers size={18} />
             획순 연습하기
           </button>
+          <button
+            className={`nav-btn ${activeMenu === 'story' ? 'active' : ''}`}
+            onClick={() => setActiveMenu('story')}
+          >
+            <BookOpen size={18} />
+            한자 이야기
+          </button>
         </nav>
 
         <div className="header-actions">
