@@ -8,6 +8,7 @@ import NoticeModal from './components/NoticeModal';
 import ContactModal from './components/ContactModal';
 import PrivacyModal from './components/PrivacyModal';
 import FaqModal from './components/FaqModal';
+import GuideModal from './components/GuideModal';
 import { HANJA_DATABASE } from './data/hanjaData';
 import './styles/main.css';
 import './styles/print.css';
@@ -22,6 +23,7 @@ export default function App() {
   const [showContact, setShowContact] = useState(false);
   const [showPrivacy, setShowPrivacy] = useState(false);
   const [showFaq, setShowFaq] = useState(false);
+  const [showGuide, setShowGuide] = useState(false);
   const [isPreparingPrint, setIsPreparingPrint] = useState(false);
 
   const filteredHanjaList = useMemo(() => {
@@ -190,6 +192,10 @@ export default function App() {
             개인정보처리방침
           </button>
           <span className="footer-sep">•</span>
+          <button className="footer-btn text-bold" style={{ color: 'var(--primary)' }} onClick={() => setShowGuide(true)}>
+            일일한자 활용가이드
+          </button>
+          <span className="footer-sep">•</span>
           <button className="footer-btn" onClick={() => setShowNotice(true)}>
             공지사항
           </button>
@@ -209,6 +215,7 @@ export default function App() {
       </footer>
 
       {/* Modals */}
+      {showGuide && <GuideModal onClose={() => setShowGuide(false)} />}
       {showNotice && <NoticeModal onClose={() => setShowNotice(false)} />}
       {showContact && <ContactModal onClose={() => setShowContact(false)} />}
       {showPrivacy && <PrivacyModal onClose={() => setShowPrivacy(false)} />}
