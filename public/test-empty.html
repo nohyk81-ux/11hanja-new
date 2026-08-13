@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.5/dist/hanzi-writer.min.js"></script>
+</head>
+<body>
+  <div id="test"></div>
+  <script>
+    fetch('/data/strokes-hw/直.json?v=7')
+      .then(r => r.json())
+      .then(d => {
+        // Make stroke 2 empty
+        d.strokes[2] = "M 0 0 Z";
+        d.medians[2] = [[0, 0], [0, 0]];
+        
+        // Make stroke 7 an L-shape
+        // Just for test, use stroke 7 as is.
+        
+        var writer = HanziWriter.create('test', '直', {
+          width: 300,
+          height: 300,
+          charDataLoader: function(char, onComplete) {
+            onComplete(d);
+          }
+        });
+        writer.animateCharacter();
+      });
+  </script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.5/dist/hanzi-writer.min.js"></script>
+</head>
+<body>
+  <div id="test"></div>
+  <div id="log" style="color:red"></div>
+  <script>
+    window.onerror = function(msg, url, lineNo, columnNo, error) {
+      document.getElementById('log').innerText += msg + '\n' + error.stack;
+      return false;
+    };
+    fetch('/data/strokes-hw/直.json?v=7')
+      .then(r => r.json())
+      .then(d => {
+        // Apply the chop
+        d.strokes[7] = "M 517 44 Q 569 45 621 50 Q 757 60 897 41 Q 919 37 926 46 Q 935 59 923 71 Q 895 99 851 121 Q 845 124 687 100 L 635 95 Q 544 91 493 85 Q 447 82 408 78 L 361 74 L 361 30 Q 400 37 517 44 Z";
+        d.medians[7] = [[380, 52], [417, 58], [795, 84], [843, 84], [913, 57]];
+        
+        var writer = HanziWriter.create('test', '直', {
+          width: 300,
+          height: 300,
+          showCharacter: false,
+          charDataLoader: function(char, onComplete) {
+            onComplete(d);
+          }
+        });
+        writer.animateCharacter();
+      });
+  </script>
+</body>
+</html>
