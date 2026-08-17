@@ -1,5 +1,6 @@
-import React, { useState, useMemo } from 'react';
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import React, { useState, useMemo, useEffect } from 'react';
+import { BrowserRouter, Routes, Route, Navigate, useLocation, useNavigate, useParams } from 'react-router-dom';
+import { HelmetProvider } from 'react-helmet-async';
 import { Printer } from 'lucide-react';
 import Header from './components/Header';
 import HanjaGrid from './components/HanjaGrid';
@@ -15,9 +16,16 @@ import { HANJA_DATABASE } from './data/hanjaData';
 import './styles/main.css';
 import './styles/print.css';
 
-export default function App() {
+function AppContent() {
+  const location = useLocation();
+  const navigate = useNavigate();
+  
+  // URL에서 급수 파싱 (기본값 8급)
+  const match = location.pathname.match(/\/(?:grade|stroke)\/([^/]+)/);
+  const currentGradeFromUrl = match ? decodeURIComponent(match[1]) : '8급';
+  const selectedGrade = currentGradeFromUrl;
+
   const [activeMenu, setActiveMenu] = useState('practice');
-  const [selectedGrade, setSelectedGrade] = useState('8급');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedHanjaIds, setSelectedHanjaIds] = useState([]);
   const [isWorksheetOpen, setIsWorksheetOpen] = useState(false);
@@ -45,35 +53,29 @@ export default function App() {
     });
   }, [selectedGrade, searchQuery]);
 
-  // Helper count of Hanja per grade
   const getCountByGrade = (grade) => {
     return HANJA_DATABASE.filter((h) => h.grade === grade).length;
   };
 
-  // Toggle selection for a single Hanja
   const handleToggleSelect = (id) => {
     setSelectedHanjaIds((prev) =>
       prev.includes(id) ? prev.filter((item) => item !== id) : [...prev, id]
     );
   };
 
-  // Select all visible Hanja in current view
   const handleSelectAll = () => {
     const visibleIds = filteredHanjaList.map((h) => h.id);
     setSelectedHanjaIds((prev) => Array.from(new Set([...prev, ...visibleIds])));
   };
 
-  // Deselect all
   const handleDeselectAll = () => {
     setSelectedHanjaIds([]);
   };
 
-  // Strict list of ONLY the selected Hanja objects
   const selectedHanjaList = useMemo(() => {
     return HANJA_DATABASE.filter((h) => selectedHanjaIds.includes(h.id));
   }, [selectedHanjaIds]);
 
-  // Generate worksheet preview (Strictly for selected Hanja)
   const handleGenerateWorksheet = () => {
     if (selectedHanjaIds.length === 0) {
       alert('학습지를 생성할 한자를 카드에서 직접 선택하거나 [전체 선택] 버튼을 눌러주세요.');
@@ -92,7 +94,6 @@ export default function App() {
     }, 3000);
   };
 
-  // Select 5 random Hanja from currently selected grade and open worksheet preview
   const handleRandom5Generate = () => {
     const gradeHanjaList = HANJA_DATABASE.filter((h) => h.grade === selectedGrade);
     if (gradeHanjaList.length === 0) {
@@ -113,11 +114,9 @@ export default function App() {
     }, 3000);
   };
 
-  // Quick print handler from header
   const handleQuickPrint = () => {
     let targetIds = selectedHanjaIds;
     if (selectedHanjaIds.length === 0 && filteredHanjaList.length > 0) {
-      // If none selected, default to selecting all in current grade for convenience
       targetIds = filteredHanjaList.map((h) => h.id);
       setSelectedHanjaIds(targetIds);
     }
@@ -137,74 +136,64 @@ export default function App() {
   };
 
   return (
-    <BrowserRouter>
-      <div className="app-container">
-        {/* Header */}
-        <Header
-          onOpenNotice={() => setShowNotice(true)}
-          onOpenContact={() => setShowContact(true)}
-        />
+    <div className="app-container">
+      <Header
+        onOpenNotice={() => setShowNotice(true)}
+        onOpenContact={() => setShowContact(true)}
+      />
 
-        {/* Main Content Area */}
-        <main className="main-content">
-          <Routes>
-            <Route 
-              path="/" 
-              element={
-                !isWorksheetOpen && (
-                  <HanjaGrid
-                    selectedGrade={selectedGrade}
-                    setSelectedGrade={setSelectedGrade}
-                    searchQuery={searchQuery}
-                    setSearchQuery={setSearchQuery}
-                    filteredHanjaList={filteredHanjaList}
-                    selectedHanjaIds={selectedHanjaIds}
-                    onToggleSelect={handleToggleSelect}
-                    onSelectAll={handleSelectAll}
-                    onDeselectAll={handleDeselectAll}
-                    onGenerateWorksheet={handleGenerateWorksheet}
-                    onRandom5Generate={handleRandom5Generate}
-                    getCountByGrade={getCountByGrade}
-                  />
-                )
-              } 
-            />
-            <Route 
-              path="/stroke" 
-              element={
-                <StrokePractice
+      <main className="main-content">
+        <Routes>
+          <Route path="/" element={<Navigate to="/grade/8급" replace />} />
+          <Route path="/stroke" element={<Navigate to="/stroke/8급" replace />} />
+          
+          <Route 
+            path="/grade/:gradeId" 
+            element={
+              !isWorksheetOpen && (
+                <HanjaGrid
                   selectedGrade={selectedGrade}
-                  setSelectedGrade={setSelectedGrade}
                   searchQuery={searchQuery}
                   setSearchQuery={setSearchQuery}
                   filteredHanjaList={filteredHanjaList}
+                  selectedHanjaIds={selectedHanjaIds}
+                  onToggleSelect={handleToggleSelect}
+                  onSelectAll={handleSelectAll}
+                  onDeselectAll={handleDeselectAll}
+                  onGenerateWorksheet={handleGenerateWorksheet}
+                  onRandom5Generate={handleRandom5Generate}
                   getCountByGrade={getCountByGrade}
                 />
-              } 
-            />
-            <Route 
-              path="/story" 
-              element={<HanjaStory />} 
-            />
-            <Route path="*" element={<Navigate to="/" replace />} />
-          </Routes>
-          
-          <Routes>
-            <Route path="/" element={
-              isWorksheetOpen && (
-                <WorksheetViewer
-                  selectedHanjaList={selectedHanjaList}
-                  onClose={() => {
-                    setIsWorksheetOpen(false);
-                    setSelectedHanjaIds([]);
-                  }}
-                />
               )
-            } />
-          </Routes>
-        </main>
+            } 
+          />
+          <Route 
+            path="/stroke/:gradeId" 
+            element={
+              <StrokePractice
+                selectedGrade={selectedGrade}
+                searchQuery={searchQuery}
+                setSearchQuery={setSearchQuery}
+                filteredHanjaList={filteredHanjaList}
+                getCountByGrade={getCountByGrade}
+              />
+            } 
+          />
+          <Route path="/story" element={<HanjaStory />} />
+          <Route path="*" element={<Navigate to="/grade/8급" replace />} />
+        </Routes>
+        
+        {isWorksheetOpen && (
+          <WorksheetViewer
+            selectedHanjaList={selectedHanjaList}
+            onClose={() => {
+              setIsWorksheetOpen(false);
+              setSelectedHanjaIds([]);
+            }}
+          />
+        )}
+      </main>
 
-      {/* Footer */}
       <footer className="site-footer no-print">
         <div className="footer-links">
           <button className="footer-btn text-bold" onClick={() => setShowPrivacy(true)}>
@@ -233,7 +222,6 @@ export default function App() {
         </p>
       </footer>
 
-      {/* Modals */}
       {showGuide && <GuideModal onClose={() => setShowGuide(false)} />}
       {showNotice && <NoticeModal onClose={() => setShowNotice(false)} />}
       {showContact && <ContactModal onClose={() => setShowContact(false)} />}
@@ -254,6 +242,15 @@ export default function App() {
         </div>
       )}
     </div>
-    </BrowserRouter>
+  );
+}
+
+export default function App() {
+  return (
+    <HelmetProvider>
+      <BrowserRouter>
+        <AppContent />
+      </BrowserRouter>
+    </HelmetProvider>
   );
 }

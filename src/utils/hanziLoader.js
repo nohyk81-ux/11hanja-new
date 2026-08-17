@@ -1,7 +1,7 @@
 // 한국 한자(정자체) 모양이 중국(hanzi-writer-data)과 다를 때, 
 // 자체 제작한 로컬 데이터를 최우선으로 사용하기 위한 오버라이드 목록
 // 애니메이션(hanzi-writer)은 medians 데이터가 필수이므로 커스텀 생성이 어려워 임시로 비워둡니다.
-const LOCAL_OVERRIDES = ['擧', '敎', '産', '直', '絲', '線', '給', '練', '終', '細', '純', '紀', '織'];
+const LOCAL_OVERRIDES = ['擧', '敎', '産', '直', '絲', '線', '給', '練', '終', '細', '純', '紀', '織', '玕'];
 
 export const loadHanziData = (char, onComplete) => {
   // 로컬 오버라이드 대상이면 로컬 JSON을 즉시 사용

@@ -1,11 +1,12 @@
 import React from 'react';
+import { Helmet } from 'react-helmet-async';
 import { Search, Printer, CheckSquare, Square, FileText, Shuffle, X } from 'lucide-react';
 import GradeSelector from './GradeSelector';
 import HanjaCard from './HanjaCard';
+import { seoData } from '../data/seoData';
 
 export default function HanjaGrid({
   selectedGrade,
-  setSelectedGrade,
   searchQuery,
   setSearchQuery,
   filteredHanjaList,
@@ -17,8 +18,18 @@ export default function HanjaGrid({
   onRandom5Generate,
   getCountByGrade
 }) {
+  const currentSeo = seoData[selectedGrade] || {
+    title: `${selectedGrade} 한자 쓰기 연습`,
+    description: `${selectedGrade} 무료 한자 쓰기 연습지 프린트`
+  };
+
   return (
     <div>
+      <Helmet>
+        <title>{currentSeo.title} - 일일한자</title>
+        <meta name="description" content={currentSeo.description} />
+      </Helmet>
+
       {/* Control Bar: Grade selection & Top Right Search Box */}
       <div className="control-bar no-print">
         <div className="control-bar-header">
@@ -52,9 +63,13 @@ export default function HanjaGrid({
         {/* Grade Tabs */}
         <GradeSelector
           selectedGrade={selectedGrade}
-          setSelectedGrade={setSelectedGrade}
           getCountByGrade={getCountByGrade}
         />
+        
+        {/* SEO Description for users & search engines */}
+        <p style={{ marginTop: '0.75rem', fontSize: '0.9rem', color: 'var(--gray-600)', lineHeight: '1.5', wordBreak: 'keep-all', textAlign: 'left' }}>
+          {currentSeo.description}
+        </p>
       </div>
 
       {/* Main Hanja Grid Box */}

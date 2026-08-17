@@ -2,6 +2,8 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Search, FileText, Layers, X, Shuffle } from 'lucide-react';
 import * as HanziWriterModule from 'hanzi-writer';
 import GradeSelector from './GradeSelector';
+import { Helmet } from 'react-helmet-async';
+import { seoData } from '../data/seoData';
 
 const HanziWriter = HanziWriterModule.default || HanziWriterModule;
 import { loadHanziData } from '../utils/hanziLoader';
@@ -41,7 +43,6 @@ const WRITER_CONFIG = {
 
 export default function StrokePractice({
   selectedGrade,
-  setSelectedGrade,
   searchQuery,
   setSearchQuery,
   filteredHanjaList,
@@ -55,6 +56,20 @@ export default function StrokePractice({
   const [replayKey, setReplayKey] = useState(0);
   const writerRef = useRef(null);
   const containerRef = useRef(null);
+  const viewerContainerRef = useRef(null);
+
+  useEffect(() => {
+    if (selectedHanja && viewerContainerRef.current) {
+      setTimeout(() => {
+        const isMobile = window.innerWidth <= 768;
+        if (isMobile) {
+          viewerContainerRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        } else {
+          viewerContainerRef.current.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }
+      }, 100);
+    }
+  }, [selectedHanja]);
 
   const handleRandomPractice = () => {
     if (filteredHanjaList.length > 0) {
@@ -204,8 +219,18 @@ export default function StrokePractice({
     });
   };
 
+  const currentSeo = seoData[selectedGrade] || {
+    title: `${selectedGrade} 한자 쓰기 연습`,
+    description: `${selectedGrade} 무료 한자 쓰기 연습지 프린트`
+  };
+
   return (
     <div>
+      <Helmet>
+        <title>{currentSeo.title} - 일일한자</title>
+        <meta name="description" content={currentSeo.description} />
+      </Helmet>
+
       {/* 한자 연습하기와 동일한 control-bar 구조 */}
       <div className="control-bar no-print">
         <div className="control-bar-header">
@@ -233,7 +258,12 @@ export default function StrokePractice({
             )}
           </div>
         </div>
-        <GradeSelector selectedGrade={selectedGrade} setSelectedGrade={setSelectedGrade} getCountByGrade={getCountByGrade} />
+        <GradeSelector selectedGrade={selectedGrade} getCountByGrade={getCountByGrade} />
+        
+        {/* SEO Description for users & search engines */}
+        <p style={{ marginTop: '0.75rem', fontSize: '0.9rem', color: 'var(--gray-600)', lineHeight: '1.5', wordBreak: 'keep-all', textAlign: 'left' }}>
+          {currentSeo.description}
+        </p>
       </div>
 
       <div className="stroke-practice-container no-print">
@@ -269,7 +299,7 @@ export default function StrokePractice({
         </div>
       </div>
 
-      <div className="stroke-viewer-area">
+      <div ref={viewerContainerRef} className="stroke-viewer-area">
         {selectedHanja ? (
           <div className="stroke-viewer-card">
             <div className="viewer-header">
