@@ -1,6 +1,5 @@
 import React, { useState, useMemo, useEffect } from 'react';
 import { BrowserRouter, Routes, Route, Navigate, useLocation, useNavigate, useParams } from 'react-router-dom';
-import { HelmetProvider } from 'react-helmet-async';
 import { Printer } from 'lucide-react';
 import Header from './components/Header';
 import HanjaGrid from './components/HanjaGrid';
@@ -247,10 +246,8 @@ function AppContent() {
 
 export default function App() {
   return (
-    <HelmetProvider>
-      <BrowserRouter>
-        <AppContent />
-      </BrowserRouter>
-    </HelmetProvider>
+    <BrowserRouter>
+      <AppContent />
+    </BrowserRouter>
   );
 }

@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Search, FileText, Layers, X, Shuffle } from 'lucide-react';
 import * as HanziWriterModule from 'hanzi-writer';
 import GradeSelector from './GradeSelector';
-import { Helmet } from 'react-helmet-async';
+import { useSeo } from '../utils/useSeo';
 import { seoData } from '../data/seoData';
 
 const HanziWriter = HanziWriterModule.default || HanziWriterModule;
@@ -224,13 +224,10 @@ export default function StrokePractice({
     description: `${selectedGrade} 무료 한자 쓰기 연습지 프린트`
   };
 
+  useSeo(`${currentSeo.title} - 일일한자`, currentSeo.description);
+
   return (
     <div>
-      <Helmet>
-        <title>{currentSeo.title} - 일일한자</title>
-        <meta name="description" content={currentSeo.description} />
-      </Helmet>
-
       {/* 한자 연습하기와 동일한 control-bar 구조 */}
       <div className="control-bar no-print">
         <div className="control-bar-header">

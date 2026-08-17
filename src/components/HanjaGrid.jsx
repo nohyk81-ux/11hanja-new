@@ -1,9 +1,9 @@
 import React from 'react';
-import { Helmet } from 'react-helmet-async';
 import { Search, Printer, CheckSquare, Square, FileText, Shuffle, X } from 'lucide-react';
 import GradeSelector from './GradeSelector';
 import HanjaCard from './HanjaCard';
 import { seoData } from '../data/seoData';
+import { useSeo } from '../utils/useSeo';
 
 export default function HanjaGrid({
   selectedGrade,
@@ -23,13 +23,10 @@ export default function HanjaGrid({
     description: `${selectedGrade} 무료 한자 쓰기 연습지 프린트`
   };
 
+  useSeo(`${currentSeo.title} - 일일한자`, currentSeo.description);
+
   return (
     <div>
-      <Helmet>
-        <title>{currentSeo.title} - 일일한자</title>
-        <meta name="description" content={currentSeo.description} />
-      </Helmet>
-
       {/* Control Bar: Grade selection & Top Right Search Box */}
       <div className="control-bar no-print">
         <div className="control-bar-header">
