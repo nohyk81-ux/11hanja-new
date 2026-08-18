@@ -4,6 +4,7 @@ import * as HanziWriterModule from 'hanzi-writer';
 import GradeSelector from './GradeSelector';
 import { useSeo } from '../utils/useSeo';
 import { seoData } from '../data/seoData';
+import { BOARD_NAMES } from '../utils/gradeMapping';
 
 const HanziWriter = HanziWriterModule.default || HanziWriterModule;
 import { loadHanziData } from '../utils/hanziLoader';
@@ -43,6 +44,7 @@ const WRITER_CONFIG = {
 
 export default function StrokePractice({
   selectedGrade,
+  selectedBoard,
   searchQuery,
   setSearchQuery,
   filteredHanjaList,
@@ -90,7 +92,7 @@ export default function StrokePractice({
   const cancelAnimRef = useRef(false);
 
   useEffect(() => {
-    if (!writerRef.current || !charData || mode !== 'animate') return;
+    if (!writerRef.current || !charData || !charData.data || !charData.data.strokes || mode !== 'animate') return;
     
     let isCancelled = false;
     cancelAnimRef.current = false;
@@ -219,12 +221,15 @@ export default function StrokePractice({
     });
   };
 
-  const currentSeo = seoData[selectedGrade] || {
+  const boardName = BOARD_NAMES[selectedBoard] || '대한검정회';
+  const currentSeo = (seoData[selectedBoard] && seoData[selectedBoard][selectedGrade]) || {
     title: `${selectedGrade} 한자 쓰기 연습`,
-    description: `${selectedGrade} 무료 한자 쓰기 연습지 프린트`
+    description: `${BOARD_NAMES[selectedBoard]} ${selectedGrade} 한자를 익히고 연습해보세요.`
   };
+  const title = currentSeo.title;
+  const description = currentSeo.description;
 
-  useSeo(`${currentSeo.title} - 일일한자`, currentSeo.description);
+  useSeo(`${title} - 일일한자`, description);
 
   return (
     <div>
@@ -255,7 +260,7 @@ export default function StrokePractice({
             )}
           </div>
         </div>
-        <GradeSelector selectedGrade={selectedGrade} getCountByGrade={getCountByGrade} />
+        <GradeSelector selectedGrade={selectedGrade} selectedBoard={selectedBoard} getCountByGrade={getCountByGrade} />
         
         {/* SEO Description for users & search engines */}
         <p style={{ marginTop: '0.75rem', fontSize: '0.9rem', color: 'var(--gray-600)', lineHeight: '1.5', wordBreak: 'keep-all', textAlign: 'left' }}>
@@ -303,7 +308,9 @@ export default function StrokePractice({
               <h2>{selectedHanja.character}</h2>
               <div className="viewer-meta-row" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.25rem' }}>
                 <span className="viewer-huneum">{selectedHanja.hun} {selectedHanja.eum}</span>
-                <span className="viewer-grade badge" style={{ marginTop: 0 }}>{selectedHanja.grade}</span>
+                <span className="viewer-grade badge" style={{ marginTop: 0 }}>
+                  {selectedHanja[selectedBoard] || selectedHanja.uhmoon || selectedHanja.daehan || selectedHanja.korcham || selectedGrade}
+                </span>
                 {selectedHanja.totalStrokes && (
                   <span className="viewer-grade badge" style={{ marginTop: 0 }}>총 {selectedHanja.totalStrokes}획</span>
                 )}

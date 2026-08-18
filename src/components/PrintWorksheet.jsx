@@ -165,7 +165,7 @@ function A4SingleHanjaSheet({ hanja, isActive = true }) {
       {/* Printable Header */}
       <div className="a4-header">
         <div className="a4-title-group">
-          <h2>일일한자 쓰기 연습지 ({hanja.grade})</h2>
+          <h2>일일한자 쓰기 연습지 ({hanja.uhmoon || hanja.daehan || hanja.korcham || '급수 한자'})</h2>
           <p>매일 10분! 스스로 익히는 급수 한자 교재 • 11HANJA.COM</p>
         </div>
         <div className="a4-user-info">
@@ -230,7 +230,8 @@ function A4SingleHanjaSheet({ hanja, isActive = true }) {
 // Combined A4 Sheet Component
 function A4SummaryHanjaSheet({ selectedHanjaList }) {
   const cells = Array.from({ length: 36 });
-  const gradeLabel = selectedHanjaList[0]?.grade || '8급';
+  const first = selectedHanjaList[0];
+  const gradeLabel = first?.uhmoon || first?.daehan || first?.korcham || '급수 한자';
 
   return (
     <div className="a4-page">

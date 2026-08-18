@@ -4,9 +4,11 @@ import GradeSelector from './GradeSelector';
 import HanjaCard from './HanjaCard';
 import { seoData } from '../data/seoData';
 import { useSeo } from '../utils/useSeo';
+import { BOARD_NAMES } from '../utils/gradeMapping';
 
 export default function HanjaGrid({
   selectedGrade,
+  selectedBoard,
   searchQuery,
   setSearchQuery,
   filteredHanjaList,
@@ -18,12 +20,15 @@ export default function HanjaGrid({
   onRandom5Generate,
   getCountByGrade
 }) {
-  const currentSeo = seoData[selectedGrade] || {
+  const boardName = BOARD_NAMES[selectedBoard] || '대한검정회';
+  const currentSeo = (seoData[selectedBoard] && seoData[selectedBoard][selectedGrade]) || {
     title: `${selectedGrade} 한자 쓰기 연습`,
-    description: `${selectedGrade} 무료 한자 쓰기 연습지 프린트`
+    description: `${BOARD_NAMES[selectedBoard]} ${selectedGrade} 한자를 익히고 연습해보세요.`
   };
+  const title = currentSeo.title;
+  const description = currentSeo.description;
 
-  useSeo(`${currentSeo.title} - 일일한자`, currentSeo.description);
+  useSeo(`${title} - 일일한자`, description);
 
   return (
     <div>
@@ -60,6 +65,7 @@ export default function HanjaGrid({
         {/* Grade Tabs */}
         <GradeSelector
           selectedGrade={selectedGrade}
+          selectedBoard={selectedBoard}
           getCountByGrade={getCountByGrade}
         />
         

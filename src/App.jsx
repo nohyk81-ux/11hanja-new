@@ -1,5 +1,5 @@
 import React, { useState, useMemo, useEffect } from 'react';
-import { BrowserRouter, Routes, Route, Navigate, useLocation, useNavigate, useParams } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate, useLocation, useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { Printer } from 'lucide-react';
 import Header from './components/Header';
 import HanjaGrid from './components/HanjaGrid';
@@ -12,17 +12,21 @@ import PrivacyModal from './components/PrivacyModal';
 import FaqModal from './components/FaqModal';
 import GuideModal from './components/GuideModal';
 import { HANJA_DATABASE } from './data/hanjaData';
+import { GR_TO_GRADE, GRADE_TO_GR } from './utils/gradeMapping';
 import './styles/main.css';
 import './styles/print.css';
 
 function AppContent() {
   const location = useLocation();
   const navigate = useNavigate();
+  const [searchParams, setSearchParams] = useSearchParams();
   
-  // URL에서 급수 파싱 (기본값 8급)
+  // Parse grade and board from URL
   const match = location.pathname.match(/\/(?:grade|stroke)\/([^/]+)/);
-  const currentGradeFromUrl = match ? decodeURIComponent(match[1]) : '8급';
-  const selectedGrade = currentGradeFromUrl;
+  const rawGradeId = match ? decodeURIComponent(match[1]) : '8GR';
+  const selectedGrade = GR_TO_GRADE[rawGradeId] || '8급';
+  
+  const selectedBoard = searchParams.get('board') || 'uhmoon';
 
   const [activeMenu, setActiveMenu] = useState('practice');
   const [searchQuery, setSearchQuery] = useState('');
@@ -37,23 +41,24 @@ function AppContent() {
 
   const filteredHanjaList = useMemo(() => {
     return HANJA_DATABASE.filter((item) => {
-      const matchesGrade = item.grade === selectedGrade;
+      const matchesGrade = item[selectedBoard] === selectedGrade;
 
       if (!searchQuery.trim()) return matchesGrade;
 
       const q = searchQuery.trim().toLowerCase();
+      // Only search within the currently selected board!
       return (
         matchesGrade &&
         (item.character.includes(q) ||
-          item.hun.toLowerCase().includes(q) ||
-          item.eum.toLowerCase().includes(q) ||
-          item.hunEum.toLowerCase().includes(q))
+          (item.hun && item.hun.toLowerCase().includes(q)) ||
+          (item.eum && item.eum.toLowerCase().includes(q)) ||
+          (item.hunEum && item.hunEum.toLowerCase().includes(q)))
       );
     });
-  }, [selectedGrade, searchQuery]);
+  }, [selectedGrade, selectedBoard, searchQuery]);
 
   const getCountByGrade = (grade) => {
-    return HANJA_DATABASE.filter((h) => h.grade === grade).length;
+    return HANJA_DATABASE.filter((h) => h[selectedBoard] === grade).length;
   };
 
   const handleToggleSelect = (id) => {
@@ -94,14 +99,14 @@ function AppContent() {
   };
 
   const handleRandom5Generate = () => {
-    const gradeHanjaList = HANJA_DATABASE.filter((h) => h.grade === selectedGrade);
+    const gradeHanjaList = HANJA_DATABASE.filter((h) => h[selectedBoard] === selectedGrade);
     if (gradeHanjaList.length === 0) {
       alert('해당 급수의 한자 데이터가 없습니다.');
       return;
     }
 
     const shuffled = [...gradeHanjaList].sort(() => 0.5 - Math.random());
-    const selected5 = shuffled.slice(0, 5);
+    const selected5 = shuffled.slice(0, Math.min(5, shuffled.length));
     const selected5Ids = selected5.map((h) => h.id);
 
     setSelectedHanjaIds(selected5Ids);
@@ -110,7 +115,7 @@ function AppContent() {
     setTimeout(() => {
       setIsPreparingPrint(false);
       setIsWorksheetOpen(true);
-    }, 3000);
+    }, 1000);
   };
 
   const handleQuickPrint = () => {
@@ -143,8 +148,8 @@ function AppContent() {
 
       <main className="main-content">
         <Routes>
-          <Route path="/" element={<Navigate to="/grade/8급" replace />} />
-          <Route path="/stroke" element={<Navigate to="/stroke/8급" replace />} />
+          <Route path="/" element={<Navigate to="/grade/8GR" replace />} />
+          <Route path="/stroke" element={<Navigate to="/stroke/8GR" replace />} />
           
           <Route 
             path="/grade/:gradeId" 
@@ -152,6 +157,7 @@ function AppContent() {
               !isWorksheetOpen && (
                 <HanjaGrid
                   selectedGrade={selectedGrade}
+                  selectedBoard={selectedBoard}
                   searchQuery={searchQuery}
                   setSearchQuery={setSearchQuery}
                   filteredHanjaList={filteredHanjaList}
@@ -171,6 +177,7 @@ function AppContent() {
             element={
               <StrokePractice
                 selectedGrade={selectedGrade}
+                selectedBoard={selectedBoard}
                 searchQuery={searchQuery}
                 setSearchQuery={setSearchQuery}
                 filteredHanjaList={filteredHanjaList}
@@ -179,7 +186,7 @@ function AppContent() {
             } 
           />
           <Route path="/story" element={<HanjaStory />} />
-          <Route path="*" element={<Navigate to="/grade/8급" replace />} />
+          <Route path="*" element={<Navigate to="/grade/8GR" replace />} />
         </Routes>
         
         {isWorksheetOpen && (

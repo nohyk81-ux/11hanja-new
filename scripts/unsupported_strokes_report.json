@@ -1,0 +1,4641 @@
+{
+  "totalUhmoon": 5978,
+  "totalUnsupported": 923,
+  "unsupportedByGrade": {
+    "4급Ⅱ": [
+      {
+        "character": "硏",
+        "hunEum": "갈 연",
+        "grade": "4급Ⅱ"
+      },
+      {
+        "character": "鄕",
+        "hunEum": "시골,마을 향",
+        "grade": "4급Ⅱ"
+      }
+    ],
+    "3급Ⅱ": [
+      {
+        "character": "槪",
+        "hunEum": "대개 개",
+        "grade": "3급Ⅱ"
+      }
+    ],
+    "4급": [
+      {
+        "character": "鑛",
+        "hunEum": "쇳돌 광",
+        "grade": "4급"
+      },
+      {
+        "character": "鬪",
+        "hunEum": "싸울 투",
+        "grade": "4급"
+      }
+    ],
+    "3급": [
+      {
+        "character": "畓",
+        "hunEum": "논 답",
+        "grade": "3급"
+      },
+      {
+        "character": "屛",
+        "hunEum": "병풍 병",
+        "grade": "3급"
+      },
+      {
+        "character": "玆",
+        "hunEum": "이 자",
+        "grade": "3급"
+      }
+    ],
+    "2급": [
+      {
+        "character": "倂",
+        "hunEum": "아우를 병",
+        "grade": "2급"
+      },
+      {
+        "character": "蔘",
+        "hunEum": "삼 삼",
+        "grade": "2급"
+      },
+      {
+        "character": "揷",
+        "hunEum": "꽂을 삽",
+        "grade": "2급"
+      }
+    ],
+    "1급Ⅱ": [
+      {
+        "character": "塏",
+        "hunEum": "높고건조한땅 개",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "璟",
+        "hunEum": "옥빛 경",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "騏",
+        "hunEum": "준마 기",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "乭",
+        "hunEum": "돌 돌",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "旼",
+        "hunEum": "온화할 민",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "磻",
+        "hunEum": "물이름 반",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "裵",
+        "hunEum": "성 배",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "昺",
+        "hunEum": "빛날 병",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "晳",
+        "hunEum": "밝을 석",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "璿",
+        "hunEum": "아름다운옥 선",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "卨",
+        "hunEum": "사람이름 설",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "珣",
+        "hunEum": "옥그릇 순",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "湜",
+        "hunEum": "맑을 식",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "姸",
+        "hunEum": "예쁠 연",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "燁",
+        "hunEum": "빛날 엽",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "鏞",
+        "hunEum": "쇠북 용",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "瑢",
+        "hunEum": "패옥소리 용",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "踰",
+        "hunEum": "넘을 유",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "鈗",
+        "hunEum": "병기 윤",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "鎰",
+        "hunEum": "스물넉냥 일",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "珽",
+        "hunEum": "옥홀 정",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "曺",
+        "hunEum": "성씨 조",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "埈",
+        "hunEum": "가파를 준",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "晙",
+        "hunEum": "밝을 준",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "瓚",
+        "hunEum": "제기 찬",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "埰",
+        "hunEum": "채밭 채",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "爀",
+        "hunEum": "빛날 혁",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "瀅",
+        "hunEum": "맑을 형",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "壎",
+        "hunEum": "질나팔,흙풍류 훈",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "琯",
+        "hunEum": "피리 관",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "嬅",
+        "hunEum": "여자이름 화",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "昞",
+        "hunEum": "TODO: 뜻음",
+        "grade": "1급Ⅱ"
+      },
+      {
+        "character": "澔",
+        "hunEum": "TODO: 뜻음",
+        "grade": "1급Ⅱ"
+      }
+    ],
+    "1급": [
+      {
+        "character": "遝",
+        "hunEum": "뒤섞일 답",
+        "grade": "1급"
+      },
+      {
+        "character": "賻",
+        "hunEum": "부의 부",
+        "grade": "1급"
+      },
+      {
+        "character": "媤",
+        "hunEum": "시집 시",
+        "grade": "1급"
+      },
+      {
+        "character": "餠",
+        "hunEum": "떡 병",
+        "grade": "1급"
+      },
+      {
+        "character": "甁",
+        "hunEum": "병,단지 병",
+        "grade": "1급"
+      },
+      {
+        "character": "輳",
+        "hunEum": "모일,바퀴살통 주",
+        "grade": "1급"
+      },
+      {
+        "character": "驩",
+        "hunEum": "기뻐할 환",
+        "grade": "1급"
+      },
+      {
+        "character": "癎",
+        "hunEum": "TODO: 뜻음",
+        "grade": "1급"
+      },
+      {
+        "character": "洑",
+        "hunEum": "TODO: 뜻음",
+        "grade": "1급"
+      },
+      {
+        "character": "鰒",
+        "hunEum": "TODO: 뜻음",
+        "grade": "1급"
+      },
+      {
+        "character": "嚬",
+        "hunEum": "TODO: 뜻음",
+        "grade": "1급"
+      },
+      {
+        "character": "鍮",
+        "hunEum": "TODO: 뜻음",
+        "grade": "1급"
+      },
+      {
+        "character": "葯",
+        "hunEum": "TODO: 뜻음",
+        "grade": "1급"
+      },
+      {
+        "character": "鍼",
+        "hunEum": "TODO: 뜻음",
+        "grade": "1급"
+      },
+      {
+        "character": "攄",
+        "hunEum": "TODO: 뜻음",
+        "grade": "1급"
+      },
+      {
+        "character": "衒",
+        "hunEum": "TODO: 뜻음",
+        "grade": "1급"
+      },
+      {
+        "character": "讎",
+        "hunEum": "원수 수",
+        "grade": "1급"
+      },
+      {
+        "character": "觝",
+        "hunEum": "씨름 저",
+        "grade": "1급"
+      }
+    ],
+    "특급Ⅱ": [
+      {
+        "character": "堈",
+        "hunEum": "독,언덕 강",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "俓",
+        "hunEum": "곧을 경",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "坰",
+        "hunEum": "들 경",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "暻",
+        "hunEum": "밝을 경",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "瓘",
+        "hunEum": "옥 관",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "炚",
+        "hunEum": "비칠,밝을 광",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "侊",
+        "hunEum": "성할,클 광",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "珖",
+        "hunEum": "옥피리 광",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "銶",
+        "hunEum": "끌 구",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "耈",
+        "hunEum": "명길 구",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "畇",
+        "hunEum": "밭일굴 균",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "劤",
+        "hunEum": "강할 근",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "昑",
+        "hunEum": "밝을 금",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "錡",
+        "hunEum": "가마솥 기",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "璂",
+        "hunEum": "고깔꾸미개옥 기",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "玘",
+        "hunEum": "패옥 기",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "錤",
+        "hunEum": "호미 기",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "湳",
+        "hunEum": "물이름 남",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "焞",
+        "hunEum": "밝을 순",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "崍",
+        "hunEum": "산이름 래",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "轢",
+        "hunEum": "삐걱거릴 력",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "璉",
+        "hunEum": "호련 련",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "潾",
+        "hunEum": "물맑을 린",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "璘",
+        "hunEum": "옥무늬 린",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "珷",
+        "hunEum": "옥돌 무",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "渼",
+        "hunEum": "물결무늬 미",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "輧",
+        "hunEum": "가벼운수레 병",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "棅",
+        "hunEum": "자루 병",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "琫",
+        "hunEum": "칼집장식,옥 봉",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "琁",
+        "hunEum": "옥 선",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "珹",
+        "hunEum": "옥이름 성",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "琇",
+        "hunEum": "옥돌 수",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "璹",
+        "hunEum": "옥그릇 숙",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "琡",
+        "hunEum": "옥이름 숙",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "錞",
+        "hunEum": "사발종 순",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "菴",
+        "hunEum": "초막 암",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "昻",
+        "hunEum": "높을 앙",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "渶",
+        "hunEum": "강이름 영",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "瀯",
+        "hunEum": "물흐를 영",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鍈",
+        "hunEum": "방울소리 영",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "煐",
+        "hunEum": "사람이름,빛날 영",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "旿",
+        "hunEum": "낮밝을,대낮 오",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "瑥",
+        "hunEum": "사람이름 온",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "梡",
+        "hunEum": "도마,장작 완",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "釪",
+        "hunEum": "악기이름,바리때 우",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "瑀",
+        "hunEum": "패옥 우",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "澐",
+        "hunEum": "큰물결 운",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "嫄",
+        "hunEum": "여자이름 원",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "暐",
+        "hunEum": "햇빛 위",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "堉",
+        "hunEum": "기름진땅 육",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "玧",
+        "hunEum": "귀막는옥 윤",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "奫",
+        "hunEum": "물깊고넓을 윤",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "瀷",
+        "hunEum": "스며흐를,물이름 익",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "馹",
+        "hunEum": "역말 일",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "暲",
+        "hunEum": "밝을 장",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "琠",
+        "hunEum": "귀막이옥 전",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "佺",
+        "hunEum": "신선이름 전",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "炡",
+        "hunEum": "빛날 정",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "姃",
+        "hunEum": "여자단정할 정",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "綎",
+        "hunEum": "인끈 정",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "晸",
+        "hunEum": "해뜰 정",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "倧",
+        "hunEum": "상고신인 종",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "悰",
+        "hunEum": "즐거울 종",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "畯",
+        "hunEum": "농부 준",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "縝",
+        "hunEum": "삼실,촘촘할 진",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "瑨",
+        "hunEum": "아름다운옥돌 진",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "瓆",
+        "hunEum": "사람이름 질",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "潗",
+        "hunEum": "샘솟을 집",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "澯",
+        "hunEum": "맑을 찬",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "纘",
+        "hunEum": "이을 찬",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "寀",
+        "hunEum": "녹봉 채",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "瑃",
+        "hunEum": "옥이름 춘",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "晫",
+        "hunEum": "밝을 탁",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "琸",
+        "hunEum": "사람이름 탁",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "浿",
+        "hunEum": "물이름 패",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "驃",
+        "hunEum": "날랠 표",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "珌",
+        "hunEum": "칼집장식옥 필",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "苾",
+        "hunEum": "향기날 필",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "馝",
+        "hunEum": "향기로울 필",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "珦",
+        "hunEum": "향옥 향",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "玹",
+        "hunEum": "옥돌,옥빛 현",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "晛",
+        "hunEum": "햇살 현",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "泂",
+        "hunEum": "멀 형",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "頀",
+        "hunEum": "구할,탕나라풍류 호",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "淏",
+        "hunEum": "맑을 호",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "灝",
+        "hunEum": "물넓고멀 호",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "濩",
+        "hunEum": "흘러퍼질 호",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "晥",
+        "hunEum": "환할 환",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "榥",
+        "hunEum": "책상 황",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "澮",
+        "hunEum": "봇도랑 회",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鐄",
+        "hunEum": "큰종 횡",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "斅",
+        "hunEum": "가르칠 효",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "涍",
+        "hunEum": "강이름 효",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "焄",
+        "hunEum": "연기에그을릴,향내 훈",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "炘",
+        "hunEum": "화끈거릴 흔",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "凞",
+        "hunEum": "화할 희",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "誥",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "慤",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "磵",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "乫",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鱇",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鈐",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "迲",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "璥",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "棨",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "磎",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "苽",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "嶠",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "坵",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "絿",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "淃",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "伋",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "耭",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "枏",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "秊",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "寗",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "杻",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "旽",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "遯",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "澾",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "蕁",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "錟",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "坮",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "覩",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "荳",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "芚",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "擥",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "岺",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "笭",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "輅",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "菉",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "蔞",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鏤",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "唜",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "輞",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "椧",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "芼",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "竗",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "沕",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "幷",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "騈",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "蘗",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "湺",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "輹",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "熢",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "昐",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "玭",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "僿",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "詵",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "飡",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "柶",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "乷",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鈒",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "捿",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "蓆",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "敾",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鐥",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "饍",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "宬",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "謖",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "蓀",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "峀",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "璲",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "蓚",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "潚",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "栒",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "橓",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "蕣",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鉥",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "篒",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "侁",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "藎",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "孼",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "髥",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "禑",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "彛",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鮟",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "敭",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "璵",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "礖",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "轝",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "堧",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "挻",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "縯",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "濚",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "霙",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "汭",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "蘂",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "筽",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "琓",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "旴",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "栯",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "稶",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "橒",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "熉",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "蔿",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "褘",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "贇",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "瀜",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "絪",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "靷",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "芿",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "欌",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "諍",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "塼",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鏃",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "渽",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鐫",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "癤",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "檉",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "諪",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "璪",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "寯",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "搢",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "桭",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "璡",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "蔯",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鏶",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "摠",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "慽",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "蹠",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "玔",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "甛",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "憁",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "輜",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鈑",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "飇",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "戱",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "灐",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "畵",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "昰",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "鰕",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "櫶",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "睍",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "逈",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "暳",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "譁",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "碻",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "愰",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "宖",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "帿",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "珝",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "塤",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "煇",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "囍",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "憘",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      },
+      {
+        "character": "熺",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급Ⅱ"
+      }
+    ],
+    "특급": [
+      {
+        "character": "熲",
+        "hunEum": "빛날,불빛 경",
+        "grade": "특급"
+      },
+      {
+        "character": "烓",
+        "hunEum": "화덕,밝을 계",
+        "grade": "특급"
+      },
+      {
+        "character": "錧",
+        "hunEum": "비녀장,쟁기 관",
+        "grade": "특급"
+      },
+      {
+        "character": "漌",
+        "hunEum": "맑을 근",
+        "grade": "특급"
+      },
+      {
+        "character": "墐",
+        "hunEum": "매흙질할 근",
+        "grade": "특급"
+      },
+      {
+        "character": "暣",
+        "hunEum": "볕기운,날씨 기",
+        "grade": "특급"
+      },
+      {
+        "character": "姞",
+        "hunEum": "성,삼갈 길",
+        "grade": "특급"
+      },
+      {
+        "character": "瓓",
+        "hunEum": "옥무늬 란",
+        "grade": "특급"
+      },
+      {
+        "character": "姈",
+        "hunEum": "여자영리할 령",
+        "grade": "특급"
+      },
+      {
+        "character": "昤",
+        "hunEum": "햇빛영롱할 령",
+        "grade": "특급"
+      },
+      {
+        "character": "鏋",
+        "hunEum": "금 만",
+        "grade": "특급"
+      },
+      {
+        "character": "慜",
+        "hunEum": "총명할 민",
+        "grade": "특급"
+      },
+      {
+        "character": "鉑",
+        "hunEum": "금박 박",
+        "grade": "특급"
+      },
+      {
+        "character": "杋",
+        "hunEum": "나무이름 범",
+        "grade": "특급"
+      },
+      {
+        "character": "鍑",
+        "hunEum": "아가리큰솥 복",
+        "grade": "특급"
+      },
+      {
+        "character": "塽",
+        "hunEum": "땅높고밝은곳 상",
+        "grade": "특급"
+      },
+      {
+        "character": "鉐",
+        "hunEum": "놋쇠 석",
+        "grade": "특급"
+      },
+      {
+        "character": "墡",
+        "hunEum": "백토 선",
+        "grade": "특급"
+      },
+      {
+        "character": "珗",
+        "hunEum": "옥돌 선",
+        "grade": "특급"
+      },
+      {
+        "character": "瑆",
+        "hunEum": "옥빛 성",
+        "grade": "특급"
+      },
+      {
+        "character": "柖",
+        "hunEum": "나무흔들릴 소",
+        "grade": "특급"
+      },
+      {
+        "character": "玿",
+        "hunEum": "아름다운옥 소",
+        "grade": "특급"
+      },
+      {
+        "character": "飱",
+        "hunEum": "저녁밥 손",
+        "grade": "특급"
+      },
+      {
+        "character": "橚",
+        "hunEum": "나무줄지어설 숙",
+        "grade": "특급"
+      },
+      {
+        "character": "璱",
+        "hunEum": "푸른진주 슬",
+        "grade": "특급"
+      },
+      {
+        "character": "栻",
+        "hunEum": "점판 식",
+        "grade": "특급"
+      },
+      {
+        "character": "晹",
+        "hunEum": "날흐릴 역",
+        "grade": "특급"
+      },
+      {
+        "character": "堣",
+        "hunEum": "산모퉁이 우",
+        "grade": "특급"
+      },
+      {
+        "character": "沄",
+        "hunEum": "소용돌이칠 운",
+        "grade": "특급"
+      },
+      {
+        "character": "煒",
+        "hunEum": "붉은빛 위",
+        "grade": "특급"
+      },
+      {
+        "character": "輶",
+        "hunEum": "가벼울 유",
+        "grade": "특급"
+      },
+      {
+        "character": "秞",
+        "hunEum": "무성할 유",
+        "grade": "특급"
+      },
+      {
+        "character": "阭",
+        "hunEum": "높을 윤",
+        "grade": "특급"
+      },
+      {
+        "character": "桯",
+        "hunEum": "탁자 정",
+        "grade": "특급"
+      },
+      {
+        "character": "珵",
+        "hunEum": "패옥 정",
+        "grade": "특급"
+      },
+      {
+        "character": "瑅",
+        "hunEum": "옥이름 제",
+        "grade": "특급"
+      },
+      {
+        "character": "妵",
+        "hunEum": "예쁠 주",
+        "grade": "특급"
+      },
+      {
+        "character": "埻",
+        "hunEum": "과녁 준",
+        "grade": "특급"
+      },
+      {
+        "character": "鋕",
+        "hunEum": "새길 지",
+        "grade": "특급"
+      },
+      {
+        "character": "坧",
+        "hunEum": "터 척",
+        "grade": "특급"
+      },
+      {
+        "character": "賰",
+        "hunEum": "부유할 춘",
+        "grade": "특급"
+      },
+      {
+        "character": "珫",
+        "hunEum": "귀고리 충",
+        "grade": "특급"
+      },
+      {
+        "character": "堭",
+        "hunEum": "당집 황",
+        "grade": "특급"
+      },
+      {
+        "character": "佖",
+        "hunEum": "점잖을 필",
+        "grade": "특급"
+      },
+      {
+        "character": "鉍",
+        "hunEum": "창자루 필",
+        "grade": "특급"
+      },
+      {
+        "character": "娍",
+        "hunEum": "아름다울,헌걸찰 성",
+        "grade": "특급"
+      },
+      {
+        "character": "婠",
+        "hunEum": "품성좋을 완",
+        "grade": "특급"
+      },
+      {
+        "character": "鉷",
+        "hunEum": "돌쇠뇌 홍",
+        "grade": "특급"
+      },
+      {
+        "character": "鐶",
+        "hunEum": "쇠고리 환",
+        "grade": "특급"
+      },
+      {
+        "character": "媓",
+        "hunEum": "어머니 황",
+        "grade": "특급"
+      },
+      {
+        "character": "鑂",
+        "hunEum": "금빛바랠 훈",
+        "grade": "특급"
+      },
+      {
+        "character": "爔",
+        "hunEum": "불빛 희",
+        "grade": "특급"
+      },
+      {
+        "character": "憓",
+        "hunEum": "사랑할 혜",
+        "grade": "특급"
+      },
+      {
+        "character": "玠",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "柅",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "蝀",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "烔",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "潣",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "棐",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "儐",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "璸",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "諝",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "璶",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "醼",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "堄",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "橤",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "曘",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "溵",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "檼",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "杝",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "涏",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "瑽",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "燽",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "巑",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "焃",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "侐",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "昡",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "怰",
+        "hunEum": "TODO: 뜻음",
+        "grade": "특급"
+      },
+      {
+        "character": "斝",
+        "hunEum": "옥잔 가",
+        "grade": "특급"
+      },
+      {
+        "character": "檟",
+        "hunEum": "가나무 가",
+        "grade": "특급"
+      },
+      {
+        "character": "榦",
+        "hunEum": "줄기 간",
+        "grade": "특급"
+      },
+      {
+        "character": "瞯",
+        "hunEum": "엿볼 간",
+        "grade": "특급"
+      },
+      {
+        "character": "衎",
+        "hunEum": "즐길/곧을 간",
+        "grade": "특급"
+      },
+      {
+        "character": "矙",
+        "hunEum": "엿볼 감",
+        "grade": "특급"
+      },
+      {
+        "character": "湝",
+        "hunEum": "물흐를 개",
+        "grade": "특급"
+      },
+      {
+        "character": "槩",
+        "hunEum": "평미레 개",
+        "grade": "특급"
+      },
+      {
+        "character": "鏗",
+        "hunEum": "금석소리 갱",
+        "grade": "특급"
+      },
+      {
+        "character": "賡",
+        "hunEum": "이을 갱",
+        "grade": "특급"
+      },
+      {
+        "character": "硜",
+        "hunEum": "돌소리 갱",
+        "grade": "특급"
+      },
+      {
+        "character": "秔",
+        "hunEum": "메벼 갱",
+        "grade": "특급"
+      },
+      {
+        "character": "臄",
+        "hunEum": "순대 갹",
+        "grade": "특급"
+      },
+      {
+        "character": "虡",
+        "hunEum": "쇠북걸이틀 거",
+        "grade": "특급"
+      },
+      {
+        "character": "籧",
+        "hunEum": "대자리 거",
+        "grade": "특급"
+      },
+      {
+        "character": "袪",
+        "hunEum": "소매 거",
+        "grade": "특급"
+      },
+      {
+        "character": "朅",
+        "hunEum": "떠날 걸",
+        "grade": "특급"
+      },
+      {
+        "character": "跲",
+        "hunEum": "엎드러질 겁",
+        "grade": "특급"
+      },
+      {
+        "character": "愒",
+        "hunEum": "쉴 게",
+        "grade": "특급"
+      },
+      {
+        "character": "綌",
+        "hunEum": "굵은갈포 격",
+        "grade": "특급"
+      },
+      {
+        "character": "鵙",
+        "hunEum": "왜가리 격",
+        "grade": "특급"
+      },
+      {
+        "character": "鴃",
+        "hunEum": "왜가리 격",
+        "grade": "특급"
+      },
+      {
+        "character": "豣",
+        "hunEum": "돼지/노루 견",
+        "grade": "특급"
+      },
+      {
+        "character": "睊",
+        "hunEum": "흘겨볼 견",
+        "grade": "특급"
+      },
+      {
+        "character": "獧",
+        "hunEum": "뛸 견",
+        "grade": "특급"
+      },
+      {
+        "character": "袺",
+        "hunEum": "옷섶잡을 결",
+        "grade": "특급"
+      },
+      {
+        "character": "闋",
+        "hunEum": "마칠 결",
+        "grade": "특급"
+      },
+      {
+        "character": "觼",
+        "hunEum": "쇠고리 결",
+        "grade": "특급"
+      },
+      {
+        "character": "牼",
+        "hunEum": "소정강이뼈 경",
+        "grade": "특급"
+      },
+      {
+        "character": "褧",
+        "hunEum": "홑옷 경",
+        "grade": "특급"
+      },
+      {
+        "character": "焭",
+        "hunEum": "외로울 경",
+        "grade": "특급"
+      },
+      {
+        "character": "惸",
+        "hunEum": "근심할 경",
+        "grade": "특급"
+      },
+      {
+        "character": "駉",
+        "hunEum": "살찌고큰 경",
+        "grade": "특급"
+      },
+      {
+        "character": "翶",
+        "hunEum": "노닐 고",
+        "grade": "특급"
+      },
+      {
+        "character": "櫜",
+        "hunEum": "칼집 고",
+        "grade": "특급"
+      },
+      {
+        "character": "盬",
+        "hunEum": "짠못/마실 고",
+        "grade": "특급"
+      },
+      {
+        "character": "羖",
+        "hunEum": "염소 고",
+        "grade": "특급"
+      },
+      {
+        "character": "鼛",
+        "hunEum": "큰북 고",
+        "grade": "특급"
+      },
+      {
+        "character": "罛",
+        "hunEum": "큰물고기그물 고",
+        "grade": "특급"
+      },
+      {
+        "character": "熇",
+        "hunEum": "말릴 고",
+        "grade": "특급"
+      },
+      {
+        "character": "棞",
+        "hunEum": "문지방 곤",
+        "grade": "특급"
+      },
+      {
+        "character": "鯀",
+        "hunEum": "큰물고기 곤",
+        "grade": "특급"
+      },
+      {
+        "character": "悾",
+        "hunEum": "정성 공",
+        "grade": "특급"
+      },
+      {
+        "character": "薖",
+        "hunEum": "너그러울 과",
+        "grade": "특급"
+      },
+      {
+        "character": "躩",
+        "hunEum": "바삐갈 곽",
+        "grade": "특급"
+      },
+      {
+        "character": "鞹",
+        "hunEum": "가죽 곽",
+        "grade": "특급"
+      },
+      {
+        "character": "瘝",
+        "hunEum": "앓을 관",
+        "grade": "특급"
+      },
+      {
+        "character": "痯",
+        "hunEum": "병에지칠 관",
+        "grade": "특급"
+      },
+      {
+        "character": "鸛",
+        "hunEum": "황새 관",
+        "grade": "특급"
+      },
+      {
+        "character": "祼",
+        "hunEum": "강신제 관",
+        "grade": "특급"
+      },
+      {
+        "character": "佸",
+        "hunEum": "모일 괄",
+        "grade": "특급"
+      },
+      {
+        "character": "纊",
+        "hunEum": "고운솜 광",
+        "grade": "특급"
+      },
+      {
+        "character": "迋",
+        "hunEum": "속일 광",
+        "grade": "특급"
+      },
+      {
+        "character": "鞃",
+        "hunEum": "고삐 굉",
+        "grade": "특급"
+      },
+      {
+        "character": "儌",
+        "hunEum": "갈 교",
+        "grade": "특급"
+      },
+      {
+        "character": "敽",
+        "hunEum": "맬 교",
+        "grade": "특급"
+      },
+      {
+        "character": "荍",
+        "hunEum": "당아욱 교",
+        "grade": "특급"
+      },
+      {
+        "character": "蹻",
+        "hunEum": "발들 교",
+        "grade": "특급"
+      },
+      {
+        "character": "嘐",
+        "hunEum": "깨물 교",
+        "grade": "특급"
+      },
+      {
+        "character": "鷮",
+        "hunEum": "꿩 교",
+        "grade": "특급"
+      },
+      {
+        "character": "曒",
+        "hunEum": "밝을 교",
+        "grade": "특급"
+      },
+      {
+        "character": "姤",
+        "hunEum": "만날 구",
+        "grade": "특급"
+      },
+      {
+        "character": "雊",
+        "hunEum": "장끼울 구",
+        "grade": "특급"
+      },
+      {
+        "character": "觩",
+        "hunEum": "뿔굽을 구",
+        "grade": "특급"
+      },
+      {
+        "character": "捄",
+        "hunEum": "흙파올릴 구",
+        "grade": "특급"
+      },
+      {
+        "character": "覯",
+        "hunEum": "만나볼 구",
+        "grade": "특급"
+      },
+      {
+        "character": "詘",
+        "hunEum": "말막힐 굴",
+        "grade": "특급"
+      },
+      {
+        "character": "棬",
+        "hunEum": "나무그릇 권",
+        "grade": "특급"
+      },
+      {
+        "character": "睠",
+        "hunEum": "돌아볼 권",
+        "grade": "특급"
+      },
+      {
+        "character": "垝",
+        "hunEum": "무너질 궤",
+        "grade": "특급"
+      },
+      {
+        "character": "餽",
+        "hunEum": "먹일 궤",
+        "grade": "특급"
+      },
+      {
+        "character": "闚",
+        "hunEum": "엿볼 규",
+        "grade": "특급"
+      },
+      {
+        "character": "戣",
+        "hunEum": "창 규",
+        "grade": "특급"
+      },
+      {
+        "character": "頍",
+        "hunEum": "머리들 규",
+        "grade": "특급"
+      },
+      {
+        "character": "刲",
+        "hunEum": "찌를/벨 규",
+        "grade": "특급"
+      },
+      {
+        "character": "騤",
+        "hunEum": "말건장할 규",
+        "grade": "특급"
+      },
+      {
+        "character": "頄",
+        "hunEum": "광대뼈 규",
+        "grade": "특급"
+      },
+      {
+        "character": "麕",
+        "hunEum": "노루 균",
+        "grade": "특급"
+      },
+      {
+        "character": "襋",
+        "hunEum": "옷깃 극",
+        "grade": "특급"
+      },
+      {
+        "character": "旂",
+        "hunEum": "용대기 기",
+        "grade": "특급"
+      },
+      {
+        "character": "覊",
+        "hunEum": "굴레/나그네 기",
+        "grade": "특급"
+      },
+      {
+        "character": "蘷",
+        "hunEum": "조심할 기",
+        "grade": "특급"
+      },
+      {
+        "character": "墍",
+        "hunEum": "흙바를 기",
+        "grade": "특급"
+      },
+      {
+        "character": "軝",
+        "hunEum": "수레굴통대 기",
+        "grade": "특급"
+      },
+      {
+        "character": "頎",
+        "hunEum": "헌걸찰 기",
+        "grade": "특급"
+      },
+      {
+        "character": "僛",
+        "hunEum": "비틀거려춤출 기",
+        "grade": "특급"
+      },
+      {
+        "character": "羇",
+        "hunEum": "굴레/나그네 기",
+        "grade": "특급"
+      },
+      {
+        "character": "戁",
+        "hunEum": "두려워할 난",
+        "grade": "특급"
+      },
+      {
+        "character": "軜",
+        "hunEum": "고삐 납",
+        "grade": "특급"
+      },
+      {
+        "character": "峱",
+        "hunEum": "산이름 노",
+        "grade": "특급"
+      },
+      {
+        "character": "砮",
+        "hunEum": "돌살촉 노",
+        "grade": "특급"
+      },
+      {
+        "character": "怓",
+        "hunEum": "어지러울 노",
+        "grade": "특급"
+      },
+      {
+        "character": "穠",
+        "hunEum": "무성할 농",
+        "grade": "특급"
+      },
+      {
+        "character": "漙",
+        "hunEum": "이슬많을 단",
+        "grade": "특급"
+      },
+      {
+        "character": "闥",
+        "hunEum": "궐문 달",
+        "grade": "특급"
+      },
+      {
+        "character": "惔",
+        "hunEum": "속탈 담",
+        "grade": "특급"
+      },
+      {
+        "character": "餤",
+        "hunEum": "먹을 담",
+        "grade": "특급"
+      },
+      {
+        "character": "驔",
+        "hunEum": "정강이흰말 담",
+        "grade": "특급"
+      },
+      {
+        "character": "髧",
+        "hunEum": "머리늘어질 담",
+        "grade": "특급"
+      },
+      {
+        "character": "耼",
+        "hunEum": "귓바퀴없을 담",
+        "grade": "특급"
+      },
+      {
+        "character": "菼",
+        "hunEum": "달 담",
+        "grade": "특급"
+      },
+      {
+        "character": "窞",
+        "hunEum": "구덩이 담",
+        "grade": "특급"
+      },
+      {
+        "character": "黮",
+        "hunEum": "검을 담",
+        "grade": "특급"
+      },
+      {
+        "character": "鏜",
+        "hunEum": "종고소리 당",
+        "grade": "특급"
+      },
+      {
+        "character": "祋",
+        "hunEum": "창 대",
+        "grade": "특급"
+      },
+      {
+        "character": "譈",
+        "hunEum": "원망할 대",
+        "grade": "특급"
+      },
+      {
+        "character": "翿",
+        "hunEum": "깃일산 도",
+        "grade": "특급"
+      },
+      {
+        "character": "咷",
+        "hunEum": "울 도",
+        "grade": "특급"
+      },
+      {
+        "character": "闍",
+        "hunEum": "성문 도",
+        "grade": "특급"
+      },
+      {
+        "character": "稌",
+        "hunEum": "찰벼 도",
+        "grade": "특급"
+      },
+      {
+        "character": "慆",
+        "hunEum": "기뻐할 도",
+        "grade": "특급"
+      },
+      {
+        "character": "謟",
+        "hunEum": "의심할 도",
+        "grade": "특급"
+      },
+      {
+        "character": "鞉",
+        "hunEum": "소고 도",
+        "grade": "특급"
+      },
+      {
+        "character": "瘏",
+        "hunEum": "앓을 도",
+        "grade": "특급"
+      },
+      {
+        "character": "匵",
+        "hunEum": "손궤 독",
+        "grade": "특급"
+      },
+      {
+        "character": "櫝",
+        "hunEum": "궤 독",
+        "grade": "특급"
+      },
+      {
+        "character": "罿",
+        "hunEum": "새그물 동",
+        "grade": "특급"
+      },
+      {
+        "character": "斁",
+        "hunEum": "무너질 두",
+        "grade": "특급"
+      },
+      {
+        "character": "螣",
+        "hunEum": "등사 등",
+        "grade": "특급"
+      },
+      {
+        "character": "臝",
+        "hunEum": "벌거벗을 라",
+        "grade": "특급"
+      },
+      {
+        "character": "勑",
+        "hunEum": "위로할 래",
+        "grade": "특급"
+      },
+      {
+        "character": "倈",
+        "hunEum": "올/위로할 래",
+        "grade": "특급"
+      },
+      {
+        "character": "騋",
+        "hunEum": "큰말 래",
+        "grade": "특급"
+      },
+      {
+        "character": "酈",
+        "hunEum": "땅이름 력",
+        "grade": "특급"
+      },
+      {
+        "character": "栵",
+        "hunEum": "산밤나무 렬",
+        "grade": "특급"
+      },
+      {
+        "character": "纑",
+        "hunEum": "베올 로",
+        "grade": "특급"
+      },
+      {
+        "character": "簵",
+        "hunEum": "대이름 로",
+        "grade": "특급"
+      },
+      {
+        "character": "壚",
+        "hunEum": "검은흙 로",
+        "grade": "특급"
+      },
+      {
+        "character": "罍",
+        "hunEum": "술잔 뢰",
+        "grade": "특급"
+      },
+      {
+        "character": "敹",
+        "hunEum": "가릴 료",
+        "grade": "특급"
+      },
+      {
+        "character": "懰",
+        "hunEum": "근심할/아름다울 류",
+        "grade": "특급"
+      },
+      {
+        "character": "罶",
+        "hunEum": "통발 류",
+        "grade": "특급"
+      },
+      {
+        "character": "藟",
+        "hunEum": "덩굴풀 류",
+        "grade": "특급"
+      },
+      {
+        "character": "虆",
+        "hunEum": "덩굴 류",
+        "grade": "특급"
+      },
+      {
+        "character": "駵",
+        "hunEum": "월따말 류",
+        "grade": "특급"
+      },
+      {
+        "character": "僇",
+        "hunEum": "욕할 륙",
+        "grade": "특급"
+      },
+      {
+        "character": "穋",
+        "hunEum": "올벼 륙",
+        "grade": "특급"
+      },
+      {
+        "character": "纚",
+        "hunEum": "맬 리",
+        "grade": "특급"
+      },
+      {
+        "character": "梩",
+        "hunEum": "삼태기 리",
+        "grade": "특급"
+      },
+      {
+        "character": "苙",
+        "hunEum": "구릿대/짐승우리 립",
+        "grade": "특급"
+      },
+      {
+        "character": "禡",
+        "hunEum": "마제 마",
+        "grade": "특급"
+      },
+      {
+        "character": "蘉",
+        "hunEum": "힘쓸 망",
+        "grade": "특급"
+      },
+      {
+        "character": "沬",
+        "hunEum": "희미할 매",
+        "grade": "특급"
+      },
+      {
+        "character": "韎",
+        "hunEum": "가죽 매",
+        "grade": "특급"
+      },
+      {
+        "character": "鋂",
+        "hunEum": "사슬고리 매",
+        "grade": "특급"
+      },
+      {
+        "character": "痗",
+        "hunEum": "병들 매",
+        "grade": "특급"
+      },
+      {
+        "character": "勱",
+        "hunEum": "힘쓸 매",
+        "grade": "특급"
+      },
+      {
+        "character": "幭",
+        "hunEum": "덮개 멸",
+        "grade": "특급"
+      },
+      {
+        "character": "麰",
+        "hunEum": "보리 모",
+        "grade": "특급"
+      },
+      {
+        "character": "眊",
+        "hunEum": "눈흐릴/늙을 모",
+        "grade": "특급"
+      },
+      {
+        "character": "楘",
+        "hunEum": "수레장식 목",
+        "grade": "특급"
+      },
+      {
+        "character": "饛",
+        "hunEum": "밥수북히담을 몽",
+        "grade": "특급"
+      },
+      {
+        "character": "幪",
+        "hunEum": "덮을 몽",
+        "grade": "특급"
+      },
+      {
+        "character": "儛",
+        "hunEum": "춤출 무",
+        "grade": "특급"
+      },
+      {
+        "character": "膴",
+        "hunEum": "두터울 무",
+        "grade": "특급"
+      },
+      {
+        "character": "髳",
+        "hunEum": "다박머리 무",
+        "grade": "특급"
+      },
+      {
+        "character": "纆",
+        "hunEum": "노 묵",
+        "grade": "특급"
+      },
+      {
+        "character": "璊",
+        "hunEum": "붉은옥 문",
+        "grade": "특급"
+      },
+      {
+        "character": "穈",
+        "hunEum": "붉은기장 문",
+        "grade": "특급"
+      },
+      {
+        "character": "郿",
+        "hunEum": "땅이름 미",
+        "grade": "특급"
+      },
+      {
+        "character": "痻",
+        "hunEum": "병들 민",
+        "grade": "특급"
+      },
+      {
+        "character": "襮",
+        "hunEum": "수놓은깃 박",
+        "grade": "특급"
+      },
+      {
+        "character": "鞶",
+        "hunEum": "가죽띠 반",
+        "grade": "특급"
+      },
+      {
+        "character": "浡",
+        "hunEum": "우쩍일어날 발",
+        "grade": "특급"
+      },
+      {
+        "character": "軷",
+        "hunEum": "길제사 발",
+        "grade": "특급"
+      },
+      {
+        "character": "雱",
+        "hunEum": "눈내릴 방",
+        "grade": "특급"
+      },
+      {
+        "character": "魴",
+        "hunEum": "방어 방",
+        "grade": "특급"
+      },
+      {
+        "character": "桮",
+        "hunEum": "술잔 배",
+        "grade": "특급"
+      },
+      {
+        "character": "墦",
+        "hunEum": "무덤 번",
+        "grade": "특급"
+      },
+      {
+        "character": "籩",
+        "hunEum": "제기이름 변",
+        "grade": "특급"
+      },
+      {
+        "character": "荓",
+        "hunEum": "풀이름 병",
+        "grade": "특급"
+      },
+      {
+        "character": "怲",
+        "hunEum": "근심할 병",
+        "grade": "특급"
+      },
+      {
+        "character": "缾",
+        "hunEum": "병 병",
+        "grade": "특급"
+      },
+      {
+        "character": "楅",
+        "hunEum": "뿔막이 복",
+        "grade": "특급"
+      },
+      {
+        "character": "葍",
+        "hunEum": "순무 복",
+        "grade": "특급"
+      },
+      {
+        "character": "菶",
+        "hunEum": "풀우거질 봉",
+        "grade": "특급"
+      },
+      {
+        "character": "芃",
+        "hunEum": "풀무성할 봉",
+        "grade": "특급"
+      },
+      {
+        "character": "祔",
+        "hunEum": "합장할 부",
+        "grade": "특급"
+      },
+      {
+        "character": "痡",
+        "hunEum": "앓을 부",
+        "grade": "특급"
+      },
+      {
+        "character": "紑",
+        "hunEum": "옷깨끗할 부",
+        "grade": "특급"
+      },
+      {
+        "character": "鈇",
+        "hunEum": "작두/도끼 부",
+        "grade": "특급"
+      },
+      {
+        "character": "芣",
+        "hunEum": "질경이 부",
+        "grade": "특급"
+      },
+      {
+        "character": "罦",
+        "hunEum": "덮을 부",
+        "grade": "특급"
+      },
+      {
+        "character": "幩",
+        "hunEum": "재갈장식 분",
+        "grade": "특급"
+      },
+      {
+        "character": "鼖",
+        "hunEum": "큰북 분",
+        "grade": "특급"
+      },
+      {
+        "character": "饙",
+        "hunEum": "찐밥 분",
+        "grade": "특급"
+      },
+      {
+        "character": "蕡",
+        "hunEum": "열매많을 분",
+        "grade": "특급"
+      },
+      {
+        "character": "豶",
+        "hunEum": "불깐돼지 분",
+        "grade": "특급"
+      },
+      {
+        "character": "咈",
+        "hunEum": "어길 불",
+        "grade": "특급"
+      },
+      {
+        "character": "紱",
+        "hunEum": "인끈 불",
+        "grade": "특급"
+      },
+      {
+        "character": "笰",
+        "hunEum": "수레가리개 불",
+        "grade": "특급"
+      },
+      {
+        "character": "閟",
+        "hunEum": "닫을 비",
+        "grade": "특급"
+      },
+      {
+        "character": "騑",
+        "hunEum": "곁마 비",
+        "grade": "특급"
+      },
+      {
+        "character": "奰",
+        "hunEum": "장대할 비",
+        "grade": "특급"
+      },
+      {
+        "character": "岯",
+        "hunEum": "산겹칠 비",
+        "grade": "특급"
+      },
+      {
+        "character": "秠",
+        "hunEum": "검은기장 비",
+        "grade": "특급"
+      },
+      {
+        "character": "鞞",
+        "hunEum": "마상북 비",
+        "grade": "특급"
+      },
+      {
+        "character": "駓",
+        "hunEum": "황부루 비",
+        "grade": "특급"
+      },
+      {
+        "character": "蠙",
+        "hunEum": "진주조개 빈",
+        "grade": "특급"
+      },
+      {
+        "character": "戺",
+        "hunEum": "문지방 사",
+        "grade": "특급"
+      },
+      {
+        "character": "涘",
+        "hunEum": "물가 사",
+        "grade": "특급"
+      },
+      {
+        "character": "傞",
+        "hunEum": "취한춤 사",
+        "grade": "특급"
+      },
+      {
+        "character": "蹝",
+        "hunEum": "천천히걸을 사",
+        "grade": "특급"
+      },
+      {
+        "character": "鱨",
+        "hunEum": "자가사리/날치 상",
+        "grade": "특급"
+      },
+      {
+        "character": "鱮",
+        "hunEum": "연어 서",
+        "grade": "특급"
+      },
+      {
+        "character": "湑",
+        "hunEum": "이슬맺힐 서",
+        "grade": "특급"
+      },
+      {
+        "character": "澨",
+        "hunEum": "물가 서",
+        "grade": "특급"
+      },
+      {
+        "character": "癙",
+        "hunEum": "근심병 서",
+        "grade": "특급"
+      },
+      {
+        "character": "鼫",
+        "hunEum": "다람쥐 석",
+        "grade": "특급"
+      },
+      {
+        "character": "舃",
+        "hunEum": "신 석",
+        "grade": "특급"
+      },
+      {
+        "character": "僎",
+        "hunEum": "갖출 선",
+        "grade": "특급"
+      },
+      {
+        "character": "墠",
+        "hunEum": "제터 선",
+        "grade": "특급"
+      },
+      {
+        "character": "毨",
+        "hunEum": "털갈 선",
+        "grade": "특급"
+      },
+      {
+        "character": "暬",
+        "hunEum": "설만할 설",
+        "grade": "특급"
+      },
+      {
+        "character": "偰",
+        "hunEum": "맑을 설",
+        "grade": "특급"
+      },
+      {
+        "character": "憸",
+        "hunEum": "아첨할 섬",
+        "grade": "특급"
+      },
+      {
+        "character": "韘",
+        "hunEum": "깍지 섭",
+        "grade": "특급"
+      },
+      {
+        "character": "騂",
+        "hunEum": "붉은소 성",
+        "grade": "특급"
+      },
+      {
+        "character": "帨",
+        "hunEum": "수건 세",
+        "grade": "특급"
+      },
+      {
+        "character": "翛",
+        "hunEum": "날개소리 소",
+        "grade": "특급"
+      },
+      {
+        "character": "繅",
+        "hunEum": "고치켤 소",
+        "grade": "특급"
+      },
+      {
+        "character": "慅",
+        "hunEum": "소란스러울 소",
+        "grade": "특급"
+      },
+      {
+        "character": "餗",
+        "hunEum": "삶은나물 속",
+        "grade": "특급"
+      },
+      {
+        "character": "樕",
+        "hunEum": "참나무 속",
+        "grade": "특급"
+      },
+      {
+        "character": "藚",
+        "hunEum": "쇠귀나물 속",
+        "grade": "특급"
+      },
+      {
+        "character": "魗",
+        "hunEum": "미워할 수",
+        "grade": "특급"
+      },
+      {
+        "character": "廋",
+        "hunEum": "숨길 수",
+        "grade": "특급"
+      },
+      {
+        "character": "睟",
+        "hunEum": "바로볼 수",
+        "grade": "특급"
+      },
+      {
+        "character": "檖",
+        "hunEum": "산배 수",
+        "grade": "특급"
+      },
+      {
+        "character": "穟",
+        "hunEum": "벼이삭 수",
+        "grade": "특급"
+      },
+      {
+        "character": "漘",
+        "hunEum": "물가 순",
+        "grade": "특급"
+      },
+      {
+        "character": "犉",
+        "hunEum": "입술검은누렁소 순",
+        "grade": "특급"
+      },
+      {
+        "character": "諟",
+        "hunEum": "다스릴 시",
+        "grade": "특급"
+      },
+      {
+        "character": "枲",
+        "hunEum": "수삼 시",
+        "grade": "특급"
+      },
+      {
+        "character": "鳲",
+        "hunEum": "뻐꾸기 시",
+        "grade": "특급"
+      },
+      {
+        "character": "釃",
+        "hunEum": "술거를 시",
+        "grade": "특급"
+      },
+      {
+        "character": "緦",
+        "hunEum": "시마 시",
+        "grade": "특급"
+      },
+      {
+        "character": "駪",
+        "hunEum": "많을 신",
+        "grade": "특급"
+      },
+      {
+        "character": "贐",
+        "hunEum": "노자 신",
+        "grade": "특급"
+      },
+      {
+        "character": "甡",
+        "hunEum": "수두룩할 신",
+        "grade": "특급"
+      },
+      {
+        "character": "諗",
+        "hunEum": "고할 심",
+        "grade": "특급"
+      },
+      {
+        "character": "訐",
+        "hunEum": "들추어낼 알",
+        "grade": "특급"
+      },
+      {
+        "character": "頞",
+        "hunEum": "콧대 알",
+        "grade": "특급"
+      },
+      {
+        "character": "餲",
+        "hunEum": "밥쉴 애",
+        "grade": "특급"
+      },
+      {
+        "character": "僾",
+        "hunEum": "비슷할/돋보기 애",
+        "grade": "특급"
+      },
+      {
+        "character": "頟",
+        "hunEum": "이마 액",
+        "grade": "특급"
+      },
+      {
+        "character": "戹",
+        "hunEum": "좁을 액",
+        "grade": "특급"
+      },
+      {
+        "character": "阨",
+        "hunEum": "막힐 액",
+        "grade": "특급"
+      },
+      {
+        "character": "禴",
+        "hunEum": "봄제사 약",
+        "grade": "특급"
+      },
+      {
+        "character": "颺",
+        "hunEum": "날릴 양",
+        "grade": "특급"
+      },
+      {
+        "character": "饟",
+        "hunEum": "건량 양",
+        "grade": "특급"
+      },
+      {
+        "character": "瀼",
+        "hunEum": "이슬많은모양 양",
+        "grade": "특급"
+      },
+      {
+        "character": "鍚",
+        "hunEum": "말이마치장 양",
+        "grade": "특급"
+      },
+      {
+        "character": "敔",
+        "hunEum": "막을 어",
+        "grade": "특급"
+      },
+      {
+        "character": "饇",
+        "hunEum": "배부를 어",
+        "grade": "특급"
+      },
+      {
+        "character": "鰋",
+        "hunEum": "메기 언",
+        "grade": "특급"
+      },
+      {
+        "character": "揜",
+        "hunEum": "가릴 엄",
+        "grade": "특급"
+      },
+      {
+        "character": "渰",
+        "hunEum": "구름일 엄",
+        "grade": "특급"
+      },
+      {
+        "character": "旟",
+        "hunEum": "기 여",
+        "grade": "특급"
+      },
+      {
+        "character": "鸒",
+        "hunEum": "갈까마귀 여",
+        "grade": "특급"
+      },
+      {
+        "character": "鷊",
+        "hunEum": "칠면조 역",
+        "grade": "특급"
+      },
+      {
+        "character": "鶂",
+        "hunEum": "거위소리 역",
+        "grade": "특급"
+      },
+      {
+        "character": "罭",
+        "hunEum": "물고기그물 역",
+        "grade": "특급"
+      },
+      {
+        "character": "棫",
+        "hunEum": "두릅나무 역",
+        "grade": "특급"
+      },
+      {
+        "character": "淢",
+        "hunEum": "빨리흐를 역",
+        "grade": "특급"
+      },
+      {
+        "character": "緎",
+        "hunEum": "혼솔 역",
+        "grade": "특급"
+      },
+      {
+        "character": "檿",
+        "hunEum": "산뽕나무 염",
+        "grade": "특급"
+      },
+      {
+        "character": "燄",
+        "hunEum": "불당길 염",
+        "grade": "특급"
+      },
+      {
+        "character": "饁",
+        "hunEum": "들밥먹일 엽",
+        "grade": "특급"
+      },
+      {
+        "character": "爗",
+        "hunEum": "빛날 엽",
+        "grade": "특급"
+      },
+      {
+        "character": "攖",
+        "hunEum": "찌를/가까이할 영",
+        "grade": "특급"
+      },
+      {
+        "character": "瘞",
+        "hunEum": "묻을 예",
+        "grade": "특급"
+      },
+      {
+        "character": "輗",
+        "hunEum": "멍에막이 예",
+        "grade": "특급"
+      },
+      {
+        "character": "勩",
+        "hunEum": "수고로울 예",
+        "grade": "특급"
+      },
+      {
+        "character": "麑",
+        "hunEum": "사슴새끼 예",
+        "grade": "특급"
+      },
+      {
+        "character": "鷖",
+        "hunEum": "갈매기 예",
+        "grade": "특급"
+      },
+      {
+        "character": "蓺",
+        "hunEum": "심을 예",
+        "grade": "특급"
+      },
+      {
+        "character": "汙",
+        "hunEum": "더러울 오",
+        "grade": "특급"
+      },
+      {
+        "character": "隩",
+        "hunEum": "감출 오",
+        "grade": "특급"
+      },
+      {
+        "character": "嗸",
+        "hunEum": "시끄러울 오",
+        "grade": "특급"
+      },
+      {
+        "character": "杇",
+        "hunEum": "흙손 오",
+        "grade": "특급"
+      },
+      {
+        "character": "奡",
+        "hunEum": "거만할 오",
+        "grade": "특급"
+      },
+      {
+        "character": "韞",
+        "hunEum": "감출 온",
+        "grade": "특급"
+      },
+      {
+        "character": "扤",
+        "hunEum": "움직일 올",
+        "grade": "특급"
+      },
+      {
+        "character": "卼",
+        "hunEum": "위태할 올",
+        "grade": "특급"
+      },
+      {
+        "character": "灉",
+        "hunEum": "물이름 옹",
+        "grade": "특급"
+      },
+      {
+        "character": "顒",
+        "hunEum": "우러를 옹",
+        "grade": "특급"
+      },
+      {
+        "character": "吪",
+        "hunEum": "움직일 와",
+        "grade": "특급"
+      },
+      {
+        "character": "盌",
+        "hunEum": "주발 완",
+        "grade": "특급"
+      },
+      {
+        "character": "騧",
+        "hunEum": "공골말 왜",
+        "grade": "특급"
+      },
+      {
+        "character": "喓",
+        "hunEum": "벌레소리 요",
+        "grade": "특급"
+      },
+      {
+        "character": "葽",
+        "hunEum": "아기풀 요",
+        "grade": "특급"
+      },
+      {
+        "character": "鷕",
+        "hunEum": "암꿩이울 요",
+        "grade": "특급"
+      },
+      {
+        "character": "鄘",
+        "hunEum": "나라이름 용",
+        "grade": "특급"
+      },
+      {
+        "character": "宂",
+        "hunEum": "일없을/번잡할 용",
+        "grade": "특급"
+      },
+      {
+        "character": "俁",
+        "hunEum": "클 우",
+        "grade": "특급"
+      },
+      {
+        "character": "楀",
+        "hunEum": "나무이름 우",
+        "grade": "특급"
+      },
+      {
+        "character": "訏",
+        "hunEum": "속일 우",
+        "grade": "특급"
+      },
+      {
+        "character": "噳",
+        "hunEum": "떼지을/웃는모양 우",
+        "grade": "특급"
+      },
+      {
+        "character": "麌",
+        "hunEum": "수사슴/떼지어모일 우",
+        "grade": "특급"
+      },
+      {
+        "character": "麀",
+        "hunEum": "암사슴 우",
+        "grade": "특급"
+      },
+      {
+        "character": "耰",
+        "hunEum": "고무래 우",
+        "grade": "특급"
+      },
+      {
+        "character": "訧",
+        "hunEum": "허물 우",
+        "grade": "특급"
+      },
+      {
+        "character": "稢",
+        "hunEum": "서직무성할 욱",
+        "grade": "특급"
+      },
+      {
+        "character": "薁",
+        "hunEum": "머루 욱",
+        "grade": "특급"
+      },
+      {
+        "character": "騵",
+        "hunEum": "붉은말 원",
+        "grade": "특급"
+      },
+      {
+        "character": "軏",
+        "hunEum": "멍에막이 월",
+        "grade": "특급"
+      },
+      {
+        "character": "藯",
+        "hunEum": "익모초 위",
+        "grade": "특급"
+      },
+      {
+        "character": "韡",
+        "hunEum": "밝고성한모양 위",
+        "grade": "특급"
+      },
+      {
+        "character": "滺",
+        "hunEum": "물흐르는모양 유",
+        "grade": "특급"
+      },
+      {
+        "character": "褎",
+        "hunEum": "옷잘입을/나아갈 유",
+        "grade": "특급"
+      },
+      {
+        "character": "槱",
+        "hunEum": "화톳불놓을 유",
+        "grade": "특급"
+      },
+      {
+        "character": "楰",
+        "hunEum": "산유자나무 유",
+        "grade": "특급"
+      },
+      {
+        "character": "醹",
+        "hunEum": "술맛진할 유",
+        "grade": "특급"
+      },
+      {
+        "character": "緌",
+        "hunEum": "갓끈 유",
+        "grade": "특급"
+      },
+      {
+        "character": "羑",
+        "hunEum": "인도할 유",
+        "grade": "특급"
+      },
+      {
+        "character": "繘",
+        "hunEum": "두레박줄 율",
+        "grade": "특급"
+      },
+      {
+        "character": "驈",
+        "hunEum": "샅흰검은말 율",
+        "grade": "특급"
+      },
+      {
+        "character": "鴥",
+        "hunEum": "빨리날 율",
+        "grade": "특급"
+      },
+      {
+        "character": "嚚",
+        "hunEum": "어리석을 은",
+        "grade": "특급"
+      },
+      {
+        "character": "訔",
+        "hunEum": "언쟁할 은",
+        "grade": "특급"
+      },
+      {
+        "character": "浥",
+        "hunEum": "젖을 읍",
+        "grade": "특급"
+      },
+      {
+        "character": "饐",
+        "hunEum": "밥쉴 의",
+        "grade": "특급"
+      },
+      {
+        "character": "薿",
+        "hunEum": "우거질 의",
+        "grade": "특급"
+      },
+      {
+        "character": "苢",
+        "hunEum": "질경이 이",
+        "grade": "특급"
+      },
+      {
+        "character": "樲",
+        "hunEum": "멧대추나무 이",
+        "grade": "특급"
+      },
+      {
+        "character": "刵",
+        "hunEum": "귀벨 이",
+        "grade": "특급"
+      },
+      {
+        "character": "桋",
+        "hunEum": "가시목 이",
+        "grade": "특급"
+      },
+      {
+        "character": "訑",
+        "hunEum": "자랑할 이",
+        "grade": "특급"
+      },
+      {
+        "character": "駰",
+        "hunEum": "회색얼룩말 인",
+        "grade": "특급"
+      },
+      {
+        "character": "陻",
+        "hunEum": "막을/막힐 인",
+        "grade": "특급"
+      },
+      {
+        "character": "禋",
+        "hunEum": "제사지낼 인",
+        "grade": "특급"
+      },
+      {
+        "character": "牣",
+        "hunEum": "가득할 인",
+        "grade": "특급"
+      },
+      {
+        "character": "訒",
+        "hunEum": "말더듬거릴 인",
+        "grade": "특급"
+      },
+      {
+        "character": "袵",
+        "hunEum": "옷깃 임",
+        "grade": "특급"
+      },
+      {
+        "character": "陾",
+        "hunEum": "담쌓는소리 잉",
+        "grade": "특급"
+      },
+      {
+        "character": "鼒",
+        "hunEum": "옹솥 자",
+        "grade": "특급"
+      },
+      {
+        "character": "孶",
+        "hunEum": "새끼칠 자",
+        "grade": "특급"
+      },
+      {
+        "character": "鎡",
+        "hunEum": "호미 자",
+        "grade": "특급"
+      },
+      {
+        "character": "訿",
+        "hunEum": "훼방할/헐뜯을 자",
+        "grade": "특급"
+      },
+      {
+        "character": "胾",
+        "hunEum": "고깃점 자",
+        "grade": "특급"
+      },
+      {
+        "character": "胏",
+        "hunEum": "밥찌끼 자",
+        "grade": "특급"
+      },
+      {
+        "character": "僝",
+        "hunEum": "갖출/욕할 잔",
+        "grade": "특급"
+      },
+      {
+        "character": "粻",
+        "hunEum": "양식 장",
+        "grade": "특급"
+      },
+      {
+        "character": "斨",
+        "hunEum": "도끼 장",
+        "grade": "특급"
+      },
+      {
+        "character": "鏘",
+        "hunEum": "옥소리 장",
+        "grade": "특급"
+      },
+      {
+        "character": "牂",
+        "hunEum": "암양 장",
+        "grade": "특급"
+      },
+      {
+        "character": "萇",
+        "hunEum": "보리수 장",
+        "grade": "특급"
+      },
+      {
+        "character": "賫",
+        "hunEum": "가질 재",
+        "grade": "특급"
+      },
+      {
+        "character": "羜",
+        "hunEum": "새끼양 저",
+        "grade": "특급"
+      },
+      {
+        "character": "罝",
+        "hunEum": "짐승그물 저",
+        "grade": "특급"
+      },
+      {
+        "character": "疷",
+        "hunEum": "앓을 저",
+        "grade": "특급"
+      },
+      {
+        "character": "筯",
+        "hunEum": "젓가락 저",
+        "grade": "특급"
+      },
+      {
+        "character": "籊",
+        "hunEum": "가늘고길 적",
+        "grade": "특급"
+      },
+      {
+        "character": "覿",
+        "hunEum": "볼 적",
+        "grade": "특급"
+      },
+      {
+        "character": "踖",
+        "hunEum": "밟을 적",
+        "grade": "특급"
+      },
+      {
+        "character": "邅",
+        "hunEum": "머뭇거릴 전",
+        "grade": "특급"
+      },
+      {
+        "character": "闐",
+        "hunEum": "성할 전",
+        "grade": "특급"
+      },
+      {
+        "character": "戩",
+        "hunEum": "다할 전",
+        "grade": "특급"
+      },
+      {
+        "character": "瘨",
+        "hunEum": "앓을 전",
+        "grade": "특급"
+      },
+      {
+        "character": "牷",
+        "hunEum": "희생 전",
+        "grade": "특급"
+      },
+      {
+        "character": "瀍",
+        "hunEum": "물이름 전",
+        "grade": "특급"
+      },
+      {
+        "character": "飦",
+        "hunEum": "죽 전",
+        "grade": "특급"
+      },
+      {
+        "character": "晣",
+        "hunEum": "밝을 절",
+        "grade": "특급"
+      },
+      {
+        "character": "赬",
+        "hunEum": "붉을 정",
+        "grade": "특급"
+      },
+      {
+        "character": "棖",
+        "hunEum": "문설주 정",
+        "grade": "특급"
+      },
+      {
+        "character": "隮",
+        "hunEum": "오를 제",
+        "grade": "특급"
+      },
+      {
+        "character": "禔",
+        "hunEum": "편안할 제",
+        "grade": "특급"
+      },
+      {
+        "character": "穧",
+        "hunEum": "볏단 제",
+        "grade": "특급"
+      },
+      {
+        "character": "泲",
+        "hunEum": "물이름 제",
+        "grade": "특급"
+      },
+      {
+        "character": "懠",
+        "hunEum": "성낼 제",
+        "grade": "특급"
+      },
+      {
+        "character": "嚌",
+        "hunEum": "맛볼 제",
+        "grade": "특급"
+      },
+      {
+        "character": "稊",
+        "hunEum": "가라지 제",
+        "grade": "특급"
+      },
+      {
+        "character": "蠐",
+        "hunEum": "굼벵이 제",
+        "grade": "특급"
+      },
+      {
+        "character": "鞗",
+        "hunEum": "고삐 조",
+        "grade": "특급"
+      },
+      {
+        "character": "蓧",
+        "hunEum": "삼태기 조",
+        "grade": "특급"
+      },
+      {
+        "character": "旐",
+        "hunEum": "기 조",
+        "grade": "특급"
+      },
+      {
+        "character": "鰷",
+        "hunEum": "피라미 조",
+        "grade": "특급"
+      },
+      {
+        "character": "皁",
+        "hunEum": "검을/하인 조",
+        "grade": "특급"
+      },
+      {
+        "character": "恌",
+        "hunEum": "경박할 조",
+        "grade": "특급"
+      },
+      {
+        "character": "尰",
+        "hunEum": "수중다리 종",
+        "grade": "특급"
+      },
+      {
+        "character": "豵",
+        "hunEum": "돼지새끼 종",
+        "grade": "특급"
+      },
+      {
+        "character": "鬷",
+        "hunEum": "모일 종",
+        "grade": "특급"
+      },
+      {
+        "character": "侜",
+        "hunEum": "가릴 주",
+        "grade": "특급"
+      },
+      {
+        "character": "裯",
+        "hunEum": "홑이불 주",
+        "grade": "특급"
+      },
+      {
+        "character": "輈",
+        "hunEum": "수레채 주",
+        "grade": "특급"
+      },
+      {
+        "character": "咮",
+        "hunEum": "새부리 주",
+        "grade": "특급"
+      },
+      {
+        "character": "譸",
+        "hunEum": "속일 주",
+        "grade": "특급"
+      },
+      {
+        "character": "馵",
+        "hunEum": "뒷발이흰말 주",
+        "grade": "특급"
+      },
+      {
+        "character": "霔",
+        "hunEum": "시우 주",
+        "grade": "특급"
+      },
+      {
+        "character": "濈",
+        "hunEum": "화목할 즙",
+        "grade": "특급"
+      },
+      {
+        "character": "璔",
+        "hunEum": "옥 증",
+        "grade": "특급"
+      },
+      {
+        "character": "蚳",
+        "hunEum": "개미알 지",
+        "grade": "특급"
+      },
+      {
+        "character": "紾",
+        "hunEum": "비틀/거칠 진",
+        "grade": "특급"
+      },
+      {
+        "character": "絰",
+        "hunEum": "요질/수질 질",
+        "grade": "특급"
+      },
+      {
+        "character": "銍",
+        "hunEum": "짧은낫 질",
+        "grade": "특급"
+      },
+      {
+        "character": "礩",
+        "hunEum": "주춧돌 질",
+        "grade": "특급"
+      },
+      {
+        "character": "挃",
+        "hunEum": "벼벨 질",
+        "grade": "특급"
+      },
+      {
+        "character": "佌",
+        "hunEum": "작을 차",
+        "grade": "특급"
+      },
+      {
+        "character": "泚",
+        "hunEum": "물맑을 차",
+        "grade": "특급"
+      },
+      {
+        "character": "斮",
+        "hunEum": "벨 착",
+        "grade": "특급"
+      },
+      {
+        "character": "湌",
+        "hunEum": "먹을 찬",
+        "grade": "특급"
+      },
+      {
+        "character": "憯",
+        "hunEum": "마음아플 참",
+        "grade": "특급"
+      },
+      {
+        "character": "瑲",
+        "hunEum": "옥소리 창",
+        "grade": "특급"
+      },
+      {
+        "character": "韔",
+        "hunEum": "활집 창",
+        "grade": "특급"
+      },
+      {
+        "character": "蠆",
+        "hunEum": "벌 채",
+        "grade": "특급"
+      },
+      {
+        "character": "蹢",
+        "hunEum": "머뭇거릴 척",
+        "grade": "특급"
+      },
+      {
+        "character": "蹐",
+        "hunEum": "잔걸음 척",
+        "grade": "특급"
+      },
+      {
+        "character": "梴",
+        "hunEum": "나무밋밋할 천",
+        "grade": "특급"
+      },
+      {
+        "character": "幝",
+        "hunEum": "해진모양 천",
+        "grade": "특급"
+      },
+      {
+        "character": "俴",
+        "hunEum": "엷을 천",
+        "grade": "특급"
+      },
+      {
+        "character": "歠",
+        "hunEum": "마실 철",
+        "grade": "특급"
+      },
+      {
+        "character": "驖",
+        "hunEum": "구렁말 철",
+        "grade": "특급"
+      },
+      {
+        "character": "襜",
+        "hunEum": "수레휘장 첨",
+        "grade": "특급"
+      },
+      {
+        "character": "餂",
+        "hunEum": "핥을 첨",
+        "grade": "특급"
+      },
+      {
+        "character": "杕",
+        "hunEum": "나무우뚝설 체",
+        "grade": "특급"
+      },
+      {
+        "character": "禘",
+        "hunEum": "큰제사 체",
+        "grade": "특급"
+      },
+      {
+        "character": "蝃",
+        "hunEum": "무지개 체",
+        "grade": "특급"
+      },
+      {
+        "character": "遆",
+        "hunEum": "갈마들 체",
+        "grade": "특급"
+      },
+      {
+        "character": "髢",
+        "hunEum": "딴머리 체",
+        "grade": "특급"
+      },
+      {
+        "character": "揥",
+        "hunEum": "빗치개 체",
+        "grade": "특급"
+      },
+      {
+        "character": "蠋",
+        "hunEum": "뽕나무벌레 촉",
+        "grade": "특급"
+      },
+      {
+        "character": "潨",
+        "hunEum": "물모일 총",
+        "grade": "특급"
+      },
+      {
+        "character": "凗",
+        "hunEum": "눈서리쌓일 최",
+        "grade": "특급"
+      },
+      {
+        "character": "緅",
+        "hunEum": "아청빛 추",
+        "grade": "특급"
+      },
+      {
+        "character": "棸",
+        "hunEum": "나무이름 추",
+        "grade": "특급"
+      },
+      {
+        "character": "麤",
+        "hunEum": "거칠 추",
+        "grade": "특급"
+      },
+      {
+        "character": "鵻",
+        "hunEum": "비둘기 추",
+        "grade": "특급"
+      },
+      {
+        "character": "縐",
+        "hunEum": "주름 추",
+        "grade": "특급"
+      },
+      {
+        "character": "蓫",
+        "hunEum": "참소리쟁이 축",
+        "grade": "특급"
+      },
+      {
+        "character": "柷",
+        "hunEum": "악기이름 축",
+        "grade": "특급"
+      },
+      {
+        "character": "蹜",
+        "hunEum": "종종걸음칠 축",
+        "grade": "특급"
+      },
+      {
+        "character": "顣",
+        "hunEum": "찡그릴 축",
+        "grade": "특급"
+      },
+      {
+        "character": "踧",
+        "hunEum": "삼갈 축",
+        "grade": "특급"
+      },
+      {
+        "character": "杶",
+        "hunEum": "참죽나무 춘",
+        "grade": "특급"
+      },
+      {
+        "character": "懫",
+        "hunEum": "성낼 치",
+        "grade": "특급"
+      },
+      {
+        "character": "庤",
+        "hunEum": "쌓을 치",
+        "grade": "특급"
+      },
+      {
+        "character": "寘",
+        "hunEum": "둘 치",
+        "grade": "특급"
+      },
+      {
+        "character": "懥",
+        "hunEum": "성낼 치",
+        "grade": "특급"
+      },
+      {
+        "character": "觶",
+        "hunEum": "술잔 치",
+        "grade": "특급"
+      },
+      {
+        "character": "菑",
+        "hunEum": "묵정밭 치",
+        "grade": "특급"
+      },
+      {
+        "character": "絺",
+        "hunEum": "가는칡베 치",
+        "grade": "특급"
+      },
+      {
+        "character": "綅",
+        "hunEum": "붉은실 침",
+        "grade": "특급"
+      },
+      {
+        "character": "寑",
+        "hunEum": "잘 침",
+        "grade": "특급"
+      },
+      {
+        "character": "駸",
+        "hunEum": "말달릴 침",
+        "grade": "특급"
+      },
+      {
+        "character": "縶",
+        "hunEum": "말맬 칩",
+        "grade": "특급"
+      },
+      {
+        "character": "紽",
+        "hunEum": "타래 타",
+        "grade": "특급"
+      },
+      {
+        "character": "鮀",
+        "hunEum": "모래무지 타",
+        "grade": "특급"
+      },
+      {
+        "character": "嶞",
+        "hunEum": "산좁고길 타",
+        "grade": "특급"
+      },
+      {
+        "character": "椓",
+        "hunEum": "칠 탁",
+        "grade": "특급"
+      },
+      {
+        "character": "蘀",
+        "hunEum": "낙엽 탁",
+        "grade": "특급"
+      },
+      {
+        "character": "驒",
+        "hunEum": "연전총 탄",
+        "grade": "특급"
+      },
+      {
+        "character": "僤",
+        "hunEum": "빠를 탄",
+        "grade": "특급"
+      },
+      {
+        "character": "梲",
+        "hunEum": "막대기 탈",
+        "grade": "특급"
+      },
+      {
+        "character": "醓",
+        "hunEum": "육장 탐",
+        "grade": "특급"
+      },
+      {
+        "character": "嗿",
+        "hunEum": "먹는소리/많을 탐",
+        "grade": "특급"
+      },
+      {
+        "character": "簜",
+        "hunEum": "왕대 탕",
+        "grade": "특급"
+      },
+      {
+        "character": "蝪",
+        "hunEum": "땅거미 탕",
+        "grade": "특급"
+      },
+      {
+        "character": "駾",
+        "hunEum": "말빨리달릴 태",
+        "grade": "특급"
+      },
+      {
+        "character": "噋",
+        "hunEum": "느릿할 톤",
+        "grade": "특급"
+      },
+      {
+        "character": "畽",
+        "hunEum": "염우없을 톤",
+        "grade": "특급"
+      },
+      {
+        "character": "啍",
+        "hunEum": "느릿할 톤",
+        "grade": "특급"
+      },
+      {
+        "character": "蓷",
+        "hunEum": "익모초 퇴",
+        "grade": "특급"
+      },
+      {
+        "character": "魋",
+        "hunEum": "짐승이름 퇴",
+        "grade": "특급"
+      },
+      {
+        "character": "隤",
+        "hunEum": "무너질 퇴",
+        "grade": "특급"
+      },
+      {
+        "character": "嶓",
+        "hunEum": "산이름 파",
+        "grade": "특급"
+      },
+      {
+        "character": "豝",
+        "hunEum": "암퇘지 파",
+        "grade": "특급"
+      },
+      {
+        "character": "昄",
+        "hunEum": "클 판",
+        "grade": "특급"
+      },
+      {
+        "character": "粺",
+        "hunEum": "정미 패",
+        "grade": "특급"
+      },
+      {
+        "character": "茷",
+        "hunEum": "풀잎무성할 패",
+        "grade": "특급"
+      },
+      {
+        "character": "祊",
+        "hunEum": "제사이름 팽",
+        "grade": "특급"
+      },
+      {
+        "character": "伻",
+        "hunEum": "심부름꾼 팽",
+        "grade": "특급"
+      },
+      {
+        "character": "徧",
+        "hunEum": "두루 편",
+        "grade": "특급"
+      },
+      {
+        "character": "諞",
+        "hunEum": "교묘히말할 편",
+        "grade": "특급"
+      },
+      {
+        "character": "襃",
+        "hunEum": "기릴 포",
+        "grade": "특급"
+      },
+      {
+        "character": "餔",
+        "hunEum": "저녁밥 포",
+        "grade": "특급"
+      },
+      {
+        "character": "炰",
+        "hunEum": "구울 포",
+        "grade": "특급"
+      },
+      {
+        "character": "滮",
+        "hunEum": "물흐르는모양 표",
+        "grade": "특급"
+      },
+      {
+        "character": "瀌",
+        "hunEum": "눈비퍼부을 표",
+        "grade": "특급"
+      },
+      {
+        "character": "儦",
+        "hunEum": "떼지어다닐 표",
+        "grade": "특급"
+      },
+      {
+        "character": "灃",
+        "hunEum": "강이름 풍",
+        "grade": "특급"
+      },
+      {
+        "character": "詖",
+        "hunEum": "치우칠 피",
+        "grade": "특급"
+      },
+      {
+        "character": "怭",
+        "hunEum": "설만할 필",
+        "grade": "특급"
+      },
+      {
+        "character": "駜",
+        "hunEum": "말살찔 필",
+        "grade": "특급"
+      },
+      {
+        "character": "鞸",
+        "hunEum": "슬갑 필",
+        "grade": "특급"
+      },
+      {
+        "character": "飶",
+        "hunEum": "음식의향기 필",
+        "grade": "특급"
+      },
+      {
+        "character": "偪",
+        "hunEum": "핍박할 핍",
+        "grade": "특급"
+      },
+      {
+        "character": "騢",
+        "hunEum": "적부루마 하",
+        "grade": "특급"
+      },
+      {
+        "character": "芐",
+        "hunEum": "지황 하",
+        "grade": "특급"
+      },
+      {
+        "character": "翯",
+        "hunEum": "함치르르할 학",
+        "grade": "특급"
+      },
+      {
+        "character": "暵",
+        "hunEum": "마를/말릴 한",
+        "grade": "특급"
+      },
+      {
+        "character": "哻",
+        "hunEum": "코고는소리 한",
+        "grade": "특급"
+      },
+      {
+        "character": "熯",
+        "hunEum": "마를/말릴 한",
+        "grade": "특급"
+      },
+      {
+        "character": "僩",
+        "hunEum": "너그러울/노할 한",
+        "grade": "특급"
+      },
+      {
+        "character": "舝",
+        "hunEum": "비녀장 할",
+        "grade": "특급"
+      },
+      {
+        "character": "諴",
+        "hunEum": "화할 함",
+        "grade": "특급"
+      },
+      {
+        "character": "鬫",
+        "hunEum": "범우는소리 함",
+        "grade": "특급"
+      },
+      {
+        "character": "巘",
+        "hunEum": "산봉우리 헌",
+        "grade": "특급"
+      },
+      {
+        "character": "玁",
+        "hunEum": "오랑캐이름 험",
+        "grade": "특급"
+      },
+      {
+        "character": "獫",
+        "hunEum": "오랑캐이름 험",
+        "grade": "특급"
+      },
+      {
+        "character": "虩",
+        "hunEum": "두려워할 혁",
+        "grade": "특급"
+      },
+      {
+        "character": "衋",
+        "hunEum": "애통해할 혁",
+        "grade": "특급"
+      },
+      {
+        "character": "鞙",
+        "hunEum": "멍에끈 현",
+        "grade": "특급"
+      },
+      {
+        "character": "駽",
+        "hunEum": "검푸른말 현",
+        "grade": "특급"
+      },
+      {
+        "character": "冾",
+        "hunEum": "젖을 협",
+        "grade": "특급"
+      },
+      {
+        "character": "嘒",
+        "hunEum": "반짝거릴 혜",
+        "grade": "특급"
+      },
+      {
+        "character": "傒",
+        "hunEum": "기다릴/가둘 혜",
+        "grade": "특급"
+      },
+      {
+        "character": "譓",
+        "hunEum": "슬기로울 혜",
+        "grade": "특급"
+      },
+      {
+        "character": "皥",
+        "hunEum": "밝을 호",
+        "grade": "특급"
+      },
+      {
+        "character": "皜",
+        "hunEum": "흴 호",
+        "grade": "특급"
+      },
+      {
+        "character": "嘑",
+        "hunEum": "부르짖을 호",
+        "grade": "특급"
+      },
+      {
+        "character": "雘",
+        "hunEum": "붉을 확",
+        "grade": "특급"
+      },
+      {
+        "character": "鍰",
+        "hunEum": "무게단위/고리 환",
+        "grade": "특급"
+      },
+      {
+        "character": "睆",
+        "hunEum": "밝을 환",
+        "grade": "특급"
+      },
+      {
+        "character": "喤",
+        "hunEum": "울음소리 황",
+        "grade": "특급"
+      },
+      {
+        "character": "頮",
+        "hunEum": "낯씻을 회",
+        "grade": "특급"
+      },
+      {
+        "character": "擭",
+        "hunEum": "잡을 획",
+        "grade": "특급"
+      },
+      {
+        "character": "嘵",
+        "hunEum": "두려워할 효",
+        "grade": "특급"
+      },
+      {
+        "character": "虓",
+        "hunEum": "범울부짖을 효",
+        "grade": "특급"
+      },
+      {
+        "character": "餱",
+        "hunEum": "건량 후",
+        "grade": "특급"
+      },
+      {
+        "character": "鍭",
+        "hunEum": "화살촉 후",
+        "grade": "특급"
+      },
+      {
+        "character": "纁",
+        "hunEum": "분홍빛 훈",
+        "grade": "특급"
+      },
+      {
+        "character": "貆",
+        "hunEum": "담비새끼 훤",
+        "grade": "특급"
+      },
+      {
+        "character": "諼",
+        "hunEum": "속일/잊을 훤",
+        "grade": "특급"
+      },
+      {
+        "character": "咺",
+        "hunEum": "울 훤",
+        "grade": "특급"
+      },
+      {
+        "character": "翬",
+        "hunEum": "날개훨훨칠/꿩 휘",
+        "grade": "특급"
+      },
+      {
+        "character": "觿",
+        "hunEum": "뿔송곳 휴",
+        "grade": "특급"
+      },
+      {
+        "character": "遹",
+        "hunEum": "좇을/간사할 휼",
+        "grade": "특급"
+      },
+      {
+        "character": "訩",
+        "hunEum": "흉악할/다툴 흉",
+        "grade": "특급"
+      },
+      {
+        "character": "齕",
+        "hunEum": "씹을/깨물 흘",
+        "grade": "특급"
+      },
+      {
+        "character": "潝",
+        "hunEum": "물빨리흐를 흡",
+        "grade": "특급"
+      },
+      {
+        "character": "饎",
+        "hunEum": "주식 희",
+        "grade": "특급"
+      },
+      {
+        "character": "豨",
+        "hunEum": "돼지 희",
+        "grade": "특급"
+      },
+      {
+        "character": "襭",
+        "hunEum": "옷자락에꽂을 힐",
+        "grade": "특급"
+      }
+    ],
+    "6급Ⅱ": [
+      {
+        "character": "淸",
+        "hunEum": "TODO: 뜻음",
+        "grade": "6급Ⅱ"
+      },
+      {
+        "character": "飮",
+        "hunEum": "TODO: 뜻음",
+        "grade": "6급Ⅱ"
+      }
+    ]
+  }
+}
