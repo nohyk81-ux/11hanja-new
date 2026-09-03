@@ -1164,10 +1164,18 @@ body {
 /* Landing Page Mobile Optimization */
 .landing-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 2rem;
   margin-bottom: 3.5rem;
-  text-align: left;
+  text-align: center;
+}
+
+.gateway-card {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.gateway-card:hover {
+  transform: translateY(-4px);
 }
 
 @media (max-width: 640px) {
@@ -1176,25 +1184,19 @@ body {
   }
   .landing-grid {
     grid-template-columns: 1fr !important;
-    gap: 1.25rem !important;
+    gap: 1.5rem !important;
     margin-bottom: 2rem !important;
   }
   .gateway-card {
-    padding: 1.5rem 1.25rem !important;
-    border-radius: 18px !important;
+    padding: 2rem 1.25rem !important;
+    border-radius: 20px !important;
   }
   .gateway-card h2 {
-    font-size: 1.35rem !important;
+    font-size: 1.4rem !important;
   }
   .gateway-card p {
     font-size: 0.95rem !important;
-    margin-bottom: 1rem !important;
-  }
-  .gateway-card ul {
     margin-bottom: 1.5rem !important;
-  }
-  .gateway-card li {
-    font-size: 0.88rem !important;
   }
   .gateway-card-btn {
     padding: 0.85rem !important;

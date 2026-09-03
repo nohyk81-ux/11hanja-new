@@ -1,19 +1,19 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen, Layers, ArrowRight, CheckCircle2 } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { useSeo } from '../utils/useSeo';
 
 export default function LandingPage() {
   useSeo(
     '일일한자 - 무료 급수 한자 학습지 생성 및 인터랙티브 획순 연습',
-    '회원가입 없이 100% 무료! 한국어문회, 대한검정회, 상공회의소 급수별 맞춤 A4 학습지 인쇄 및 움직이는 획순 애니메이션으로 매일 10분 한자를 마스터하세요.'
+    '회원가입 없이 누구나 무료로 인쇄하고 연습하는 일일한자! 공인 급수별 맞춤 학습지 A4 인쇄 및 살아 움직이는 획순 애니메이션을 제공합니다.'
   );
 
   return (
-    <div className="landing-page-container" style={{ maxWidth: '1000px', margin: '0 auto', padding: '3rem 1rem 4rem 1rem', textAlign: 'center' }}>
-      {/* Hero Section */}
+    <div className="landing-page-container" style={{ maxWidth: '860px', margin: '0 auto', padding: '3.5rem 1rem 4.5rem 1rem', textAlign: 'center' }}>
+      {/* Hero Title */}
       <section style={{ marginBottom: '3rem' }}>
-        <h1 style={{ fontSize: 'clamp(1.8rem, 4vw, 2.6rem)', color: '#0f172a', fontWeight: 800, margin: '0 0 1rem 0', letterSpacing: '-0.02em', lineHeight: 1.3 }}>
+        <h1 style={{ fontSize: 'clamp(1.9rem, 4vw, 2.7rem)', color: '#0f172a', fontWeight: 800, margin: '0 0 1rem 0', letterSpacing: '-0.02em', lineHeight: 1.3 }}>
           오늘 어떤 한자 공부를 해볼까요?
         </h1>
         <p style={{ fontSize: 'clamp(1rem, 2vw, 1.2rem)', color: '#64748b', margin: 0, lineHeight: 1.6, wordBreak: 'keep-all' }}>
@@ -21,7 +21,7 @@ export default function LandingPage() {
         </p>
       </section>
 
-      {/* 2 Main Gateway Cards */}
+      {/* 2 Main Gateway Cards (Mockup Design) */}
       <section className="landing-grid">
         {/* Card 1: 학습지 생성하기 */}
         <div
@@ -29,45 +29,55 @@ export default function LandingPage() {
           style={{
             background: '#ffffff',
             borderRadius: '24px',
-            border: '2px solid #10b981',
-            boxShadow: '0 12px 30px -6px rgba(16, 185, 129, 0.12)',
+            border: '2.5px solid #059669',
+            boxShadow: '0 12px 30px -6px rgba(5, 150, 105, 0.12)',
             display: 'flex',
             flexDirection: 'column',
             justifyContent: 'space-between',
-            transition: 'transform 0.25s, box-shadow 0.25s'
+            textAlign: 'center',
+            padding: '2.75rem 2rem 2.25rem 2rem'
           }}
         >
           <div>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem' }}>
-              <div style={{ width: '56px', height: '56px', borderRadius: '16px', background: '#ecfdf5', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#059669' }}>
-                <BookOpen size={30} />
-              </div>
-              <span style={{ background: '#ecfdf5', color: '#059669', fontSize: '0.85rem', fontWeight: 700, padding: '4px 12px', borderRadius: '12px' }}>
-                인기 1위
-              </span>
+            {/* Mockup Illustration: Open Book + Grid Worksheet */}
+            <div style={{ margin: '0 auto 1.5rem auto', width: '100px', height: '90px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+              <svg width="96" height="90" viewBox="0 0 100 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+                {/* Background Worksheet with Grid */}
+                <rect x="44" y="10" width="46" height="62" rx="4" fill="#ffffff" stroke="#1e293b" strokeWidth="2.5" />
+                {/* Folded paper corner */}
+                <path d="M76 10 L90 24 L76 24 Z" fill="#e2e8f0" stroke="#1e293b" strokeWidth="2" strokeLinejoin="round" />
+                {/* Grid cells on worksheet */}
+                <line x1="50" y1="32" x2="84" y2="32" stroke="#94a3b8" strokeWidth="1.5" />
+                <line x1="50" y1="42" x2="84" y2="42" stroke="#94a3b8" strokeWidth="1.5" />
+                <line x1="50" y1="52" x2="84" y2="52" stroke="#94a3b8" strokeWidth="1.5" />
+                <line x1="50" y1="62" x2="84" y2="62" stroke="#94a3b8" strokeWidth="1.5" />
+                <line x1="67" y1="24" x2="67" y2="68" stroke="#94a3b8" strokeWidth="1.5" />
+
+                {/* Foreground Book: Left Page */}
+                <path d="M10 32 C 22 28, 34 28, 44 32 L 44 74 C 34 70, 22 70, 10 74 Z" fill="#ffffff" stroke="#1e293b" strokeWidth="2.5" strokeLinejoin="round" />
+                <path d="M8 74 L 8 32 C 20 27, 32 27, 44 31" fill="none" stroke="#059669" strokeWidth="3.5" strokeLinecap="round" />
+                {/* Foreground Book: Right Page */}
+                <path d="M44 32 C 54 28, 66 28, 78 32 L 78 74 C 66 70, 54 70, 44 74 Z" fill="#ffffff" stroke="#1e293b" strokeWidth="2.5" strokeLinejoin="round" />
+                <path d="M80 74 L 80 32 C 68 27, 56 27, 44 31" fill="none" stroke="#059669" strokeWidth="3.5" strokeLinecap="round" />
+                {/* Center bookmark ribbon */}
+                <rect x="22" y="20" width="8" height="22" rx="1" fill="#059669" stroke="#1e293b" strokeWidth="2" />
+                {/* Ruled lines in book */}
+                <line x1="16" y1="42" x2="38" y2="42" stroke="#10b981" strokeWidth="2" strokeLinecap="round" />
+                <line x1="16" y1="50" x2="38" y2="50" stroke="#10b981" strokeWidth="2" strokeLinecap="round" />
+                <line x1="16" y1="58" x2="32" y2="58" stroke="#10b981" strokeWidth="2" strokeLinecap="round" />
+                <line x1="50" y1="42" x2="72" y2="42" stroke="#94a3b8" strokeWidth="2" strokeLinecap="round" />
+                <line x1="50" y1="50" x2="72" y2="50" stroke="#94a3b8" strokeWidth="2" strokeLinecap="round" />
+                <line x1="50" y1="58" x2="66" y2="58" stroke="#94a3b8" strokeWidth="2" strokeLinecap="round" />
+              </svg>
             </div>
 
-            <h2 style={{ fontSize: '1.65rem', color: '#0f172a', fontWeight: 700, margin: '0 0 0.75rem 0' }}>
+            <h2 style={{ fontSize: '1.65rem', color: '#0f172a', fontWeight: 800, margin: '0 0 0.85rem 0', letterSpacing: '-0.02em' }}>
               📖 학습지 생성하기
             </h2>
-            <p style={{ color: '#475569', fontSize: '1.02rem', lineHeight: 1.6, margin: '0 0 1.5rem 0', wordBreak: 'keep-all' }}>
-              공인 급수별 맞춤 학습지 A4 무료 인쇄! 오늘의 랜덤 5자 즉시 출력부터 원하는 글자만 골라 담는 나만의 학습지까지 지원합니다.
+            <p style={{ color: '#334155', fontSize: '1.08rem', lineHeight: 1.65, margin: '0 0 2.25rem 0', wordBreak: 'keep-all', fontWeight: 500 }}>
+              공인 급수별 맞춤 학습지 A4<br />
+              무료 인쇄 및 오늘의 5자 즉시 출력
             </p>
-
-            <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 2rem 0', display: 'flex', flexDirection: 'column', gap: '0.6rem' }}>
-              <li style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#334155', fontSize: '0.95rem' }}>
-                <CheckCircle2 size={18} color="#10b981" />
-                <span>한국어문회 · 대한검정회 · 상공회의소 전 급수</span>
-              </li>
-              <li style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#334155', fontSize: '0.95rem' }}>
-                <CheckCircle2 size={18} color="#10b981" />
-                <span>A4 인쇄 맞춤 획순 가이드 및 따라쓰기 칸</span>
-              </li>
-              <li style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#334155', fontSize: '0.95rem' }}>
-                <CheckCircle2 size={18} color="#10b981" />
-                <span>버튼 1번으로 오늘의 5자 즉시 출력</span>
-              </li>
-            </ul>
           </div>
 
           <Link
@@ -80,10 +90,12 @@ export default function LandingPage() {
               gap: '8px',
               background: '#059669',
               color: '#ffffff',
+              padding: '0.95rem 1.5rem',
               borderRadius: '14px',
               textDecoration: 'none',
               fontWeight: 700,
-              boxShadow: '0 4px 12px rgba(5, 150, 105, 0.25)',
+              fontSize: '1.1rem',
+              boxShadow: '0 4px 14px rgba(5, 150, 105, 0.28)',
               transition: 'background 0.2s'
             }}
           >
@@ -96,47 +108,47 @@ export default function LandingPage() {
         <div
           className="gateway-card"
           style={{
-            background: '#ffffff',
+            background: '#eff6ff',
             borderRadius: '24px',
-            border: '2px solid #0284c7',
-            boxShadow: '0 12px 30px -6px rgba(2, 132, 199, 0.12)',
+            border: '2.5px solid #3b82f6',
+            boxShadow: '0 12px 30px -6px rgba(59, 130, 246, 0.15)',
             display: 'flex',
             flexDirection: 'column',
             justifyContent: 'space-between',
-            transition: 'transform 0.25s, box-shadow 0.25s'
+            textAlign: 'center',
+            padding: '2.75rem 2rem 2.25rem 2rem'
           }}
         >
           <div>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem' }}>
-              <div style={{ width: '56px', height: '56px', borderRadius: '16px', background: '#f0f9ff', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#0284c7' }}>
-                <Layers size={30} />
-              </div>
-              <span style={{ background: '#f0f9ff', color: '#0284c7', fontSize: '0.85rem', fontWeight: 700, padding: '4px 12px', borderRadius: '12px' }}>
-                인터랙티브
-              </span>
+            {/* Mockup Illustration: Calligraphy Stylus / Brush with dynamic swoosh stroke */}
+            <div style={{ margin: '0 auto 1.5rem auto', width: '100px', height: '90px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+              <svg width="96" height="90" viewBox="0 0 100 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+                {/* Dynamic Calligraphy Stroke on Paper */}
+                <path d="M 32 26 C 42 16, 46 36, 38 48 C 30 60, 24 66, 34 76" fill="none" stroke="#1e293b" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" />
+
+                {/* Stylus / Ink Pen drawing stroke */}
+                <g transform="rotate(-18 64 54)">
+                  {/* Pen Body */}
+                  <rect x="54" y="10" width="16" height="46" rx="5" fill="#3b82f6" stroke="#1e293b" strokeWidth="2.5" />
+                  {/* Pen Clip */}
+                  <path d="M 70 18 L 77 18 L 77 36 L 70 36" fill="none" stroke="#1e293b" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" />
+                  {/* Metallic Grip Ring */}
+                  <line x1="54" y1="46" x2="70" y2="46" stroke="#1d4ed8" strokeWidth="2.5" />
+                  {/* Nib base */}
+                  <polygon points="55,56 69,56 66,68 58,68" fill="#e2e8f0" stroke="#1e293b" strokeWidth="2.5" />
+                  {/* Nib / Brush Tip with Ink */}
+                  <path d="M 58 68 C 58 76, 62 84, 62 84 C 62 84, 66 76, 66 68 Z" fill="#0f172a" stroke="#1e293b" strokeWidth="2" strokeLinejoin="round" />
+                </g>
+              </svg>
             </div>
 
-            <h2 style={{ fontSize: '1.65rem', color: '#0f172a', fontWeight: 700, margin: '0 0 0.75rem 0' }}>
+            <h2 style={{ fontSize: '1.65rem', color: '#0f172a', fontWeight: 800, margin: '0 0 0.85rem 0', letterSpacing: '-0.02em' }}>
               ✍️ 획순 연습하기
             </h2>
-            <p style={{ color: '#475569', fontSize: '1.02rem', lineHeight: 1.6, margin: '0 0 1.5rem 0', wordBreak: 'keep-all' }}>
-              살아 움직이는 획순 애니메이션으로 올바른 필순을 한눈에! 부수와 총획수 정보와 함께 바른 글씨 쓰기를 완벽 마스터하세요.
+            <p style={{ color: '#334155', fontSize: '1.08rem', lineHeight: 1.65, margin: '0 0 2.25rem 0', wordBreak: 'keep-all', fontWeight: 500 }}>
+              살아 움직이는 애니메이션으로<br />
+              바른 획순과 필순 완벽 마스터
             </p>
-
-            <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 2rem 0', display: 'flex', flexDirection: 'column', gap: '0.6rem' }}>
-              <li style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#334155', fontSize: '0.95rem' }}>
-                <CheckCircle2 size={18} color="#0284c7" />
-                <span>한 획씩 순서대로 그려지는 시각 획순 뷰어</span>
-              </li>
-              <li style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#334155', fontSize: '0.95rem' }}>
-                <CheckCircle2 size={18} color="#0284c7" />
-                <span>공식 부수, 총획수, 훈음(뜻과 소리) 완벽 표기</span>
-              </li>
-              <li style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#334155', fontSize: '0.95rem' }}>
-                <CheckCircle2 size={18} color="#0284c7" />
-                <span>글자 재생, 일시정지, 반복 재생 인터랙션</span>
-              </li>
-            </ul>
           </div>
 
           <Link
@@ -147,12 +159,14 @@ export default function LandingPage() {
               alignItems: 'center',
               justifyContent: 'center',
               gap: '8px',
-              background: '#0284c7',
+              background: '#2563eb',
               color: '#ffffff',
+              padding: '0.95rem 1.5rem',
               borderRadius: '14px',
               textDecoration: 'none',
               fontWeight: 700,
-              boxShadow: '0 4px 12px rgba(2, 132, 199, 0.25)',
+              fontSize: '1.1rem',
+              boxShadow: '0 4px 14px rgba(37, 99, 235, 0.28)',
               transition: 'background 0.2s'
             }}
           >
