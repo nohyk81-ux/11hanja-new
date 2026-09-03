@@ -42,8 +42,7 @@ export default function AboutPage() {
             하지만 많은 학생들이 비싼 학습지 구독료나 학원비, 복잡한 회원가입 절차 때문에 한자 학습의 진입 장벽을 느끼고 있습니다.
           </p>
           <p>
-            <strong>일일한자</strong>는 유아부터 초·중·고 학생, 국가공인 한자 자격증을 준비하는 성인 및 취업 준비생까지 누구나 아무런 조건 없이 
-            <strong>회원가입 없이 100% 무료</strong>로 최고의 한자 학습 환경을 누릴 수 있도록 개발된 개방형 교육 웹 플랫폼입니다.
+            <strong>일일한자</strong>는 유아부터 초·중·고 학생, 국가공인 한자 자격증을 준비하는 성인 및 취업 준비생까지 <strong>누구나 아무런 조건 없이 100% 무료</strong>로 최고의 한자 학습 환경을 누릴 수 있도록 개발된 개방형 교육 웹 플랫폼입니다.
           </p>
 
           <h2 style={{ fontSize: '1.3rem', color: '#0f172a', marginTop: '2.5rem', marginBottom: '1rem', borderLeft: '4px solid var(--primary)', paddingLeft: '0.75rem' }}>
