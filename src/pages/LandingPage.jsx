@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen, Layers, ArrowRight, CheckCircle2 } from 'lucide-react';
+import { ArrowRight, CheckCircle2 } from 'lucide-react';
 import { useSeo } from '../utils/useSeo';
 
 export default function LandingPage() {
@@ -38,15 +38,6 @@ export default function LandingPage() {
           }}
         >
           <div>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem' }}>
-              <div style={{ width: '56px', height: '56px', borderRadius: '16px', background: '#ecfdf5', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#059669' }}>
-                <BookOpen size={30} />
-              </div>
-              <span style={{ background: '#ecfdf5', color: '#059669', fontSize: '0.85rem', fontWeight: 700, padding: '4px 12px', borderRadius: '12px' }}>
-                인기 1위
-              </span>
-            </div>
-
             <h2 style={{ fontSize: '1.65rem', color: '#0f172a', fontWeight: 700, margin: '0 0 0.75rem 0' }}>
               📖 학습지 생성하기
             </h2>
@@ -107,15 +98,6 @@ export default function LandingPage() {
           }}
         >
           <div>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem' }}>
-              <div style={{ width: '56px', height: '56px', borderRadius: '16px', background: '#f0f9ff', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#0284c7' }}>
-                <Layers size={30} />
-              </div>
-              <span style={{ background: '#f0f9ff', color: '#0284c7', fontSize: '0.85rem', fontWeight: 700, padding: '4px 12px', borderRadius: '12px' }}>
-                인터랙티브
-              </span>
-            </div>
-
             <h2 style={{ fontSize: '1.65rem', color: '#0f172a', fontWeight: 700, margin: '0 0 0.75rem 0' }}>
               ✍️ 획순 연습하기
             </h2>
