@@ -149,9 +149,27 @@ function AppContent() {
 
       <main className="main-content">
         <Routes>
-          <Route path="/" element={<Navigate to="/grade/8GR" replace />} />
-          <Route path="/stroke" element={<Navigate to="/stroke/8GR" replace />} />
-          
+          <Route 
+            path="/" 
+            element={
+              !isWorksheetOpen && (
+                <HanjaGrid
+                  selectedGrade={selectedGrade}
+                  selectedBoard={selectedBoard}
+                  searchQuery={searchQuery}
+                  setSearchQuery={setSearchQuery}
+                  filteredHanjaList={filteredHanjaList}
+                  selectedHanjaIds={selectedHanjaIds}
+                  onToggleSelect={handleToggleSelect}
+                  onSelectAll={handleSelectAll}
+                  onDeselectAll={handleDeselectAll}
+                  onGenerateWorksheet={handleGenerateWorksheet}
+                  onRandom5Generate={handleRandom5Generate}
+                  getCountByGrade={getCountByGrade}
+                />
+              )
+            } 
+          />
           <Route 
             path="/grade/:gradeId" 
             element={
@@ -171,6 +189,19 @@ function AppContent() {
                   getCountByGrade={getCountByGrade}
                 />
               )
+            } 
+          />
+          <Route 
+            path="/stroke" 
+            element={
+              <StrokePractice
+                selectedGrade={selectedGrade}
+                selectedBoard={selectedBoard}
+                searchQuery={searchQuery}
+                setSearchQuery={setSearchQuery}
+                filteredHanjaList={filteredHanjaList}
+                getCountByGrade={getCountByGrade}
+              />
             } 
           />
           <Route 
