@@ -5,7 +5,7 @@ import { useSeo } from '../utils/useSeo';
 
 export default function LandingPage() {
   useSeo(
-    '일일한자 - 무료 급수 한자 학습지 생성 및 인터랙티브 획순 연습',
+    '일일한자 - 무료 급수 한자 학습지 만들기 및 인터랙티브 획순 연습',
     '회원가입 없이 누구나 무료로 인쇄하고 연습하는 일일한자! 공인 급수별 맞춤 학습지 A4 인쇄 및 살아 움직이는 획순 애니메이션을 제공합니다.'
   );
 
@@ -23,7 +23,7 @@ export default function LandingPage() {
 
       {/* 2 Main Gateway Cards (Mockup Design) */}
       <section className="landing-grid">
-        {/* Card 1: 학습지 생성하기 */}
+        {/* Card 1: 학습지 만들기 */}
         <div
           className="gateway-card"
           style={{
@@ -72,7 +72,7 @@ export default function LandingPage() {
             </div>
 
             <h2 style={{ fontSize: '1.65rem', color: '#0f172a', fontWeight: 800, margin: '0 0 0.85rem 0', letterSpacing: '-0.02em' }}>
-              📖 학습지 생성하기
+              📖 학습지 만들기
             </h2>
             <p style={{ color: '#334155', fontSize: '1.08rem', lineHeight: 1.65, margin: '0 0 2.25rem 0', wordBreak: 'keep-all', fontWeight: 500 }}>
               공인 급수별 맞춤 학습지 A4<br />

@@ -22,7 +22,7 @@ export default function Header({ onOpenNotice, onOpenContact }) {
             className={`nav-btn ${location.pathname.startsWith('/grade') ? 'active' : ''}`}
           >
             <BookOpen size={18} />
-            학습지 생성하기
+            학습지 만들기
           </NavLink>
           <NavLink
             to="/stroke/8GR"
