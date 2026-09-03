@@ -22,14 +22,13 @@ export default function LandingPage() {
       </section>
 
       {/* 2 Main Gateway Cards */}
-      <section style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))', gap: '2rem', marginBottom: '3.5rem', textAlign: 'left' }}>
+      <section className="landing-grid">
         {/* Card 1: 학습지 생성하기 */}
         <div
           className="gateway-card"
           style={{
             background: '#ffffff',
             borderRadius: '24px',
-            padding: '2.25rem 2rem',
             border: '2px solid #10b981',
             boxShadow: '0 12px 30px -6px rgba(16, 185, 129, 0.12)',
             display: 'flex',
@@ -73,6 +72,7 @@ export default function LandingPage() {
 
           <Link
             to="/grade/8GR"
+            className="gateway-card-btn"
             style={{
               display: 'flex',
               alignItems: 'center',
@@ -80,11 +80,9 @@ export default function LandingPage() {
               gap: '8px',
               background: '#059669',
               color: '#ffffff',
-              padding: '1rem',
               borderRadius: '14px',
               textDecoration: 'none',
               fontWeight: 700,
-              fontSize: '1.1rem',
               boxShadow: '0 4px 12px rgba(5, 150, 105, 0.25)',
               transition: 'background 0.2s'
             }}
@@ -100,7 +98,6 @@ export default function LandingPage() {
           style={{
             background: '#ffffff',
             borderRadius: '24px',
-            padding: '2.25rem 2rem',
             border: '2px solid #0284c7',
             boxShadow: '0 12px 30px -6px rgba(2, 132, 199, 0.12)',
             display: 'flex',
@@ -144,6 +141,7 @@ export default function LandingPage() {
 
           <Link
             to="/stroke/8GR"
+            className="gateway-card-btn"
             style={{
               display: 'flex',
               alignItems: 'center',
@@ -151,11 +149,9 @@ export default function LandingPage() {
               gap: '8px',
               background: '#0284c7',
               color: '#ffffff',
-              padding: '1rem',
               borderRadius: '14px',
               textDecoration: 'none',
               fontWeight: 700,
-              fontSize: '1.1rem',
               boxShadow: '0 4px 12px rgba(2, 132, 199, 0.25)',
               transition: 'background 0.2s'
             }}
