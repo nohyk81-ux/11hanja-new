@@ -21,7 +21,7 @@ export default function Header({ onOpenNotice, onOpenContact }) {
             end
           >
             <BookOpen size={18} />
-            한자 연습하기
+            학습지 생성하기
           </NavLink>
           <NavLink
             to="/stroke"
