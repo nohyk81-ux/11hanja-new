@@ -12,6 +12,7 @@ import ContactPage from './pages/ContactPage';
 import AboutPage from './pages/AboutPage';
 import FaqPage from './pages/FaqPage';
 import StoryDetailPage from './pages/StoryDetailPage';
+import LandingPage from './pages/LandingPage';
 import { HANJA_DATABASE } from './data/hanjaData';
 import { GR_TO_GRADE, GRADE_TO_GR } from './utils/gradeMapping';
 import './styles/main.css';
@@ -151,6 +152,10 @@ function AppContent() {
         <Routes>
           <Route 
             path="/" 
+            element={<LandingPage />} 
+          />
+          <Route 
+            path="/grade" 
             element={
               !isWorksheetOpen && (
                 <HanjaGrid

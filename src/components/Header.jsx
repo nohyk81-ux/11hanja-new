@@ -1,8 +1,10 @@
 import React from 'react';
-import { NavLink, Link } from 'react-router-dom';
+import { NavLink, Link, useLocation } from 'react-router-dom';
 import { BookOpen, HelpCircle, Layers, Bell, Mail } from 'lucide-react';
 
 export default function Header({ onOpenNotice, onOpenContact }) {
+  const location = useLocation();
+
   return (
     <header className="site-header no-print">
       <div className="header-inner">
@@ -16,16 +18,15 @@ export default function Header({ onOpenNotice, onOpenContact }) {
 
         <nav className="main-nav">
           <NavLink
-            to="/"
-            className={({ isActive }) => `nav-btn ${isActive ? 'active' : ''}`}
-            end
+            to="/grade/8GR"
+            className={`nav-btn ${location.pathname.startsWith('/grade') ? 'active' : ''}`}
           >
             <BookOpen size={18} />
             학습지 생성하기
           </NavLink>
           <NavLink
-            to="/stroke"
-            className={({ isActive }) => `nav-btn ${isActive ? 'active' : ''}`}
+            to="/stroke/8GR"
+            className={`nav-btn ${location.pathname.startsWith('/stroke') ? 'active' : ''}`}
           >
             <Layers size={18} />
             획순 연습하기
