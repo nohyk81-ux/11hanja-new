@@ -261,11 +261,6 @@ export default function StrokePractice({
           </div>
         </div>
         <GradeSelector selectedGrade={selectedGrade} selectedBoard={selectedBoard} getCountByGrade={getCountByGrade} />
-        
-        {/* SEO Description for users & search engines */}
-        <p style={{ marginTop: '0.75rem', fontSize: '0.9rem', color: 'var(--gray-600)', lineHeight: '1.5', wordBreak: 'keep-all', textAlign: 'left' }}>
-          {currentSeo.description}
-        </p>
       </div>
 
       <div className="stroke-practice-container no-print">
