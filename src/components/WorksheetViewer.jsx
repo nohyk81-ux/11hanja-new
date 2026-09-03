@@ -32,7 +32,7 @@ export default function WorksheetViewer({ selectedHanjaList, onClose }) {
         <div className="toolbar-title">
           <FileCheck size={20} className="text-primary" />
           <span>
-            학습지 인쇄 미리보기 (선택한 한자: <strong style={{ color: '#10b981' }}>{count}개</strong>만 생성됨)
+            학습지 인쇄 미리보기 (선택한 한자: <strong style={{ color: '#10b981' }}>{count}개</strong> 생성됨)
           </span>
         </div>
 
