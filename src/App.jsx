@@ -1,5 +1,5 @@
 import React, { useState, useMemo, useEffect } from 'react';
-import { BrowserRouter, Routes, Route, Navigate, useLocation, useNavigate, useParams, useSearchParams } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate, useLocation, useNavigate, useParams, useSearchParams, Link } from 'react-router-dom';
 import { Printer } from 'lucide-react';
 import Header from './components/Header';
 import HanjaGrid from './components/HanjaGrid';
@@ -7,10 +7,11 @@ import WorksheetViewer from './components/WorksheetViewer';
 import StrokePractice from './components/StrokePractice';
 import HanjaStory from './components/HanjaStory';
 import NoticeModal from './components/NoticeModal';
-import ContactModal from './components/ContactModal';
-import PrivacyModal from './components/PrivacyModal';
-import FaqModal from './components/FaqModal';
-import GuideModal from './components/GuideModal';
+import PrivacyPage from './pages/PrivacyPage';
+import ContactPage from './pages/ContactPage';
+import AboutPage from './pages/AboutPage';
+import FaqPage from './pages/FaqPage';
+import StoryDetailPage from './pages/StoryDetailPage';
 import { HANJA_DATABASE } from './data/hanjaData';
 import { GR_TO_GRADE, GRADE_TO_GR } from './utils/gradeMapping';
 import './styles/main.css';
@@ -186,6 +187,11 @@ function AppContent() {
             } 
           />
           <Route path="/story" element={<HanjaStory />} />
+          <Route path="/story/:id" element={<StoryDetailPage />} />
+          <Route path="/about" element={<AboutPage />} />
+          <Route path="/privacy" element={<PrivacyPage />} />
+          <Route path="/contact" element={<ContactPage />} />
+          <Route path="/faq" element={<FaqPage />} />
           <Route path="*" element={<Navigate to="/grade/8GR" replace />} />
         </Routes>
         
@@ -202,25 +208,25 @@ function AppContent() {
 
       <footer className="site-footer no-print">
         <div className="footer-links">
-          <button className="footer-btn text-bold" onClick={() => setShowPrivacy(true)}>
+          <Link to="/privacy" className="footer-btn text-bold" style={{ textDecoration: 'none' }}>
             개인정보처리방침
-          </button>
+          </Link>
           <span className="footer-sep">•</span>
-          <button className="footer-btn text-bold" style={{ color: 'var(--primary)' }} onClick={() => setShowGuide(true)}>
+          <Link to="/about" className="footer-btn text-bold" style={{ color: 'var(--primary)', textDecoration: 'none' }}>
             일일한자 활용가이드
-          </button>
+          </Link>
           <span className="footer-sep">•</span>
           <button className="footer-btn" onClick={() => setShowNotice(true)}>
             공지사항
           </button>
           <span className="footer-sep">•</span>
-          <button className="footer-btn" onClick={() => setShowFaq(true)}>
+          <Link to="/faq" className="footer-btn" style={{ textDecoration: 'none' }}>
             자주 묻는 질문
-          </button>
+          </Link>
           <span className="footer-sep">•</span>
-          <button className="footer-btn" onClick={() => setShowContact(true)}>
+          <Link to="/contact" className="footer-btn" style={{ textDecoration: 'none' }}>
             문의하기
-          </button>
+          </Link>
         </div>
         <p style={{ marginTop: '8px' }}>© 2026 일일한자 (11HANJA.COM) - 무료한자 일일 학습지</p>
         <p style={{ marginTop: '4px' }}>
@@ -228,11 +234,7 @@ function AppContent() {
         </p>
       </footer>
 
-      {showGuide && <GuideModal onClose={() => setShowGuide(false)} />}
       {showNotice && <NoticeModal onClose={() => setShowNotice(false)} />}
-      {showContact && <ContactModal onClose={() => setShowContact(false)} />}
-      {showPrivacy && <PrivacyModal onClose={() => setShowPrivacy(false)} />}
-      {showFaq && <FaqModal onClose={() => setShowFaq(false)} />}
       
       {isPreparingPrint && (
         <div className="modal-overlay">

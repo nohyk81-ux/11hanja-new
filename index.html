@@ -29,7 +29,68 @@
     <link rel="canonical" href="https://11hanja.com/" />
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <!-- Crawler Fallback & Initial Content for Search Engines & AdSense Review Bots -->
+      <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 900px; margin: 0 auto; padding: 2rem 1rem; color: #1e293b; line-height: 1.6;">
+        <header style="border-bottom: 2px solid #e2e8f0; padding-bottom: 1.5rem; margin-bottom: 2rem;">
+          <h1 style="color: #059669; font-size: 2.2rem; margin: 0 0 0.5rem 0;">일일한자 (11HANJA.COM)</h1>
+          <p style="font-size: 1.1rem; color: #64748b; margin: 0;">매일 10분! 스스로 익히는 급수 한자 교재 및 무료 A4 한자 학습지 인쇄 서비스</p>
+        </header>
+
+        <nav style="display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 2rem; padding: 1rem; background: #f8fafc; border-radius: 8px;">
+          <a href="/grade/8GR?board=uhmoon" style="color: #059669; font-weight: bold; text-decoration: none;">한자 연습하기 (한국어문회 8급)</a> |
+          <a href="/stroke/8GR?board=uhmoon" style="color: #059669; font-weight: bold; text-decoration: none;">획순 연습하기</a> |
+          <a href="/story" style="color: #059669; font-weight: bold; text-decoration: none;">한자 이야기 칼럼</a> |
+          <a href="/about" style="color: #059669; font-weight: bold; text-decoration: none;">서비스 소개</a> |
+          <a href="/faq" style="color: #059669; font-weight: bold; text-decoration: none;">자주 묻는 질문</a> |
+          <a href="/contact" style="color: #059669; font-weight: bold; text-decoration: none;">문의하기</a> |
+          <a href="/privacy" style="color: #059669; font-weight: bold; text-decoration: none;">개인정보처리방침</a>
+        </nav>
+
+        <main>
+          <section style="margin-bottom: 2.5rem;">
+            <h2 style="color: #0f172a; font-size: 1.4rem; border-left: 4px solid #059669; padding-left: 0.75rem; margin-bottom: 1rem;">
+              일일한자 서비스 안내
+            </h2>
+            <p>
+              일일한자는 유아, 초등학생, 수험생 및 일반인을 위한 <strong>무료 한자 학습 플랫폼</strong>입니다.
+              국내 대표 3대 검정기관인 <strong>한국어문회(5,978자), 대한검정회, 대한상공회의소</strong>의 급수 체계를 완벽 지원하며,
+              원하는 급수의 배정한자를 직접 선택하여 나만의 맞춤형 <strong>A4 쓰기 연습지</strong>를 무료로 생성하고 인쇄할 수 있습니다.
+            </p>
+            <p>
+              회원가입이나 유료 결제 없이 8급부터 특급까지 모든 한자의 훈음(뜻과 소리), 부수, 총획수, 획순 가이드를 손쉽게 학습하세요.
+            </p>
+          </section>
+
+          <section style="margin-bottom: 2.5rem;">
+            <h2 style="color: #0f172a; font-size: 1.4rem; border-left: 4px solid #059669; padding-left: 0.75rem; margin-bottom: 1rem;">
+              추천 한자 교육 칼럼
+            </h2>
+            <ul style="list-style-type: none; padding: 0;">
+              <li style="margin-bottom: 0.75rem;"><a href="/story/1" style="color: #0284c7; text-decoration: underline; font-weight: 600;">한자 8급 준비, 어떻게 시작할까요? (급수 시험 대비 요령)</a></li>
+              <li style="margin-bottom: 0.75rem;"><a href="/story/2" style="color: #0284c7; text-decoration: underline; font-weight: 600;">한자 획순이 중요한 진짜 이유 (획순의 기본 원리와 장점)</a></li>
+              <li style="margin-bottom: 0.75rem;"><a href="/story/3" style="color: #0284c7; text-decoration: underline; font-weight: 600;">사자성어로 배우는 삶의 지혜: 대기만성 (大器晩成)</a></li>
+              <li style="margin-bottom: 0.75rem;"><a href="/story/5" style="color: #0284c7; text-decoration: underline; font-weight: 600;">한자를 알면 우리말 어휘력이 쑥쑥! (한자와 국어의 상관관계)</a></li>
+            </ul>
+          </section>
+        </main>
+
+        <footer style="border-top: 1px solid #e2e8f0; padding-top: 1.5rem; margin-top: 3rem; font-size: 0.9rem; color: #64748b;">
+          <p>
+            <a href="/privacy" style="color: #64748b; font-weight: bold;">개인정보처리방침</a> | 
+            <a href="/about" style="color: #64748b;">서비스 소개</a> | 
+            <a href="/faq" style="color: #64748b;">자주 묻는 질문</a> | 
+            <a href="/contact" style="color: #64748b;">문의하기</a>
+          </p>
+          <p>© 2026 일일한자 (11HANJA.COM) - 무료한자 일일 학습지. All rights reserved.</p>
+        </footer>
+      </div>
+    </div>
+    <noscript>
+      <div style="padding: 2rem; text-align: center; background: #fffbeb; color: #b45309;">
+        자바스크립트가 비활성화되어 있습니다. 일일한자의 모든 학습지 생성 및 획순 연습 기능을 이용하시려면 브라우저 설정에서 자바스크립트를 활성화해 주세요.
+      </div>
+    </noscript>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>

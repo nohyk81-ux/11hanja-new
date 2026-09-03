@@ -44,10 +44,10 @@ export default function Header({ onOpenNotice, onOpenContact }) {
             <Bell size={18} />
             <span>공지사항</span>
           </button>
-          <button className="action-btn" onClick={onOpenContact}>
+          <Link to="/contact" className="action-btn" style={{ textDecoration: 'none' }}>
             <Mail size={18} />
             <span>문의하기</span>
-          </button>
+          </Link>
         </div>
       </div>
     </header>
