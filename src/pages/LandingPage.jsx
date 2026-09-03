@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen, Layers, Printer, ArrowRight, FileText, CheckCircle2, ChevronRight } from 'lucide-react';
+import { BookOpen, Layers, ArrowRight, CheckCircle2 } from 'lucide-react';
 import { useSeo } from '../utils/useSeo';
 
 export default function LandingPage() {
@@ -160,60 +160,6 @@ export default function LandingPage() {
             <ArrowRight size={20} />
           </Link>
         </div>
-      </section>
-
-      {/* Quick Access Popular Grades */}
-      <section style={{ background: '#f8fafc', borderRadius: '18px', padding: '1.5rem', marginBottom: '2.5rem', border: '1px solid #e2e8f0' }}>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px', marginBottom: '1rem', color: '#475569', fontWeight: 600, fontSize: '0.95rem' }}>
-          <Printer size={18} color="#059669" />
-          <span>자주 찾는 인기 급수 바로가기</span>
-        </div>
-        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.75rem', justifyContent: 'center' }}>
-          <Link
-            to="/grade/8GR?board=uhmoon"
-            style={{ background: '#ffffff', color: '#0f172a', padding: '8px 16px', borderRadius: '20px', border: '1px solid #cbd5e1', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 500 }}
-          >
-            한국어문회 8급 (50자)
-          </Link>
-          <Link
-            to="/grade/7GR?board=uhmoon"
-            style={{ background: '#ffffff', color: '#0f172a', padding: '8px 16px', borderRadius: '20px', border: '1px solid #cbd5e1', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 500 }}
-          >
-            한국어문회 7급 (150자)
-          </Link>
-          <Link
-            to="/grade/6GR?board=uhmoon"
-            style={{ background: '#ffffff', color: '#0f172a', padding: '8px 16px', borderRadius: '20px', border: '1px solid #cbd5e1', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 500 }}
-          >
-            한국어문회 6급 (300자)
-          </Link>
-          <Link
-            to="/grade/3GR?board=korcham"
-            style={{ background: '#ffffff', color: '#0f172a', padding: '8px 16px', borderRadius: '20px', border: '1px solid #cbd5e1', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 500 }}
-          >
-            상공회의소 3급 (취업 가산점)
-          </Link>
-        </div>
-      </section>
-
-      {/* Featured Educational Story */}
-      <section style={{ textAlign: 'left', background: '#ffffff', borderRadius: '16px', padding: '1.5rem 1.75rem', border: '1px solid #e2e8f0', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '1rem', flexWrap: 'wrap' }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-          <div style={{ width: '42px', height: '42px', borderRadius: '10px', background: '#e0f2fe', color: '#0369a1', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-            <FileText size={22} />
-          </div>
-          <div>
-            <div style={{ fontSize: '0.825rem', color: '#0369a1', fontWeight: 700, marginBottom: '2px' }}>한자 교육 칼럼</div>
-            <div style={{ fontSize: '1rem', color: '#0f172a', fontWeight: 600 }}>초등 한자 공부, 몇 급부터 시작해야 할까요?</div>
-          </div>
-        </div>
-        <Link
-          to="/story"
-          style={{ display: 'inline-flex', alignItems: 'center', gap: '4px', color: '#059669', textDecoration: 'none', fontWeight: 600, fontSize: '0.95rem' }}
-        >
-          <span>칼럼 읽기</span>
-          <ChevronRight size={16} />
-        </Link>
       </section>
     </div>
   );
