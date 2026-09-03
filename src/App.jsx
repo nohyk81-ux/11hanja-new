@@ -141,12 +141,16 @@ function AppContent() {
     }, 3000);
   };
 
+  const isLanding = location.pathname === '/';
+
   return (
     <div className="app-container">
-      <Header
-        onOpenNotice={() => setShowNotice(true)}
-        onOpenContact={() => setShowContact(true)}
-      />
+      {!isLanding && (
+        <Header
+          onOpenNotice={() => setShowNotice(true)}
+          onOpenContact={() => setShowContact(true)}
+        />
+      )}
 
       <main className="main-content">
         <Routes>

@@ -11,6 +11,17 @@ export default function LandingPage() {
 
   return (
     <div className="landing-page-container" style={{ maxWidth: '1000px', margin: '0 auto', padding: '2.5rem 1rem 3.5rem 1rem', textAlign: 'center' }}>
+      {/* Brand Logo Header */}
+      <div style={{ display: 'inline-flex', alignItems: 'center', gap: '10px', marginBottom: '2.5rem' }}>
+        <div style={{ background: '#059669', color: '#ffffff', fontWeight: 800, width: '46px', height: '46px', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '1.6rem', boxShadow: '0 4px 12px rgba(5, 150, 105, 0.25)' }}>
+          日
+        </div>
+        <div style={{ textAlign: 'left' }}>
+          <div style={{ fontSize: '1.75rem', fontWeight: 800, color: '#0f172a', lineHeight: 1.1 }}>일일한자</div>
+          <div style={{ fontSize: '0.85rem', color: '#64748b', fontWeight: 600, letterSpacing: '0.05em' }}>11HANJA.COM</div>
+        </div>
+      </div>
+
       {/* Hero Section */}
       <section style={{ marginBottom: '3rem' }}>
         <div style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', background: '#ecfdf5', color: '#059669', padding: '6px 16px', borderRadius: '20px', fontSize: '0.9rem', fontWeight: 600, marginBottom: '1.25rem' }}>
@@ -21,7 +32,7 @@ export default function LandingPage() {
           오늘 어떤 한자 공부를 해볼까요?
         </h1>
         <p style={{ fontSize: 'clamp(1rem, 2vw, 1.2rem)', color: '#64748b', margin: 0, lineHeight: 1.6, wordBreak: 'keep-all' }}>
-          회원가입 없이 누구나 100% 무료로 인쇄하고 연습하는 일일한자
+          회원가입 없이 누구나 무료로 인쇄하고 연습하는 일일한자
         </p>
       </section>
 
