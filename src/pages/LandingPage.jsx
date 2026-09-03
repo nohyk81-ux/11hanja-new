@@ -5,7 +5,7 @@ import { useSeo } from '../utils/useSeo';
 
 export default function LandingPage() {
   useSeo(
-    '일일한자 - 무료 급수 한자 학습지 만들기 및 인터랙티브 획순 연습',
+    '일일한자 - 검정기관별 무료 급수 한자 학습지 만들기 & 획순 연습',
     '회원가입 없이 누구나 무료로 인쇄하고 연습하는 일일한자! 공인 급수별 맞춤 학습지 A4 인쇄 및 살아 움직이는 획순 애니메이션을 제공합니다.'
   );
 

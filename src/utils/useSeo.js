@@ -4,7 +4,7 @@ export function useSeo(title, description) {
   useEffect(() => {
     // 타이틀 업데이트
     if (title) {
-      const fullTitle = title.includes('11HANJA') ? title : `${title} - 일일한자 | 11HANJA.COM`;
+      const fullTitle = (title.includes('일일한자') || title.includes('11HANJA')) ? title : `${title} - 일일한자 | 11HANJA.COM`;
       document.title = fullTitle;
 
       // OG / Twitter 타이틀도 동기화
