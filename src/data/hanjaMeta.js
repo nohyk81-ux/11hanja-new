@@ -40206,7 +40206,9 @@ export const hanjaMeta = [
     "korcham": "9급",
     "uhmoon": "7급Ⅱ",
     "hun": "수레",
-    "eum": "거"
+    "eum": "거",
+    "totalStrokes": 7,
+    "radical": "車"
   },
   {
     "id": "sanggong-new-1",
@@ -40216,7 +40218,9 @@ export const hanjaMeta = [
     "korcham": "9급",
     "uhmoon": "6급Ⅱ",
     "hun": "실과",
-    "eum": "과"
+    "eum": "과",
+    "totalStrokes": 8,
+    "radical": "木"
   },
   {
     "id": "sanggong-new-2",
@@ -40226,7 +40230,9 @@ export const hanjaMeta = [
     "korcham": "9급",
     "uhmoon": "5급Ⅱ",
     "hun": "아이",
-    "eum": "아"
+    "eum": "아",
+    "totalStrokes": 8,
+    "radical": "儿"
   },
   {
     "id": "sanggong-new-3",
@@ -40236,7 +40242,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "6급Ⅱ",
     "hun": "뿔",
-    "eum": "각"
+    "eum": "각",
+    "totalStrokes": 7,
+    "radical": "角"
   },
   {
     "id": "sanggong-new-4",
@@ -40246,7 +40254,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "5급",
     "hun": "굽을",
-    "eum": "곡"
+    "eum": "곡",
+    "totalStrokes": 6,
+    "radical": "曰"
   },
   {
     "id": "sanggong-new-5",
@@ -40256,7 +40266,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "8급",
     "hun": "쇠",
-    "eum": "금"
+    "eum": "금",
+    "totalStrokes": 8,
+    "radical": "金"
   },
   {
     "id": "sanggong-new-6",
@@ -40266,7 +40278,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "5급Ⅱ",
     "hun": "능할",
-    "eum": "능"
+    "eum": "능",
+    "totalStrokes": 10,
+    "radical": "肉"
   },
   {
     "id": "sanggong-new-7",
@@ -40276,7 +40290,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "5급Ⅱ",
     "hun": "법",
-    "eum": "법"
+    "eum": "법",
+    "totalStrokes": 8,
+    "radical": "水"
   },
   {
     "id": "sanggong-new-8",
@@ -40286,7 +40302,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "5급Ⅱ",
     "hun": "병사",
-    "eum": "병"
+    "eum": "병",
+    "totalStrokes": 7,
+    "radical": "八"
   },
   {
     "id": "sanggong-new-9",
@@ -40296,7 +40314,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": null,
     "hun": "아닐",
-    "eum": "불"
+    "eum": "불",
+    "totalStrokes": 4,
+    "radical": "一"
   },
   {
     "id": "sanggong-new-10",
@@ -40306,7 +40326,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "5급Ⅱ",
     "hun": "사기",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 5,
+    "radical": "口"
   },
   {
     "id": "sanggong-new-11",
@@ -40316,7 +40338,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "5급Ⅱ",
     "hun": "신하",
-    "eum": "신"
+    "eum": "신",
+    "totalStrokes": 6,
+    "radical": "臣"
   },
   {
     "id": "sanggong-new-12",
@@ -40326,7 +40350,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "6급",
     "hun": "잃을",
-    "eum": "실"
+    "eum": "실",
+    "totalStrokes": 5,
+    "radical": "大"
   },
   {
     "id": "sanggong-new-13",
@@ -40336,7 +40362,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "6급Ⅱ",
     "hun": "업",
-    "eum": "업"
+    "eum": "업",
+    "totalStrokes": 13,
+    "radical": "木"
   },
   {
     "id": "sanggong-new-14",
@@ -40346,7 +40374,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "6급",
     "hun": "말미암을",
-    "eum": "유"
+    "eum": "유",
+    "totalStrokes": 5,
+    "radical": "田"
   },
   {
     "id": "sanggong-new-15",
@@ -40356,7 +40386,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "5급",
     "hun": "인할",
-    "eum": "인"
+    "eum": "인",
+    "totalStrokes": 6,
+    "radical": "囗"
   },
   {
     "id": "sanggong-new-16",
@@ -40366,7 +40398,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "6급",
     "hun": "놈",
-    "eum": "자"
+    "eum": "자",
+    "totalStrokes": 9,
+    "radical": "老"
   },
   {
     "id": "sanggong-new-17",
@@ -40376,7 +40410,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "5급",
     "hun": "처음",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 7,
+    "radical": "刀"
   },
   {
     "id": "sanggong-new-18",
@@ -40386,7 +40422,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "6급Ⅱ",
     "hun": "겉",
-    "eum": "표"
+    "eum": "표",
+    "totalStrokes": 8,
+    "radical": "衣"
   },
   {
     "id": "sanggong-new-19",
@@ -40396,7 +40434,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "6급Ⅱ",
     "hun": "바람",
-    "eum": "풍"
+    "eum": "풍",
+    "totalStrokes": 9,
+    "radical": "風"
   },
   {
     "id": "sanggong-new-20",
@@ -40406,7 +40446,9 @@ export const hanjaMeta = [
     "korcham": "8급",
     "uhmoon": "6급Ⅱ",
     "hun": "다행",
-    "eum": "행"
+    "eum": "행",
+    "totalStrokes": 8,
+    "radical": "干"
   },
   {
     "id": "sanggong-new-21",
@@ -40416,7 +40458,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급",
     "hun": "더할",
-    "eum": "가"
+    "eum": "가",
+    "totalStrokes": 5,
+    "radical": "力"
   },
   {
     "id": "sanggong-new-22",
@@ -40426,7 +40470,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "결단할",
-    "eum": "결"
+    "eum": "결",
+    "totalStrokes": 7,
+    "radical": "水"
   },
   {
     "id": "sanggong-new-23",
@@ -40436,7 +40482,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
     "hun": "지경",
-    "eum": "계"
+    "eum": "계",
+    "totalStrokes": 9,
+    "radical": "田"
   },
   {
     "id": "sanggong-new-24",
@@ -40446,7 +40494,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "고할",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 7,
+    "radical": "口"
   },
   {
     "id": "sanggong-new-25",
@@ -40456,7 +40506,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급",
     "hun": "생각할",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 6,
+    "radical": "老"
   },
   {
     "id": "sanggong-new-26",
@@ -40466,7 +40518,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
     "hun": "공평할",
-    "eum": "공"
+    "eum": "공",
+    "totalStrokes": 4,
+    "radical": "八"
   },
   {
     "id": "sanggong-new-27",
@@ -40476,7 +40530,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "지날",
-    "eum": "과"
+    "eum": "과",
+    "totalStrokes": 13,
+    "radical": "辵"
   },
   {
     "id": "sanggong-new-28",
@@ -40486,7 +40542,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
     "hun": "그림",
-    "eum": "도"
+    "eum": "도",
+    "totalStrokes": 14,
+    "radical": "囗"
   },
   {
     "id": "sanggong-new-29",
@@ -40496,7 +40554,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급",
     "hun": "법도",
-    "eum": "도"
+    "eum": "도",
+    "totalStrokes": 9,
+    "radical": "广"
   },
   {
     "id": "sanggong-new-30",
@@ -40506,7 +40566,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
     "hun": "아이",
-    "eum": "동"
+    "eum": "동",
+    "totalStrokes": 12,
+    "radical": "立"
   },
   {
     "id": "sanggong-new-31",
@@ -40516,7 +40578,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급",
     "hun": "법식",
-    "eum": "례"
+    "eum": "례",
+    "totalStrokes": 8,
+    "radical": "人"
   },
   {
     "id": "sanggong-new-32",
@@ -40526,7 +40590,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급",
     "hun": "아름다울",
-    "eum": "미"
+    "eum": "미",
+    "totalStrokes": 9,
+    "radical": "羊"
   },
   {
     "id": "sanggong-new-33",
@@ -40536,7 +40602,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
     "hun": "돌이킬/돌아올",
-    "eum": "반"
+    "eum": "반",
+    "totalStrokes": 4,
+    "radical": "又"
   },
   {
     "id": "sanggong-new-34",
@@ -40546,7 +40614,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급",
     "hun": "병",
-    "eum": "병"
+    "eum": "병",
+    "totalStrokes": 10,
+    "radical": "疒"
   },
   {
     "id": "sanggong-new-35",
@@ -40556,7 +40626,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급",
     "hun": "옷",
-    "eum": "복"
+    "eum": "복",
+    "totalStrokes": 8,
+    "radical": "月"
   },
   {
     "id": "sanggong-new-36",
@@ -40566,7 +40638,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "받들",
-    "eum": "봉"
+    "eum": "봉",
+    "totalStrokes": 8,
+    "radical": "大"
   },
   {
     "id": "sanggong-new-37",
@@ -40576,7 +40650,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
     "hun": "사라질",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 10,
+    "radical": "水"
   },
   {
     "id": "sanggong-new-38",
@@ -40586,7 +40662,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급",
     "hun": "익힐",
-    "eum": "습"
+    "eum": "습",
+    "totalStrokes": 11,
+    "radical": "羽"
   },
   {
     "id": "sanggong-new-39",
@@ -40596,7 +40674,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
     "hun": "비로소",
-    "eum": "시"
+    "eum": "시",
+    "totalStrokes": 8,
+    "radical": "女"
   },
   {
     "id": "sanggong-new-40",
@@ -40606,7 +40686,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "열매",
-    "eum": "실"
+    "eum": "실",
+    "totalStrokes": 14,
+    "radical": "宀"
   },
   {
     "id": "sanggong-new-41",
@@ -40616,7 +40698,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급",
     "hun": "들",
-    "eum": "야"
+    "eum": "야",
+    "totalStrokes": 11,
+    "radical": "里"
   },
   {
     "id": "sanggong-new-42",
@@ -40626,7 +40710,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
     "hun": "약",
-    "eum": "약"
+    "eum": "약",
+    "totalStrokes": 19,
+    "radical": "艸"
   },
   {
     "id": "sanggong-new-43",
@@ -40636,7 +40722,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": null,
     "hun": "두",
-    "eum": "량"
+    "eum": "량",
+    "totalStrokes": 8,
+    "radical": "入"
   },
   {
     "id": "sanggong-new-44",
@@ -40646,7 +40734,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급",
     "hun": "큰바다",
-    "eum": "양"
+    "eum": "양",
+    "totalStrokes": 9,
+    "radical": "水"
   },
   {
     "id": "sanggong-new-45",
@@ -40656,7 +40746,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "요긴할",
-    "eum": "요"
+    "eum": "요",
+    "totalStrokes": 9,
+    "radical": "襾"
   },
   {
     "id": "sanggong-new-46",
@@ -40666,7 +40758,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "구름",
-    "eum": "운"
+    "eum": "운",
+    "totalStrokes": 12,
+    "radical": "雨"
   },
   {
     "id": "sanggong-new-47",
@@ -40676,7 +40770,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급",
     "hun": "의원",
-    "eum": "의"
+    "eum": "의",
+    "totalStrokes": 18,
+    "radical": "酉"
   },
   {
     "id": "sanggong-new-48",
@@ -40686,7 +40782,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "재목",
-    "eum": "재"
+    "eum": "재",
+    "totalStrokes": 7,
+    "radical": "木"
   },
   {
     "id": "sanggong-new-49",
@@ -40696,7 +40794,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "법",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 8,
+    "radical": "八"
   },
   {
     "id": "sanggong-new-50",
@@ -40706,7 +40806,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "펼",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 10,
+    "radical": "尸"
   },
   {
     "id": "sanggong-new-51",
@@ -40716,7 +40818,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
     "hun": "싸움",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 16,
+    "radical": "戈"
   },
   {
     "id": "sanggong-new-52",
@@ -40726,7 +40830,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급",
     "hun": "정할",
-    "eum": "정"
+    "eum": "정",
+    "totalStrokes": 8,
+    "radical": "宀"
   },
   {
     "id": "sanggong-new-53",
@@ -40736,7 +40842,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
     "hun": "뜰",
-    "eum": "정"
+    "eum": "정",
+    "totalStrokes": 10,
+    "radical": "广"
   },
   {
     "id": "sanggong-new-54",
@@ -40746,7 +40854,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급",
     "hun": "겨레",
-    "eum": "족"
+    "eum": "족",
+    "totalStrokes": 11,
+    "radical": "方"
   },
   {
     "id": "sanggong-new-55",
@@ -40756,7 +40866,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
     "hun": "부을",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 8,
+    "radical": "水"
   },
   {
     "id": "sanggong-new-56",
@@ -40766,7 +40878,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급",
     "hun": "그칠",
-    "eum": "지"
+    "eum": "지",
+    "totalStrokes": 4,
+    "radical": "止"
   },
   {
     "id": "sanggong-new-57",
@@ -40776,7 +40890,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "7급",
     "hun": "종이",
-    "eum": "지"
+    "eum": "지",
+    "totalStrokes": 10,
+    "radical": "糸"
   },
   {
     "id": "sanggong-new-58",
@@ -40786,7 +40902,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
     "hun": "모을",
-    "eum": "집"
+    "eum": "집",
+    "totalStrokes": 12,
+    "radical": "隹"
   },
   {
     "id": "sanggong-new-59",
@@ -40796,7 +40914,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "채울",
-    "eum": "충"
+    "eum": "충",
+    "totalStrokes": 6,
+    "radical": "儿"
   },
   {
     "id": "sanggong-new-60",
@@ -40806,7 +40926,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "물건",
-    "eum": "품"
+    "eum": "품",
+    "totalStrokes": 9,
+    "radical": "口"
   },
   {
     "id": "sanggong-new-61",
@@ -40816,7 +40938,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "반드시",
-    "eum": "필"
+    "eum": "필",
+    "totalStrokes": 5,
+    "radical": "心"
   },
   {
     "id": "sanggong-new-62",
@@ -40826,7 +40950,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
     "hun": "될",
-    "eum": "화"
+    "eum": "화",
+    "totalStrokes": 4,
+    "radical": "匕"
   },
   {
     "id": "sanggong-new-63",
@@ -40836,7 +40962,9 @@ export const hanjaMeta = [
     "korcham": "7급",
     "uhmoon": "6급",
     "hun": "그림",
-    "eum": "화"
+    "eum": "화",
+    "totalStrokes": 12,
+    "radical": "田"
   },
   {
     "id": "sanggong-new-64",
@@ -40846,7 +40974,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급",
     "hun": "옳을",
-    "eum": "가"
+    "eum": "가",
+    "totalStrokes": 5,
+    "radical": "口"
   },
   {
     "id": "sanggong-new-65",
@@ -40856,7 +40986,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "느낄",
-    "eum": "감"
+    "eum": "감",
+    "totalStrokes": 13,
+    "radical": "心"
   },
   {
     "id": "sanggong-new-66",
@@ -40866,7 +40998,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "손",
-    "eum": "객"
+    "eum": "객",
+    "totalStrokes": 9,
+    "radical": "宀"
   },
   {
     "id": "sanggong-new-67",
@@ -40876,7 +41010,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "맺을",
-    "eum": "결"
+    "eum": "결",
+    "totalStrokes": 12,
+    "radical": "糸"
   },
   {
     "id": "sanggong-new-68",
@@ -40886,7 +41022,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "공경",
-    "eum": "경"
+    "eum": "경",
+    "totalStrokes": 13,
+    "radical": "攴"
   },
   {
     "id": "sanggong-new-69",
@@ -40896,7 +41034,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "고을",
-    "eum": "군"
+    "eum": "군",
+    "totalStrokes": 10,
+    "radical": "邑"
   },
   {
     "id": "sanggong-new-70",
@@ -40906,7 +41046,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급",
     "hun": "길할",
-    "eum": "길"
+    "eum": "길",
+    "totalStrokes": 6,
+    "radical": "口"
   },
   {
     "id": "sanggong-new-71",
@@ -40916,7 +41058,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "큰",
-    "eum": "덕"
+    "eum": "덕",
+    "totalStrokes": 15,
+    "radical": "彳"
   },
   {
     "id": "sanggong-new-72",
@@ -40926,7 +41070,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "7급Ⅱ",
     "hun": "움직일",
-    "eum": "동"
+    "eum": "동",
+    "totalStrokes": 11,
+    "radical": "力"
   },
   {
     "id": "sanggong-new-73",
@@ -40936,7 +41082,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급",
     "hun": "떨어질",
-    "eum": "락"
+    "eum": "락",
+    "totalStrokes": 13,
+    "radical": "艸"
   },
   {
     "id": "sanggong-new-74",
@@ -40946,7 +41094,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "예도",
-    "eum": "례"
+    "eum": "례",
+    "totalStrokes": 18,
+    "radical": "示"
   },
   {
     "id": "sanggong-new-75",
@@ -40956,7 +41106,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "길",
-    "eum": "로"
+    "eum": "로",
+    "totalStrokes": 13,
+    "radical": "足"
   },
   {
     "id": "sanggong-new-76",
@@ -40966,7 +41118,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "흐를",
-    "eum": "류"
+    "eum": "류",
+    "totalStrokes": 10,
+    "radical": "水"
   },
   {
     "id": "sanggong-new-77",
@@ -40976,7 +41130,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급",
     "hun": "망할",
-    "eum": "망"
+    "eum": "망",
+    "totalStrokes": 3,
+    "radical": "亠"
   },
   {
     "id": "sanggong-new-78",
@@ -40986,7 +41142,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
     "hun": "필",
-    "eum": "발"
+    "eum": "발",
+    "totalStrokes": 12,
+    "radical": "癶"
   },
   {
     "id": "sanggong-new-79",
@@ -40996,7 +41154,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "복",
-    "eum": "복"
+    "eum": "복",
+    "totalStrokes": 14,
+    "radical": "示"
   },
   {
     "id": "sanggong-new-80",
@@ -41006,7 +41166,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "섬길",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 5,
+    "radical": "人"
   },
   {
     "id": "sanggong-new-81",
@@ -41016,7 +41178,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급",
     "hun": "생각",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 9,
+    "radical": "心"
   },
   {
     "id": "sanggong-new-82",
@@ -41026,7 +41190,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "7급",
     "hun": "셈",
-    "eum": "산"
+    "eum": "산",
+    "totalStrokes": 14,
+    "radical": "竹"
   },
   {
     "id": "sanggong-new-83",
@@ -41036,7 +41202,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "서로",
-    "eum": "상"
+    "eum": "상",
+    "totalStrokes": 9,
+    "radical": "目"
   },
   {
     "id": "sanggong-new-84",
@@ -41046,7 +41214,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "자리",
-    "eum": "석"
+    "eum": "석",
+    "totalStrokes": 10,
+    "radical": "巾"
   },
   {
     "id": "sanggong-new-85",
@@ -41056,7 +41226,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
     "hun": "눈",
-    "eum": "설"
+    "eum": "설",
+    "totalStrokes": 11,
+    "radical": "雨"
   },
   {
     "id": "sanggong-new-86",
@@ -41066,7 +41238,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
     "hun": "살필",
-    "eum": "성"
+    "eum": "성",
+    "totalStrokes": 9,
+    "radical": "目"
   },
   {
     "id": "sanggong-new-87",
@@ -41076,7 +41250,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "씻을",
-    "eum": "세"
+    "eum": "세",
+    "totalStrokes": 9,
+    "radical": "水"
   },
   {
     "id": "sanggong-new-88",
@@ -41086,7 +41262,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "손자",
-    "eum": "손"
+    "eum": "손",
+    "totalStrokes": 10,
+    "radical": "子"
   },
   {
     "id": "sanggong-new-89",
@@ -41096,7 +41274,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "7급",
     "hun": "셈",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 15,
+    "radical": "攴"
   },
   {
     "id": "sanggong-new-90",
@@ -41106,7 +41286,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "순할",
-    "eum": "순"
+    "eum": "순",
+    "totalStrokes": 12,
+    "radical": "頁"
   },
   {
     "id": "sanggong-new-91",
@@ -41116,7 +41298,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "법",
-    "eum": "식"
+    "eum": "식",
+    "totalStrokes": 6,
+    "radical": "弋"
   },
   {
     "id": "sanggong-new-92",
@@ -41126,7 +41310,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "볕",
-    "eum": "양"
+    "eum": "양",
+    "totalStrokes": 12,
+    "radical": "阜"
   },
   {
     "id": "sanggong-new-93",
@@ -41136,7 +41322,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
     "hun": "옮길",
-    "eum": "운"
+    "eum": "운",
+    "totalStrokes": 13,
+    "radical": "辵"
   },
   {
     "id": "sanggong-new-94",
@@ -41146,7 +41334,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "동산",
-    "eum": "원"
+    "eum": "원",
+    "totalStrokes": 13,
+    "radical": "囗"
   },
   {
     "id": "sanggong-new-95",
@@ -41156,7 +41346,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "기름",
-    "eum": "유"
+    "eum": "유",
+    "totalStrokes": 8,
+    "radical": "水"
   },
   {
     "id": "sanggong-new-96",
@@ -41166,7 +41358,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급",
     "hun": "두",
-    "eum": "재"
+    "eum": "재",
+    "totalStrokes": 6,
+    "radical": "冂"
   },
   {
     "id": "sanggong-new-97",
@@ -41176,7 +41370,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "있을",
-    "eum": "재"
+    "eum": "재",
+    "totalStrokes": 6,
+    "radical": "土"
   },
   {
     "id": "sanggong-new-98",
@@ -41186,7 +41382,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "과녁",
-    "eum": "적"
+    "eum": "적",
+    "totalStrokes": 8,
+    "radical": "白"
   },
   {
     "id": "sanggong-new-99",
@@ -41196,7 +41394,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
     "hun": "제목",
-    "eum": "제"
+    "eum": "제",
+    "totalStrokes": 18,
+    "radical": "頁"
   },
   {
     "id": "sanggong-new-100",
@@ -41206,7 +41406,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "알",
-    "eum": "지"
+    "eum": "지",
+    "totalStrokes": 8,
+    "radical": "矢"
   },
   {
     "id": "sanggong-new-101",
@@ -41216,7 +41418,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "참여할",
-    "eum": "참"
+    "eum": "참",
+    "totalStrokes": 11,
+    "radical": "厶"
   },
   {
     "id": "sanggong-new-102",
@@ -41226,7 +41430,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
     "hun": "맑을",
-    "eum": "청"
+    "eum": "청",
+    "totalStrokes": 11,
+    "radical": "水"
   },
   {
     "id": "sanggong-new-103",
@@ -41236,7 +41442,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
     "hun": "몸",
-    "eum": "체"
+    "eum": "체",
+    "totalStrokes": 23,
+    "radical": "骨"
   },
   {
     "id": "sanggong-new-104",
@@ -41246,7 +41454,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
     "hun": "집",
-    "eum": "택"
+    "eum": "택",
+    "totalStrokes": 6,
+    "radical": "宀"
   },
   {
     "id": "sanggong-new-105",
@@ -41256,7 +41466,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "특별할",
-    "eum": "특"
+    "eum": "특",
+    "totalStrokes": 10,
+    "radical": "牛"
   },
   {
     "id": "sanggong-new-106",
@@ -41266,7 +41478,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "특급",
     "hun": "풍년",
-    "eum": "풍"
+    "eum": "풍",
+    "totalStrokes": 18,
+    "radical": "豆"
   },
   {
     "id": "sanggong-new-107",
@@ -41276,7 +41490,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
     "hun": "나타날",
-    "eum": "현"
+    "eum": "현",
+    "totalStrokes": 11,
+    "radical": "玉"
   },
   {
     "id": "sanggong-new-108",
@@ -41286,7 +41502,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "이름",
-    "eum": "호"
+    "eum": "호",
+    "totalStrokes": 13,
+    "radical": "虍"
   },
   {
     "id": "sanggong-new-109",
@@ -41296,7 +41514,9 @@ export const hanjaMeta = [
     "korcham": "6급",
     "uhmoon": "6급",
     "hun": "가르칠",
-    "eum": "훈"
+    "eum": "훈",
+    "totalStrokes": 10,
+    "radical": "言"
   },
   {
     "id": "sanggong-new-110",
@@ -41306,7 +41526,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "5급",
     "hun": "귀할",
-    "eum": "귀"
+    "eum": "귀",
+    "totalStrokes": 12,
+    "radical": "貝"
   },
   {
     "id": "sanggong-new-111",
@@ -41316,7 +41538,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "6급",
     "hun": "뿌리",
-    "eum": "근"
+    "eum": "근",
+    "totalStrokes": 10,
+    "radical": "木"
   },
   {
     "id": "sanggong-new-112",
@@ -41326,7 +41550,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
     "hun": "수고로울",
-    "eum": "로"
+    "eum": "로",
+    "totalStrokes": 12,
+    "radical": "力"
   },
   {
     "id": "sanggong-new-113",
@@ -41336,7 +41562,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "6급Ⅱ",
     "hun": "집",
-    "eum": "당"
+    "eum": "당",
+    "totalStrokes": 11,
+    "radical": "土"
   },
   {
     "id": "sanggong-new-114",
@@ -41346,7 +41574,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
     "hun": "어질",
-    "eum": "량"
+    "eum": "량",
+    "totalStrokes": 7,
+    "radical": "艮"
   },
   {
     "id": "sanggong-new-115",
@@ -41356,7 +41586,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
     "hun": "지날",
-    "eum": "력"
+    "eum": "력",
+    "totalStrokes": 16,
+    "radical": "止"
   },
   {
     "id": "sanggong-new-116",
@@ -41366,7 +41598,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "5급",
     "hun": "팔",
-    "eum": "매"
+    "eum": "매",
+    "totalStrokes": 15,
+    "radical": "貝"
   },
   {
     "id": "sanggong-new-117",
@@ -41376,7 +41610,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "5급",
     "hun": "얼음",
-    "eum": "빙"
+    "eum": "빙",
+    "totalStrokes": 5,
+    "radical": "水"
   },
   {
     "id": "sanggong-new-118",
@@ -41386,7 +41622,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "6급",
     "hun": "하여금/부릴",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 8,
+    "radical": "人"
   },
   {
     "id": "sanggong-new-119",
@@ -41396,7 +41634,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "6급",
     "hun": "빠를",
-    "eum": "속"
+    "eum": "속",
+    "totalStrokes": 11,
+    "radical": "辵"
   },
   {
     "id": "sanggong-new-120",
@@ -41406,7 +41646,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "6급",
     "hun": "이길",
-    "eum": "승"
+    "eum": "승",
+    "totalStrokes": 12,
+    "radical": "力"
   },
   {
     "id": "sanggong-new-121",
@@ -41416,7 +41658,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "6급",
     "hun": "사랑",
-    "eum": "애"
+    "eum": "애",
+    "totalStrokes": 13,
+    "radical": "心"
   },
   {
     "id": "sanggong-new-122",
@@ -41426,7 +41670,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "5급",
     "hun": "고기잡을",
-    "eum": "어"
+    "eum": "어",
+    "totalStrokes": 14,
+    "radical": "水"
   },
   {
     "id": "sanggong-new-123",
@@ -41436,7 +41682,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "7급",
     "hun": "그럴",
-    "eum": "연"
+    "eum": "연",
+    "totalStrokes": 12,
+    "radical": "火"
   },
   {
     "id": "sanggong-new-124",
@@ -41446,7 +41694,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "6급",
     "hun": "따뜻할",
-    "eum": "온"
+    "eum": "온",
+    "totalStrokes": 13,
+    "radical": "水"
   },
   {
     "id": "sanggong-new-125",
@@ -41456,7 +41706,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "6급Ⅱ",
     "hun": "날랠",
-    "eum": "용"
+    "eum": "용",
+    "totalStrokes": 9,
+    "radical": "力"
   },
   {
     "id": "sanggong-new-126",
@@ -41466,7 +41718,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "6급Ⅱ",
     "hun": "마실",
-    "eum": "음"
+    "eum": "음",
+    "totalStrokes": 13,
+    "radical": "食"
   },
   {
     "id": "sanggong-new-127",
@@ -41476,7 +41730,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
     "hun": "써",
-    "eum": "이"
+    "eum": "이",
+    "totalStrokes": 5,
+    "radical": "人"
   },
   {
     "id": "sanggong-new-128",
@@ -41486,7 +41742,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "6급",
     "hun": "글",
-    "eum": "장"
+    "eum": "장",
+    "totalStrokes": 11,
+    "radical": "立"
   },
   {
     "id": "sanggong-new-129",
@@ -41496,7 +41754,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "6급Ⅱ",
     "hun": "차례",
-    "eum": "제"
+    "eum": "제",
+    "totalStrokes": 11,
+    "radical": "竹"
   },
   {
     "id": "sanggong-new-130",
@@ -41506,7 +41766,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
     "hun": "마칠",
-    "eum": "졸"
+    "eum": "졸",
+    "totalStrokes": 8,
+    "radical": "十"
   },
   {
     "id": "sanggong-new-131",
@@ -41516,7 +41778,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "6급Ⅱ",
     "hun": "창",
-    "eum": "창"
+    "eum": "창",
+    "totalStrokes": 11,
+    "radical": "穴"
   },
   {
     "id": "sanggong-new-132",
@@ -41526,7 +41790,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
     "hun": "꾸짖을",
-    "eum": "책"
+    "eum": "책",
+    "totalStrokes": 11,
+    "radical": "貝"
   },
   {
     "id": "sanggong-new-133",
@@ -41536,7 +41802,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "5급",
     "hun": "물",
-    "eum": "하"
+    "eum": "하",
+    "totalStrokes": 8,
+    "radical": "水"
   },
   {
     "id": "sanggong-new-134",
@@ -41546,7 +41814,9 @@ export const hanjaMeta = [
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
     "hun": "흉할",
-    "eum": "흉"
+    "eum": "흉",
+    "totalStrokes": 4,
+    "radical": "凵"
   },
   {
     "id": "sanggong-4_1-1786971139045-0.7796072653898851",
@@ -41556,7 +41826,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "5급",
     "hun": "가벼울",
-    "eum": "경"
+    "eum": "경",
+    "totalStrokes": 14,
+    "radical": "車"
   },
   {
     "id": "sanggong-4_1-1786971139048-0.8459987998663718",
@@ -41566,7 +41838,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "6급",
     "hun": "쓸",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 9,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139070-0.3224966887066556",
@@ -41576,7 +41850,9 @@ export const hanjaMeta = [
     "korcham": "3급",
     "uhmoon": "5급Ⅱ",
     "hun": "격식",
-    "eum": "격"
+    "eum": "격",
+    "totalStrokes": 10,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139113-0.36353979588046104",
@@ -41586,7 +41862,9 @@ export const hanjaMeta = [
     "korcham": "3급",
     "uhmoon": "6급Ⅱ",
     "hun": "공",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 11,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971139127-0.9139115691246582",
@@ -41596,7 +41874,9 @@ export const hanjaMeta = [
     "korcham": "3급",
     "uhmoon": "6급",
     "hun": "등급",
-    "eum": "급"
+    "eum": "급",
+    "totalStrokes": 10,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971139140-0.6708717492164175",
@@ -41606,7 +41886,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "성",
-    "eum": "가"
+    "eum": "가",
+    "totalStrokes": 10,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971139147-0.20306711723297688",
@@ -41616,7 +41898,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "꾸짖을",
-    "eum": "가"
+    "eum": "가",
+    "totalStrokes": 12,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971139149-0.6735189203928129",
@@ -41626,7 +41910,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "책상다리할",
-    "eum": "가"
+    "eum": "가",
+    "totalStrokes": 12,
+    "radical": "足"
   },
   {
     "id": "sanggong-4_1-1786971139158-0.8415966373379999",
@@ -41636,7 +41922,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "막대",
-    "eum": "간"
+    "eum": "간",
+    "totalStrokes": 11,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139161-0.4917649063230506",
@@ -41646,7 +41934,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "간질",
-    "eum": "간"
+    "eum": "간",
+    "totalStrokes": 17,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971139171-0.9503789366480324",
@@ -41656,7 +41946,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "갈색/굵은베",
-    "eum": "갈"
+    "eum": "갈",
+    "totalStrokes": 14,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971139177-0.1486879180745896",
@@ -41666,7 +41958,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "끼울",
-    "eum": "감"
+    "eum": "감",
+    "totalStrokes": 12,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971139181-0.7043197607022728",
@@ -41676,7 +41970,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "감질",
-    "eum": "감"
+    "eum": "감",
+    "totalStrokes": 10,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971139184-0.7214688262543146",
@@ -41686,7 +41982,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "감색/연보라",
-    "eum": "감"
+    "eum": "감",
+    "totalStrokes": 11,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971139187-0.8433888978692141",
@@ -41696,7 +41994,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "감실",
-    "eum": "감"
+    "eum": "감",
+    "totalStrokes": 22,
+    "radical": "龍"
   },
   {
     "id": "sanggong-4_1-1786971139192-0.7129924119743107",
@@ -41706,7 +42006,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급Ⅱ",
     "hun": "언덕",
-    "eum": "강"
+    "eum": "강",
+    "totalStrokes": 11,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971139206-0.13952890170710996",
@@ -41716,7 +42018,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "힘줄",
-    "eum": "건"
+    "eum": "건",
+    "totalStrokes": 13,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971139209-0.2164252560349872",
@@ -41726,7 +42030,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "검을",
-    "eum": "검"
+    "eum": "검",
+    "totalStrokes": 16,
+    "radical": "黑"
   },
   {
     "id": "sanggong-4_1-1786971139212-0.5565311436791275",
@@ -41736,7 +42042,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "불시",
-    "eum": "게"
+    "eum": "게",
+    "totalStrokes": 11,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971139216-0.3902435130327533",
@@ -41746,7 +42054,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "박수",
-    "eum": "격"
+    "eum": "격",
+    "totalStrokes": 14,
+    "radical": "見"
   },
   {
     "id": "sanggong-4_1-1786971139218-0.1850712015266951",
@@ -41756,7 +42066,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "고치",
-    "eum": "견"
+    "eum": "견",
+    "totalStrokes": 19,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971139230-0.06076160214451665",
@@ -41766,7 +42078,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "경쇠",
-    "eum": "경"
+    "eum": "경",
+    "totalStrokes": 16,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971139232-0.7884044541170755",
@@ -41776,7 +42090,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "정강이",
-    "eum": "경"
+    "eum": "경",
+    "totalStrokes": 11,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971139235-0.359160496699356",
@@ -41786,7 +42102,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "목",
-    "eum": "경"
+    "eum": "경",
+    "totalStrokes": 16,
+    "radical": "頁"
   },
   {
     "id": "sanggong-4_1-1786971139237-0.18754501741128604",
@@ -41796,7 +42114,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "두근거릴",
-    "eum": "계"
+    "eum": "계",
+    "totalStrokes": 11,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971139242-0.14920047566050032",
@@ -41806,7 +42126,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "시내",
-    "eum": "계"
+    "eum": "계",
+    "totalStrokes": 17,
+    "radical": "谷"
   },
   {
     "id": "sanggong-4_1-1786971139246-0.3875032016140959",
@@ -41816,7 +42138,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "상고할",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 6,
+    "radical": "攴"
   },
   {
     "id": "sanggong-4_1-1786971139250-0.09506957109113268",
@@ -41826,7 +42150,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "짚",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 18,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139252-0.6094356660739078",
@@ -41836,7 +42162,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "바지",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 11,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971139253-0.6595920531813642",
@@ -41846,7 +42174,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "깨우칠",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 14,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971139254-0.05563547969863436",
@@ -41856,7 +42186,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "막을",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 16,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971139258-0.9435522963355107",
@@ -41866,7 +42198,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "곤룡포",
-    "eum": "곤"
+    "eum": "곤",
+    "totalStrokes": 11,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971139264-0.7577507785919071",
@@ -41876,7 +42210,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "낱알",
-    "eum": "과"
+    "eum": "과",
+    "totalStrokes": 17,
+    "radical": "頁"
   },
   {
     "id": "sanggong-4_1-1786971139265-0.44049635562093914",
@@ -41886,7 +42222,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "외관",
-    "eum": "곽"
+    "eum": "곽",
+    "totalStrokes": 15,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139270-0.1738776703074142",
@@ -41896,7 +42234,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "물동이",
-    "eum": "관"
+    "eum": "관",
+    "totalStrokes": 24,
+    "radical": "缶"
   },
   {
     "id": "sanggong-4_1-1786971139272-0.7322821501613274",
@@ -41906,7 +42246,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "빠를",
-    "eum": "괄"
+    "eum": "괄",
+    "totalStrokes": 10,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971139273-0.8343222450412756",
@@ -41916,7 +42258,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "뫼구덩이",
-    "eum": "광"
+    "eum": "광",
+    "totalStrokes": 18,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971139278-0.16257265559142198",
@@ -41926,7 +42270,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "어그러질",
-    "eum": "괴"
+    "eum": "괴",
+    "totalStrokes": 8,
+    "radical": "丿"
   },
   {
     "id": "sanggong-4_1-1786971139285-0.18497202700079374",
@@ -41936,7 +42282,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "물/새소리",
-    "eum": "교"
+    "eum": "교",
+    "totalStrokes": 9,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971139292-0.7367760810763514",
@@ -41946,7 +42294,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "가마",
-    "eum": "교"
+    "eum": "교",
+    "totalStrokes": 19,
+    "radical": "車"
   },
   {
     "id": "sanggong-4_1-1786971139296-0.1957997837320019",
@@ -41956,7 +42306,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "굽을",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 4,
+    "radical": "勹"
   },
   {
     "id": "sanggong-4_1-1786971139300-0.17376954993024352",
@@ -41966,7 +42318,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "제기/공",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 11,
+    "radical": "毛"
   },
   {
     "id": "sanggong-4_1-1786971139306-0.7015452003029053",
@@ -41976,7 +42330,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "절구",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 6,
+    "radical": "臼"
   },
   {
     "id": "sanggong-4_1-1786971139311-0.22875662400447916",
@@ -41986,7 +42342,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "짝",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 11,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971139314-0.5579032934132939",
@@ -41996,7 +42354,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "갈고리",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 13,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971139320-0.06391103752167737",
@@ -42006,7 +42366,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "국문할",
-    "eum": "국"
+    "eum": "국",
+    "totalStrokes": 18,
+    "radical": "革"
   },
   {
     "id": "sanggong-4_1-1786971139321-0.8481469488158278",
@@ -42016,7 +42378,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "누룩",
-    "eum": "국"
+    "eum": "국",
+    "totalStrokes": 19,
+    "radical": "麥"
   },
   {
     "id": "sanggong-4_1-1786971139323-0.25919086260251123",
@@ -42026,7 +42390,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "치마",
-    "eum": "군"
+    "eum": "군",
+    "totalStrokes": 12,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971139326-0.16728647875693048",
@@ -42036,7 +42402,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "팔",
-    "eum": "굴"
+    "eum": "굴",
+    "totalStrokes": 11,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971139330-0.014565875382224092",
@@ -42046,7 +42414,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "하늘",
-    "eum": "궁"
+    "eum": "궁",
+    "totalStrokes": 8,
+    "radical": "穴"
   },
   {
     "id": "sanggong-4_1-1786971139335-0.2424296249629746",
@@ -42056,7 +42426,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "거둘/말",
-    "eum": "권"
+    "eum": "권",
+    "totalStrokes": 11,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971139337-0.5966041856706524",
@@ -42066,7 +42438,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "궤짝",
-    "eum": "궤"
+    "eum": "궤",
+    "totalStrokes": 18,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139339-0.3035722873217551",
@@ -42076,7 +42450,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "해그림자",
-    "eum": "귀"
+    "eum": "귀",
+    "totalStrokes": 12,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971139342-0.18159699227668102",
@@ -42086,7 +42462,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "규소",
-    "eum": "규"
+    "eum": "규",
+    "totalStrokes": 11,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971139345-0.45297480385821076",
@@ -42096,7 +42474,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "대껍질",
-    "eum": "균"
+    "eum": "균",
+    "totalStrokes": 13,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971139353-0.6801737489094599",
@@ -42106,7 +42486,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "뵐",
-    "eum": "근"
+    "eum": "근",
+    "totalStrokes": 18,
+    "radical": "見"
   },
   {
     "id": "sanggong-4_1-1786971139355-0.060589649909777665",
@@ -42116,7 +42498,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "풀이름",
-    "eum": "금"
+    "eum": "금",
+    "totalStrokes": 8,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139365-0.7556698773675258",
@@ -42126,7 +42510,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "돌",
-    "eum": "기"
+    "eum": "기",
+    "totalStrokes": 12,
+    "radical": "月"
   },
   {
     "id": "sanggong-4_1-1786971139371-0.3310549977199677",
@@ -42136,7 +42522,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "뙈기밭/불구",
-    "eum": "기"
+    "eum": "기",
+    "totalStrokes": 13,
+    "radical": "田"
   },
   {
     "id": "sanggong-4_1-1786971139372-0.8648830991499044",
@@ -42146,7 +42534,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "바둑",
-    "eum": "기"
+    "eum": "기",
+    "totalStrokes": 13,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971139373-0.004157010802063099",
@@ -42156,7 +42546,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "지신",
-    "eum": "기"
+    "eum": "기",
+    "totalStrokes": 9,
+    "radical": "示"
   },
   {
     "id": "sanggong-4_1-1786971139378-0.5758998762300331",
@@ -42166,7 +42558,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "굴레/나그네",
-    "eum": "기"
+    "eum": "기",
+    "totalStrokes": 24,
+    "radical": "网"
   },
   {
     "id": "sanggong-4_1-1786971139381-0.23140962853292824",
@@ -42176,7 +42570,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "주릴",
-    "eum": "기"
+    "eum": "기",
+    "totalStrokes": 21,
+    "radical": "食"
   },
   {
     "id": "sanggong-4_1-1786971139386-0.7948137983534819",
@@ -42186,7 +42582,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "꾸짖을",
-    "eum": "가"
+    "eum": "가",
+    "totalStrokes": 8,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971139388-0.6315988406396721",
@@ -42196,7 +42594,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "칼/도리깨",
-    "eum": "가"
+    "eum": "가",
+    "totalStrokes": 9,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139390-0.1919569789118849",
@@ -42206,7 +42606,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "옥이름",
-    "eum": "가"
+    "eum": "가",
+    "totalStrokes": 9,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971139391-0.882170133878043",
@@ -42216,7 +42618,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "헌데딱지",
-    "eum": "가"
+    "eum": "가",
+    "totalStrokes": 10,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971139393-0.08460626255209003",
@@ -42226,7 +42630,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "가지",
-    "eum": "가"
+    "eum": "가",
+    "totalStrokes": 9,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139396-0.9216236023109688",
@@ -42236,7 +42642,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "정성/삼갈",
-    "eum": "각"
+    "eum": "각",
+    "totalStrokes": 15,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971139401-0.6821651835441006",
@@ -42246,7 +42654,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "가릴",
-    "eum": "간"
+    "eum": "간",
+    "totalStrokes": 9,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139403-0.5108079647353322",
@@ -42256,7 +42666,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "시내",
-    "eum": "간"
+    "eum": "간",
+    "totalStrokes": 17,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971139405-0.1735560894159479",
@@ -42266,7 +42678,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "볏짚",
-    "eum": "간"
+    "eum": "간",
+    "totalStrokes": 12,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971139407-0.4632699304255494",
@@ -42276,7 +42690,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "새길",
-    "eum": "간"
+    "eum": "간",
+    "totalStrokes": 10,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139410-0.45110024956662553",
@@ -42286,7 +42702,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "땅이름",
-    "eum": "갈"
+    "eum": "갈",
+    "totalStrokes": 6,
+    "radical": "乙"
   },
   {
     "id": "sanggong-4_1-1786971139412-0.3474544720107936",
@@ -42296,7 +42714,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "어찌",
-    "eum": "갈"
+    "eum": "갈",
+    "totalStrokes": 9,
+    "radical": "曰"
   },
   {
     "id": "sanggong-4_1-1786971139416-0.23554695759471456",
@@ -42306,7 +42726,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "전갈",
-    "eum": "갈"
+    "eum": "갈",
+    "totalStrokes": 15,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971139418-0.0013895504619799715",
@@ -42316,7 +42738,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "구덩이",
-    "eum": "감"
+    "eum": "감",
+    "totalStrokes": 7,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971139420-0.4865551295681628",
@@ -42326,7 +42750,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "이길",
-    "eum": "감"
+    "eum": "감",
+    "totalStrokes": 13,
+    "radical": "戈"
   },
   {
     "id": "sanggong-4_1-1786971139422-0.9911322004320001",
@@ -42336,7 +42762,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "감람나무",
-    "eum": "감"
+    "eum": "감",
+    "totalStrokes": 16,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139424-0.11274512014763693",
@@ -42346,7 +42774,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "거울",
-    "eum": "감"
+    "eum": "감",
+    "totalStrokes": 22,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971139425-0.2724371724035263",
@@ -42356,7 +42786,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "어깻죽지",
-    "eum": "갑"
+    "eum": "갑",
+    "totalStrokes": 9,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971139427-0.5074250514228096",
@@ -42366,7 +42798,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "수문",
-    "eum": "갑"
+    "eum": "갑",
+    "totalStrokes": 13,
+    "radical": "門"
   },
   {
     "id": "sanggong-4_1-1786971139429-0.7746080169822487",
@@ -42376,7 +42810,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "지경",
-    "eum": "강"
+    "eum": "강",
+    "totalStrokes": 13,
+    "radical": "田"
   },
   {
     "id": "sanggong-4_1-1786971139432-0.9387040994568511",
@@ -42386,7 +42822,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "배",
-    "eum": "강"
+    "eum": "강",
+    "totalStrokes": 9,
+    "radical": "舟"
   },
   {
     "id": "sanggong-4_1-1786971139434-0.7147610788102933",
@@ -42396,7 +42834,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "아귀",
-    "eum": "강"
+    "eum": "강",
+    "totalStrokes": 22,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971139436-0.6092756825039674",
@@ -42406,7 +42846,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "계집",
-    "eum": "강"
+    "eum": "강",
+    "totalStrokes": 14,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971139438-0.5615332884542237",
@@ -42416,7 +42858,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "뛸",
-    "eum": "항"
+    "eum": "항",
+    "totalStrokes": 13,
+    "radical": "足"
   },
   {
     "id": "sanggong-4_1-1786971139440-0.866143201249296",
@@ -42426,7 +42870,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "성낼",
-    "eum": "개"
+    "eum": "개",
+    "totalStrokes": 13,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971139442-0.8033945112551981",
@@ -42436,7 +42882,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "덮을",
-    "eum": "개"
+    "eum": "개",
+    "totalStrokes": 11,
+    "radical": "皿"
   },
   {
     "id": "sanggong-4_1-1786971139443-0.2726872367167078",
@@ -42446,7 +42894,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "갑옷",
-    "eum": "개"
+    "eum": "개",
+    "totalStrokes": 18,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971139444-0.5240814752467575",
@@ -42456,7 +42906,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "큰홀",
-    "eum": "개"
+    "eum": "개",
+    "totalStrokes": 8,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971139446-0.4019685559977132",
@@ -42466,7 +42918,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "토할",
-    "eum": "객"
+    "eum": "객",
+    "totalStrokes": 12,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971139449-0.0806773847041935",
@@ -42476,7 +42930,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "메벼",
-    "eum": "갱"
+    "eum": "갱",
+    "totalStrokes": 13,
+    "radical": "米"
   },
   {
     "id": "sanggong-4_1-1786971139452-0.4021279908225329",
@@ -42486,7 +42942,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "거만할",
-    "eum": "거"
+    "eum": "거",
+    "totalStrokes": 10,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971139454-0.08588450013876237",
@@ -42496,7 +42954,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "일할/의거할",
-    "eum": "거"
+    "eum": "거",
+    "totalStrokes": 11,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971139456-0.8569835016644888",
@@ -42506,7 +42966,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "횃불",
-    "eum": "거"
+    "eum": "거",
+    "totalStrokes": 9,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971139458-0.23465668528991301",
@@ -42516,7 +42978,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "떨어없앨",
-    "eum": "거"
+    "eum": "거",
+    "totalStrokes": 10,
+    "radical": "示"
   },
   {
     "id": "sanggong-4_1-1786971139460-0.9338680544764846",
@@ -42526,7 +42990,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "걸어앉을",
-    "eum": "거"
+    "eum": "거",
+    "totalStrokes": 15,
+    "radical": "足"
   },
   {
     "id": "sanggong-4_1-1786971139465-0.6282560172667548",
@@ -42536,7 +43002,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "톱",
-    "eum": "거"
+    "eum": "거",
+    "totalStrokes": 16,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971139470-0.5101796152878154",
@@ -42546,7 +43014,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "절",
-    "eum": "건"
+    "eum": "건",
+    "totalStrokes": 17,
+    "radical": "足"
   },
   {
     "id": "sanggong-4_1-1786971139472-0.3239738273580357",
@@ -42556,7 +43026,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "이지러질",
-    "eum": "건"
+    "eum": "건",
+    "totalStrokes": 20,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971139476-0.9125279457945591",
@@ -42566,7 +43038,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "칼",
-    "eum": "검"
+    "eum": "검",
+    "totalStrokes": 16,
+    "radical": "刀"
   },
   {
     "id": "sanggong-4_1-1786971139478-0.34715067020827084",
@@ -42576,7 +43050,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "눈시울",
-    "eum": "검"
+    "eum": "검",
+    "totalStrokes": 18,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971139480-0.11580618325492043",
@@ -42586,7 +43062,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "자물쇠",
-    "eum": "검"
+    "eum": "검",
+    "totalStrokes": 12,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971139481-0.01246920520981587",
@@ -42596,7 +43074,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "자래",
-    "eum": "겁"
+    "eum": "겁",
+    "totalStrokes": 9,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971139484-0.21716882709774266",
@@ -42606,7 +43086,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "가슴",
-    "eum": "격"
+    "eum": "격",
+    "totalStrokes": 14,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971139488-0.7217431722337836",
@@ -42616,7 +43098,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "앙심먹을",
-    "eum": "겸"
+    "eum": "겸",
+    "totalStrokes": 13,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971139489-0.5485341563775336",
@@ -42626,7 +43110,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "재갈",
-    "eum": "겸"
+    "eum": "겸",
+    "totalStrokes": 14,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971139490-0.8324364282634822",
@@ -42636,7 +43122,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "집게",
-    "eum": "겸"
+    "eum": "겸",
+    "totalStrokes": 13,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971139495-0.4775608941989947",
@@ -42646,7 +43134,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "굳셀",
-    "eum": "경"
+    "eum": "경",
+    "totalStrokes": 10,
+    "radical": "力"
   },
   {
     "id": "sanggong-4_1-1786971139499-0.2962821594020538",
@@ -42656,7 +43146,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "빛날",
-    "eum": "형"
+    "eum": "형",
+    "totalStrokes": 11,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971139500-0.5406113546302019",
@@ -42666,7 +43158,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "옥이름",
-    "eum": "경"
+    "eum": "경",
+    "totalStrokes": 17,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971139502-0.35932011634693206",
@@ -42676,7 +43170,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "당길/홑옷",
-    "eum": "경"
+    "eum": "경",
+    "totalStrokes": 11,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971139508-0.430718749692658",
@@ -42686,7 +43182,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "꾀꼬리",
-    "eum": "경"
+    "eum": "경",
+    "totalStrokes": 19,
+    "radical": "鳥"
   },
   {
     "id": "sanggong-4_1-1786971139510-0.5309906836208278",
@@ -42696,7 +43194,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "빛날",
-    "eum": "경"
+    "eum": "경",
+    "totalStrokes": 7,
+    "radical": "囗"
   },
   {
     "id": "sanggong-4_1-1786971139511-0.1128050039045051",
@@ -42706,7 +43206,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "지경",
-    "eum": "계"
+    "eum": "계",
+    "totalStrokes": 12,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971139513-0.17325016452669484",
@@ -42716,7 +43218,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "중계",
-    "eum": "계"
+    "eum": "계",
+    "totalStrokes": 12,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139514-0.3284765950770925",
@@ -42726,7 +43230,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "시내",
-    "eum": "계"
+    "eum": "계",
+    "totalStrokes": 15,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971139516-0.6851570416099138",
@@ -42736,7 +43242,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "울",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 8,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971139518-0.13262043637664966",
@@ -42746,7 +43254,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "꽁무니",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 5,
+    "radical": "尸"
   },
   {
     "id": "sanggong-4_1-1786971139522-0.20588025177457447",
@@ -42756,7 +43266,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "밝을",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 14,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971139524-0.4449555150629908",
@@ -42766,7 +43278,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "마를",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 14,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139526-0.771638691814957",
@@ -42776,7 +43290,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "살/팔",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 8,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971139532-0.7962217925668057",
@@ -42786,7 +43302,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "줄",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 9,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139534-0.5964153515843108",
@@ -42796,7 +43314,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "줄풀",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 12,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139536-0.9622894102416026",
@@ -42806,7 +43326,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "독벌레/고혹할",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 23,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971139538-0.16471401083380255",
@@ -42816,7 +43338,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "허물",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 12,
+    "radical": "辛"
   },
   {
     "id": "sanggong-4_1-1786971139540-0.3279983473584517",
@@ -42826,7 +43350,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "밝을",
-    "eum": "고"
+    "eum": "고",
+    "totalStrokes": 8,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139542-0.0016857190743341244",
@@ -42836,7 +43362,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "휘",
-    "eum": "곡"
+    "eum": "곡",
+    "totalStrokes": 11,
+    "radical": "斗"
   },
   {
     "id": "sanggong-4_1-1786971139544-0.6473995569758544",
@@ -42846,7 +43374,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "수갑",
-    "eum": "곡"
+    "eum": "곡",
+    "totalStrokes": 11,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139548-0.08072992483975994",
@@ -42856,7 +43386,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "문지방",
-    "eum": "곤"
+    "eum": "곤",
+    "totalStrokes": 11,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139550-0.6289509609705133",
@@ -42866,7 +43398,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "넘쳐흐를",
-    "eum": "곤"
+    "eum": "곤",
+    "totalStrokes": 14,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971139556-0.7296283316699119",
@@ -42876,7 +43410,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "골몰할",
-    "eum": "골"
+    "eum": "골",
+    "totalStrokes": 7,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971139560-0.6530987904324416",
@@ -42886,7 +43422,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "지네",
-    "eum": "공"
+    "eum": "공",
+    "totalStrokes": 10,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971139563-0.640461056516591",
@@ -42896,7 +43434,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "넘을",
-    "eum": "과"
+    "eum": "과",
+    "totalStrokes": 13,
+    "radical": "足"
   },
   {
     "id": "sanggong-4_1-1786971139565-0.9531698156039828",
@@ -42906,7 +43446,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "노구솥",
-    "eum": "과"
+    "eum": "과",
+    "totalStrokes": 17,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971139571-0.8704147977478291",
@@ -42916,7 +43458,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "왕골",
-    "eum": "관"
+    "eum": "관",
+    "totalStrokes": 12,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139574-0.5305091948794779",
@@ -42926,7 +43470,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "긁을",
-    "eum": "괄"
+    "eum": "괄",
+    "totalStrokes": 8,
+    "radical": "刀"
   },
   {
     "id": "sanggong-4_1-1786971139575-0.7408870331530236",
@@ -42936,7 +43482,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "괄시할",
-    "eum": "괄"
+    "eum": "괄",
+    "totalStrokes": 10,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971139579-0.5637933808346307",
@@ -42946,7 +43494,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "광주리",
-    "eum": "광"
+    "eum": "광",
+    "totalStrokes": 12,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971139581-0.014830253185167619",
@@ -42956,7 +43506,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "줄",
-    "eum": "괘"
+    "eum": "괘",
+    "totalStrokes": 13,
+    "radical": "网"
   },
   {
     "id": "sanggong-4_1-1786971139583-0.8630599153368503",
@@ -42966,7 +43518,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "벼리",
-    "eum": "굉"
+    "eum": "굉",
+    "totalStrokes": 10,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971139587-0.740717576186069",
@@ -42976,7 +43530,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "울릴/수레소리",
-    "eum": "굉"
+    "eum": "굉",
+    "totalStrokes": 21,
+    "radical": "車"
   },
   {
     "id": "sanggong-4_1-1786971139589-0.1505879498473227",
@@ -42986,7 +43542,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "산길",
-    "eum": "교"
+    "eum": "교",
+    "totalStrokes": 15,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971139592-0.20085509515812272",
@@ -42996,7 +43554,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "달밝을",
-    "eum": "교"
+    "eum": "교",
+    "totalStrokes": 11,
+    "radical": "白"
   },
   {
     "id": "sanggong-4_1-1786971139594-0.23294880160632292",
@@ -43006,7 +43566,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "우뚝할",
-    "eum": "교"
+    "eum": "교",
+    "totalStrokes": 18,
+    "radical": "羽"
   },
   {
     "id": "sanggong-4_1-1786971139596-0.015989071162817114",
@@ -43016,7 +43578,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "메밀",
-    "eum": "교"
+    "eum": "교",
+    "totalStrokes": 16,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139598-0.883101208906056",
@@ -43026,7 +43590,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "교룡",
-    "eum": "교"
+    "eum": "교",
+    "totalStrokes": 12,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971139600-0.6499206127563617",
@@ -43036,7 +43602,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "교자",
-    "eum": "교"
+    "eum": "교",
+    "totalStrokes": 15,
+    "radical": "食"
   },
   {
     "id": "sanggong-4_1-1786971139603-0.6059952822133324",
@@ -43046,7 +43614,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "상어",
-    "eum": "교"
+    "eum": "교",
+    "totalStrokes": 17,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971139605-0.5710696798963887",
@@ -43056,7 +43626,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "아름다울/아양부릴",
-    "eum": "교"
+    "eum": "교",
+    "totalStrokes": 9,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971139608-0.29609599843371925",
@@ -43066,7 +43638,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "게울",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 14,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971139610-0.5957722968769993",
@@ -43076,7 +43650,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "언덕",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 8,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971139612-0.5459100420281487",
@@ -43086,7 +43662,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "험할",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 14,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971139614-0.7790632043996488",
@@ -43096,7 +43674,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "마구간",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 14,
+    "radical": "广"
   },
   {
     "id": "sanggong-4_1-1786971139621-0.5385246004097224",
@@ -43106,7 +43686,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "놀랄",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 18,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971139623-0.7127712931616844",
@@ -43116,7 +43698,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "급할",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 13,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971139625-0.5990948262529712",
@@ -43126,7 +43710,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "네거리",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 24,
+    "radical": "行"
   },
   {
     "id": "sanggong-4_1-1786971139627-0.8081345417442292",
@@ -43136,7 +43722,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "노래",
-    "eum": "구"
+    "eum": "구",
+    "totalStrokes": 18,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971139631-0.8578261789624866",
@@ -43146,7 +43734,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "군색할",
-    "eum": "군"
+    "eum": "군",
+    "totalStrokes": 12,
+    "radical": "穴"
   },
   {
     "id": "sanggong-4_1-1786971139633-0.5375427738326082",
@@ -43156,7 +43746,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "궁궁이",
-    "eum": "궁"
+    "eum": "궁",
+    "totalStrokes": 7,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139635-0.21533946932741643",
@@ -43166,7 +43758,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "돌아흐를",
-    "eum": "권"
+    "eum": "권",
+    "totalStrokes": 11,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971139638-0.4951493444357249",
@@ -43176,7 +43770,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "날뛸",
-    "eum": "궐"
+    "eum": "궐",
+    "totalStrokes": 15,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971139640-0.8232800490808967",
@@ -43186,7 +43782,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "고사리",
-    "eum": "궐"
+    "eum": "궐",
+    "totalStrokes": 16,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139646-0.7733153598233593",
@@ -43196,7 +43794,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "먹일",
-    "eum": "궤"
+    "eum": "궤",
+    "totalStrokes": 21,
+    "radical": "食"
   },
   {
     "id": "sanggong-4_1-1786971139648-0.4938060535925829",
@@ -43206,7 +43806,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물푸레나무",
-    "eum": "규"
+    "eum": "규",
+    "totalStrokes": 15,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139650-0.10276527787825218",
@@ -43216,7 +43818,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "구멍",
-    "eum": "규"
+    "eum": "규",
+    "totalStrokes": 18,
+    "radical": "穴"
   },
   {
     "id": "sanggong-4_1-1786971139652-0.16835347527698086",
@@ -43226,7 +43830,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "헌걸찰",
-    "eum": "규"
+    "eum": "규",
+    "totalStrokes": 9,
+    "radical": "走"
   },
   {
     "id": "sanggong-4_1-1786971139655-0.7438222836878934",
@@ -43236,7 +43842,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "살필",
-    "eum": "규"
+    "eum": "규",
+    "totalStrokes": 7,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971139657-0.27213893125140987",
@@ -43246,7 +43854,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "고를",
-    "eum": "균"
+    "eum": "균",
+    "totalStrokes": 4,
+    "radical": "勹"
   },
   {
     "id": "sanggong-4_1-1786971139660-0.6399317197850393",
@@ -43256,7 +43866,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "은근할",
-    "eum": "근"
+    "eum": "근",
+    "totalStrokes": 17,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971139662-0.9041330819259344",
@@ -43266,7 +43878,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "미나리",
-    "eum": "근"
+    "eum": "근",
+    "totalStrokes": 8,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139663-0.5909272226871812",
@@ -43276,7 +43890,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "씀바귀",
-    "eum": "근"
+    "eum": "근",
+    "totalStrokes": 12,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139665-0.2344979402741032",
@@ -43286,7 +43902,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "예쁠",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 14,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971139667-0.8330227723629406",
@@ -43296,7 +43914,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "외숙모",
-    "eum": "금"
+    "eum": "금",
+    "totalStrokes": 7,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971139669-0.15005788911856688",
@@ -43306,7 +43926,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "사로잡을",
-    "eum": "금"
+    "eum": "금",
+    "totalStrokes": 16,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971139673-0.7759682189487803",
@@ -43316,7 +43938,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "능금",
-    "eum": "금"
+    "eum": "금",
+    "totalStrokes": 17,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139675-0.06005202958484179",
@@ -43326,7 +43950,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "생각할",
-    "eum": "급"
+    "eum": "급",
+    "totalStrokes": 6,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971139681-0.35320932584319864",
@@ -43336,7 +43962,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "조심할",
-    "eum": "기"
+    "eum": "기",
+    "totalStrokes": 20,
+    "radical": "夊"
   },
   {
     "id": "sanggong-4_1-1786971139688-0.13947289739764268",
@@ -43346,7 +43974,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "클",
-    "eum": "기"
+    "eum": "기",
+    "totalStrokes": 8,
+    "radical": "示"
   },
   {
     "id": "sanggong-4_1-1786971139691-0.8461762225500594",
@@ -43356,7 +43986,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "밭갈",
-    "eum": "기"
+    "eum": "기",
+    "totalStrokes": 18,
+    "radical": "耒"
   },
   {
     "id": "sanggong-4_1-1786971139693-0.08979271996876881",
@@ -43366,7 +43998,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "살",
-    "eum": "기"
+    "eum": "기",
+    "totalStrokes": 6,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971139702-0.09113631826667834",
@@ -43376,7 +44010,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "기약할",
-    "eum": "기"
+    "eum": "기",
+    "totalStrokes": 13,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971139704-0.8806416843320439",
@@ -43386,7 +44022,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "일할",
-    "eum": "길"
+    "eum": "길",
+    "totalStrokes": 9,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971139714-0.44757133940854255",
@@ -43396,7 +44034,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "푸닥거리",
-    "eum": "나"
+    "eum": "나",
+    "totalStrokes": 21,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971139715-0.8356269924231416",
@@ -43406,7 +44046,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "잡을",
-    "eum": "나"
+    "eum": "나",
+    "totalStrokes": 10,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971139718-0.7907854826464048",
@@ -43416,7 +44058,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "비빌",
-    "eum": "년"
+    "eum": "년",
+    "totalStrokes": 15,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971139719-0.9958915568022093",
@@ -43426,7 +44070,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "집을",
-    "eum": "념"
+    "eum": "념",
+    "totalStrokes": 8,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971139720-0.9310481375348787",
@@ -43436,7 +44082,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "쇠뇌",
-    "eum": "노"
+    "eum": "노",
+    "totalStrokes": 8,
+    "radical": "弓"
   },
   {
     "id": "sanggong-4_1-1786971139723-0.8624100444967233",
@@ -43446,7 +44094,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "말더듬거릴",
-    "eum": "눌"
+    "eum": "눌",
+    "totalStrokes": 11,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971139728-0.9929125070054198",
@@ -43456,7 +44106,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "나팔",
-    "eum": "라"
+    "eum": "라",
+    "totalStrokes": 12,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971139729-0.28810470325754245",
@@ -43466,7 +44118,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "잡을",
-    "eum": "나"
+    "eum": "나",
+    "totalStrokes": 10,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971139730-0.02036880939992458",
@@ -43476,7 +44130,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "더울",
-    "eum": "난"
+    "eum": "난",
+    "totalStrokes": 13,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971139732-0.10850653273003963",
@@ -43486,7 +44142,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "녹나무",
-    "eum": "남"
+    "eum": "남",
+    "totalStrokes": 8,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139735-0.9751722697785312",
@@ -43496,7 +44154,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "기울",
-    "eum": "납"
+    "eum": "납",
+    "totalStrokes": 9,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971139738-0.3750110279711286",
@@ -43506,7 +44166,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "해",
-    "eum": "년"
+    "eum": "년",
+    "totalStrokes": 8,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971139742-0.2914184123482332",
@@ -43516,7 +44178,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "비틀",
-    "eum": "념"
+    "eum": "념",
+    "totalStrokes": 11,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971139744-0.8283305161598804",
@@ -43526,7 +44190,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "차라리",
-    "eum": "녕"
+    "eum": "녕",
+    "totalStrokes": 13,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971139746-0.12240928493231806",
@@ -43536,7 +44202,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "마노",
-    "eum": "노"
+    "eum": "노",
+    "totalStrokes": 13,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971139748-0.6223470363930231",
@@ -43546,7 +44214,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "둔한말",
-    "eum": "노"
+    "eum": "노",
+    "totalStrokes": 15,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971139750-0.30130956189312086",
@@ -43556,7 +44226,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "어릴",
-    "eum": "눈"
+    "eum": "눈",
+    "totalStrokes": 14,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971139752-0.9868362167937353",
@@ -43566,7 +44238,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "싸리",
-    "eum": "뉴"
+    "eum": "뉴",
+    "totalStrokes": 8,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139756-0.8781127116098275",
@@ -43576,7 +44250,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "굄목",
-    "eum": "니"
+    "eum": "니",
+    "totalStrokes": 9,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139758-0.1684772033694245",
@@ -43586,7 +44262,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "6급",
     "hun": "기다릴",
-    "eum": "대"
+    "eum": "대",
+    "totalStrokes": 9,
+    "radical": "彳"
   },
   {
     "id": "sanggong-4_1-1786971139779-0.5078842984193956",
@@ -43596,7 +44274,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "새알",
-    "eum": "단"
+    "eum": "단",
+    "totalStrokes": 11,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971139781-0.7330877867317895",
@@ -43606,7 +44286,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "옷벗어멜",
-    "eum": "단"
+    "eum": "단",
+    "totalStrokes": 10,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971139785-0.29919057582592246",
@@ -43616,7 +44298,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "즐길",
-    "eum": "담"
+    "eum": "담",
+    "totalStrokes": 12,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971139795-0.4674862029809379",
@@ -43626,7 +44310,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "기",
-    "eum": "당"
+    "eum": "당",
+    "totalStrokes": 15,
+    "radical": "巾"
   },
   {
     "id": "sanggong-4_1-1786971139806-0.8340598264440026",
@@ -43636,7 +44322,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급Ⅱ",
     "hun": "큰",
-    "eum": "덕"
+    "eum": "덕",
+    "totalStrokes": 12,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971139815-0.018960911291420413",
@@ -43646,7 +44334,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "내기",
-    "eum": "도"
+    "eum": "도",
+    "totalStrokes": 16,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971139820-0.42367228733894013",
@@ -43656,7 +44346,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "편지",
-    "eum": "독"
+    "eum": "독",
+    "totalStrokes": 19,
+    "radical": "片"
   },
   {
     "id": "sanggong-4_1-1786971139823-0.3565917256764387",
@@ -43666,7 +44358,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "대머리",
-    "eum": "독"
+    "eum": "독",
+    "totalStrokes": 7,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971139826-0.9777055743445761",
@@ -43676,7 +44370,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "밝을",
-    "eum": "돈"
+    "eum": "돈",
+    "totalStrokes": 8,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971139828-0.329127664333247",
@@ -43686,7 +44382,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "엉길",
-    "eum": "돈"
+    "eum": "돈",
+    "totalStrokes": 7,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971139842-0.5506602688457828",
@@ -43696,7 +44394,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "큰창자/몸통",
-    "eum": "동"
+    "eum": "동",
+    "totalStrokes": 10,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971139845-0.7714109559364879",
@@ -43706,7 +44406,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "투구",
-    "eum": "두"
+    "eum": "두",
+    "totalStrokes": 11,
+    "radical": "儿"
   },
   {
     "id": "sanggong-4_1-1786971139853-0.7411938850962613",
@@ -43716,7 +44418,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "도망할",
-    "eum": "돈"
+    "eum": "돈",
+    "totalStrokes": 15,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971139866-0.13824908231918553",
@@ -43726,7 +44430,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "아비",
-    "eum": "다"
+    "eum": "다",
+    "totalStrokes": 10,
+    "radical": "父"
   },
   {
     "id": "sanggong-4_1-1786971139869-0.3648397641896376",
@@ -43736,7 +44442,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "진실로",
-    "eum": "단"
+    "eum": "단",
+    "totalStrokes": 13,
+    "radical": "亠"
   },
   {
     "id": "sanggong-4_1-1786971139871-0.8368794509441205",
@@ -43746,7 +44454,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "판단할",
-    "eum": "단"
+    "eum": "단",
+    "totalStrokes": 9,
+    "radical": "彐"
   },
   {
     "id": "sanggong-4_1-1786971139873-0.0662014017167285",
@@ -43756,7 +44466,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "소쿠리",
-    "eum": "단"
+    "eum": "단",
+    "totalStrokes": 18,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971139875-0.4001042398784894",
@@ -43766,7 +44478,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "한단",
-    "eum": "단"
+    "eum": "단",
+    "totalStrokes": 15,
+    "radical": "邑"
   },
   {
     "id": "sanggong-4_1-1786971139878-0.2690278525707389",
@@ -43776,7 +44490,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "미끄러울",
-    "eum": "달"
+    "eum": "달",
+    "totalStrokes": 16,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971139880-0.05598749821202065",
@@ -43786,7 +44502,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "수달",
-    "eum": "달"
+    "eum": "달",
+    "totalStrokes": 19,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971139883-0.06476823711764579",
@@ -43796,7 +44514,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "씹을",
-    "eum": "담"
+    "eum": "담",
+    "totalStrokes": 11,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971139885-0.435951524114212",
@@ -43806,7 +44526,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "무너질",
-    "eum": "담"
+    "eum": "담",
+    "totalStrokes": 7,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971139892-0.7903949866764508",
@@ -43816,7 +44538,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "참담할",
-    "eum": "담"
+    "eum": "담",
+    "totalStrokes": 16,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971139894-0.3224245269228496",
@@ -43826,7 +44550,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "귓바퀴없을",
-    "eum": "담"
+    "eum": "담",
+    "totalStrokes": 11,
+    "radical": "耳"
   },
   {
     "id": "sanggong-4_1-1786971139896-0.7058891264756585",
@@ -43836,7 +44562,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "지모",
-    "eum": "담"
+    "eum": "담",
+    "totalStrokes": 16,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139901-0.33737596142141435",
@@ -43846,7 +44574,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "창",
-    "eum": "담"
+    "eum": "담",
+    "totalStrokes": 16,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971139905-0.21902309124374086",
@@ -43856,7 +44586,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "어리석을",
-    "eum": "당"
+    "eum": "당",
+    "totalStrokes": 28,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971139911-0.31475987977237807",
@@ -43866,7 +44598,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "돈대",
-    "eum": "대"
+    "eum": "대",
+    "totalStrokes": 8,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971139918-0.8984883495261222",
@@ -43876,7 +44610,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "눈썹그릴",
-    "eum": "대"
+    "eum": "대",
+    "totalStrokes": 17,
+    "radical": "黑"
   },
   {
     "id": "sanggong-4_1-1786971139920-0.22413117437052",
@@ -43886,7 +44622,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "밝을",
-    "eum": "태"
+    "eum": "태",
+    "totalStrokes": 7,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971139923-0.9735495030638073",
@@ -43896,7 +44634,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "섬",
-    "eum": "도"
+    "eum": "도",
+    "totalStrokes": 14,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971139925-0.7365440711517246",
@@ -43906,7 +44646,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "흔들",
-    "eum": "도"
+    "eum": "도",
+    "totalStrokes": 11,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971139931-0.13266985316687774",
@@ -43916,7 +44658,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "상앗대",
-    "eum": "도"
+    "eum": "도",
+    "totalStrokes": 18,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139934-0.5511163549621801",
@@ -43926,7 +44670,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "쌀일",
-    "eum": "도"
+    "eum": "도",
+    "totalStrokes": 11,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971139937-0.8365711545529869",
@@ -43936,7 +44682,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "물넘칠",
-    "eum": "도"
+    "eum": "도",
+    "totalStrokes": 13,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971139939-0.1370474659667561",
@@ -43946,7 +44694,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "볼",
-    "eum": "도"
+    "eum": "도",
+    "totalStrokes": 14,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971139941-0.579821870348058",
@@ -43956,7 +44706,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "볼",
-    "eum": "도"
+    "eum": "도",
+    "totalStrokes": 16,
+    "radical": "見"
   },
   {
     "id": "sanggong-4_1-1786971139944-0.5704953844853682",
@@ -43966,7 +44718,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "감출",
-    "eum": "도"
+    "eum": "도",
+    "totalStrokes": 19,
+    "radical": "韋"
   },
   {
     "id": "sanggong-4_1-1786971139947-0.004330161724308557",
@@ -43976,7 +44730,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "둑",
-    "eum": "독"
+    "eum": "독",
+    "totalStrokes": 25,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971139956-0.2552555586590899",
@@ -43986,7 +44742,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "한가지",
-    "eum": "동"
+    "eum": "동",
+    "totalStrokes": 5,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971139960-0.8319891191762898",
@@ -43996,7 +44754,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "무지개",
-    "eum": "동"
+    "eum": "동",
+    "totalStrokes": 14,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971139962-0.3310823149019335",
@@ -44006,7 +44766,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "살찔",
-    "eum": "동"
+    "eum": "동",
+    "totalStrokes": 16,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971139965-0.6202591801811409",
@@ -44016,7 +44778,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "밝아올",
-    "eum": "동"
+    "eum": "동",
+    "totalStrokes": 16,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971139968-0.2548639230483867",
@@ -44026,7 +44790,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "붉은칠할",
-    "eum": "동"
+    "eum": "동",
+    "totalStrokes": 7,
+    "radical": "彡"
   },
   {
     "id": "sanggong-4_1-1786971139970-0.009724720167834766",
@@ -44036,7 +44802,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "뜨거울",
-    "eum": "동"
+    "eum": "동",
+    "totalStrokes": 10,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971139974-0.13188640889892",
@@ -44046,7 +44814,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "구멍",
-    "eum": "두"
+    "eum": "두",
+    "totalStrokes": 20,
+    "radical": "穴"
   },
   {
     "id": "sanggong-4_1-1786971139977-0.9305078748362603",
@@ -44056,7 +44826,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "팥",
-    "eum": "두"
+    "eum": "두",
+    "totalStrokes": 11,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139979-0.09909091454925933",
@@ -44066,7 +44838,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "머무를",
-    "eum": "두"
+    "eum": "두",
+    "totalStrokes": 11,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971139982-0.8373488342472496",
@@ -44076,7 +44850,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "언덕",
-    "eum": "두"
+    "eum": "두",
+    "totalStrokes": 7,
+    "radical": "阜"
   },
   {
     "id": "sanggong-4_1-1786971139985-0.03158054086035966",
@@ -44086,7 +44862,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "볼기",
-    "eum": "둔"
+    "eum": "둔",
+    "totalStrokes": 17,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971139988-0.4132920166088746",
@@ -44096,7 +44874,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "싹돋을",
-    "eum": "둔"
+    "eum": "둔",
+    "totalStrokes": 8,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971139990-0.7481404386312083",
@@ -44106,7 +44886,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "고개",
-    "eum": "등"
+    "eum": "등",
+    "totalStrokes": 15,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971139992-0.16762102889008124",
@@ -44116,7 +44898,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "귤/걸상",
-    "eum": "등"
+    "eum": "등",
+    "totalStrokes": 16,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971139998-0.6200352517536837",
@@ -44126,7 +44910,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "특급Ⅱ",
     "hun": "서늘할",
-    "eum": "량"
+    "eum": "량",
+    "totalStrokes": 10,
+    "radical": "冫"
   },
   {
     "id": "sanggong-4_1-1786971140002-0.913149638843392",
@@ -44136,7 +44922,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "6급",
     "hun": "푸를",
-    "eum": "록"
+    "eum": "록",
+    "totalStrokes": 14,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971140005-0.7542698040659064",
@@ -44146,7 +44934,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "6급",
     "hun": "오얏",
-    "eum": "리"
+    "eum": "리",
+    "totalStrokes": 7,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140047-0.4760355134760429",
@@ -44156,7 +44946,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "담쟁이",
-    "eum": "라"
+    "eum": "라",
+    "totalStrokes": 23,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140049-0.6390267737983457",
@@ -44166,7 +44958,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "문둥이",
-    "eum": "라"
+    "eum": "라",
+    "totalStrokes": 21,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971140056-0.3121939402220213",
@@ -44176,7 +44970,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "낙타",
-    "eum": "락"
+    "eum": "락",
+    "totalStrokes": 16,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971140061-0.9466726920325147",
@@ -44186,7 +44982,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "난새",
-    "eum": "란"
+    "eum": "란",
+    "totalStrokes": 30,
+    "radical": "鳥"
   },
   {
     "id": "sanggong-4_1-1786971140065-0.51361241881126",
@@ -44196,7 +44994,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "밀",
-    "eum": "랍"
+    "eum": "랍",
+    "totalStrokes": 21,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971140072-0.6244589011067715",
@@ -44206,7 +45006,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급Ⅱ",
     "hun": "들보",
-    "eum": "량"
+    "eum": "량",
+    "totalStrokes": 15,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140075-0.7537407708982359",
@@ -44216,7 +45018,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "짝",
-    "eum": "려"
+    "eum": "려",
+    "totalStrokes": 21,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971140077-0.31364632369265066",
@@ -44226,7 +45030,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "명아주",
-    "eum": "려"
+    "eum": "려",
+    "totalStrokes": 19,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140079-0.08033055261834143",
@@ -44236,7 +45042,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "나귀",
-    "eum": "려"
+    "eum": "려",
+    "totalStrokes": 26,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971140088-0.09905449929678245",
@@ -44246,7 +45054,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "거를",
-    "eum": "려"
+    "eum": "려",
+    "totalStrokes": 18,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140091-0.05312919631762236",
@@ -44256,7 +45066,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "스밀",
-    "eum": "력"
+    "eum": "력",
+    "totalStrokes": 19,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140093-0.05616606522141099",
@@ -44266,7 +45078,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "조약돌",
-    "eum": "력"
+    "eum": "력",
+    "totalStrokes": 20,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971140104-0.01951265662466828",
@@ -44276,7 +45090,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "염할",
-    "eum": "렴"
+    "eum": "렴",
+    "totalStrokes": 17,
+    "radical": "歹"
   },
   {
     "id": "sanggong-4_1-1786971140106-0.03510749451178752",
@@ -44286,7 +45102,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "깃",
-    "eum": "령"
+    "eum": "령",
+    "totalStrokes": 11,
+    "radical": "羽"
   },
   {
     "id": "sanggong-4_1-1786971140114-0.5495672825244429",
@@ -44296,7 +45114,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "노/방패",
-    "eum": "로"
+    "eum": "로",
+    "totalStrokes": 19,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140119-0.21410604683360923",
@@ -44306,7 +45126,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "개펄",
-    "eum": "로"
+    "eum": "로",
+    "totalStrokes": 11,
+    "radical": "鹵"
   },
   {
     "id": "sanggong-4_1-1786971140121-0.07453926346086359",
@@ -44316,7 +45138,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "산기슭",
-    "eum": "록"
+    "eum": "록",
+    "totalStrokes": 19,
+    "radical": "鹿"
   },
   {
     "id": "sanggong-4_1-1786971140126-0.651770771948178",
@@ -44326,7 +45150,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "여울",
-    "eum": "뢰"
+    "eum": "뢰",
+    "totalStrokes": 19,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140128-0.4701431754881824",
@@ -44336,7 +45162,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "우리",
-    "eum": "뢰"
+    "eum": "뢰",
+    "totalStrokes": 7,
+    "radical": "牛"
   },
   {
     "id": "sanggong-4_1-1786971140132-0.9721590459198207",
@@ -44346,7 +45174,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "동관",
-    "eum": "료"
+    "eum": "료",
+    "totalStrokes": 15,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971140136-0.7692183574819831",
@@ -44356,7 +45186,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "끌",
-    "eum": "루"
+    "eum": "루",
+    "totalStrokes": 11,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971140142-0.1195142430596452",
@@ -44366,7 +45198,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "처마물",
-    "eum": "류"
+    "eum": "류",
+    "totalStrokes": 13,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140144-0.31908721284137365",
@@ -44376,7 +45210,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "석류",
-    "eum": "류"
+    "eum": "류",
+    "totalStrokes": 14,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140146-0.5946657466918981",
@@ -44386,7 +45222,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "혹",
-    "eum": "류"
+    "eum": "류",
+    "totalStrokes": 15,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971140155-0.853949913317837",
@@ -44396,7 +45234,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "굴레",
-    "eum": "륵"
+    "eum": "륵",
+    "totalStrokes": 11,
+    "radical": "力"
   },
   {
     "id": "sanggong-4_1-1786971140158-0.025923283775657002",
@@ -44406,7 +45246,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급",
     "hun": "쌀곳간",
-    "eum": "름"
+    "eum": "름",
+    "totalStrokes": 16,
+    "radical": "广"
   },
   {
     "id": "sanggong-4_1-1786971140165-0.12076375020239427",
@@ -44416,7 +45258,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "모날",
-    "eum": "릉"
+    "eum": "릉",
+    "totalStrokes": 13,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971140171-0.0923295095168668",
@@ -44426,7 +45270,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "다스릴",
-    "eum": "리"
+    "eum": "리",
+    "totalStrokes": 18,
+    "radical": "里"
   },
   {
     "id": "sanggong-4_1-1786971140173-0.4324701316635352",
@@ -44436,7 +45282,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "잉어",
-    "eum": "리"
+    "eum": "리",
+    "totalStrokes": 18,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971140179-0.8116101877843048",
@@ -44446,7 +45294,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "걸릴",
-    "eum": "리"
+    "eum": "리",
+    "totalStrokes": 16,
+    "radical": "网"
   },
   {
     "id": "sanggong-4_1-1786971140182-0.6262524133230098",
@@ -44456,7 +45306,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "속",
-    "eum": "리"
+    "eum": "리",
+    "totalStrokes": 12,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971140188-0.9256818906559483",
@@ -44466,7 +45318,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "도깨비불",
-    "eum": "린"
+    "eum": "린",
+    "totalStrokes": 16,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971140195-0.22364788778159195",
@@ -44476,7 +45330,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "순라",
-    "eum": "라"
+    "eum": "라",
+    "totalStrokes": 23,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971140197-0.45569951882011484",
@@ -44486,7 +45342,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "벨",
-    "eum": "락"
+    "eum": "락",
+    "totalStrokes": 9,
+    "radical": "刀"
   },
   {
     "id": "sanggong-4_1-1786971140198-0.6029361298758923",
@@ -44496,7 +45354,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "단란할",
-    "eum": "란"
+    "eum": "란",
+    "totalStrokes": 23,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140202-0.4491512309929855",
@@ -44506,7 +45366,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "아지랑이",
-    "eum": "람"
+    "eum": "람",
+    "totalStrokes": 12,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971140203-0.8870253617460179",
@@ -44516,7 +45378,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "잡을",
-    "eum": "람"
+    "eum": "람",
+    "totalStrokes": 18,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971140205-0.7831284224900608",
@@ -44526,7 +45390,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "잡을",
-    "eum": "람"
+    "eum": "람",
+    "totalStrokes": 24,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971140206-0.8975696333946582",
@@ -44536,7 +45402,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "감람나무",
-    "eum": "람"
+    "eum": "람",
+    "totalStrokes": 25,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140210-0.9028370131786713",
@@ -44546,7 +45414,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "닻줄",
-    "eum": "람"
+    "eum": "람",
+    "totalStrokes": 27,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971140213-0.6647395681558383",
@@ -44556,7 +45426,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "법랑",
-    "eum": "랑"
+    "eum": "랑",
+    "totalStrokes": 14,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971140216-0.6788545701515691",
@@ -44566,7 +45438,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "사마귀",
-    "eum": "랑"
+    "eum": "랑",
+    "totalStrokes": 16,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971140219-0.8617112466530371",
@@ -44576,7 +45450,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "올",
-    "eum": "래"
+    "eum": "래",
+    "totalStrokes": 11,
+    "radical": "彳"
   },
   {
     "id": "sanggong-4_1-1786971140222-0.1069525974770914",
@@ -44586,7 +45462,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "양식",
-    "eum": "량"
+    "eum": "량",
+    "totalStrokes": 13,
+    "radical": "米"
   },
   {
     "id": "sanggong-4_1-1786971140225-0.043821191792822844",
@@ -44596,7 +45474,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "기장",
-    "eum": "량"
+    "eum": "량",
+    "totalStrokes": 13,
+    "radical": "米"
   },
   {
     "id": "sanggong-4_1-1786971140230-0.4283508649069575",
@@ -44606,7 +45486,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "종려나무",
-    "eum": "려"
+    "eum": "려",
+    "totalStrokes": 19,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140232-0.5190524917545072",
@@ -44616,7 +45498,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "굴",
-    "eum": "려"
+    "eum": "려",
+    "totalStrokes": 21,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971140239-0.69246165084342",
@@ -44626,7 +45510,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "아름다울",
-    "eum": "련"
+    "eum": "련",
+    "totalStrokes": 22,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971140247-0.42093424424813863",
@@ -44636,7 +45522,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "산깊을",
-    "eum": "령"
+    "eum": "령",
+    "totalStrokes": 8,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971140249-0.31458765736862127",
@@ -44646,7 +45534,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "다래끼",
-    "eum": "령"
+    "eum": "령",
+    "totalStrokes": 11,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971140251-0.6653166492917906",
@@ -44656,7 +45546,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "쾌할",
-    "eum": "령"
+    "eum": "령",
+    "totalStrokes": 11,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971140255-0.826189775652332",
@@ -44666,7 +45558,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "옥",
-    "eum": "령"
+    "eum": "령",
+    "totalStrokes": 8,
+    "radical": "囗"
   },
   {
     "id": "sanggong-4_1-1786971140257-0.8464505231892966",
@@ -44676,7 +45570,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "영양",
-    "eum": "령"
+    "eum": "령",
+    "totalStrokes": 11,
+    "radical": "羊"
   },
   {
     "id": "sanggong-4_1-1786971140260-0.8155637811743974",
@@ -44686,7 +45582,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "들을",
-    "eum": "령"
+    "eum": "령",
+    "totalStrokes": 11,
+    "radical": "耳"
   },
   {
     "id": "sanggong-4_1-1786971140265-0.7389498601331154",
@@ -44696,7 +45594,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "맑을",
-    "eum": "령"
+    "eum": "령",
+    "totalStrokes": 8,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140267-0.2693276596574372",
@@ -44706,7 +45606,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물이름",
-    "eum": "례"
+    "eum": "례",
+    "totalStrokes": 16,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140269-0.8525238204274892",
@@ -44716,7 +45618,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "노략질할",
-    "eum": "로"
+    "eum": "로",
+    "totalStrokes": 15,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971140271-0.3895696389794433",
@@ -44726,7 +45630,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물이름",
-    "eum": "로"
+    "eum": "로",
+    "totalStrokes": 16,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140273-0.16564542981032737",
@@ -44736,7 +45642,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물이름",
-    "eum": "로"
+    "eum": "로",
+    "totalStrokes": 19,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140275-0.8527328463132954",
@@ -44746,7 +45654,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "수레",
-    "eum": "로"
+    "eum": "로",
+    "totalStrokes": 13,
+    "radical": "車"
   },
   {
     "id": "sanggong-4_1-1786971140278-0.9189107568585236",
@@ -44756,7 +45666,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "웃을",
-    "eum": "로"
+    "eum": "로",
+    "totalStrokes": 19,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971140280-0.4224534105834886",
@@ -44766,7 +45678,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "조개풀",
-    "eum": "록"
+    "eum": "록",
+    "totalStrokes": 12,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140282-0.8878896703621066",
@@ -44776,7 +45690,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "푸른돌",
-    "eum": "록"
+    "eum": "록",
+    "totalStrokes": 13,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971140285-0.042902889462740124",
@@ -44786,7 +45702,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "몽롱할",
-    "eum": "롱"
+    "eum": "롱",
+    "totalStrokes": 20,
+    "radical": "月"
   },
   {
     "id": "sanggong-4_1-1786971140290-0.4218904402630703",
@@ -44796,7 +45714,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "밭두둑",
-    "eum": "롱"
+    "eum": "롱",
+    "totalStrokes": 19,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971140292-0.022945331011453796",
@@ -44806,7 +45726,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "줄",
-    "eum": "뢰"
+    "eum": "뢰",
+    "totalStrokes": 15,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971140296-0.6811325286984887",
@@ -44816,7 +45738,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "돌무더기",
-    "eum": "뢰"
+    "eum": "뢰",
+    "totalStrokes": 15,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971140298-0.040469960246624304",
@@ -44826,7 +45750,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "여뀌",
-    "eum": "료"
+    "eum": "료",
+    "totalStrokes": 15,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140300-0.3478579507498921",
@@ -44836,7 +45762,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "공허할",
-    "eum": "료"
+    "eum": "료",
+    "totalStrokes": 14,
+    "radical": "广"
   },
   {
     "id": "sanggong-4_1-1786971140303-0.17179554359593363",
@@ -44846,7 +45774,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "애오라지",
-    "eum": "료"
+    "eum": "료",
+    "totalStrokes": 11,
+    "radical": "耳"
   },
   {
     "id": "sanggong-4_1-1786971140306-0.7965012458449012",
@@ -44856,7 +45786,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "횃불",
-    "eum": "료"
+    "eum": "료",
+    "totalStrokes": 16,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971140308-0.7106976909225514",
@@ -44866,7 +45798,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "실오리",
-    "eum": "루"
+    "eum": "루",
+    "totalStrokes": 17,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971140310-0.41763628506624306",
@@ -44876,7 +45810,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "부스럼",
-    "eum": "루"
+    "eum": "루",
+    "totalStrokes": 16,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971140312-0.3907414353992662",
@@ -44886,7 +45822,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물쑥",
-    "eum": "루"
+    "eum": "루",
+    "totalStrokes": 15,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140316-0.3525367178122607",
@@ -44896,7 +45834,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "새길",
-    "eum": "루"
+    "eum": "루",
+    "totalStrokes": 19,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971140319-0.028759983085753338",
@@ -44906,7 +45846,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "깃발",
-    "eum": "류"
+    "eum": "류",
+    "totalStrokes": 13,
+    "radical": "方"
   },
   {
     "id": "sanggong-4_1-1786971140321-0.08506921336128648",
@@ -44916,7 +45858,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "맑을",
-    "eum": "류"
+    "eum": "류",
+    "totalStrokes": 18,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140323-0.010784156782403409",
@@ -44926,7 +45870,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "유리",
-    "eum": "류"
+    "eum": "류",
+    "totalStrokes": 14,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971140328-0.25128893149971254",
@@ -44936,7 +45882,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "쇠",
-    "eum": "륜"
+    "eum": "륜",
+    "totalStrokes": 16,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971140333-0.5024076411706369",
@@ -44946,7 +45894,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "다스릴",
-    "eum": "리"
+    "eum": "리",
+    "totalStrokes": 9,
+    "radical": "厂"
   },
   {
     "id": "sanggong-4_1-1786971140335-0.7768063573550519",
@@ -44956,7 +45906,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "소리",
-    "eum": "리"
+    "eum": "리",
+    "totalStrokes": 10,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971140338-0.19073992529131412",
@@ -44966,7 +45918,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "해리",
-    "eum": "리"
+    "eum": "리",
+    "totalStrokes": 10,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140340-0.9357714771874714",
@@ -44976,7 +45930,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "쟁기",
-    "eum": "려"
+    "eum": "려",
+    "totalStrokes": 12,
+    "radical": "牛"
   },
   {
     "id": "sanggong-4_1-1786971140342-0.24850748515141086",
@@ -44986,7 +45942,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "삵",
-    "eum": "리"
+    "eum": "리",
+    "totalStrokes": 10,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971140344-0.8616898118185355",
@@ -44996,7 +45954,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "야윌",
-    "eum": "리"
+    "eum": "리",
+    "totalStrokes": 19,
+    "radical": "羊"
   },
   {
     "id": "sanggong-4_1-1786971140351-0.31004913725799943",
@@ -45006,7 +45966,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "임할",
-    "eum": "리"
+    "eum": "리",
+    "totalStrokes": 10,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140353-0.4606264709200436",
@@ -45016,7 +45978,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "골풀",
-    "eum": "린"
+    "eum": "린",
+    "totalStrokes": 20,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140360-0.3413150821953439",
@@ -45026,7 +45990,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "끌",
-    "eum": "련"
+    "eum": "련",
+    "totalStrokes": 15,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971140362-0.05146696402346218",
@@ -45036,7 +46002,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "이웃",
-    "eum": "린"
+    "eum": "린",
+    "totalStrokes": 15,
+    "radical": "邑"
   },
   {
     "id": "sanggong-4_1-1786971140364-0.2254692781515032",
@@ -45046,7 +46014,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "돌소리",
-    "eum": "립"
+    "eum": "립",
+    "totalStrokes": 10,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971140368-0.8587832373114495",
@@ -45056,7 +46026,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "5급",
     "hun": "살",
-    "eum": "매"
+    "eum": "매",
+    "totalStrokes": 12,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971140410-0.2630205905084989",
@@ -45066,7 +46038,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "만",
-    "eum": "만"
+    "eum": "만",
+    "totalStrokes": 6,
+    "radical": "十"
   },
   {
     "id": "sanggong-4_1-1786971140413-0.5017657396375836",
@@ -45076,7 +46050,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "굽을",
-    "eum": "만"
+    "eum": "만",
+    "totalStrokes": 22,
+    "radical": "弓"
   },
   {
     "id": "sanggong-4_1-1786971140421-0.9177179531126893",
@@ -45086,7 +46062,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "끌/애도할",
-    "eum": "만"
+    "eum": "만",
+    "totalStrokes": 14,
+    "radical": "車"
   },
   {
     "id": "sanggong-4_1-1786971140423-0.04514507999327455",
@@ -45096,7 +46074,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "지울",
-    "eum": "말"
+    "eum": "말",
+    "totalStrokes": 8,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971140427-0.1326785984392247",
@@ -45106,7 +46086,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "까끄라기",
-    "eum": "망"
+    "eum": "망",
+    "totalStrokes": 7,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140438-0.26927869701284135",
@@ -45116,7 +46098,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "그릇",
-    "eum": "명"
+    "eum": "명",
+    "totalStrokes": 5,
+    "radical": "皿"
   },
   {
     "id": "sanggong-4_1-1786971140443-0.0495014682898689",
@@ -45126,7 +46110,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "대모",
-    "eum": "모"
+    "eum": "모",
+    "totalStrokes": 13,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971140457-0.08517257755494667",
@@ -45136,7 +46122,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "거칠",
-    "eum": "무"
+    "eum": "무",
+    "totalStrokes": 16,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140459-0.8789644205867061",
@@ -45146,7 +46134,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "속일",
-    "eum": "무"
+    "eum": "무",
+    "totalStrokes": 14,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971140461-0.7867356825916646",
@@ -45156,7 +46146,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "입술",
-    "eum": "문"
+    "eum": "문",
+    "totalStrokes": 7,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971140469-0.5901431736852413",
@@ -45166,7 +46158,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "슬퍼할",
-    "eum": "민"
+    "eum": "민",
+    "totalStrokes": 13,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971140473-0.14803939851454773",
@@ -45176,7 +46170,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "마노",
-    "eum": "마"
+    "eum": "마",
+    "totalStrokes": 15,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971140476-0.2195654561571695",
@@ -45186,7 +46182,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "일만",
-    "eum": "만"
+    "eum": "만",
+    "totalStrokes": 3,
+    "radical": "一"
   },
   {
     "id": "sanggong-4_1-1786971140478-0.5749662587775937",
@@ -45196,7 +46194,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "멧부리",
-    "eum": "만"
+    "eum": "만",
+    "totalStrokes": 22,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971140481-0.6043868296487872",
@@ -45206,7 +46206,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "만두",
-    "eum": "만"
+    "eum": "만",
+    "totalStrokes": 20,
+    "radical": "食"
   },
   {
     "id": "sanggong-4_1-1786971140483-0.21545877988989925",
@@ -45216,7 +46218,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "뱀장어",
-    "eum": "만"
+    "eum": "만",
+    "totalStrokes": 22,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971140486-0.3738528425561841",
@@ -45226,7 +46230,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "끝",
-    "eum": "말"
+    "eum": "말",
+    "totalStrokes": 10,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971140490-0.9366912279917073",
@@ -45236,7 +46242,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "버선",
-    "eum": "말"
+    "eum": "말",
+    "totalStrokes": 20,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971140494-0.04211947075624489",
@@ -45246,7 +46254,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "바퀴테",
-    "eum": "망"
+    "eum": "망",
+    "totalStrokes": 15,
+    "radical": "車"
   },
   {
     "id": "sanggong-4_1-1786971140499-0.27741403972005496",
@@ -45256,7 +46266,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "밭두둑길",
-    "eum": "맥"
+    "eum": "맥",
+    "totalStrokes": 9,
+    "radical": "阜"
   },
   {
     "id": "sanggong-4_1-1786971140502-0.3276085993616318",
@@ -45266,7 +46278,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "뛰어넘을",
-    "eum": "맥"
+    "eum": "맥",
+    "totalStrokes": 21,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971140504-0.5191878751862058",
@@ -45276,7 +46290,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "백성",
-    "eum": "맹"
+    "eum": "맹",
+    "totalStrokes": 8,
+    "radical": "氏"
   },
   {
     "id": "sanggong-4_1-1786971140506-0.7774771527611116",
@@ -45286,7 +46302,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "덮을",
-    "eum": "멱"
+    "eum": "멱",
+    "totalStrokes": 16,
+    "radical": "冖"
   },
   {
     "id": "sanggong-4_1-1786971140509-0.7171289867040056",
@@ -45296,7 +46314,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "곁눈질할",
-    "eum": "면"
+    "eum": "면",
+    "totalStrokes": 9,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971140511-0.21207753142507457",
@@ -45306,7 +46326,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "멀",
-    "eum": "면"
+    "eum": "면",
+    "totalStrokes": 15,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971140513-0.7676555241235338",
@@ -45316,7 +46338,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "저물",
-    "eum": "명"
+    "eum": "명",
+    "totalStrokes": 14,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971140515-0.3662795643533773",
@@ -45326,7 +46350,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "홈통",
-    "eum": "명"
+    "eum": "명",
+    "totalStrokes": 12,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140518-0.20425339650104646",
@@ -45336,7 +46362,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "눈감을",
-    "eum": "명"
+    "eum": "명",
+    "totalStrokes": 15,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971140520-0.8500903472636144",
@@ -45346,7 +46374,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "차싹",
-    "eum": "명"
+    "eum": "명",
+    "totalStrokes": 10,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140522-0.9117912076128997",
@@ -45356,7 +46386,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "명협",
-    "eum": "명"
+    "eum": "명",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140524-0.3086022734427575",
@@ -45366,7 +46398,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "멸구",
-    "eum": "명"
+    "eum": "명",
+    "totalStrokes": 16,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971140527-0.1580131715608587",
@@ -45376,7 +46410,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "힘쓸",
-    "eum": "민"
+    "eum": "민",
+    "totalStrokes": 13,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971140529-0.09375900004606785",
@@ -45386,7 +46422,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "강이름",
-    "eum": "명"
+    "eum": "명",
+    "totalStrokes": 9,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140531-0.16911829896550146",
@@ -45396,7 +46434,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "소매",
-    "eum": "몌"
+    "eum": "몌",
+    "totalStrokes": 9,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971140533-0.5442723559200933",
@@ -45406,7 +46446,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "여스승",
-    "eum": "모"
+    "eum": "모",
+    "totalStrokes": 8,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971140537-0.42220768893393357",
@@ -45416,7 +46458,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "모뜰",
-    "eum": "모"
+    "eum": "모",
+    "totalStrokes": 15,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971140539-0.08720659514798346",
@@ -45426,7 +46470,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "눈동자",
-    "eum": "모"
+    "eum": "모",
+    "totalStrokes": 11,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971140541-0.8318743327170921",
@@ -45436,7 +46482,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "나물",
-    "eum": "모"
+    "eum": "모",
+    "totalStrokes": 8,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140542-0.9207903338212271",
@@ -45446,7 +46494,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "집오리",
-    "eum": "목"
+    "eum": "목",
+    "totalStrokes": 20,
+    "radical": "鳥"
   },
   {
     "id": "sanggong-4_1-1786971140544-0.45355228116615376",
@@ -45456,7 +46506,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "몽롱할",
-    "eum": "몽"
+    "eum": "몽",
+    "totalStrokes": 18,
+    "radical": "月"
   },
   {
     "id": "sanggong-4_1-1786971140546-0.6759368417235082",
@@ -45466,7 +46518,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "아득할",
-    "eum": "묘"
+    "eum": "묘",
+    "totalStrokes": 8,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140548-0.06780776768124319",
@@ -45476,7 +46530,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "아득할/물질펀할",
-    "eum": "묘"
+    "eum": "묘",
+    "totalStrokes": 12,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140550-0.7127366113206633",
@@ -45486,7 +46542,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "묘할",
-    "eum": "묘"
+    "eum": "묘",
+    "totalStrokes": 9,
+    "radical": "立"
   },
   {
     "id": "sanggong-4_1-1786971140556-0.9440123245670446",
@@ -45496,7 +46554,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "없을",
-    "eum": "무"
+    "eum": "무",
+    "totalStrokes": 4,
+    "radical": "无"
   },
   {
     "id": "sanggong-4_1-1786971140558-0.6332697746164984",
@@ -45506,7 +46566,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "모과나무",
-    "eum": "무"
+    "eum": "무",
+    "totalStrokes": 13,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140561-0.800088002996785",
@@ -45516,7 +46578,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "얽을",
-    "eum": "무"
+    "eum": "무",
+    "totalStrokes": 17,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971140563-0.07291561197377905",
@@ -45526,7 +46590,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "무리",
-    "eum": "문"
+    "eum": "문",
+    "totalStrokes": 10,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971140564-0.5184559052611368",
@@ -45536,7 +46602,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "목자를",
-    "eum": "문"
+    "eum": "문",
+    "totalStrokes": 6,
+    "radical": "刀"
   },
   {
     "id": "sanggong-4_1-1786971140569-0.4970220221139293",
@@ -45546,7 +46614,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "구름무늬",
-    "eum": "문"
+    "eum": "문",
+    "totalStrokes": 12,
+    "radical": "雨"
   },
   {
     "id": "sanggong-4_1-1786971140573-0.8328129270632082",
@@ -45556,7 +46626,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "아득할",
-    "eum": "물"
+    "eum": "물",
+    "totalStrokes": 7,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140575-0.8022865538607422",
@@ -45566,7 +46638,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "아첨할/예쁠",
-    "eum": "미"
+    "eum": "미",
+    "totalStrokes": 12,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971140578-0.4930562257822989",
@@ -45576,7 +46650,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "산이름",
-    "eum": "미"
+    "eum": "미",
+    "totalStrokes": 12,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971140580-0.5539933734263783",
@@ -45586,7 +46662,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "나무끝",
-    "eum": "미"
+    "eum": "미",
+    "totalStrokes": 11,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140582-0.33168705134338095",
@@ -45596,7 +46674,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "인중방",
-    "eum": "미"
+    "eum": "미",
+    "totalStrokes": 13,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140586-0.6189751957112378",
@@ -45606,7 +46686,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물가",
-    "eum": "미"
+    "eum": "미",
+    "totalStrokes": 12,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140589-0.7326145698618538",
@@ -45616,7 +46698,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "수수께끼",
-    "eum": "미"
+    "eum": "미",
+    "totalStrokes": 17,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971140592-0.10140672142063611",
@@ -45626,7 +46710,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "기미낄",
-    "eum": "미"
+    "eum": "미",
+    "totalStrokes": 23,
+    "radical": "黑"
   },
   {
     "id": "sanggong-4_1-1786971140593-0.5328811603028353",
@@ -45636,7 +46722,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "예쁠",
-    "eum": "미"
+    "eum": "미",
+    "totalStrokes": 12,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971140594-0.2493365622574516",
@@ -45646,7 +46734,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "산이름",
-    "eum": "매"
+    "eum": "매",
+    "totalStrokes": 12,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971140595-0.6933919220393451",
@@ -45656,7 +46746,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "예절",
-    "eum": "미"
+    "eum": "미",
+    "totalStrokes": 16,
+    "radical": "身"
   },
   {
     "id": "sanggong-4_1-1786971140597-0.8675047532927561",
@@ -45666,7 +46758,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "아름다울",
-    "eum": "미"
+    "eum": "미",
+    "totalStrokes": 13,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971140601-0.4957219443485701",
@@ -45676,7 +46770,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "빠질",
-    "eum": "민"
+    "eum": "민",
+    "totalStrokes": 8,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140605-0.7279912357600637",
@@ -45686,7 +46782,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "돈꿰미",
-    "eum": "민"
+    "eum": "민",
+    "totalStrokes": 15,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971140606-0.5279069261715312",
@@ -45696,7 +46794,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "강할/번민할",
-    "eum": "민"
+    "eum": "민",
+    "totalStrokes": 13,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971140609-0.3592502356305465",
@@ -45706,7 +46806,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "물졸졸흐를",
-    "eum": "민"
+    "eum": "민",
+    "totalStrokes": 15,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140610-0.26896567271929694",
@@ -45716,7 +46818,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "돌",
-    "eum": "분"
+    "eum": "분",
+    "totalStrokes": 9,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971140611-0.46481399695629944",
@@ -45726,7 +46830,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "고요할",
-    "eum": "밀"
+    "eum": "밀",
+    "totalStrokes": 17,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971140613-0.8199924099317226",
@@ -45736,7 +46842,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "6급",
     "hun": "성",
-    "eum": "박"
+    "eum": "박",
+    "totalStrokes": 6,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140646-0.19797618209085144",
@@ -45746,7 +46854,9 @@ export const hanjaMeta = [
     "korcham": "3급",
     "uhmoon": "3급Ⅱ",
     "hun": "봉우리",
-    "eum": "봉"
+    "eum": "봉",
+    "totalStrokes": 10,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971140657-0.3271381487042371",
@@ -45756,7 +46866,9 @@ export const hanjaMeta = [
     "korcham": "3급",
     "uhmoon": "4급",
     "hun": "숨길",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 10,
+    "radical": "示"
   },
   {
     "id": "sanggong-4_1-1786971140662-0.24857811569224286",
@@ -45766,7 +46878,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "벗길",
-    "eum": "박"
+    "eum": "박",
+    "totalStrokes": 10,
+    "radical": "刀"
   },
   {
     "id": "sanggong-4_1-1786971140664-0.09933548674548265",
@@ -45776,7 +46890,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "두드릴",
-    "eum": "박"
+    "eum": "박",
+    "totalStrokes": 13,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971140666-0.16509771931867456",
@@ -45786,7 +46902,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "발",
-    "eum": "박"
+    "eum": "박",
+    "totalStrokes": 14,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971140670-0.9703752749033965",
@@ -45796,7 +46914,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "더위잡을",
-    "eum": "반"
+    "eum": "반",
+    "totalStrokes": 19,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971140672-0.9392253320404569",
@@ -45806,7 +46926,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "아롱질",
-    "eum": "반"
+    "eum": "반",
+    "totalStrokes": 12,
+    "radical": "文"
   },
   {
     "id": "sanggong-4_1-1786971140674-0.6756726079101203",
@@ -45816,7 +46938,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "쟁반",
-    "eum": "반"
+    "eum": "반",
+    "totalStrokes": 14,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140675-0.5322922267033674",
@@ -45826,7 +46950,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "얼음풀릴/학교",
-    "eum": "반"
+    "eum": "반",
+    "totalStrokes": 8,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140677-0.011103886374334682",
@@ -45836,7 +46962,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "백반",
-    "eum": "반"
+    "eum": "반",
+    "totalStrokes": 20,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971140680-0.06787462343987438",
@@ -45846,7 +46974,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "다스릴",
-    "eum": "발"
+    "eum": "발",
+    "totalStrokes": 15,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971140684-0.7591269993602269",
@@ -45856,7 +46986,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "술괼",
-    "eum": "발"
+    "eum": "발",
+    "totalStrokes": 19,
+    "radical": "酉"
   },
   {
     "id": "sanggong-4_1-1786971140686-0.6633430099585651",
@@ -45866,7 +46998,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "도울",
-    "eum": "방"
+    "eum": "방",
+    "totalStrokes": 12,
+    "radical": "巾"
   },
   {
     "id": "sanggong-4_1-1786971140689-0.24237350632569188",
@@ -45876,7 +47010,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "다목",
-    "eum": "방"
+    "eum": "방",
+    "totalStrokes": 8,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140690-0.2988451548694544",
@@ -45886,7 +47022,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "방붙일",
-    "eum": "방"
+    "eum": "방",
+    "totalStrokes": 14,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140695-0.514227144961237",
@@ -45896,7 +47034,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "잔",
-    "eum": "배"
+    "eum": "배",
+    "totalStrokes": 9,
+    "radical": "皿"
   },
   {
     "id": "sanggong-4_1-1786971140696-0.008707380445659996",
@@ -45906,7 +47046,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "아기밸",
-    "eum": "배"
+    "eum": "배",
+    "totalStrokes": 9,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971140701-0.611624969660529",
@@ -45916,7 +47058,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "측백",
-    "eum": "백"
+    "eum": "백",
+    "totalStrokes": 10,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140703-0.7092100582800961",
@@ -45926,7 +47070,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "기",
-    "eum": "번"
+    "eum": "번",
+    "totalStrokes": 15,
+    "radical": "巾"
   },
   {
     "id": "sanggong-4_1-1786971140705-0.07773819332041909",
@@ -45936,7 +47082,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "울",
-    "eum": "번"
+    "eum": "번",
+    "totalStrokes": 15,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140707-0.2363314157847195",
@@ -45946,7 +47094,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "구울",
-    "eum": "번"
+    "eum": "번",
+    "totalStrokes": 16,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971140710-0.8944699520315951",
@@ -45956,7 +47106,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "울타리",
-    "eum": "번"
+    "eum": "번",
+    "totalStrokes": 19,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140712-0.32999057136819754",
@@ -45966,7 +47118,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "불경",
-    "eum": "범"
+    "eum": "범",
+    "totalStrokes": 11,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140713-0.8600769549082088",
@@ -45976,7 +47130,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "뜰",
-    "eum": "범"
+    "eum": "범",
+    "totalStrokes": 8,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140716-0.24855348093334362",
@@ -45986,7 +47142,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "버릇",
-    "eum": "벽"
+    "eum": "벽",
+    "totalStrokes": 18,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971140723-0.42797750886652874",
@@ -45996,7 +47154,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "아우를",
-    "eum": "병"
+    "eum": "병",
+    "totalStrokes": 8,
+    "radical": "干"
   },
   {
     "id": "sanggong-4_1-1786971140730-0.04285899961220563",
@@ -46006,7 +47166,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "쌍말",
-    "eum": "변"
+    "eum": "변",
+    "totalStrokes": 18,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971140734-0.2625060250366741",
@@ -46016,7 +47178,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "스며흐를",
-    "eum": "복"
+    "eum": "복",
+    "totalStrokes": 9,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140744-0.5326759524578047",
@@ -46026,7 +47190,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "복령",
-    "eum": "복"
+    "eum": "복",
+    "totalStrokes": 10,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140767-0.040506406360195424",
@@ -46036,7 +47202,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "가부좌할",
-    "eum": "부"
+    "eum": "부",
+    "totalStrokes": 11,
+    "radical": "足"
   },
   {
     "id": "sanggong-4_1-1786971140774-0.31878362130817695",
@@ -46046,7 +47214,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "사다리",
-    "eum": "붕"
+    "eum": "붕",
+    "totalStrokes": 12,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140779-0.5592086114575869",
@@ -46056,7 +47226,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "끓을",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 8,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140783-0.9339754812734576",
@@ -46066,7 +47238,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "저릴",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 13,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971140784-0.7760431350247688",
@@ -46076,7 +47250,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "비상",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 9,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971140787-0.9002101196819605",
@@ -46086,7 +47262,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "물총새",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 14,
+    "radical": "羽"
   },
   {
     "id": "sanggong-4_1-1786971140790-0.18172217083997988",
@@ -46096,7 +47274,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "도울",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 13,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971140794-0.8274054653626292",
@@ -46106,7 +47286,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "빈소",
-    "eum": "빈"
+    "eum": "빈",
+    "totalStrokes": 18,
+    "radical": "歹"
   },
   {
     "id": "sanggong-4_1-1786971140799-0.08166359816477631",
@@ -46116,7 +47298,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "순박할",
-    "eum": "박"
+    "eum": "박",
+    "totalStrokes": 16,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140802-0.629656362359048",
@@ -46126,7 +47310,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "지게미",
-    "eum": "박"
+    "eum": "박",
+    "totalStrokes": 11,
+    "radical": "米"
   },
   {
     "id": "sanggong-4_1-1786971140803-0.6991754803671015",
@@ -46136,7 +47322,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "팔뚝",
-    "eum": "박"
+    "eum": "박",
+    "totalStrokes": 14,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971140804-0.6003441263386272",
@@ -46146,7 +47334,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "우박",
-    "eum": "박"
+    "eum": "박",
+    "totalStrokes": 13,
+    "radical": "雨"
   },
   {
     "id": "sanggong-4_1-1786971140807-0.7259736743661857",
@@ -46156,7 +47346,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "버릴",
-    "eum": "반"
+    "eum": "반",
+    "totalStrokes": 8,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971140808-0.09080341055183017",
@@ -46166,7 +47358,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "흉터",
-    "eum": "반"
+    "eum": "반",
+    "totalStrokes": 15,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971140809-0.7464753473156528",
@@ -46176,7 +47370,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "눈예쁠",
-    "eum": "반"
+    "eum": "반",
+    "totalStrokes": 9,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971140810-0.7146937990648773",
@@ -46186,7 +47382,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "얽어맬",
-    "eum": "반"
+    "eum": "반",
+    "totalStrokes": 11,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971140811-0.06093740764244715",
@@ -46196,7 +47394,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "서릴",
-    "eum": "반"
+    "eum": "반",
+    "totalStrokes": 18,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971140814-0.5731557811773116",
@@ -46206,7 +47406,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "가물",
-    "eum": "발"
+    "eum": "발",
+    "totalStrokes": 15,
+    "radical": "鬼"
   },
   {
     "id": "sanggong-4_1-1786971140816-0.2788733068295908",
@@ -46216,7 +47418,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "삽살개",
-    "eum": "방"
+    "eum": "방",
+    "totalStrokes": 7,
+    "radical": "尢"
   },
   {
     "id": "sanggong-4_1-1786971140822-0.9841386294838461",
@@ -46226,7 +47430,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "돌떨어지는소리",
-    "eum": "방"
+    "eum": "방",
+    "totalStrokes": 15,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971140824-0.8171334777640117",
@@ -46236,7 +47442,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "쌍배",
-    "eum": "방"
+    "eum": "방",
+    "totalStrokes": 10,
+    "radical": "舟"
   },
   {
     "id": "sanggong-4_1-1786971140826-0.8345026967559201",
@@ -46246,7 +47454,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "우엉",
-    "eum": "방"
+    "eum": "방",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140827-0.6080469634155918",
@@ -46256,7 +47466,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "조개",
-    "eum": "방"
+    "eum": "방",
+    "totalStrokes": 10,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971140835-0.689104317862104",
@@ -46266,7 +47478,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "불쬘",
-    "eum": "배"
+    "eum": "배",
+    "totalStrokes": 12,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971140837-0.39844564243919633",
@@ -46276,7 +47490,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "성",
-    "eum": "배"
+    "eum": "배",
+    "totalStrokes": 14,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971140839-0.9821328134363374",
@@ -46286,7 +47502,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "배자",
-    "eum": "배"
+    "eum": "배",
+    "totalStrokes": 14,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971140844-0.6580426940212485",
@@ -46296,7 +47514,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "법랑",
-    "eum": "법"
+    "eum": "법",
+    "totalStrokes": 12,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971140846-0.5249697964103478",
@@ -46306,7 +47526,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "쪼갤",
-    "eum": "벽"
+    "eum": "벽",
+    "totalStrokes": 15,
+    "radical": "刀"
   },
   {
     "id": "sanggong-4_1-1786971140847-0.8354637603951226",
@@ -46316,7 +47538,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "엄지손가락",
-    "eum": "벽"
+    "eum": "벽",
+    "totalStrokes": 17,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971140849-0.4371799512004473",
@@ -46326,7 +47550,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "황벽나무",
-    "eum": "벽"
+    "eum": "벽",
+    "totalStrokes": 17,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140849-0.8169656298978244",
@@ -46336,7 +47562,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "황경나무",
-    "eum": "벽"
+    "eum": "벽",
+    "totalStrokes": 21,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140851-0.6325862553182855",
@@ -46346,7 +47574,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "눈깜짝할",
-    "eum": "별"
+    "eum": "별",
+    "totalStrokes": 17,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971140852-0.45420348857273485",
@@ -46356,7 +47586,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "자라",
-    "eum": "별"
+    "eum": "별",
+    "totalStrokes": 23,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971140853-0.790135279271729",
@@ -46366,7 +47598,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "자라",
-    "eum": "별"
+    "eum": "별",
+    "totalStrokes": 25,
+    "radical": "黽"
   },
   {
     "id": "sanggong-4_1-1786971140854-0.4078562066024223",
@@ -46376,7 +47610,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "옷펄럭일",
-    "eum": "별"
+    "eum": "별",
+    "totalStrokes": 17,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971140855-0.20494897214090946",
@@ -46386,7 +47622,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급Ⅱ",
     "hun": "밝을",
-    "eum": "병"
+    "eum": "병",
+    "totalStrokes": 9,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971140860-0.26214386477153606",
@@ -46396,7 +47634,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "사람이름",
-    "eum": "보"
+    "eum": "보",
+    "totalStrokes": 12,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140863-0.8788808097928864",
@@ -46406,7 +47646,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "보배",
-    "eum": "보"
+    "eum": "보",
+    "totalStrokes": 10,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971140865-0.4409546642705172",
@@ -46416,7 +47658,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "길",
-    "eum": "복"
+    "eum": "복",
+    "totalStrokes": 11,
+    "radical": "勹"
   },
   {
     "id": "sanggong-4_1-1786971140867-0.6933300650606415",
@@ -46426,7 +47670,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "성",
-    "eum": "복"
+    "eum": "복",
+    "totalStrokes": 8,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971140870-0.02841577252970162",
@@ -46436,7 +47682,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "무",
-    "eum": "복"
+    "eum": "복",
+    "totalStrokes": 15,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140872-0.7265862283411535",
@@ -46446,7 +47694,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "바퀴통",
-    "eum": "복"
+    "eum": "복",
+    "totalStrokes": 16,
+    "radical": "車"
   },
   {
     "id": "sanggong-4_1-1786971140874-0.8811066582996263",
@@ -46456,7 +47706,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "전복",
-    "eum": "복"
+    "eum": "복",
+    "totalStrokes": 20,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971140879-0.13753705874154054",
@@ -46466,7 +47718,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "땅이름",
-    "eum": "볼"
+    "eum": "볼",
+    "totalStrokes": 8,
+    "radical": "乙"
   },
   {
     "id": "sanggong-4_1-1786971140881-0.11835239683866416",
@@ -46476,7 +47730,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "내자옥할",
-    "eum": "봉"
+    "eum": "봉",
+    "totalStrokes": 15,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971140882-0.26999348048345695",
@@ -46486,7 +47742,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "분부할",
-    "eum": "부"
+    "eum": "부",
+    "totalStrokes": 8,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971140883-0.43985011232181137",
@@ -46496,7 +47754,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "부두",
-    "eum": "부"
+    "eum": "부",
+    "totalStrokes": 11,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971140886-0.7064035541016656",
@@ -46506,7 +47766,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "장군",
-    "eum": "부"
+    "eum": "부",
+    "totalStrokes": 6,
+    "radical": "缶"
   },
   {
     "id": "sanggong-4_1-1786971140887-0.6189963045657259",
@@ -46516,7 +47778,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "거룻배",
-    "eum": "부"
+    "eum": "부",
+    "totalStrokes": 13,
+    "radical": "舟"
   },
   {
     "id": "sanggong-4_1-1786971140888-0.515752516061366",
@@ -46526,7 +47790,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "갈청",
-    "eum": "부"
+    "eum": "부",
+    "totalStrokes": 11,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140890-0.02346815005306835",
@@ -46536,7 +47802,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "부마",
-    "eum": "부"
+    "eum": "부",
+    "totalStrokes": 15,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971140891-0.11118741263066567",
@@ -46546,7 +47814,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물오리",
-    "eum": "부"
+    "eum": "부",
+    "totalStrokes": 13,
+    "radical": "鳥"
   },
   {
     "id": "sanggong-4_1-1786971140894-0.5742930813868778",
@@ -46556,7 +47826,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "분부할",
-    "eum": "분"
+    "eum": "분",
+    "totalStrokes": 7,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971140896-0.8844395191863399",
@@ -46566,7 +47838,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "꾸밀",
-    "eum": "분"
+    "eum": "분",
+    "totalStrokes": 7,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971140897-0.07540766994439352",
@@ -46576,7 +47850,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "햇빛",
-    "eum": "분"
+    "eum": "분",
+    "totalStrokes": 8,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971140898-0.29338070482081935",
@@ -46586,7 +47862,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "클",
-    "eum": "분"
+    "eum": "분",
+    "totalStrokes": 12,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971140900-0.4697401673035826",
@@ -46596,7 +47874,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "비슷할",
-    "eum": "불"
+    "eum": "불",
+    "totalStrokes": 8,
+    "radical": "彳"
   },
   {
     "id": "sanggong-4_1-1786971140901-0.7747526117822007",
@@ -46606,7 +47886,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "붕사",
-    "eum": "붕"
+    "eum": "붕",
+    "totalStrokes": 13,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971140903-0.28047597122316414",
@@ -46616,7 +47898,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "묶을",
-    "eum": "붕"
+    "eum": "붕",
+    "totalStrokes": 17,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971140904-0.00971311512630102",
@@ -46626,7 +47910,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "고단할",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 16,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971140907-0.441707993221245",
@@ -46636,7 +47922,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "아롱질",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 12,
+    "radical": "文"
   },
   {
     "id": "sanggong-4_1-1786971140909-0.10194318437335481",
@@ -46646,7 +47934,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "비자나무",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 14,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140911-0.9010580245535218",
@@ -46656,7 +47946,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "쭉정이",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 9,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971140912-0.8143893688846044",
@@ -46666,7 +47958,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "쭉정이",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 10,
+    "radical": "米"
   },
   {
     "id": "sanggong-4_1-1786971140913-0.24545777015165715",
@@ -46676,7 +47970,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "엷을",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 12,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971140914-0.6691476927387427",
@@ -46686,7 +47982,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "바퀴",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 14,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971140917-0.07188159599455834",
@@ -46696,7 +47994,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "도울",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 9,
+    "radical": "比"
   },
   {
     "id": "sanggong-4_1-1786971140919-0.6482198372731799",
@@ -46706,7 +48006,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "도지개",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 12,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140921-0.6853032228086341",
@@ -46716,7 +48018,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "찡그릴",
-    "eum": "빈"
+    "eum": "빈",
+    "totalStrokes": 19,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971140923-0.2755759116509322",
@@ -46726,7 +48030,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "빈랑나무",
-    "eum": "빈"
+    "eum": "빈",
+    "totalStrokes": 18,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140925-0.7778111914576165",
@@ -46736,7 +48042,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물가",
-    "eum": "빈"
+    "eum": "빈",
+    "totalStrokes": 10,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140927-0.8975211849050663",
@@ -46746,7 +48054,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "물가/가까울",
-    "eum": "빈"
+    "eum": "빈",
+    "totalStrokes": 19,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971140931-0.8080941345579056",
@@ -46756,7 +48066,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "진주",
-    "eum": "빈"
+    "eum": "빈",
+    "totalStrokes": 8,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971140933-0.749352524423042",
@@ -46766,7 +48078,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "인도할",
-    "eum": "빈"
+    "eum": "빈",
+    "totalStrokes": 16,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971140935-0.889850327177239",
@@ -46776,7 +48090,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "옥의무늬",
-    "eum": "빈"
+    "eum": "빈",
+    "totalStrokes": 18,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971140937-0.6040235491123959",
@@ -46786,7 +48102,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "벼이삭",
-    "eum": "비"
+    "eum": "비",
+    "totalStrokes": 19,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971140939-0.5871500890411446",
@@ -46796,7 +48114,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "나라이름",
-    "eum": "빈"
+    "eum": "빈",
+    "totalStrokes": 7,
+    "radical": "邑"
   },
   {
     "id": "sanggong-4_1-1786971140941-0.43513314590901164",
@@ -46806,7 +48126,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "어지러울",
-    "eum": "빈"
+    "eum": "빈",
+    "totalStrokes": 20,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971140943-0.3805915826335041",
@@ -46816,7 +48138,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "달릴",
-    "eum": "빙"
+    "eum": "빙",
+    "totalStrokes": 17,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971140948-0.16072668469852147",
@@ -46826,7 +48150,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "6급",
     "hun": "나무",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 16,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971140950-0.8959142775594702",
@@ -46836,7 +48162,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "5급Ⅱ",
     "hun": "잘",
-    "eum": "숙"
+    "eum": "숙",
+    "totalStrokes": 11,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971141004-0.47032293123028857",
@@ -46846,7 +48174,9 @@ export const hanjaMeta = [
     "korcham": "3급",
     "uhmoon": "6급Ⅱ",
     "hun": "재주",
-    "eum": "술"
+    "eum": "술",
+    "totalStrokes": 11,
+    "radical": "行"
   },
   {
     "id": "sanggong-4_1-1786971141016-0.956204582915535",
@@ -46856,7 +48186,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "잘게부술",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 15,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971141030-0.44476079822440906",
@@ -46866,7 +48198,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "모래",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 9,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971141037-0.5439785785573124",
@@ -46876,7 +48210,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "사초",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 11,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141041-0.5691354773795777",
@@ -46886,7 +48222,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "사향노루",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 21,
+    "radical": "鹿"
   },
   {
     "id": "sanggong-4_1-1786971141044-0.24695493550200254",
@@ -46896,7 +48234,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "깎을",
-    "eum": "산"
+    "eum": "산",
+    "totalStrokes": 7,
+    "radical": "刀"
   },
   {
     "id": "sanggong-4_1-1786971141049-0.432614773608608",
@@ -46906,7 +48246,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "죽일",
-    "eum": "살"
+    "eum": "살",
+    "totalStrokes": 13,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971141052-0.09025302837356441",
@@ -46916,7 +48258,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "적삼",
-    "eum": "삼"
+    "eum": "삼",
+    "totalStrokes": 8,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971141054-0.10155324654326914",
@@ -46926,7 +48270,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "스밀",
-    "eum": "삼"
+    "eum": "삼",
+    "totalStrokes": 14,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141055-0.7240154406693075",
@@ -46936,7 +48282,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "떫을",
-    "eum": "삽"
+    "eum": "삽",
+    "totalStrokes": 15,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141066-0.5328492116221462",
@@ -46946,7 +48294,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "무소",
-    "eum": "서"
+    "eum": "서",
+    "totalStrokes": 12,
+    "radical": "牛"
   },
   {
     "id": "sanggong-4_1-1786971141067-0.49621907539030796",
@@ -46956,7 +48306,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "점대",
-    "eum": "서"
+    "eum": "서",
+    "totalStrokes": 13,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971141068-0.1859936532523876",
@@ -46966,7 +48318,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "서로",
-    "eum": "서"
+    "eum": "서",
+    "totalStrokes": 9,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971141070-0.8765695919055648",
@@ -46976,7 +48330,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "감자",
-    "eum": "서"
+    "eum": "서",
+    "totalStrokes": 18,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141071-0.2625524461279699",
@@ -46986,7 +48342,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "호미",
-    "eum": "서"
+    "eum": "서",
+    "totalStrokes": 15,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971141072-0.40147504470813744",
@@ -46996,7 +48354,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "기장",
-    "eum": "서"
+    "eum": "서",
+    "totalStrokes": 12,
+    "radical": "黍"
   },
   {
     "id": "sanggong-4_1-1786971141073-0.36709969865409064",
@@ -47006,7 +48366,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "쥐",
-    "eum": "서"
+    "eum": "서",
+    "totalStrokes": 13,
+    "radical": "鼠"
   },
   {
     "id": "sanggong-4_1-1786971141075-0.5727563694183262",
@@ -47016,7 +48378,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "개펄",
-    "eum": "석"
+    "eum": "석",
+    "totalStrokes": 15,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141081-0.5372120471962109",
@@ -47026,7 +48390,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "버짐",
-    "eum": "선"
+    "eum": "선",
+    "totalStrokes": 22,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971141087-0.9491693870411221",
@@ -47036,7 +48402,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "매미",
-    "eum": "선"
+    "eum": "선",
+    "totalStrokes": 18,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971141089-0.3360860559404878",
@@ -47046,7 +48414,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "말전할/많을",
-    "eum": "선"
+    "eum": "선",
+    "totalStrokes": 13,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971141094-0.7742504341302601",
@@ -47056,7 +48426,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "가루",
-    "eum": "설"
+    "eum": "설",
+    "totalStrokes": 10,
+    "radical": "尸"
   },
   {
     "id": "sanggong-4_1-1786971141103-0.3789161374954184",
@@ -47066,7 +48438,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "넉넉할",
-    "eum": "섬"
+    "eum": "섬",
+    "totalStrokes": 20,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971141113-0.2468901388374546",
@@ -47076,7 +48450,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "흙빚을",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 13,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971141116-0.18916862381207333",
@@ -47086,7 +48462,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "밤",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 10,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971141118-0.2508461845247383",
@@ -47096,7 +48474,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "얼레빗",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 11,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971141120-0.06221956001451545",
@@ -47106,7 +48486,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "물이름",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 19,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141122-0.6680992715159865",
@@ -47116,7 +48498,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "성길",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 12,
+    "radical": "疋"
   },
   {
     "id": "sanggong-4_1-1786971141124-0.4738313991843116",
@@ -47126,7 +48510,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "퉁소",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 19,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971141127-0.80467356728867",
@@ -47136,7 +48522,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "쓸쓸할",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 17,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141133-0.24117118542047666",
@@ -47146,7 +48534,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "속죄할",
-    "eum": "속"
+    "eum": "속",
+    "totalStrokes": 22,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971141138-0.5251424862903485",
@@ -47156,7 +48546,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "밥",
-    "eum": "손"
+    "eum": "손",
+    "totalStrokes": 11,
+    "radical": "食"
   },
   {
     "id": "sanggong-4_1-1786971141147-0.20453090200072066",
@@ -47166,7 +48558,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "양치할",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 14,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141148-0.39547226906584343",
@@ -47176,7 +48570,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "봉화",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 17,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971141162-0.7657294969093953",
@@ -47186,7 +48582,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "숲",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 19,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141170-0.0706886887265149",
@@ -47196,7 +48594,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "수염",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 22,
+    "radical": "髟"
   },
   {
     "id": "sanggong-4_1-1786971141173-0.8651797824467828",
@@ -47206,7 +48606,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "난간",
-    "eum": "순"
+    "eum": "순",
+    "totalStrokes": 13,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971141193-0.7909641289589685",
@@ -47216,7 +48618,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "사마치/주름",
-    "eum": "습"
+    "eum": "습",
+    "totalStrokes": 16,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971141198-0.8382690854342213",
@@ -47226,7 +48630,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "숟가락",
-    "eum": "시"
+    "eum": "시",
+    "totalStrokes": 11,
+    "radical": "匕"
   },
   {
     "id": "sanggong-4_1-1786971141206-0.5943421743626002",
@@ -47236,7 +48642,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "날개",
-    "eum": "시"
+    "eum": "시",
+    "totalStrokes": 10,
+    "radical": "羽"
   },
   {
     "id": "sanggong-4_1-1786971141208-0.27790677994701607",
@@ -47246,7 +48654,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "시호",
-    "eum": "시"
+    "eum": "시",
+    "totalStrokes": 16,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971141211-0.13886403877189535",
@@ -47256,7 +48666,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "감",
-    "eum": "시"
+    "eum": "시",
+    "totalStrokes": 9,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971141228-0.3319386468823341",
@@ -47266,7 +48678,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "잠깐",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 5,
+    "radical": "丿"
   },
   {
     "id": "sanggong-4_1-1786971141230-0.1127290035047741",
@@ -47276,7 +48690,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "적을",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 8,
+    "radical": "二"
   },
   {
     "id": "sanggong-4_1-1786971141232-0.3416168835650567",
@@ -47286,7 +48702,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "엿볼",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 7,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971141235-0.8548268757189137",
@@ -47296,7 +48714,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "기다릴",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 9,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971141238-0.5538233520469757",
@@ -47306,7 +48726,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "숟가락/윷",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 9,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971141240-0.5711487763827354",
@@ -47316,7 +48738,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "북",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 11,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971141242-0.9275016903185357",
@@ -47326,7 +48750,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "찌끼",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 12,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141243-0.7872615711817775",
@@ -47336,7 +48762,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "체",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 16,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971141244-0.6377882397486879",
@@ -47346,7 +48774,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "도롱이",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141245-0.4153503182383046",
@@ -47356,7 +48786,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "사마",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 15,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971141247-0.26656336206254505",
@@ -47366,7 +48798,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "실",
-    "eum": "사"
+    "eum": "사",
+    "totalStrokes": 6,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971141248-0.785899746860593",
@@ -47376,7 +48810,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "오구",
-    "eum": "산"
+    "eum": "산",
+    "totalStrokes": 6,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141250-0.5861750966906977",
@@ -47386,7 +48822,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "산증",
-    "eum": "산"
+    "eum": "산",
+    "totalStrokes": 8,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971141252-0.846897307756587",
@@ -47396,7 +48834,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "마늘",
-    "eum": "산"
+    "eum": "산",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141254-0.13259416035775962",
@@ -47406,7 +48846,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "싸락눈",
-    "eum": "산"
+    "eum": "산",
+    "totalStrokes": 20,
+    "radical": "雨"
   },
   {
     "id": "sanggong-4_1-1786971141256-0.43337495243422386",
@@ -47416,7 +48858,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "땅이름",
-    "eum": "살"
+    "eum": "살",
+    "totalStrokes": 8,
+    "radical": "乙"
   },
   {
     "id": "sanggong-4_1-1786971141258-0.809821188595943",
@@ -47426,7 +48870,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "풀벨",
-    "eum": "삼"
+    "eum": "삼",
+    "totalStrokes": 8,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141261-0.826257520420911",
@@ -47436,7 +48882,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "새길",
-    "eum": "삽"
+    "eum": "삽",
+    "totalStrokes": 12,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971141263-0.9438651713804118",
@@ -47446,7 +48894,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "바람소리",
-    "eum": "삽"
+    "eum": "삽",
+    "totalStrokes": 14,
+    "radical": "風"
   },
   {
     "id": "sanggong-4_1-1786971141265-0.251020119711845",
@@ -47456,7 +48906,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "홀어미",
-    "eum": "상"
+    "eum": "상",
+    "totalStrokes": 20,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971141267-0.26843595009188503",
@@ -47466,7 +48918,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "고개",
-    "eum": "상"
+    "eum": "상",
+    "totalStrokes": 9,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971141269-0.99825453547138",
@@ -47476,7 +48930,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "곁채",
-    "eum": "상"
+    "eum": "상",
+    "totalStrokes": 12,
+    "radical": "广"
   },
   {
     "id": "sanggong-4_1-1786971141271-0.626869691214733",
@@ -47486,7 +48942,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "상수리",
-    "eum": "상"
+    "eum": "상",
+    "totalStrokes": 16,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971141274-0.21473150377204853",
@@ -47496,7 +48954,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "평상",
-    "eum": "상"
+    "eum": "상",
+    "totalStrokes": 8,
+    "radical": "爿"
   },
   {
     "id": "sanggong-4_1-1786971141276-0.6610713301809016",
@@ -47506,7 +48966,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "잔",
-    "eum": "상"
+    "eum": "상",
+    "totalStrokes": 18,
+    "radical": "角"
   },
   {
     "id": "sanggong-4_1-1786971141279-0.9580337305135465",
@@ -47516,7 +48978,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "굿할",
-    "eum": "새"
+    "eum": "새",
+    "totalStrokes": 17,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971141283-0.3310550491921924",
@@ -47526,7 +48990,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "농막",
-    "eum": "서"
+    "eum": "서",
+    "totalStrokes": 14,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971141286-0.47793410524905966",
@@ -47536,7 +49002,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "깃들일",
-    "eum": "서"
+    "eum": "서",
+    "totalStrokes": 11,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971141288-0.45507184923624955",
@@ -47546,7 +49014,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "깃들일",
-    "eum": "서"
+    "eum": "서",
+    "totalStrokes": 10,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971141290-0.10793114710954044",
@@ -47556,7 +49026,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "솜",
-    "eum": "서"
+    "eum": "서",
+    "totalStrokes": 12,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971141293-0.04912226055881552",
@@ -47566,7 +49038,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "슬기",
-    "eum": "서"
+    "eum": "서",
+    "totalStrokes": 16,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971141295-0.9966210015420575",
@@ -47576,7 +49050,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "아름다울",
-    "eum": "서"
+    "eum": "서",
+    "totalStrokes": 18,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141299-0.9072184691009025",
@@ -47586,7 +49062,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "클",
-    "eum": "석"
+    "eum": "석",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141301-0.9554204808292864",
@@ -47596,7 +49074,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "춤훨훨출",
-    "eum": "선"
+    "eum": "선",
+    "totalStrokes": 13,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971141303-0.6924310540383711",
@@ -47606,7 +49086,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "사람이름",
-    "eum": "선"
+    "eum": "선",
+    "totalStrokes": 16,
+    "radical": "攴"
   },
   {
     "id": "sanggong-4_1-1786971141307-0.07071248805609509",
@@ -47616,7 +49098,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "이끼",
-    "eum": "선"
+    "eum": "선",
+    "totalStrokes": 21,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141309-0.4418600584703254",
@@ -47626,7 +49110,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "맨발",
-    "eum": "선"
+    "eum": "선",
+    "totalStrokes": 13,
+    "radical": "足"
   },
   {
     "id": "sanggong-4_1-1786971141310-0.8908010157978452",
@@ -47636,7 +49122,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "대야",
-    "eum": "선"
+    "eum": "선",
+    "totalStrokes": 20,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971141311-0.1761442087621916",
@@ -47646,7 +49134,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "반찬",
-    "eum": "선"
+    "eum": "선",
+    "totalStrokes": 21,
+    "radical": "食"
   },
   {
     "id": "sanggong-4_1-1786971141314-0.20006799426393973",
@@ -47656,7 +49146,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "예쁠",
-    "eum": "선"
+    "eum": "선",
+    "totalStrokes": 14,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971141317-0.5459331971981576",
@@ -47666,7 +49158,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "샐",
-    "eum": "설"
+    "eum": "설",
+    "totalStrokes": 9,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141322-0.6254797097841213",
@@ -47676,7 +49170,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "깨물",
-    "eum": "설"
+    "eum": "설",
+    "totalStrokes": 21,
+    "radical": "齒"
   },
   {
     "id": "sanggong-4_1-1786971141324-0.8317500349088727",
@@ -47686,7 +49182,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "풀이름",
-    "eum": "설"
+    "eum": "설",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141327-0.11294119437557493",
@@ -47696,7 +49194,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "날카로울",
-    "eum": "염"
+    "eum": "염",
+    "totalStrokes": 10,
+    "radical": "刀"
   },
   {
     "id": "sanggong-4_1-1786971141330-0.38160522734075975",
@@ -47706,7 +49206,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "서고",
-    "eum": "성"
+    "eum": "성",
+    "totalStrokes": 10,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971141332-0.5886721517497255",
@@ -47716,7 +49218,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "성성이",
-    "eum": "성"
+    "eum": "성",
+    "totalStrokes": 12,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971141335-0.30790707181098975",
@@ -47726,7 +49230,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "바디",
-    "eum": "성"
+    "eum": "성",
+    "totalStrokes": 13,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971141337-0.8411268066660298",
@@ -47736,7 +49242,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "비릴",
-    "eum": "성"
+    "eum": "성",
+    "totalStrokes": 13,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971141343-0.22279937591478105",
@@ -47746,7 +49254,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "재물",
-    "eum": "지"
+    "eum": "지",
+    "totalStrokes": 12,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971141344-0.0735439046089078",
@@ -47756,7 +49266,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "가는대",
-    "eum": "세"
+    "eum": "세",
+    "totalStrokes": 11,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971141346-0.30875186846411107",
@@ -47766,7 +49278,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "버릇",
-    "eum": "태"
+    "eum": "태",
+    "totalStrokes": 6,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971141349-0.5518708008436336",
@@ -47776,7 +49290,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "거슬러올라갈",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 13,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141352-0.8499727378849282",
@@ -47786,7 +49302,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "깨어날",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 12,
+    "radical": "生"
   },
   {
     "id": "sanggong-4_1-1786971141354-0.7408456697459236",
@@ -47796,7 +49314,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "피부병",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 15,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971141356-0.9087525068824561",
@@ -47806,7 +49326,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "조릿대",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 16,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971141359-0.9200367622754799",
@@ -47816,7 +49338,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "쇠녹일",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 15,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971141364-0.5630232780273225",
@@ -47826,7 +49350,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "정성",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 13,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971141365-0.3215520577301588",
@@ -47836,7 +49362,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "깨어날",
-    "eum": "소"
+    "eum": "소",
+    "totalStrokes": 16,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971141368-0.7426323278017479",
@@ -47846,7 +49374,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물이름",
-    "eum": "속"
+    "eum": "속",
+    "totalStrokes": 10,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141371-0.17598900257497352",
@@ -47856,7 +49386,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "일어날",
-    "eum": "속"
+    "eum": "속",
+    "totalStrokes": 17,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971141373-0.8561743834266935",
@@ -47866,7 +49398,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "향풀",
-    "eum": "손"
+    "eum": "손",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141382-0.10343455353262188",
@@ -47876,7 +49410,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "기침할",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 14,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971141384-0.5384391883923701",
@@ -47886,7 +49422,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "산굴",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 8,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971141386-0.2972094862346566",
@@ -47896,7 +49434,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "패옥",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 17,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971141389-0.1844116351407339",
@@ -47906,7 +49446,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "길",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 11,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971141392-0.6772242553976356",
@@ -47916,7 +49458,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "수유",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 10,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141394-0.9938685279437584",
@@ -47926,7 +49470,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "수산",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141396-0.09621182622825819",
@@ -47936,7 +49482,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "깊을",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 18,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971141398-0.14788445973828268",
@@ -47946,7 +49494,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "쇳녹날",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 15,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971141402-0.7608625707257427",
@@ -47956,7 +49506,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "물이름",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 16,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141405-0.26212458515204917",
@@ -47966,7 +49518,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "재물",
-    "eum": "취"
+    "eum": "취",
+    "totalStrokes": 15,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971141408-0.10677189870395898",
@@ -47976,7 +49530,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물맑을",
-    "eum": "숙"
+    "eum": "숙",
+    "totalStrokes": 16,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141414-0.8284304795594634",
@@ -47986,7 +49542,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "콩",
-    "eum": "숙"
+    "eum": "숙",
+    "totalStrokes": 12,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141417-0.48500260124300254",
@@ -47996,7 +49554,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "부릴/조리돌릴",
-    "eum": "순"
+    "eum": "순",
+    "totalStrokes": 9,
+    "radical": "彳"
   },
   {
     "id": "sanggong-4_1-1786971141418-0.4625125966745838",
@@ -48006,7 +49566,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "미쁠/무서울",
-    "eum": "순"
+    "eum": "순",
+    "totalStrokes": 9,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971141420-0.9425191856115737",
@@ -48016,7 +49578,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "나무이름",
-    "eum": "순"
+    "eum": "순",
+    "totalStrokes": 10,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971141421-0.2740409081018127",
@@ -48026,7 +49590,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "무궁화나무",
-    "eum": "순"
+    "eum": "순",
+    "totalStrokes": 16,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971141424-0.6165517767538625",
@@ -48036,7 +49602,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "순채",
-    "eum": "순"
+    "eum": "순",
+    "totalStrokes": 15,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141425-0.3165673664684555",
@@ -48046,7 +49614,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "무궁화",
-    "eum": "순"
+    "eum": "순",
+    "totalStrokes": 16,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141428-0.745566778819536",
@@ -48056,7 +49626,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "돗바늘",
-    "eum": "술"
+    "eum": "술",
+    "totalStrokes": 13,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971141429-0.28981943703199053",
@@ -48066,7 +49638,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "산높을",
-    "eum": "숭"
+    "eum": "숭",
+    "totalStrokes": 11,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971141430-0.5809752197644473",
@@ -48076,7 +49650,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "이",
-    "eum": "슬"
+    "eum": "슬",
+    "totalStrokes": 15,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971141433-0.28010685427247384",
@@ -48086,7 +49662,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "파리",
-    "eum": "승"
+    "eum": "승",
+    "totalStrokes": 19,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971141435-0.27949113608893084",
@@ -48096,7 +49674,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "나무이름",
-    "eum": "박"
+    "eum": "박",
+    "totalStrokes": 14,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971141437-0.22810521459306",
@@ -48106,7 +49686,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "받들",
-    "eum": "승"
+    "eum": "승",
+    "totalStrokes": 5,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141440-0.39016605822044137",
@@ -48116,7 +49698,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "두렁",
-    "eum": "승"
+    "eum": "승",
+    "totalStrokes": 13,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971141442-0.40739467079378455",
@@ -48126,7 +49710,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "말울/목쉴",
-    "eum": "시"
+    "eum": "시",
+    "totalStrokes": 15,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971141443-0.1782496152648737",
@@ -48136,7 +49722,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "똥",
-    "eum": "시"
+    "eum": "시",
+    "totalStrokes": 9,
+    "radical": "尸"
   },
   {
     "id": "sanggong-4_1-1786971141446-0.8020339648810175",
@@ -48146,7 +49734,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "모종할",
-    "eum": "시"
+    "eum": "시",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141447-0.033897031271101",
@@ -48156,7 +49746,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "시초",
-    "eum": "시"
+    "eum": "시",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141448-0.28846055835230644",
@@ -48166,7 +49758,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "돼지",
-    "eum": "시"
+    "eum": "시",
+    "totalStrokes": 7,
+    "radical": "豕"
   },
   {
     "id": "sanggong-4_1-1786971141449-0.3619731803766111",
@@ -48176,7 +49770,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "승냥이",
-    "eum": "시"
+    "eum": "시",
+    "totalStrokes": 10,
+    "radical": "豸"
   },
   {
     "id": "sanggong-4_1-1786971141451-0.7212824438888022",
@@ -48186,7 +49782,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "힘쓸",
-    "eum": "시"
+    "eum": "시",
+    "totalStrokes": 11,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971141458-0.2833411304869178",
@@ -48196,7 +49794,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "땅이름",
-    "eum": "식"
+    "eum": "식",
+    "totalStrokes": 15,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971141460-0.9913650815844769",
@@ -48206,7 +49806,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "걷는모양",
-    "eum": "신"
+    "eum": "신",
+    "totalStrokes": 8,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971141461-0.4956308359449102",
@@ -48216,7 +49818,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "읊조릴",
-    "eum": "신"
+    "eum": "신",
+    "totalStrokes": 8,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971141462-0.9185673482948632",
@@ -48226,7 +49830,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "대궐",
-    "eum": "신"
+    "eum": "신",
+    "totalStrokes": 10,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971141463-0.3996651114842569",
@@ -48236,7 +49842,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "불탄끝",
-    "eum": "신"
+    "eum": "신",
+    "totalStrokes": 18,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971141465-0.5428165232315905",
@@ -48246,7 +49854,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "조개풀",
-    "eum": "신"
+    "eum": "신",
+    "totalStrokes": 18,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141466-0.5118145270394426",
@@ -48256,7 +49866,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "큰조개",
-    "eum": "신"
+    "eum": "신",
+    "totalStrokes": 13,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971141469-0.10177625156625092",
@@ -48266,7 +49878,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "옥돌",
-    "eum": "신"
+    "eum": "신",
+    "totalStrokes": 18,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971141473-0.46036278308450296",
@@ -48276,7 +49890,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "골풀",
-    "eum": "심"
+    "eum": "심",
+    "totalStrokes": 8,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141475-0.8260032816916936",
@@ -48286,7 +49902,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "믿을",
-    "eum": "심"
+    "eum": "심",
+    "totalStrokes": 16,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971141481-0.4421933701330575",
@@ -48296,7 +49914,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "5급",
     "hun": "억",
-    "eum": "억"
+    "eum": "억",
+    "totalStrokes": 15,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971141485-0.7184989553220174",
@@ -48306,7 +49926,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "4급Ⅱ",
     "hun": "같을",
-    "eum": "여"
+    "eum": "여",
+    "totalStrokes": 6,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971141541-0.2709293977966052",
@@ -48316,7 +49938,9 @@ export const hanjaMeta = [
     "korcham": "3급",
     "uhmoon": "5급",
     "hun": "집",
-    "eum": "원"
+    "eum": "원",
+    "totalStrokes": 10,
+    "radical": "阜"
   },
   {
     "id": "sanggong-4_1-1786971141562-0.20400008864281394",
@@ -48326,7 +49950,9 @@ export const hanjaMeta = [
     "korcham": "3급",
     "uhmoon": "5급Ⅱ",
     "hun": "맡길",
-    "eum": "임"
+    "eum": "임",
+    "totalStrokes": 6,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971141564-0.15917877567187955",
@@ -48336,7 +49962,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "아까",
-    "eum": "아"
+    "eum": "아",
+    "totalStrokes": 9,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971141569-0.8756176217846029",
@@ -48346,7 +49974,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "누에나방",
-    "eum": "아"
+    "eum": "아",
+    "totalStrokes": 13,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971141573-0.9268227991773261",
@@ -48356,7 +49986,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "거위",
-    "eum": "아"
+    "eum": "아",
+    "totalStrokes": 18,
+    "radical": "鳥"
   },
   {
     "id": "sanggong-4_1-1786971141577-0.7451102378903893",
@@ -48366,7 +49998,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "턱",
-    "eum": "악"
+    "eum": "악",
+    "totalStrokes": 18,
+    "radical": "頁"
   },
   {
     "id": "sanggong-4_1-1786971141590-0.7658190242788678",
@@ -48376,7 +50010,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "모",
-    "eum": "앙"
+    "eum": "앙",
+    "totalStrokes": 10,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971141600-0.27231970383899806",
@@ -48386,7 +50022,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "낄/겨드랑이",
-    "eum": "액"
+    "eum": "액",
+    "totalStrokes": 11,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971141617-0.3540431089219862",
@@ -48396,7 +50034,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "술빚을",
-    "eum": "양"
+    "eum": "양",
+    "totalStrokes": 24,
+    "radical": "酉"
   },
   {
     "id": "sanggong-4_1-1786971141620-0.01879884105460672",
@@ -48406,7 +50046,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "둑",
-    "eum": "언"
+    "eum": "언",
+    "totalStrokes": 12,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971141625-0.12496045304549042",
@@ -48416,7 +50058,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "서자",
-    "eum": "얼"
+    "eum": "얼",
+    "totalStrokes": 19,
+    "radical": "子"
   },
   {
     "id": "sanggong-4_1-1786971141627-0.5872606697881951",
@@ -48426,7 +50070,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "엄연할",
-    "eum": "엄"
+    "eum": "엄",
+    "totalStrokes": 22,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971141629-0.46946071904136866",
@@ -48436,7 +50082,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "풀",
-    "eum": "역"
+    "eum": "역",
+    "totalStrokes": 19,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971141631-0.11162459241175948",
@@ -48446,7 +50094,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "서까래",
-    "eum": "연"
+    "eum": "연",
+    "totalStrokes": 13,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971141633-0.17536929638445142",
@@ -48456,7 +50106,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "연기",
-    "eum": "연"
+    "eum": "연",
+    "totalStrokes": 10,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971141636-0.3109888434019277",
@@ -48466,7 +50118,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "솔개",
-    "eum": "연"
+    "eum": "연",
+    "totalStrokes": 14,
+    "radical": "鳥"
   },
   {
     "id": "sanggong-4_1-1786971141637-0.3523544339880238",
@@ -48476,7 +50130,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "열반",
-    "eum": "녈"
+    "eum": "녈",
+    "totalStrokes": 10,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141640-0.8460669281063092",
@@ -48486,7 +50142,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "불꽃",
-    "eum": "염"
+    "eum": "염",
+    "totalStrokes": 12,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971141645-0.06275207675382188",
@@ -48496,7 +50154,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "구레나룻",
-    "eum": "염"
+    "eum": "염",
+    "totalStrokes": 14,
+    "radical": "髟"
   },
   {
     "id": "sanggong-4_1-1786971141647-0.7877178197392636",
@@ -48506,7 +50166,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급Ⅱ",
     "hun": "비칠",
-    "eum": "영"
+    "eum": "영",
+    "totalStrokes": 13,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971141649-0.3122733339081156",
@@ -48516,7 +50178,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "바다",
-    "eum": "영"
+    "eum": "영",
+    "totalStrokes": 19,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141661-0.1160600911254841",
@@ -48526,7 +50190,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급Ⅱ",
     "hun": "슬기",
-    "eum": "예"
+    "eum": "예",
+    "totalStrokes": 14,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971141663-0.039499920028415736",
@@ -48536,7 +50202,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "더러울",
-    "eum": "예"
+    "eum": "예",
+    "totalStrokes": 18,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971141676-0.8370417067251439",
@@ -48546,7 +50214,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "자라",
-    "eum": "오"
+    "eum": "오",
+    "totalStrokes": 22,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971141681-0.1621477556584151",
@@ -48556,7 +50226,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "염병",
-    "eum": "온"
+    "eum": "온",
+    "totalStrokes": 15,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971141685-0.39006681557255785",
@@ -48566,7 +50238,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "쌓을",
-    "eum": "온"
+    "eum": "온",
+    "totalStrokes": 20,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141688-0.7728276921002715",
@@ -48576,7 +50250,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "우뚝할",
-    "eum": "올"
+    "eum": "올",
+    "totalStrokes": 3,
+    "radical": "儿"
   },
   {
     "id": "sanggong-4_1-1786971141691-0.39926120648813834",
@@ -48586,7 +50262,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "아침밥",
-    "eum": "옹"
+    "eum": "옹",
+    "totalStrokes": 22,
+    "radical": "食"
   },
   {
     "id": "sanggong-4_1-1786971141694-0.784155563409325",
@@ -48596,7 +50274,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "움집",
-    "eum": "와"
+    "eum": "와",
+    "totalStrokes": 14,
+    "radical": "穴"
   },
   {
     "id": "sanggong-4_1-1786971141695-0.21283368232025102",
@@ -48606,7 +50286,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "개구리",
-    "eum": "와"
+    "eum": "와",
+    "totalStrokes": 12,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971141702-0.037164922457942895",
@@ -48616,7 +50298,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "완고할",
-    "eum": "완"
+    "eum": "완",
+    "totalStrokes": 13,
+    "radical": "頁"
   },
   {
     "id": "sanggong-4_1-1786971141711-0.371203348493214",
@@ -48626,7 +50310,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "난쟁이",
-    "eum": "왜"
+    "eum": "왜",
+    "totalStrokes": 13,
+    "radical": "矢"
   },
   {
     "id": "sanggong-4_1-1786971141713-0.3221697830542669",
@@ -48636,7 +50322,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "높고클",
-    "eum": "외"
+    "eum": "외",
+    "totalStrokes": 21,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971141726-0.7648119696899015",
@@ -48646,7 +50334,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "요",
-    "eum": "욕"
+    "eum": "욕",
+    "totalStrokes": 15,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971141732-0.1572260528567998",
@@ -48656,7 +50346,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "2급",
     "hun": "녹을",
-    "eum": "용"
+    "eum": "용",
+    "totalStrokes": 14,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971141743-0.21500943461420718",
@@ -48666,7 +50358,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "바리",
-    "eum": "우"
+    "eum": "우",
+    "totalStrokes": 8,
+    "radical": "皿"
   },
   {
     "id": "sanggong-4_1-1786971141745-0.9068061071763132",
@@ -48676,7 +50370,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "복",
-    "eum": "우"
+    "eum": "우",
+    "totalStrokes": 14,
+    "radical": "示"
   },
   {
     "id": "sanggong-4_1-1786971141754-0.3750425275285104",
@@ -48686,7 +50382,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "떨어질",
-    "eum": "운"
+    "eum": "운",
+    "totalStrokes": 13,
+    "radical": "阜"
   },
   {
     "id": "sanggong-4_1-1786971141762-0.16195471646484694",
@@ -48696,7 +50394,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "시들",
-    "eum": "위"
+    "eum": "위",
+    "totalStrokes": 12,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141764-0.8204921015948636",
@@ -48706,7 +50406,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "갈대",
-    "eum": "위"
+    "eum": "위",
+    "totalStrokes": 13,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141776-0.6059984417458056",
@@ -48716,7 +50418,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "유약",
-    "eum": "유"
+    "eum": "유",
+    "totalStrokes": 12,
+    "radical": "釆"
   },
   {
     "id": "sanggong-4_1-1786971141778-0.2541726865895365",
@@ -48726,7 +50430,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "놋쇠",
-    "eum": "유"
+    "eum": "유",
+    "totalStrokes": 17,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971141781-0.2868809193654086",
@@ -48736,7 +50442,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "키울",
-    "eum": "육"
+    "eum": "육",
+    "totalStrokes": 14,
+    "radical": "毋"
   },
   {
     "id": "sanggong-4_1-1786971141788-0.7187020478826185",
@@ -48746,7 +50454,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "가는베",
-    "eum": "융"
+    "eum": "융",
+    "totalStrokes": 12,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971141792-0.7826223628732362",
@@ -48756,7 +50466,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "그늘",
-    "eum": "음"
+    "eum": "음",
+    "totalStrokes": 15,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141794-0.8576495219822371",
@@ -48766,7 +50478,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "읍할",
-    "eum": "읍"
+    "eum": "읍",
+    "totalStrokes": 12,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971141808-0.7308862995347429",
@@ -48776,7 +50490,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "개미",
-    "eum": "의"
+    "eum": "의",
+    "totalStrokes": 19,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971141814-0.23272339767985373",
@@ -48786,7 +50502,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "떳떳할",
-    "eum": "이"
+    "eum": "이",
+    "totalStrokes": 16,
+    "radical": "彐"
   },
   {
     "id": "sanggong-4_1-1786971141819-0.43707322302515506",
@@ -48796,7 +50514,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "미끼",
-    "eum": "이"
+    "eum": "이",
+    "totalStrokes": 15,
+    "radical": "食"
   },
   {
     "id": "sanggong-4_1-1786971141823-0.7910824562196584",
@@ -48806,7 +50526,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "질길",
-    "eum": "인"
+    "eum": "인",
+    "totalStrokes": 12,
+    "radical": "革"
   },
   {
     "id": "sanggong-4_1-1786971141830-0.7097352821456457",
@@ -48816,7 +50538,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "들깨",
-    "eum": "임"
+    "eum": "임",
+    "totalStrokes": 10,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141834-0.13202528607689656",
@@ -48826,7 +50550,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "다북쑥",
-    "eum": "아"
+    "eum": "아",
+    "totalStrokes": 11,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141836-0.20696552122289735",
@@ -48836,7 +50562,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "갈까마귀",
-    "eum": "아"
+    "eum": "아",
+    "totalStrokes": 15,
+    "radical": "鳥"
   },
   {
     "id": "sanggong-4_1-1786971141838-0.0618416196139816",
@@ -48846,7 +50574,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "예쁠",
-    "eum": "아"
+    "eum": "아",
+    "totalStrokes": 8,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971141840-0.6356120824785862",
@@ -48856,7 +50586,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "아름다울",
-    "eum": "아"
+    "eum": "아",
+    "totalStrokes": 11,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971141841-0.2638928810730352",
@@ -48866,7 +50598,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "장막",
-    "eum": "악"
+    "eum": "악",
+    "totalStrokes": 12,
+    "radical": "巾"
   },
   {
     "id": "sanggong-4_1-1786971141843-0.9508993711048551",
@@ -48876,7 +50610,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "비젖을/두터울",
-    "eum": "악"
+    "eum": "악",
+    "totalStrokes": 12,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141844-0.6248010616162809",
@@ -48886,7 +50622,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "땅이름",
-    "eum": "악"
+    "eum": "악",
+    "totalStrokes": 12,
+    "radical": "邑"
   },
   {
     "id": "sanggong-4_1-1786971141845-0.713021856769939",
@@ -48896,7 +50634,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "칼날",
-    "eum": "악"
+    "eum": "악",
+    "totalStrokes": 17,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971141847-0.4822308207094598",
@@ -48906,7 +50646,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "악어",
-    "eum": "악"
+    "eum": "악",
+    "totalStrokes": 20,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971141848-0.7749925905926595",
@@ -48916,7 +50658,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "악착할",
-    "eum": "악"
+    "eum": "악",
+    "totalStrokes": 24,
+    "radical": "齒"
   },
   {
     "id": "sanggong-4_1-1786971141850-0.2493495357986223",
@@ -48926,7 +50670,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "아귀",
-    "eum": "안"
+    "eum": "안",
+    "totalStrokes": 17,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971141855-0.2268589453954366",
@@ -48936,7 +50682,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "바위",
-    "eum": "암"
+    "eum": "암",
+    "totalStrokes": 8,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971141856-0.6506607101028064",
@@ -48946,7 +50694,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "움켜먹을",
-    "eum": "암"
+    "eum": "암",
+    "totalStrokes": 11,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971141859-0.4108264398118653",
@@ -48956,7 +50706,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "친압할",
-    "eum": "압"
+    "eum": "압",
+    "totalStrokes": 8,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971141861-0.6430378459119747",
@@ -48966,7 +50718,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "원망할",
-    "eum": "앙"
+    "eum": "앙",
+    "totalStrokes": 8,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971141863-0.5216559508091007",
@@ -48976,7 +50730,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "높을",
-    "eum": "앙"
+    "eum": "앙",
+    "totalStrokes": 8,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971141865-0.4602908290700062",
@@ -48986,7 +50742,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "아지랑이",
-    "eum": "애"
+    "eum": "애",
+    "totalStrokes": 24,
+    "radical": "雨"
   },
   {
     "id": "sanggong-4_1-1786971141867-0.9335237884182718",
@@ -48996,7 +50754,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "잡을",
-    "eum": "액"
+    "eum": "액",
+    "totalStrokes": 7,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971141870-0.5959734934131208",
@@ -49006,7 +50766,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "목맬",
-    "eum": "액"
+    "eum": "액",
+    "totalStrokes": 16,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971141872-0.7924866362201208",
@@ -49016,7 +50778,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "양병",
-    "eum": "앵"
+    "eum": "앵",
+    "totalStrokes": 20,
+    "radical": "缶"
   },
   {
     "id": "sanggong-4_1-1786971141875-0.17725235180408938",
@@ -49026,7 +50790,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "야유할",
-    "eum": "야"
+    "eum": "야",
+    "totalStrokes": 12,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971141877-0.6619292865294626",
@@ -49036,7 +50802,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "야자나무",
-    "eum": "야"
+    "eum": "야",
+    "totalStrokes": 13,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971141881-0.8225039646995848",
@@ -49046,7 +50814,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "꽃밥",
-    "eum": "약"
+    "eum": "약",
+    "totalStrokes": 13,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141883-0.26918533401253",
@@ -49056,7 +50826,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "부들",
-    "eum": "약"
+    "eum": "약",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141886-0.6901219071830108",
@@ -49066,7 +50838,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "거짓",
-    "eum": "양"
+    "eum": "양",
+    "totalStrokes": 8,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971141888-0.43468661374462436",
@@ -49076,7 +50850,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "병/근심할",
-    "eum": "양"
+    "eum": "양",
+    "totalStrokes": 10,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971141891-0.9680863806145706",
@@ -49086,7 +50862,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "날릴",
-    "eum": "양"
+    "eum": "양",
+    "totalStrokes": 13,
+    "radical": "攴"
   },
   {
     "id": "sanggong-4_1-1786971141893-0.5903743578557442",
@@ -49096,7 +50874,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "해돋을",
-    "eum": "양"
+    "eum": "양",
+    "totalStrokes": 13,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971141895-0.8138519156180837",
@@ -49106,7 +50886,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물깊을",
-    "eum": "양"
+    "eum": "양",
+    "totalStrokes": 18,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141898-0.46407940318673424",
@@ -49116,7 +50898,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "녹일",
-    "eum": "양"
+    "eum": "양",
+    "totalStrokes": 13,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971141900-0.35299229472105986",
@@ -49126,7 +50910,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "가려울",
-    "eum": "양"
+    "eum": "양",
+    "totalStrokes": 11,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971141902-0.8930978515168301",
@@ -49136,7 +50922,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "빌",
-    "eum": "양"
+    "eum": "양",
+    "totalStrokes": 22,
+    "radical": "示"
   },
   {
     "id": "sanggong-4_1-1786971141905-0.7877957184447961",
@@ -49146,7 +50934,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "볏줄기",
-    "eum": "양"
+    "eum": "양",
+    "totalStrokes": 22,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971141909-0.8431066250690707",
@@ -49156,7 +50946,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "볕",
-    "eum": "양"
+    "eum": "양",
+    "totalStrokes": 9,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971141911-0.973860848330914",
@@ -49166,7 +50958,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "옥",
-    "eum": "어"
+    "eum": "어",
+    "totalStrokes": 10,
+    "radical": "囗"
   },
   {
     "id": "sanggong-4_1-1786971141912-0.3953338021813967",
@@ -49176,7 +50970,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "어혈질",
-    "eum": "어"
+    "eum": "어",
+    "totalStrokes": 13,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971141914-0.030736042020111265",
@@ -49186,7 +50982,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "이어긋날",
-    "eum": "어"
+    "eum": "어",
+    "totalStrokes": 22,
+    "radical": "齒"
   },
   {
     "id": "sanggong-4_1-1786971141915-0.26144184173451335",
@@ -49196,7 +50994,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "웃을",
-    "eum": "오"
+    "eum": "오",
+    "totalStrokes": 11,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971141919-0.7044941118984988",
@@ -49206,7 +51006,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "가슴",
-    "eum": "억"
+    "eum": "억",
+    "totalStrokes": 17,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971141922-0.9932084125301853",
@@ -49216,7 +51018,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "쓰러질",
-    "eum": "언"
+    "eum": "언",
+    "totalStrokes": 11,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971141924-0.896594606158584",
@@ -49226,7 +51030,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "아름다울",
-    "eum": "언"
+    "eum": "언",
+    "totalStrokes": 14,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971141926-0.7373267568316625",
@@ -49236,7 +51042,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "싹",
-    "eum": "얼"
+    "eum": "얼",
+    "totalStrokes": 21,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141932-0.9820417688813132",
@@ -49246,7 +51054,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "담글",
-    "eum": "엄"
+    "eum": "엄",
+    "totalStrokes": 11,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141935-0.4304131462882389",
@@ -49256,7 +51066,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "둥글",
-    "eum": "원"
+    "eum": "원",
+    "totalStrokes": 4,
+    "radical": "冂"
   },
   {
     "id": "sanggong-4_1-1786971141937-0.7177153988538996",
@@ -49266,7 +51078,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "어조사",
-    "eum": "여"
+    "eum": "여",
+    "totalStrokes": 18,
+    "radical": "欠"
   },
   {
     "id": "sanggong-4_1-1786971141939-0.4430048060513885",
@@ -49276,7 +51090,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "옥",
-    "eum": "여"
+    "eum": "여",
+    "totalStrokes": 18,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971141940-0.4611187804829555",
@@ -49286,7 +51102,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "돌",
-    "eum": "여"
+    "eum": "여",
+    "totalStrokes": 19,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971141942-0.016965509954357527",
@@ -49296,7 +51114,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "배이름",
-    "eum": "여"
+    "eum": "여",
+    "totalStrokes": 13,
+    "radical": "舟"
   },
   {
     "id": "sanggong-4_1-1786971141943-0.6362859982757663",
@@ -49306,7 +51126,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "꼭두서니",
-    "eum": "여"
+    "eum": "여",
+    "totalStrokes": 10,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141944-0.4721594892532395",
@@ -49316,7 +51138,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "수레",
-    "eum": "여"
+    "eum": "여",
+    "totalStrokes": 21,
+    "radical": "車"
   },
   {
     "id": "sanggong-4_1-1786971141945-0.716025165023579",
@@ -49326,7 +51150,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "예쁠",
-    "eum": "여"
+    "eum": "여",
+    "totalStrokes": 7,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971141948-0.30895227218028865",
@@ -49336,7 +51162,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "침삼킬",
-    "eum": "연"
+    "eum": "연",
+    "totalStrokes": 19,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971141949-0.48362249302727545",
@@ -49346,7 +51174,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "빈땅",
-    "eum": "연"
+    "eum": "연",
+    "totalStrokes": 12,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971141953-0.7847142201986624",
@@ -49356,7 +51186,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "당길",
-    "eum": "연"
+    "eum": "연",
+    "totalStrokes": 10,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971141957-0.6477514612469936",
@@ -49366,7 +51198,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "침",
-    "eum": "연"
+    "eum": "연",
+    "totalStrokes": 10,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141962-0.6120065383662344",
@@ -49376,7 +51210,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "길",
-    "eum": "연"
+    "eum": "연",
+    "totalStrokes": 17,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971141964-0.9971397846164709",
@@ -49386,7 +51222,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "예쁠",
-    "eum": "연"
+    "eum": "연",
+    "totalStrokes": 10,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971141967-0.8475962556346475",
@@ -49396,7 +51234,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "옥이름",
-    "eum": "경"
+    "eum": "경",
+    "totalStrokes": 13,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971141970-0.7203521280615645",
@@ -49406,7 +51246,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "밝을",
-    "eum": "연"
+    "eum": "연",
+    "totalStrokes": 20,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971141972-0.2683926989006721",
@@ -49416,7 +51258,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "잔치",
-    "eum": "연"
+    "eum": "연",
+    "totalStrokes": 23,
+    "radical": "酉"
   },
   {
     "id": "sanggong-4_1-1786971141974-0.4949074398894172",
@@ -49426,7 +51270,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "땅이름",
-    "eum": "연"
+    "eum": "연",
+    "totalStrokes": 9,
+    "radical": "儿"
   },
   {
     "id": "sanggong-4_1-1786971141977-0.13772941812387085",
@@ -49436,7 +51282,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "풀우거질",
-    "eum": "염"
+    "eum": "염",
+    "totalStrokes": 9,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971141978-0.6227038812827903",
@@ -49446,7 +51294,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "고울",
-    "eum": "염"
+    "eum": "염",
+    "totalStrokes": 24,
+    "radical": "色"
   },
   {
     "id": "sanggong-4_1-1786971141982-0.517282631377881",
@@ -49456,7 +51306,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "빛날",
-    "eum": "황"
+    "eum": "황",
+    "totalStrokes": 14,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971141985-0.039802082445607234",
@@ -49466,7 +51318,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "산가파를",
-    "eum": "영"
+    "eum": "영",
+    "totalStrokes": 17,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971141989-0.7152573136982529",
@@ -49476,7 +51330,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물이름",
-    "eum": "영"
+    "eum": "영",
+    "totalStrokes": 15,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141990-0.7715826596491702",
@@ -49486,7 +51342,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물졸졸흐를",
-    "eum": "영"
+    "eum": "영",
+    "totalStrokes": 17,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971141992-0.5414987765306737",
@@ -49496,7 +51354,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "사나울",
-    "eum": "녕"
+    "eum": "녕",
+    "totalStrokes": 17,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971141995-0.42821635423462756",
@@ -49506,7 +51366,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "진눈깨비",
-    "eum": "영"
+    "eum": "영",
+    "totalStrokes": 17,
+    "radical": "雨"
   },
   {
     "id": "sanggong-4_1-1786971141996-0.18126914343141987",
@@ -49516,7 +51378,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "읊을",
-    "eum": "영"
+    "eum": "영",
+    "totalStrokes": 8,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971142000-0.5464544036012717",
@@ -49526,7 +51390,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "어릴",
-    "eum": "예"
+    "eum": "예",
+    "totalStrokes": 10,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142003-0.07225772365360361",
@@ -49536,7 +51402,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물굽이",
-    "eum": "예"
+    "eum": "예",
+    "totalStrokes": 7,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142005-0.9586623222307716",
@@ -49546,7 +51414,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "사자",
-    "eum": "예"
+    "eum": "예",
+    "totalStrokes": 11,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971142007-0.17195401110940323",
@@ -49556,7 +51426,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "꽃술",
-    "eum": "예"
+    "eum": "예",
+    "totalStrokes": 20,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142009-0.15599071909790074",
@@ -49566,7 +51438,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "이를",
-    "eum": "예"
+    "eum": "예",
+    "totalStrokes": 13,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971142011-0.9175726031173804",
@@ -49576,7 +51450,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "암무지개",
-    "eum": "예"
+    "eum": "예",
+    "totalStrokes": 16,
+    "radical": "雨"
   },
   {
     "id": "sanggong-4_1-1786971142013-0.1200186999938434",
@@ -49586,7 +51462,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "성가퀴",
-    "eum": "예"
+    "eum": "예",
+    "totalStrokes": 11,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971142015-0.4534472824505492",
@@ -49596,7 +51474,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "심을",
-    "eum": "예"
+    "eum": "예",
+    "totalStrokes": 11,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971142017-0.8013875072558294",
@@ -49606,7 +51486,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "드리울",
-    "eum": "예"
+    "eum": "예",
+    "totalStrokes": 16,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142019-0.24536961684216796",
@@ -49616,7 +51498,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "옥이름",
-    "eum": "억"
+    "eum": "억",
+    "totalStrokes": 9,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971142022-0.6476724549330946",
@@ -49626,7 +51510,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "맞이할",
-    "eum": "오"
+    "eum": "오",
+    "totalStrokes": 9,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142024-0.638309862678145",
@@ -49636,7 +51522,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "산언덕",
-    "eum": "오"
+    "eum": "오",
+    "totalStrokes": 13,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971142028-0.8351546318320402",
@@ -49646,7 +51534,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "한할",
-    "eum": "오"
+    "eum": "오",
+    "totalStrokes": 16,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971142030-0.17021958400310688",
@@ -49656,7 +51546,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "거만할",
-    "eum": "오"
+    "eum": "오",
+    "totalStrokes": 11,
+    "radical": "攴"
   },
   {
     "id": "sanggong-4_1-1786971142034-0.95038724554587",
@@ -49666,7 +51558,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물굽이",
-    "eum": "오"
+    "eum": "오",
+    "totalStrokes": 16,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142035-0.5636865238533941",
@@ -49676,7 +51570,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "볶을",
-    "eum": "오"
+    "eum": "오",
+    "totalStrokes": 15,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971142036-0.036792089424721786",
@@ -49686,7 +51582,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "사나운개",
-    "eum": "오"
+    "eum": "오",
+    "totalStrokes": 15,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971142038-0.9234086821128943",
@@ -49696,7 +51594,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "버들고리",
-    "eum": "오"
+    "eum": "오",
+    "totalStrokes": 13,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971142039-0.23838613556491728",
@@ -49706,7 +51606,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "지네",
-    "eum": "오"
+    "eum": "오",
+    "totalStrokes": 13,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971142040-0.7802765474807656",
@@ -49716,7 +51618,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "자라",
-    "eum": "오"
+    "eum": "오",
+    "totalStrokes": 24,
+    "radical": "黽"
   },
   {
     "id": "sanggong-4_1-1786971142042-0.3743892484661694",
@@ -49726,7 +51630,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "강이름",
-    "eum": "오"
+    "eum": "오",
+    "totalStrokes": 10,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142044-0.989453243723458",
@@ -49736,7 +51642,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "묵은솜",
-    "eum": "온"
+    "eum": "온",
+    "totalStrokes": 16,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142047-0.38913175511201414",
@@ -49746,7 +51654,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "독",
-    "eum": "옹"
+    "eum": "옹",
+    "totalStrokes": 9,
+    "radical": "瓦"
   },
   {
     "id": "sanggong-4_1-1786971142048-0.9840490097267387",
@@ -49756,7 +51666,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "종기",
-    "eum": "옹"
+    "eum": "옹",
+    "totalStrokes": 23,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971142050-0.3122873117804579",
@@ -49766,7 +51678,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "웅덩이",
-    "eum": "와"
+    "eum": "와",
+    "totalStrokes": 14,
+    "radical": "穴"
   },
   {
     "id": "sanggong-4_1-1786971142051-0.642744668093864",
@@ -49776,7 +51690,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "달팽이",
-    "eum": "와"
+    "eum": "와",
+    "totalStrokes": 15,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971142053-0.940194381299109",
@@ -49786,7 +51702,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "완연할",
-    "eum": "완"
+    "eum": "완",
+    "totalStrokes": 8,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971142055-0.25532640023315956",
@@ -49796,7 +51714,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "주발",
-    "eum": "완"
+    "eum": "완",
+    "totalStrokes": 12,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142056-0.5417785921015262",
@@ -49806,7 +51726,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "나라이름",
-    "eum": "완"
+    "eum": "완",
+    "totalStrokes": 11,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971142058-0.42547305255125967",
@@ -49816,7 +51738,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "주발",
-    "eum": "완"
+    "eum": "완",
+    "totalStrokes": 13,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971142060-0.9782123697034294",
@@ -49826,7 +51750,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "중완",
-    "eum": "완"
+    "eum": "완",
+    "totalStrokes": 11,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971142061-0.5545504220947509",
@@ -49836,7 +51762,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "완두",
-    "eum": "완"
+    "eum": "완",
+    "totalStrokes": 15,
+    "radical": "豆"
   },
   {
     "id": "sanggong-4_1-1786971142064-0.8075215486508438",
@@ -49846,7 +51774,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "예쁠",
-    "eum": "원"
+    "eum": "원",
+    "totalStrokes": 7,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971142065-0.7619950176968318",
@@ -49856,7 +51786,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "산높을",
-    "eum": "완"
+    "eum": "완",
+    "totalStrokes": 7,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971142067-0.6651097125996432",
@@ -49866,7 +51798,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "예쁠",
-    "eum": "왜"
+    "eum": "왜",
+    "totalStrokes": 9,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971142070-0.45973415143073326",
@@ -49876,7 +51810,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "높을",
-    "eum": "외"
+    "eum": "외",
+    "totalStrokes": 13,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971142075-0.4021990298182734",
@@ -49886,7 +51822,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "높을",
-    "eum": "요"
+    "eum": "요",
+    "totalStrokes": 15,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971142077-0.04089344720767485",
@@ -49896,7 +51834,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "우길",
-    "eum": "요"
+    "eum": "요",
+    "totalStrokes": 8,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971142079-0.6250794886227459",
@@ -49906,7 +51846,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "휠",
-    "eum": "뇨"
+    "eum": "뇨",
+    "totalStrokes": 15,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971142081-0.30484770446652076",
@@ -49916,7 +51858,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "노/꺾어질",
-    "eum": "요"
+    "eum": "요",
+    "totalStrokes": 16,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142083-0.7454793829683829",
@@ -49926,7 +51870,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "비칠/빛날",
-    "eum": "요"
+    "eum": "요",
+    "totalStrokes": 18,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971142086-0.8770202474440583",
@@ -49936,7 +51882,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "성할",
-    "eum": "요"
+    "eum": "요",
+    "totalStrokes": 17,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142089-0.5995903942624928",
@@ -49946,7 +51894,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "두를",
-    "eum": "요"
+    "eum": "요",
+    "totalStrokes": 18,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142091-0.935882042364798",
@@ -49956,7 +51906,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "요충",
-    "eum": "요"
+    "eum": "요",
+    "totalStrokes": 18,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971142093-0.30226233393862567",
@@ -49966,7 +51918,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "맞을",
-    "eum": "요"
+    "eum": "요",
+    "totalStrokes": 17,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971142095-0.018522816843638767",
@@ -49976,7 +51930,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "밝을",
-    "eum": "요"
+    "eum": "요",
+    "totalStrokes": 14,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971142097-0.8642706370956929",
@@ -49986,7 +51942,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "화문놓을",
-    "eum": "욕"
+    "eum": "욕",
+    "totalStrokes": 16,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142100-0.7145418445896072",
@@ -49996,7 +51954,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "허수아비",
-    "eum": "용"
+    "eum": "용",
+    "totalStrokes": 9,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142102-0.8694915423296506",
@@ -50006,7 +51966,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "한산할",
-    "eum": "용"
+    "eum": "용",
+    "totalStrokes": 4,
+    "radical": "冖"
   },
   {
     "id": "sanggong-4_1-1786971142104-0.10259645535779316",
@@ -50016,7 +51978,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "권할",
-    "eum": "용"
+    "eum": "용",
+    "totalStrokes": 14,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971142106-0.2599455743885878",
@@ -50026,7 +51990,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "물",
-    "eum": "솟을"
+    "eum": "솟을",
+    "totalStrokes": 10,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142109-0.45283224207552863",
@@ -50036,7 +52002,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "종꼭지",
-    "eum": "용"
+    "eum": "용",
+    "totalStrokes": 7,
+    "radical": "用"
   },
   {
     "id": "sanggong-4_1-1786971142110-0.9271892142628978",
@@ -50046,7 +52014,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "솟을",
-    "eum": "용"
+    "eum": "용",
+    "totalStrokes": 17,
+    "radical": "耳"
   },
   {
     "id": "sanggong-4_1-1786971142112-0.8787233225390909",
@@ -50056,7 +52026,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "용렬할",
-    "eum": "용"
+    "eum": "용",
+    "totalStrokes": 12,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142114-0.9549363823006469",
@@ -50066,7 +52038,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "해뜰",
-    "eum": "우"
+    "eum": "우",
+    "totalStrokes": 7,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971142116-0.5371491448025145",
@@ -50076,7 +52050,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "얽힐",
-    "eum": "우"
+    "eum": "우",
+    "totalStrokes": 9,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142118-0.957211796659557",
@@ -50086,7 +52062,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "토란",
-    "eum": "우"
+    "eum": "우",
+    "totalStrokes": 7,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142119-0.8773458730735044",
@@ -50096,7 +52074,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "연뿌리",
-    "eum": "우"
+    "eum": "우",
+    "totalStrokes": 19,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142121-0.5246836635120217",
@@ -50106,7 +52086,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "기우제",
-    "eum": "우"
+    "eum": "우",
+    "totalStrokes": 11,
+    "radical": "雨"
   },
   {
     "id": "sanggong-4_1-1786971142124-0.4650384270442449",
@@ -50116,7 +52098,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "당길",
-    "eum": "우"
+    "eum": "우",
+    "totalStrokes": 6,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971142125-0.636753716679515",
@@ -50126,7 +52110,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "힘쓸",
-    "eum": "욱"
+    "eum": "욱",
+    "totalStrokes": 11,
+    "radical": "力"
   },
   {
     "id": "sanggong-4_1-1786971142129-0.06238923778868688",
@@ -50136,7 +52122,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "나무이름",
-    "eum": "욱"
+    "eum": "욱",
+    "totalStrokes": 10,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142132-0.4712015187142865",
@@ -50146,7 +52134,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "무성할",
-    "eum": "욱"
+    "eum": "욱",
+    "totalStrokes": 15,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971142135-0.47893942043431326",
@@ -50156,7 +52146,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "나무이름",
-    "eum": "운"
+    "eum": "운",
+    "totalStrokes": 16,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142140-0.5236107726527004",
@@ -50166,7 +52158,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "노란모양",
-    "eum": "운"
+    "eum": "운",
+    "totalStrokes": 14,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971142142-0.70641389874693",
@@ -50176,7 +52170,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "평지",
-    "eum": "운"
+    "eum": "운",
+    "totalStrokes": 16,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142144-0.6582233432520462",
@@ -50186,7 +52182,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "탄식할",
-    "eum": "우"
+    "eum": "우",
+    "totalStrokes": 7,
+    "radical": "大"
   },
   {
     "id": "sanggong-4_1-1786971142146-0.31495896585682626",
@@ -50196,7 +52194,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "재물",
-    "eum": "윤"
+    "eum": "윤",
+    "totalStrokes": 16,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971142148-0.014666436183946696",
@@ -50206,7 +52206,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "땅이름",
-    "eum": "울"
+    "eum": "울",
+    "totalStrokes": 4,
+    "radical": "乙"
   },
   {
     "id": "sanggong-4_1-1786971142153-0.5468505437570984",
@@ -50216,7 +52218,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물졸졸흐를",
-    "eum": "원"
+    "eum": "원",
+    "totalStrokes": 12,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142154-0.02597410166562064",
@@ -50226,7 +52230,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "이에",
-    "eum": "원"
+    "eum": "원",
+    "totalStrokes": 9,
+    "radical": "爪"
   },
   {
     "id": "sanggong-4_1-1786971142159-0.42947290868677435",
@@ -50236,7 +52242,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "옷이름",
-    "eum": "원"
+    "eum": "원",
+    "totalStrokes": 14,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971142161-0.936935486528273",
@@ -50246,7 +52254,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "도끼",
-    "eum": "월"
+    "eum": "월",
+    "totalStrokes": 13,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971142163-0.43034564517721374",
@@ -50256,7 +52266,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "애기풀",
-    "eum": "위"
+    "eum": "위",
+    "totalStrokes": 16,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142165-0.9870548832109363",
@@ -50266,7 +52278,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "고슴도치",
-    "eum": "위"
+    "eum": "위",
+    "totalStrokes": 15,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971142166-0.21786721295743716",
@@ -50276,7 +52290,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "휘장",
-    "eum": "위"
+    "eum": "위",
+    "totalStrokes": 14,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971142169-0.3225409509539874",
@@ -50286,7 +52302,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "야유할",
-    "eum": "유"
+    "eum": "유",
+    "totalStrokes": 12,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971142173-0.34875359948630613",
@@ -50296,7 +52314,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "졸참나무",
-    "eum": "유"
+    "eum": "유",
+    "totalStrokes": 13,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142177-0.8555398959748365",
@@ -50306,7 +52326,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "수유",
-    "eum": "유"
+    "eum": "유",
+    "totalStrokes": 12,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142178-0.44939994126773664",
@@ -50316,7 +52338,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "아첨할",
-    "eum": "유"
+    "eum": "유",
+    "totalStrokes": 15,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971142180-0.4191264823402737",
@@ -50326,7 +52350,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "넘을",
-    "eum": "유"
+    "eum": "유",
+    "totalStrokes": 13,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971142181-0.4355927071356738",
@@ -50336,7 +52362,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "옥이름",
-    "eum": "위"
+    "eum": "위",
+    "totalStrokes": 12,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971142183-0.90070401242034",
@@ -50346,7 +52374,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "햇빛",
-    "eum": "유"
+    "eum": "유",
+    "totalStrokes": 18,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971142184-0.7810193667668203",
@@ -50356,7 +52386,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "예쁠",
-    "eum": "와"
+    "eum": "와",
+    "totalStrokes": 11,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971142189-0.34476345458473046",
@@ -50366,7 +52398,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "예쁠",
-    "eum": "윤"
+    "eum": "윤",
+    "totalStrokes": 18,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971142191-0.909856613431851",
@@ -50376,7 +52410,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "빛날",
-    "eum": "윤"
+    "eum": "윤",
+    "totalStrokes": 8,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971142192-0.2901604151877387",
@@ -50386,7 +52422,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "붓",
-    "eum": "율"
+    "eum": "율",
+    "totalStrokes": 6,
+    "radical": "聿"
   },
   {
     "id": "sanggong-4_1-1786971142193-0.3392993158043943",
@@ -50396,7 +52434,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "빛날",
-    "eum": "율"
+    "eum": "율",
+    "totalStrokes": 16,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971142195-0.5759471132967728",
@@ -50406,7 +52446,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물깊고넓을",
-    "eum": "융"
+    "eum": "융",
+    "totalStrokes": 19,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142196-0.2908721640050025",
@@ -50416,7 +52458,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "은근할",
-    "eum": "은"
+    "eum": "은",
+    "totalStrokes": 14,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971142198-0.018097027040661517",
@@ -50426,7 +52470,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "물이름",
-    "eum": "은"
+    "eum": "은",
+    "totalStrokes": 13,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142199-0.3578769067706694",
@@ -50436,7 +52482,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "옥이름",
-    "eum": "은"
+    "eum": "은",
+    "totalStrokes": 10,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971142201-0.05597475982290745",
@@ -50446,7 +52494,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "물이름",
-    "eum": "은"
+    "eum": "은",
+    "totalStrokes": 17,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142203-0.9051166411884213",
@@ -50456,7 +52506,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "웃을",
-    "eum": "은"
+    "eum": "은",
+    "totalStrokes": 7,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971142205-0.7560973355685502",
@@ -50466,7 +52518,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "풀이름",
-    "eum": "은"
+    "eum": "은",
+    "totalStrokes": 20,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142207-0.6810123363627627",
@@ -50476,7 +52530,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "마룻대/도지개",
-    "eum": "은"
+    "eum": "은",
+    "totalStrokes": 18,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142210-0.8269033117514083",
@@ -50486,7 +52542,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "나무이름",
-    "eum": "은"
+    "eum": "은",
+    "totalStrokes": 18,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142212-0.6667960692614588",
@@ -50496,7 +52554,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "기뻐할",
-    "eum": "흔"
+    "eum": "흔",
+    "totalStrokes": 11,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971142214-0.21858946183338135",
@@ -50506,7 +52566,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "배댈",
-    "eum": "의"
+    "eum": "의",
+    "totalStrokes": 19,
+    "radical": "舟"
   },
   {
     "id": "sanggong-4_1-1786971142217-0.8297950438265265",
@@ -50516,7 +52578,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "율무",
-    "eum": "의"
+    "eum": "의",
+    "totalStrokes": 17,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142220-0.5997448344328404",
@@ -50526,7 +52590,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "상처",
-    "eum": "이"
+    "eum": "이",
+    "totalStrokes": 11,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971142223-0.12843768904893693",
@@ -50536,7 +52602,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "익힐",
-    "eum": "이"
+    "eum": "이",
+    "totalStrokes": 13,
+    "radical": "聿"
   },
   {
     "id": "sanggong-4_1-1786971142225-0.5786752911770251",
@@ -50546,7 +52614,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "율무",
-    "eum": "이"
+    "eum": "이",
+    "totalStrokes": 9,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142227-0.49689743478969683",
@@ -50556,7 +52626,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "흰비름",
-    "eum": "이"
+    "eum": "이",
+    "totalStrokes": 10,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142233-0.7652931404200987",
@@ -50566,7 +52638,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "엿",
-    "eum": "이"
+    "eum": "이",
+    "totalStrokes": 14,
+    "radical": "食"
   },
   {
     "id": "sanggong-4_1-1786971142235-0.9305419115867951",
@@ -50576,7 +52650,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "기쁠",
-    "eum": "희"
+    "eum": "희",
+    "totalStrokes": 12,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971142237-0.3879791864004768",
@@ -50586,7 +52662,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "나무이름",
-    "eum": "이"
+    "eum": "이",
+    "totalStrokes": 7,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142241-0.9875743918611195",
@@ -50596,7 +52674,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "빛날",
-    "eum": "이"
+    "eum": "이",
+    "totalStrokes": 15,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971142242-0.9099169333697533",
@@ -50606,7 +52686,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "묻힐",
-    "eum": "인"
+    "eum": "인",
+    "totalStrokes": 12,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142243-0.43600958387768296",
@@ -50616,7 +52698,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "기운",
-    "eum": "인"
+    "eum": "인",
+    "totalStrokes": 12,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142244-0.025076568601738125",
@@ -50626,7 +52710,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "자리/사철쑥",
-    "eum": "인"
+    "eum": "인",
+    "totalStrokes": 10,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142246-0.6268414005419388",
@@ -50636,7 +52722,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "지렁이",
-    "eum": "인"
+    "eum": "인",
+    "totalStrokes": 10,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971142247-0.6677116216100363",
@@ -50646,7 +52734,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "가슴걸이",
-    "eum": "인"
+    "eum": "인",
+    "totalStrokes": 13,
+    "radical": "革"
   },
   {
     "id": "sanggong-4_1-1786971142249-0.9656260002608197",
@@ -50656,7 +52746,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "북소리",
-    "eum": "인"
+    "eum": "인",
+    "totalStrokes": 15,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971142251-0.5508929271511147",
@@ -50666,7 +52758,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "풀이름",
-    "eum": "인"
+    "eum": "인",
+    "totalStrokes": 7,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142253-0.3940206910095111",
@@ -50676,7 +52770,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "편안",
-    "eum": "일"
+    "eum": "일",
+    "totalStrokes": 7,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142256-0.16360256086128477",
@@ -50686,7 +52782,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "2급",
     "hun": "아이밸",
-    "eum": "임"
+    "eum": "임",
+    "totalStrokes": 7,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971142259-0.7110114075396784",
@@ -50696,7 +52794,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "생각할",
-    "eum": "임"
+    "eum": "임",
+    "totalStrokes": 10,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971142263-0.0431198575181817",
@@ -50706,7 +52806,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "스물",
-    "eum": "입"
+    "eum": "입",
+    "totalStrokes": 4,
+    "radical": "一"
   },
   {
     "id": "sanggong-4_1-1786971142268-0.7124214225553821",
@@ -50716,7 +52818,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "새풀싹",
-    "eum": "잉"
+    "eum": "잉",
+    "totalStrokes": 8,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142269-0.8329459914585545",
@@ -50726,7 +52830,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "6급Ⅱ",
     "hun": "어제",
-    "eum": "작"
+    "eum": "작",
+    "totalStrokes": 9,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971142272-0.6988992475408863",
@@ -50736,7 +52842,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "5급",
     "hun": "붉을",
-    "eum": "적"
+    "eum": "적",
+    "totalStrokes": 7,
+    "radical": "赤"
   },
   {
     "id": "sanggong-4_1-1786971142307-0.8781817588029222",
@@ -50746,7 +52854,9 @@ export const hanjaMeta = [
     "korcham": "3급",
     "uhmoon": "5급Ⅱ",
     "hun": "고을",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 6,
+    "radical": "巛"
   },
   {
     "id": "sanggong-4_1-1786971142332-0.4543584764095795",
@@ -50756,7 +52866,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "4급",
     "hun": "손윗누이",
-    "eum": "자"
+    "eum": "자",
+    "totalStrokes": 8,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971142344-0.722026487969993",
@@ -50766,7 +52878,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "너그러울",
-    "eum": "작"
+    "eum": "작",
+    "totalStrokes": 14,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142351-0.23961006934609652",
@@ -50776,7 +52890,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "사다리",
-    "eum": "잔"
+    "eum": "잔",
+    "totalStrokes": 12,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142354-0.6041325475844366",
@@ -50786,7 +52902,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "산높을",
-    "eum": "잠"
+    "eum": "잠",
+    "totalStrokes": 7,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971142357-0.7170825081076383",
@@ -50796,7 +52914,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "비녀",
-    "eum": "잠"
+    "eum": "잠",
+    "totalStrokes": 18,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971142359-0.5580968427924511",
@@ -50806,7 +52926,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "의장",
-    "eum": "장"
+    "eum": "장",
+    "totalStrokes": 5,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142364-0.5730458106825914",
@@ -50816,7 +52938,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "장롱",
-    "eum": "장"
+    "eum": "장",
+    "totalStrokes": 22,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142365-0.9423047217253628",
@@ -50826,7 +52950,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "즙",
-    "eum": "장"
+    "eum": "장",
+    "totalStrokes": 15,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142367-0.8079640480560369",
@@ -50836,7 +52962,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급Ⅱ",
     "hun": "노루",
-    "eum": "장"
+    "eum": "장",
+    "totalStrokes": 14,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971142370-0.38954405315858753",
@@ -50846,7 +52974,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "장물",
-    "eum": "장"
+    "eum": "장",
+    "totalStrokes": 21,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971142371-0.7901356700632611",
@@ -50856,7 +52986,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "장",
-    "eum": "장"
+    "eum": "장",
+    "totalStrokes": 18,
+    "radical": "酉"
   },
   {
     "id": "sanggong-4_1-1786971142374-0.969985046278169",
@@ -50866,7 +52998,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "찌끼",
-    "eum": "재"
+    "eum": "재",
+    "totalStrokes": 13,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142378-0.31720332947317054",
@@ -50876,7 +53010,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "간할",
-    "eum": "쟁"
+    "eum": "쟁",
+    "totalStrokes": 15,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971142380-0.643172628134258",
@@ -50886,7 +53022,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "쌓을",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 18,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142384-0.6238297718264143",
@@ -50896,7 +53034,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "공이",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 8,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142390-0.1277315745367199",
@@ -50906,7 +53046,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "물가",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 12,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142392-0.9486418132913026",
@@ -50916,7 +53058,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "돼지",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 12,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971142395-0.7777742247370408",
@@ -50926,7 +53070,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "종기",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 10,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971142399-0.16840816980914297",
@@ -50936,7 +53082,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "모시",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 9,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142402-0.4488740707345551",
@@ -50946,7 +53094,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "감자",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 20,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142408-0.27019359025668066",
@@ -50956,7 +53106,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "오랑캐",
-    "eum": "적"
+    "eum": "적",
+    "totalStrokes": 7,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971142411-0.2057541624787187",
@@ -50966,7 +53118,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "꿩",
-    "eum": "적"
+    "eum": "적",
+    "totalStrokes": 14,
+    "radical": "羽"
   },
   {
     "id": "sanggong-4_1-1786971142414-0.27734937822834105",
@@ -50976,7 +53130,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "귀양갈",
-    "eum": "적"
+    "eum": "적",
+    "totalStrokes": 18,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971142419-0.9560220870515979",
@@ -50986,7 +53142,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "밭갈",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 7,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142425-0.13166744356783255",
@@ -50996,7 +53154,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "벽돌",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 14,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971142432-0.5346936424774363",
@@ -51006,7 +53166,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "담",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 17,
+    "radical": "毛"
   },
   {
     "id": "sanggong-4_1-1786971142434-0.9773328692671419",
@@ -51016,7 +53178,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "앙금",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 16,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142437-0.5274034691101592",
@@ -51026,7 +53190,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "달일",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 13,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971142440-0.12085502024627592",
@@ -51036,7 +53202,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "기록할",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 14,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971142442-0.3502189816573229",
@@ -51046,7 +53214,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "살",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 15,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971142443-0.8844294125419601",
@@ -51056,7 +53226,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "전자",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 15,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971142444-0.09576149438642512",
@@ -51066,7 +53238,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "얽을",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 21,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142447-0.4902922545617403",
@@ -51076,7 +53250,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "비녀",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 13,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971142449-0.28378667572920724",
@@ -51086,7 +53262,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "끊을",
-    "eum": "절"
+    "eum": "절",
+    "totalStrokes": 14,
+    "radical": "戈"
   },
   {
     "id": "sanggong-4_1-1786971142451-0.9246842682440813",
@@ -51096,7 +53274,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "강이름",
-    "eum": "절"
+    "eum": "절",
+    "totalStrokes": 10,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142454-0.03265973006287848",
@@ -51106,7 +53286,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "고개",
-    "eum": "재"
+    "eum": "재",
+    "totalStrokes": 8,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971142456-0.594821987968845",
@@ -51116,7 +53298,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "점",
-    "eum": "점"
+    "eum": "점",
+    "totalStrokes": 9,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971142475-0.45860098557878537",
@@ -51126,7 +53310,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "배꼽",
-    "eum": "제"
+    "eum": "제",
+    "totalStrokes": 18,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971142477-0.053465113303975076",
@@ -51136,7 +53322,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "갤",
-    "eum": "제"
+    "eum": "제",
+    "totalStrokes": 22,
+    "radical": "雨"
   },
   {
     "id": "sanggong-4_1-1786971142488-0.9238486980472748",
@@ -51146,7 +53334,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "배로실어나를",
-    "eum": "조"
+    "eum": "조",
+    "totalStrokes": 14,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142493-0.3277505330475051",
@@ -51156,7 +53346,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "빽빽할",
-    "eum": "조"
+    "eum": "조",
+    "totalStrokes": 13,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971142495-0.3530307750740356",
@@ -51166,7 +53358,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "거칠",
-    "eum": "조"
+    "eum": "조",
+    "totalStrokes": 11,
+    "radical": "米"
   },
   {
     "id": "sanggong-4_1-1786971142499-0.2095388454092575",
@@ -51176,7 +53370,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "마름",
-    "eum": "조"
+    "eum": "조",
+    "totalStrokes": 20,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142505-0.6506745560741619",
@@ -51186,7 +53382,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "조급할",
-    "eum": "조"
+    "eum": "조",
+    "totalStrokes": 20,
+    "radical": "足"
   },
   {
     "id": "sanggong-4_1-1786971142511-0.9277551764241184",
@@ -51196,7 +53394,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "막힐",
-    "eum": "조"
+    "eum": "조",
+    "totalStrokes": 8,
+    "radical": "阜"
   },
   {
     "id": "sanggong-4_1-1786971142513-0.8471244069783663",
@@ -51206,7 +53406,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "아로새길",
-    "eum": "조"
+    "eum": "조",
+    "totalStrokes": 16,
+    "radical": "隹"
   },
   {
     "id": "sanggong-4_1-1786971142516-0.2151341449051306",
@@ -51216,7 +53418,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "가는대",
-    "eum": "족"
+    "eum": "족",
+    "totalStrokes": 17,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971142518-0.40819388986210303",
@@ -51226,7 +53430,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "살촉",
-    "eum": "족"
+    "eum": "족",
+    "totalStrokes": 19,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971142526-0.8918201602683795",
@@ -51236,7 +53442,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "꺾을",
-    "eum": "좌"
+    "eum": "좌",
+    "totalStrokes": 10,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971142530-0.551391721283738",
@@ -51246,7 +53454,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "산가지/헤아릴",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 20,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971142532-0.9964675412013178",
@@ -51256,7 +53466,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "명주",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 11,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142533-0.9065724136988055",
@@ -51266,7 +53478,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "거미",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 12,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971142537-0.686048951315931",
@@ -51276,7 +53490,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "투구",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 9,
+    "radical": "冂"
   },
   {
     "id": "sanggong-4_1-1786971142538-0.6244699770625602",
@@ -51286,7 +53502,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "죽",
-    "eum": "죽"
+    "eum": "죽",
+    "totalStrokes": 12,
+    "radical": "米"
   },
   {
     "id": "sanggong-4_1-1786971142544-0.10766162534499235",
@@ -51296,7 +53514,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "건질",
-    "eum": "증"
+    "eum": "증",
+    "totalStrokes": 9,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971142546-0.316633204631958",
@@ -51306,7 +53526,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "시루",
-    "eum": "증"
+    "eum": "증",
+    "totalStrokes": 17,
+    "radical": "瓦"
   },
   {
     "id": "sanggong-4_1-1786971142550-0.6461772843805665",
@@ -51316,7 +53538,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "숫돌",
-    "eum": "지"
+    "eum": "지",
+    "totalStrokes": 10,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971142565-0.39732558365059345",
@@ -51326,7 +53550,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "마마",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 10,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971142572-0.8771600873752645",
@@ -51336,7 +53562,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "책권차례",
-    "eum": "질"
+    "eum": "질",
+    "totalStrokes": 8,
+    "radical": "巾"
   },
   {
     "id": "sanggong-4_1-1786971142575-0.4177955313613644",
@@ -51346,7 +53574,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "음도",
-    "eum": "질"
+    "eum": "질",
+    "totalStrokes": 15,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971142581-0.7714397083116334",
@@ -51356,7 +53586,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "부지런할",
-    "eum": "자"
+    "eum": "자",
+    "totalStrokes": 7,
+    "radical": "子"
   },
   {
     "id": "sanggong-4_1-1786971142582-0.26714872378621646",
@@ -51366,7 +53598,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "남가새",
-    "eum": "자"
+    "eum": "자",
+    "totalStrokes": 10,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142583-0.5228327534984477",
@@ -51376,7 +53610,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "사탕수수",
-    "eum": "자"
+    "eum": "자",
+    "totalStrokes": 15,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142585-0.7073866672229754",
@@ -51386,7 +53622,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "구기",
-    "eum": "작"
+    "eum": "작",
+    "totalStrokes": 3,
+    "radical": "勹"
   },
   {
     "id": "sanggong-4_1-1786971142586-0.5136026980844391",
@@ -51396,7 +53634,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "씹을",
-    "eum": "작"
+    "eum": "작",
+    "totalStrokes": 21,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971142588-0.06491817857452153",
@@ -51406,7 +53646,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "쪼갤",
-    "eum": "작"
+    "eum": "작",
+    "totalStrokes": 9,
+    "radical": "斤"
   },
   {
     "id": "sanggong-4_1-1786971142590-0.32903454074198146",
@@ -51416,7 +53658,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "잔약할",
-    "eum": "잔"
+    "eum": "잔",
+    "totalStrokes": 12,
+    "radical": "子"
   },
   {
     "id": "sanggong-4_1-1786971142592-0.29332078234223213",
@@ -51426,7 +53670,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물졸졸흐를",
-    "eum": "잔"
+    "eum": "잔",
+    "totalStrokes": 15,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142597-0.8578519544983693",
@@ -51436,7 +53682,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "돛대",
-    "eum": "장"
+    "eum": "장",
+    "totalStrokes": 17,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142599-0.19688327746829248",
@@ -51446,7 +53694,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "담",
-    "eum": "장"
+    "eum": "장",
+    "totalStrokes": 17,
+    "radical": "爿"
   },
   {
     "id": "sanggong-4_1-1786971142601-0.8246702230084983",
@@ -51456,7 +53706,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "착할",
-    "eum": "장"
+    "eum": "장",
+    "totalStrokes": 14,
+    "radical": "臣"
   },
   {
     "id": "sanggong-4_1-1786971142603-0.022208439572554806",
@@ -51466,7 +53718,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "강이름",
-    "eum": "재"
+    "eum": "재",
+    "totalStrokes": 12,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142605-0.05239878401436693",
@@ -51476,7 +53730,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "가질",
-    "eum": "재"
+    "eum": "재",
+    "totalStrokes": 21,
+    "radical": "齊"
   },
   {
     "id": "sanggong-4_1-1786971142607-0.4484307142141468",
@@ -51486,7 +53742,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "악기이름",
-    "eum": "쟁"
+    "eum": "쟁",
+    "totalStrokes": 14,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971142610-0.8075589766272907",
@@ -51496,7 +53754,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "우두커니설",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 7,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142613-0.7104862972960685",
@@ -51506,7 +53766,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "맏누이",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 8,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971142614-0.723869533310786",
@@ -51516,7 +53778,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "가죽나무",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 15,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142616-0.29672018035524683",
@@ -51526,7 +53790,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "원숭이/엿볼",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 8,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971142619-0.8594553688297146",
@@ -51536,7 +53802,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "모시",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 11,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142621-0.45440195670285877",
@@ -51546,7 +53814,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "김치",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 12,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142624-0.4278983799085846",
@@ -51556,7 +53826,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "저주할",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 12,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971142628-0.6279163031831827",
@@ -51566,7 +53838,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "이",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 11,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971142629-0.6243203072348459",
@@ -51576,7 +53850,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물수리",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 13,
+    "radical": "隹"
   },
   {
     "id": "sanggong-4_1-1786971142631-0.11110271658490944",
@@ -51586,7 +53862,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "이어긋날",
-    "eum": "저"
+    "eum": "저",
+    "totalStrokes": 20,
+    "radical": "齒"
   },
   {
     "id": "sanggong-4_1-1786971142632-0.46854173592935566",
@@ -51596,7 +53874,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "공",
-    "eum": "적"
+    "eum": "적",
+    "totalStrokes": 13,
+    "radical": "力"
   },
   {
     "id": "sanggong-4_1-1786971142633-0.9804778772009919",
@@ -51606,7 +53886,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "조상할",
-    "eum": "조"
+    "eum": "조",
+    "totalStrokes": 6,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971142634-0.35244653690353633",
@@ -51616,7 +53898,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물억새",
-    "eum": "적"
+    "eum": "적",
+    "totalStrokes": 11,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142635-0.6918447092859462",
@@ -51626,7 +53910,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "살촉",
-    "eum": "적"
+    "eum": "적",
+    "totalStrokes": 19,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971142637-0.8247918151330982",
@@ -51636,7 +53922,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "고칠",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 10,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971142639-0.04505722676161139",
@@ -51646,7 +53934,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "화전",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 9,
+    "radical": "田"
   },
   {
     "id": "sanggong-4_1-1786971142641-0.35138601127496794",
@@ -51656,7 +53946,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "미칠",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 24,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971142642-0.8039305953770804",
@@ -51666,7 +53958,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "통발",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 12,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971142643-0.652391815196825",
@@ -51676,7 +53970,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "돌아누울",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 17,
+    "radical": "車"
   },
   {
     "id": "sanggong-4_1-1786971142645-0.07707673006776539",
@@ -51686,7 +53982,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "새길",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 21,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971142646-0.8441194801708184",
@@ -51696,7 +53994,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "떨",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 22,
+    "radical": "頁"
   },
   {
     "id": "sanggong-4_1-1786971142647-0.7354101500837453",
@@ -51706,7 +54006,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "보낼",
-    "eum": "전"
+    "eum": "전",
+    "totalStrokes": 17,
+    "radical": "食"
   },
   {
     "id": "sanggong-4_1-1786971142649-0.01934687823854342",
@@ -51716,7 +54018,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "부스럼",
-    "eum": "절"
+    "eum": "절",
+    "totalStrokes": 20,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971142651-0.2174330424055697",
@@ -51726,7 +54030,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "젖을",
-    "eum": "점"
+    "eum": "점",
+    "totalStrokes": 16,
+    "radical": "雨"
   },
   {
     "id": "sanggong-4_1-1786971142652-0.14938748878921848",
@@ -51736,7 +54042,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "메기",
-    "eum": "점"
+    "eum": "점",
+    "totalStrokes": 16,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971142654-0.5278567777539027",
@@ -51746,7 +54054,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "접을",
-    "eum": "접"
+    "eum": "접",
+    "totalStrokes": 14,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971142659-0.9573049936707108",
@@ -51756,7 +54066,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "능수버들",
-    "eum": "정"
+    "eum": "정",
+    "totalStrokes": 17,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142662-0.7752090339860145",
@@ -51766,7 +54078,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물괼",
-    "eum": "정"
+    "eum": "정",
+    "totalStrokes": 12,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142664-0.6198283051069289",
@@ -51776,7 +54090,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "맑을",
-    "eum": "정"
+    "eum": "정",
+    "totalStrokes": 19,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142668-0.11351338300678249",
@@ -51786,7 +54102,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "눈동자",
-    "eum": "정"
+    "eum": "정",
+    "totalStrokes": 13,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971142671-0.30345572492457873",
@@ -51796,7 +54114,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "조정할",
-    "eum": "정"
+    "eum": "정",
+    "totalStrokes": 16,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971142676-0.7524308511500659",
@@ -51806,7 +54126,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "벼락",
-    "eum": "정"
+    "eum": "정",
+    "totalStrokes": 15,
+    "radical": "雨"
   },
   {
     "id": "sanggong-4_1-1786971142677-0.4202792526469188",
@@ -51816,7 +54138,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "아름다울",
-    "eum": "정"
+    "eum": "정",
+    "totalStrokes": 12,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971142686-0.37381600808674387",
@@ -51826,7 +54150,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "물결곧을",
-    "eum": "정"
+    "eum": "정",
+    "totalStrokes": 10,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142688-0.005361581909641311",
@@ -51836,7 +54162,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "땅이름",
-    "eum": "증"
+    "eum": "증",
+    "totalStrokes": 11,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971142691-0.028089088325829903",
@@ -51846,7 +54174,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "두려울",
-    "eum": "정"
+    "eum": "정",
+    "totalStrokes": 7,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142693-0.5919511997592991",
@@ -51856,7 +54186,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "예쁠",
-    "eum": "정"
+    "eum": "정",
+    "totalStrokes": 7,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971142696-0.9111501546498111",
@@ -51866,7 +54198,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "울",
-    "eum": "제"
+    "eum": "제",
+    "totalStrokes": 12,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971142698-0.0013856285109912214",
@@ -51876,7 +54210,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "냉이",
-    "eum": "제"
+    "eum": "제",
+    "totalStrokes": 18,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142701-0.5722427942766363",
@@ -51886,7 +54222,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "제호",
-    "eum": "제"
+    "eum": "제",
+    "totalStrokes": 16,
+    "radical": "酉"
   },
   {
     "id": "sanggong-4_1-1786971142705-0.6827057883525162",
@@ -51896,7 +54234,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "아침",
-    "eum": "조"
+    "eum": "조",
+    "totalStrokes": 10,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971142706-0.1133350290926296",
@@ -51906,7 +54246,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "면류관장식",
-    "eum": "조"
+    "eum": "조",
+    "totalStrokes": 17,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971142712-0.09621485108727179",
@@ -51916,7 +54258,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "고치켤",
-    "eum": "조"
+    "eum": "조",
+    "totalStrokes": 19,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142713-0.2292329366556468",
@@ -51926,7 +54270,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "벼룩",
-    "eum": "조"
+    "eum": "조",
+    "totalStrokes": 10,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971142714-0.6614783459085573",
@@ -51936,7 +54282,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "갑자기",
-    "eum": "졸"
+    "eum": "졸",
+    "totalStrokes": 11,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971142716-0.09766608987646674",
@@ -51946,7 +54294,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "권할",
-    "eum": "종"
+    "eum": "종",
+    "totalStrokes": 15,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971142723-0.4920685056975721",
@@ -51956,7 +54306,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "발꿈치",
-    "eum": "종"
+    "eum": "종",
+    "totalStrokes": 16,
+    "radical": "足"
   },
   {
     "id": "sanggong-4_1-1786971142725-0.5803104566723295",
@@ -51966,7 +54318,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "패옥소리",
-    "eum": "종"
+    "eum": "종",
+    "totalStrokes": 15,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971142726-0.9845517973824996",
@@ -51976,7 +54330,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "종려나무",
-    "eum": "종"
+    "eum": "종",
+    "totalStrokes": 13,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142728-0.858897292703054",
@@ -51986,7 +54342,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "나무이름",
-    "eum": "종"
+    "eum": "종",
+    "totalStrokes": 9,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142729-0.5759279376856618",
@@ -51996,7 +54354,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "난쟁이",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 8,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142730-0.7243053847860601",
@@ -52006,7 +54366,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "예쁠",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 9,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971142737-0.6280002048453833",
@@ -52016,7 +54378,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "빽빽할",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 14,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142741-0.20738687214871954",
@@ -52026,7 +54390,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "진한술",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 10,
+    "radical": "酉"
   },
   {
     "id": "sanggong-4_1-1786971142744-0.8535507094672369",
@@ -52036,7 +54402,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "드러날",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 18,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971142745-0.44351453991724565",
@@ -52046,7 +54414,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "쇠",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 13,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971142747-0.757430126393522",
@@ -52056,7 +54426,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "버틸",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 8,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971142748-0.772758181090417",
@@ -52066,7 +54438,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "흰빛",
-    "eum": "주"
+    "eum": "주",
+    "totalStrokes": 13,
+    "radical": "白"
   },
   {
     "id": "sanggong-4_1-1786971142750-0.9670501889869594",
@@ -52076,7 +54450,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "모을",
-    "eum": "준"
+    "eum": "준",
+    "totalStrokes": 16,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971142754-0.8545039782825352",
@@ -52086,7 +54462,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "술통",
-    "eum": "준"
+    "eum": "준",
+    "totalStrokes": 16,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142761-0.1511625106847755",
@@ -52096,7 +54474,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "꾸물거릴",
-    "eum": "준"
+    "eum": "준",
+    "totalStrokes": 21,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971142764-0.08634387441370084",
@@ -52106,7 +54486,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물러갈",
-    "eum": "준"
+    "eum": "준",
+    "totalStrokes": 11,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971142771-0.9795808542655778",
@@ -52116,7 +54498,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "풀이름",
-    "eum": "수"
+    "eum": "수",
+    "totalStrokes": 12,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142774-0.16220531116654224",
@@ -52126,7 +54510,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "대이름",
-    "eum": "준"
+    "eum": "준",
+    "totalStrokes": 18,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971142779-0.8754841328415481",
@@ -52136,7 +54522,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "기울",
-    "eum": "즙"
+    "eum": "즙",
+    "totalStrokes": 13,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142784-0.872026573234885",
@@ -52146,7 +54534,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "비단",
-    "eum": "증"
+    "eum": "증",
+    "totalStrokes": 18,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142790-0.21684599324680665",
@@ -52156,7 +54546,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "탱자",
-    "eum": "지"
+    "eum": "지",
+    "totalStrokes": 9,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142793-0.88137197919416",
@@ -52166,7 +54558,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "적실",
-    "eum": "지"
+    "eum": "지",
+    "totalStrokes": 14,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142796-0.2987629893931406",
@@ -52176,7 +54570,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "구릿대",
-    "eum": "지"
+    "eum": "지",
+    "totalStrokes": 8,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142798-0.839675126216258",
@@ -52186,7 +54582,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "거미",
-    "eum": "지"
+    "eum": "지",
+    "totalStrokes": 14,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971142801-0.4356690594122863",
@@ -52196,7 +54594,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "폐백",
-    "eum": "지"
+    "eum": "지",
+    "totalStrokes": 18,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971142805-0.49171850300248954",
@@ -52206,7 +54606,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "물가",
-    "eum": "지"
+    "eum": "지",
+    "totalStrokes": 9,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142807-0.15057137090948292",
@@ -52216,7 +54618,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "숫돌",
-    "eum": "지"
+    "eum": "지",
+    "totalStrokes": 8,
+    "radical": "广"
   },
   {
     "id": "sanggong-4_1-1786971142809-0.984033897757535",
@@ -52226,7 +54630,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급Ⅱ",
     "hun": "진나라",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 10,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971142812-0.6364030239808283",
@@ -52236,7 +54642,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "놀랄",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 10,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971142814-0.8993552621666538",
@@ -52246,7 +54654,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "성낼",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 13,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971142817-0.04211465181890117",
@@ -52256,7 +54666,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "꽂을",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 13,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971142819-0.5011843949210633",
@@ -52266,7 +54678,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "처마",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 11,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142821-0.01849574513106389",
@@ -52276,7 +54690,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "개암나무",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 14,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142822-0.30268297044197945",
@@ -52286,7 +54702,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "끊을/다할",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 9,
+    "radical": "歹"
   },
   {
     "id": "sanggong-4_1-1786971142823-0.907925442642261",
@@ -52296,7 +54714,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "많을",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 13,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971142825-0.5653292190551442",
@@ -52306,7 +54726,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "옥돌",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 16,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971142827-0.2312326747461091",
@@ -52316,7 +54738,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "밭두렁",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 10,
+    "radical": "田"
   },
   {
     "id": "sanggong-4_1-1786971142828-0.23769731415555406",
@@ -52326,7 +54750,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "부릅뜰",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 15,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971142830-0.10120130982975029",
@@ -52336,7 +54762,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "꽂을",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 16,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142833-0.09115579090577275",
@@ -52346,7 +54774,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "이를",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 16,
+    "radical": "至"
   },
   {
     "id": "sanggong-4_1-1786971142835-0.9493244875834745",
@@ -52356,7 +54786,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "사철쑥",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 15,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142836-0.1854037992415848",
@@ -52366,7 +54798,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "홑옷",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 10,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971142839-0.6470054955320469",
@@ -52376,7 +54810,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "당길",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 8,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971142841-0.44273710041997427",
@@ -52386,7 +54822,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "쇠",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 13,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971142842-0.9278748303119007",
@@ -52396,7 +54834,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "우거질",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142843-0.3945214711731504",
@@ -52406,7 +54846,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "밝을",
-    "eum": "진"
+    "eum": "진",
+    "totalStrokes": 9,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971142845-0.17385204414263744",
@@ -52416,7 +54858,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "어리석을",
-    "eum": "질"
+    "eum": "질",
+    "totalStrokes": 8,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142848-0.7546588821855779",
@@ -52426,7 +54870,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "차꼬",
-    "eum": "질"
+    "eum": "질",
+    "totalStrokes": 10,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142852-0.13615640618183344",
@@ -52436,7 +54882,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "거머리",
-    "eum": "질"
+    "eum": "질",
+    "totalStrokes": 12,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971142856-0.46381741650261565",
@@ -52446,7 +54894,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "갈마들",
-    "eum": "질"
+    "eum": "질",
+    "totalStrokes": 9,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971142860-0.04780332388217112",
@@ -52456,7 +54906,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "나",
-    "eum": "짐"
+    "eum": "짐",
+    "totalStrokes": 10,
+    "radical": "月"
   },
   {
     "id": "sanggong-4_1-1786971142863-0.6150585301005461",
@@ -52466,7 +54918,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "거둘",
-    "eum": "즙"
+    "eum": "즙",
+    "totalStrokes": 15,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971142864-0.6055467176738312",
@@ -52476,7 +54930,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "쇳조각",
-    "eum": "집"
+    "eum": "집",
+    "totalStrokes": 20,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971142903-0.5716839526585881",
@@ -52486,7 +54942,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "글/찌를",
-    "eum": "차"
+    "eum": "차",
+    "totalStrokes": 14,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971142905-0.023911721662313257",
@@ -52496,7 +54954,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "짤",
-    "eum": "착"
+    "eum": "착",
+    "totalStrokes": 13,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971142907-0.9863502275107817",
@@ -52506,7 +54966,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "좁을",
-    "eum": "착"
+    "eum": "착",
+    "totalStrokes": 10,
+    "radical": "穴"
   },
   {
     "id": "sanggong-4_1-1786971142909-0.8525272759745944",
@@ -52516,7 +54978,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "뚫을",
-    "eum": "착"
+    "eum": "착",
+    "totalStrokes": 28,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971142915-0.3049878369455794",
@@ -52526,7 +54990,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "도망할/내칠",
-    "eum": "찬"
+    "eum": "찬",
+    "totalStrokes": 18,
+    "radical": "穴"
   },
   {
     "id": "sanggong-4_1-1786971142922-0.901010209003775",
@@ -52536,7 +55002,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "반찬",
-    "eum": "찬"
+    "eum": "찬",
+    "totalStrokes": 21,
+    "radical": "食"
   },
   {
     "id": "sanggong-4_1-1786971142926-0.5450071260546997",
@@ -52546,7 +55014,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "주제넘을",
-    "eum": "참"
+    "eum": "참",
+    "totalStrokes": 14,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142929-0.8145789791106312",
@@ -52556,7 +55026,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "역",
-    "eum": "마을"
+    "eum": "마을",
+    "totalStrokes": 10,
+    "radical": "立"
   },
   {
     "id": "sanggong-4_1-1786971142931-0.6742680033518651",
@@ -52566,7 +55038,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "예언",
-    "eum": "참"
+    "eum": "참",
+    "totalStrokes": 24,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971142932-0.7303461762551622",
@@ -52576,7 +55050,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "광대",
-    "eum": "창"
+    "eum": "창",
+    "totalStrokes": 10,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971142933-0.7795179867631734",
@@ -52586,7 +55062,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "창녀",
-    "eum": "창"
+    "eum": "창",
+    "totalStrokes": 11,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971142938-0.3790571822033868",
@@ -52596,7 +55074,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "창",
-    "eum": "창"
+    "eum": "창",
+    "totalStrokes": 14,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142942-0.7031862821964899",
@@ -52606,7 +55086,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "부을",
-    "eum": "창"
+    "eum": "창",
+    "totalStrokes": 12,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971142946-0.2150760749404088",
@@ -52616,7 +55098,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "울타리",
-    "eum": "책"
+    "eum": "책",
+    "totalStrokes": 9,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142947-0.8115690112053993",
@@ -52626,7 +55110,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "던질",
-    "eum": "척"
+    "eum": "척",
+    "totalStrokes": 18,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971142951-0.3873152266800036",
@@ -52636,7 +55122,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "숨찰",
-    "eum": "천"
+    "eum": "천",
+    "totalStrokes": 12,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971142953-0.813942013648992",
@@ -52646,7 +55134,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "뚫을",
-    "eum": "천"
+    "eum": "천",
+    "totalStrokes": 9,
+    "radical": "穴"
   },
   {
     "id": "sanggong-4_1-1786971142955-0.8304422385664518",
@@ -52656,7 +55146,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "밝힐",
-    "eum": "천"
+    "eum": "천",
+    "totalStrokes": 20,
+    "radical": "門"
   },
   {
     "id": "sanggong-4_1-1786971142962-0.7730076020426245",
@@ -52666,7 +55158,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "이름둘",
-    "eum": "첨"
+    "eum": "첨",
+    "totalStrokes": 19,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971142964-0.6330616117417422",
@@ -52676,7 +55170,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "이를",
-    "eum": "첨"
+    "eum": "첨",
+    "totalStrokes": 13,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971142968-0.8198116673968225",
@@ -52686,7 +55182,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "거듭",
-    "eum": "첩"
+    "eum": "첩",
+    "totalStrokes": 22,
+    "radical": "田"
   },
   {
     "id": "sanggong-4_1-1786971142972-0.1164492880940956",
@@ -52696,7 +55194,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "붙일",
-    "eum": "첩"
+    "eum": "첩",
+    "totalStrokes": 12,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971142973-0.7193650548444689",
@@ -52706,7 +55206,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "순무",
-    "eum": "청"
+    "eum": "청",
+    "totalStrokes": 12,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971142976-0.13274306250413215",
@@ -52716,7 +55218,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "산초나무",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 12,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971142979-0.2622064178804401",
@@ -52726,7 +55230,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "볶을",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 8,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971142980-0.6072776287660145",
@@ -52736,7 +55242,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "화약",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 12,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971142981-0.6097287258566898",
@@ -52746,7 +55254,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "암초",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 17,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971142984-0.3758578781737336",
@@ -52756,7 +55266,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "초",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 15,
+    "radical": "酉"
   },
   {
     "id": "sanggong-4_1-1786971142986-0.08506964608471601",
@@ -52766,7 +55278,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "초례",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 19,
+    "radical": "酉"
   },
   {
     "id": "sanggong-4_1-1786971142988-0.33149232023370445",
@@ -52776,7 +55290,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": null,
     "hun": "작을",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 11,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971142997-0.07592789196419625",
@@ -52786,7 +55302,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "거느릴",
-    "eum": "총"
+    "eum": "총",
+    "totalStrokes": 14,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971142999-0.4479543217488339",
@@ -52796,7 +55314,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "모을/사진찍을",
-    "eum": "촬"
+    "eum": "촬",
+    "totalStrokes": 15,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971143003-0.7430423348652475",
@@ -52806,7 +55326,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "쇠몽치/등골",
-    "eum": "추"
+    "eum": "추",
+    "totalStrokes": 12,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143009-0.24007927713788257",
@@ -52816,7 +55338,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "꼴",
-    "eum": "추"
+    "eum": "추",
+    "totalStrokes": 10,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143013-0.48587942085400493",
@@ -52826,7 +55350,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "우두머리",
-    "eum": "추"
+    "eum": "추",
+    "totalStrokes": 9,
+    "radical": "酉"
   },
   {
     "id": "sanggong-4_1-1786971143018-0.44046404298048647",
@@ -52836,7 +55362,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "천축",
-    "eum": "축"
+    "eum": "축",
+    "totalStrokes": 8,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971143023-0.6538740004263596",
@@ -52846,7 +55374,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "삽주",
-    "eum": "출"
+    "eum": "출",
+    "totalStrokes": 5,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143033-0.7911321060414661",
@@ -52856,7 +55386,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "독수리",
-    "eum": "취"
+    "eum": "취",
+    "totalStrokes": 23,
+    "radical": "鳥"
   },
   {
     "id": "sanggong-4_1-1786971143039-0.44095004955630357",
@@ -52866,7 +55398,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "어리석을",
-    "eum": "치"
+    "eum": "치",
+    "totalStrokes": 13,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971143044-0.9365908306236826",
@@ -52876,7 +55410,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "어릴",
-    "eum": "치"
+    "eum": "치",
+    "totalStrokes": 16,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971143046-0.5786202005225162",
@@ -52886,7 +55422,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "빽빽할",
-    "eum": "치"
+    "eum": "치",
+    "totalStrokes": 16,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971143053-0.5639374161729672",
@@ -52896,7 +55434,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "침",
-    "eum": "침"
+    "eum": "침",
+    "totalStrokes": 17,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971143058-0.33138171614549683",
@@ -52906,7 +55446,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "자랑할/실의할",
-    "eum": "차"
+    "eum": "차",
+    "totalStrokes": 8,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971143061-0.5617847793512261",
@@ -52916,7 +55458,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "탄식할",
-    "eum": "차"
+    "eum": "차",
+    "totalStrokes": 13,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143063-0.734410691552436",
@@ -52926,7 +55470,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "산높고험할",
-    "eum": "차"
+    "eum": "차",
+    "totalStrokes": 13,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971143068-0.14792491032318145",
@@ -52936,7 +55482,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "비녀",
-    "eum": "채"
+    "eum": "채",
+    "totalStrokes": 11,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971143070-0.780045314891131",
@@ -52946,7 +55494,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "돌이름",
-    "eum": "차"
+    "eum": "차",
+    "totalStrokes": 12,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971143071-0.7029633902029474",
@@ -52956,7 +55506,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "너그러울",
-    "eum": "차"
+    "eum": "차",
+    "totalStrokes": 22,
+    "radical": "大"
   },
   {
     "id": "sanggong-4_1-1786971143072-0.09148721545337557",
@@ -52966,7 +55518,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "예쁠",
-    "eum": "타"
+    "eum": "타",
+    "totalStrokes": 9,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971143074-0.939974108821236",
@@ -52976,7 +55530,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "악착할",
-    "eum": "착"
+    "eum": "착",
+    "totalStrokes": 22,
+    "radical": "齒"
   },
   {
     "id": "sanggong-4_1-1786971143076-0.5068022489798059",
@@ -52986,7 +55542,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "빼앗을",
-    "eum": "찬"
+    "eum": "찬",
+    "totalStrokes": 16,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971143080-0.14144698770911912",
@@ -52996,7 +55554,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "모을",
-    "eum": "찬"
+    "eum": "찬",
+    "totalStrokes": 22,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971143081-0.8945840897707751",
@@ -53006,7 +55566,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "높이솟을",
-    "eum": "찬"
+    "eum": "찬",
+    "totalStrokes": 22,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971143083-0.8932416614219729",
@@ -53016,7 +55578,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "묶을",
-    "eum": "찰"
+    "eum": "찰",
+    "totalStrokes": 11,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971143087-0.26047757408857297",
@@ -53026,7 +55590,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "넘칠",
-    "eum": "창"
+    "eum": "창",
+    "totalStrokes": 14,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143089-0.10813066254914816",
@@ -53036,7 +55602,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "미쳐날뛸",
-    "eum": "창"
+    "eum": "창",
+    "totalStrokes": 11,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971143090-0.658240430760135",
@@ -53046,7 +55614,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "부두",
-    "eum": "창"
+    "eum": "창",
+    "totalStrokes": 16,
+    "radical": "舟"
   },
   {
     "id": "sanggong-4_1-1786971143096-0.6667126535939266",
@@ -53056,7 +55626,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "목책",
-    "eum": "채"
+    "eum": "채",
+    "totalStrokes": 14,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971143099-0.9693624945502755",
@@ -53066,7 +55638,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "목책",
-    "eum": "채"
+    "eum": "채",
+    "totalStrokes": 10,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971143101-0.9933666836985674",
@@ -53076,7 +55650,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "옥이름",
-    "eum": "창"
+    "eum": "창",
+    "totalStrokes": 12,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971143103-0.23086715011475323",
@@ -53086,7 +55662,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "나무이름",
-    "eum": "채"
+    "eum": "채",
+    "totalStrokes": 12,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143106-0.8331976011891832",
@@ -53096,7 +55674,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "예쁠",
-    "eum": "채"
+    "eum": "채",
+    "totalStrokes": 11,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971143111-0.2910313181766674",
@@ -53106,7 +55686,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "얽매이지않을",
-    "eum": "척"
+    "eum": "척",
+    "totalStrokes": 10,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971143114-0.8669687817974967",
@@ -53116,7 +55698,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "근심할",
-    "eum": "척"
+    "eum": "척",
+    "totalStrokes": 14,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143118-0.4683693501136439",
@@ -53126,7 +55710,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "밟을",
-    "eum": "척"
+    "eum": "척",
+    "totalStrokes": 18,
+    "radical": "足"
   },
   {
     "id": "sanggong-4_1-1786971143124-0.9071234772851314",
@@ -53136,7 +55722,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "멋대로할",
-    "eum": "천"
+    "eum": "천",
+    "totalStrokes": 16,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971143127-0.6154418002477412",
@@ -53146,7 +55734,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "그네",
-    "eum": "천"
+    "eum": "천",
+    "totalStrokes": 24,
+    "radical": "革"
   },
   {
     "id": "sanggong-4_1-1786971143129-0.31253578034878304",
@@ -53156,7 +55746,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "옥고리",
-    "eum": "천"
+    "eum": "천",
+    "totalStrokes": 7,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971143132-0.8326593752254657",
@@ -53166,7 +55758,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "어그러질",
-    "eum": "천"
+    "eum": "천",
+    "totalStrokes": 6,
+    "radical": "舛"
   },
   {
     "id": "sanggong-4_1-1786971143137-0.3472659428614078",
@@ -53176,7 +55770,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "꼭두서니",
-    "eum": "천"
+    "eum": "천",
+    "totalStrokes": 9,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143139-0.001693910744537952",
@@ -53186,7 +55782,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "그칠",
-    "eum": "철"
+    "eum": "철",
+    "totalStrokes": 15,
+    "radical": "車"
   },
   {
     "id": "sanggong-4_1-1786971143142-0.09301010485573946",
@@ -53196,7 +55794,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "젖을",
-    "eum": "첨"
+    "eum": "첨",
+    "totalStrokes": 8,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143145-0.0800464171286871",
@@ -53206,7 +55806,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "달",
-    "eum": "첨"
+    "eum": "첨",
+    "totalStrokes": 11,
+    "radical": "甘"
   },
   {
     "id": "sanggong-4_1-1786971143149-0.8286535551611458",
@@ -53216,7 +55818,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "성가퀴",
-    "eum": "첩"
+    "eum": "첩",
+    "totalStrokes": 12,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971143152-0.241523622322932",
@@ -53226,7 +55830,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "속눈썹",
-    "eum": "첩"
+    "eum": "첩",
+    "totalStrokes": 13,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971143153-0.20782969741225865",
@@ -53236,7 +55842,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "문득",
-    "eum": "첩"
+    "eum": "첩",
+    "totalStrokes": 14,
+    "radical": "車"
   },
   {
     "id": "sanggong-4_1-1786971143154-0.4910624573648109",
@@ -53246,7 +55854,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "청어",
-    "eum": "청"
+    "eum": "청",
+    "totalStrokes": 19,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971143156-0.8021840480393793",
@@ -53256,7 +55866,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "머리깎을",
-    "eum": "체"
+    "eum": "체",
+    "totalStrokes": 9,
+    "radical": "刀"
   },
   {
     "id": "sanggong-4_1-1786971143157-0.4287694530469687",
@@ -53266,7 +55878,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "눈물",
-    "eum": "체"
+    "eum": "체",
+    "totalStrokes": 10,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143159-0.3170101576251413",
@@ -53276,7 +55890,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "끊을/노략질할",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 13,
+    "radical": "刀"
   },
   {
     "id": "sanggong-4_1-1786971143160-0.4693142495828134",
@@ -53286,7 +55902,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "파리할",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 15,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143161-0.04529978456362249",
@@ -53296,7 +55914,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "나무끝",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 11,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143162-0.21453479181178348",
@@ -53306,7 +55926,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "점점",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 12,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971143164-0.40883270923649784",
@@ -53316,7 +55938,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "풀",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 6,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143165-0.06356219110456263",
@@ -53326,7 +55950,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "완두",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 9,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143167-0.5143228747297974",
@@ -53336,7 +55962,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "담비",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 12,
+    "radical": "豸"
   },
   {
     "id": "sanggong-4_1-1786971143168-0.9460981347874656",
@@ -53346,7 +55974,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "초",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 12,
+    "radical": "酉"
   },
   {
     "id": "sanggong-4_1-1786971143169-0.06366686608377148",
@@ -53356,7 +55986,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "산높을",
-    "eum": "초"
+    "eum": "초",
+    "totalStrokes": 8,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971143170-0.22083101932199545",
@@ -53366,7 +55998,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "우뚝솟을",
-    "eum": "촉"
+    "eum": "촉",
+    "totalStrokes": 24,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971143172-0.21387137380278276",
@@ -53376,7 +56010,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "헤아릴",
-    "eum": "촌"
+    "eum": "촌",
+    "totalStrokes": 6,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143173-0.8805370252284738",
@@ -53386,7 +56022,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "마을",
-    "eum": "촌"
+    "eum": "촌",
+    "totalStrokes": 7,
+    "radical": "邑"
   },
   {
     "id": "sanggong-4_1-1786971143175-0.9222392121976986",
@@ -53396,7 +56034,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "바쁠",
-    "eum": "총"
+    "eum": "총",
+    "totalStrokes": 11,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143177-0.40779714523594557",
@@ -53406,7 +56046,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "실심할",
-    "eum": "총"
+    "eum": "총",
+    "totalStrokes": 14,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143179-0.5526425880580387",
@@ -53416,7 +56058,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "파",
-    "eum": "총"
+    "eum": "총",
+    "totalStrokes": 15,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143180-0.04032038864992882",
@@ -53426,7 +56070,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "거느릴",
-    "eum": "총"
+    "eum": "총",
+    "totalStrokes": 14,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971143182-0.7269865559357678",
@@ -53436,7 +56082,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "늪",
-    "eum": "추"
+    "eum": "추",
+    "totalStrokes": 12,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143183-0.8322401518313242",
@@ -53446,7 +56094,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "주름질",
-    "eum": "추"
+    "eum": "추",
+    "totalStrokes": 15,
+    "radical": "皮"
   },
   {
     "id": "sanggong-4_1-1786971143185-0.5922536815262659",
@@ -53456,7 +56106,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "다북쑥",
-    "eum": "추"
+    "eum": "추",
+    "totalStrokes": 13,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143186-0.5765529652281313",
@@ -53466,7 +56118,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "가릴",
-    "eum": "추"
+    "eum": "추",
+    "totalStrokes": 15,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971143187-0.5478317179870899",
@@ -53476,7 +56130,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "쇠망치",
-    "eum": "추"
+    "eum": "추",
+    "totalStrokes": 18,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971143189-0.5557996714172075",
@@ -53486,7 +56142,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "새새끼",
-    "eum": "추"
+    "eum": "추",
+    "totalStrokes": 18,
+    "radical": "隹"
   },
   {
     "id": "sanggong-4_1-1786971143190-0.2717823124946196",
@@ -53496,7 +56154,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "마부",
-    "eum": "추"
+    "eum": "추",
+    "totalStrokes": 20,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971143191-0.46773275565343764",
@@ -53506,7 +56166,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "미꾸라지",
-    "eum": "추"
+    "eum": "추",
+    "totalStrokes": 20,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971143193-0.9246157252297795",
@@ -53516,7 +56178,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "악기이름",
-    "eum": "축"
+    "eum": "축",
+    "totalStrokes": 12,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971143194-0.9819094391149272",
@@ -53526,7 +56190,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "찡그릴/움츠릴",
-    "eum": "축"
+    "eum": "축",
+    "totalStrokes": 18,
+    "radical": "足"
   },
   {
     "id": "sanggong-4_1-1786971143198-0.17064884130804214",
@@ -53536,7 +56202,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "파리할",
-    "eum": "췌"
+    "eum": "췌",
+    "totalStrokes": 11,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143199-0.04609058575659819",
@@ -53546,7 +56214,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "췌장",
-    "eum": "췌"
+    "eum": "췌",
+    "totalStrokes": 16,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971143202-0.8081574358516557",
@@ -53556,7 +56226,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "혹",
-    "eum": "췌"
+    "eum": "췌",
+    "totalStrokes": 18,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971143204-0.5641665855703933",
@@ -53566,7 +56238,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "부리",
-    "eum": "취"
+    "eum": "취",
+    "totalStrokes": 15,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143207-0.4069707648037342",
@@ -53576,7 +56250,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "빠를",
-    "eum": "취"
+    "eum": "취",
+    "totalStrokes": 24,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971143209-0.8157466839015702",
@@ -53586,7 +56262,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "뒷간",
-    "eum": "측"
+    "eum": "측",
+    "totalStrokes": 11,
+    "radical": "厂"
   },
   {
     "id": "sanggong-4_1-1786971143211-0.23457056515229258",
@@ -53596,7 +56274,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "비웃을",
-    "eum": "치"
+    "eum": "치",
+    "totalStrokes": 13,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143212-0.966384662192674",
@@ -53606,7 +56286,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "기",
-    "eum": "치"
+    "eum": "치",
+    "totalStrokes": 15,
+    "radical": "巾"
   },
   {
     "id": "sanggong-4_1-1786971143213-0.5255670910189009",
@@ -53616,7 +56298,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "치자나무",
-    "eum": "치"
+    "eum": "치",
+    "totalStrokes": 11,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143215-0.5149000819058757",
@@ -53626,7 +56310,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "강이름",
-    "eum": "치"
+    "eum": "치",
+    "totalStrokes": 11,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143217-0.672655899733873",
@@ -53636,7 +56322,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "치질",
-    "eum": "치"
+    "eum": "치",
+    "totalStrokes": 11,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971143219-0.3263332231032733",
@@ -53646,7 +56334,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "검을",
-    "eum": "치"
+    "eum": "치",
+    "totalStrokes": 14,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971143221-0.23241600616596192",
@@ -53656,7 +56346,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "어리석을",
-    "eum": "치"
+    "eum": "치",
+    "totalStrokes": 10,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971143223-0.6831398932690329",
@@ -53666,7 +56358,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "짐수레",
-    "eum": "치"
+    "eum": "치",
+    "totalStrokes": 15,
+    "radical": "車"
   },
   {
     "id": "sanggong-4_1-1786971143226-0.33736428793070694",
@@ -53676,7 +56370,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "신칙할",
-    "eum": "칙"
+    "eum": "칙",
+    "totalStrokes": 13,
+    "radical": "食"
   },
   {
     "id": "sanggong-4_1-1786971143228-0.04672538642180968",
@@ -53686,7 +56382,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "옻",
-    "eum": "칠"
+    "eum": "칠",
+    "totalStrokes": 9,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143232-0.738230690984334",
@@ -53696,7 +56394,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "다듬잇돌",
-    "eum": "침"
+    "eum": "침",
+    "totalStrokes": 10,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971143255-0.1640519643943512",
@@ -53706,7 +56406,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "키",
-    "eum": "타"
+    "eum": "타",
+    "totalStrokes": 11,
+    "radical": "舟"
   },
   {
     "id": "sanggong-4_1-1786971143256-0.7380704985577407",
@@ -53716,7 +56418,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "비탈질/부처",
-    "eum": "타"
+    "eum": "타",
+    "totalStrokes": 8,
+    "radical": "阜"
   },
   {
     "id": "sanggong-4_1-1786971143257-0.06117703256147633",
@@ -53726,7 +56430,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "낙타",
-    "eum": "타"
+    "eum": "타",
+    "totalStrokes": 15,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971143269-0.01529677989555478",
@@ -53736,7 +56442,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "볼기칠",
-    "eum": "태"
+    "eum": "태",
+    "totalStrokes": 11,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971143274-0.43197183443137843",
@@ -53746,7 +56454,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "버틸",
-    "eum": "탱"
+    "eum": "탱",
+    "totalStrokes": 15,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971143282-0.0006076606663174555",
@@ -53756,7 +56466,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "넓적다리",
-    "eum": "퇴"
+    "eum": "퇴",
+    "totalStrokes": 14,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971143285-0.1769535858157223",
@@ -53766,7 +56478,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "무너질",
-    "eum": "퇴"
+    "eum": "퇴",
+    "totalStrokes": 16,
+    "radical": "頁"
   },
   {
     "id": "sanggong-4_1-1786971143292-0.4216209978408928",
@@ -53776,7 +56490,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "끌",
-    "eum": "타"
+    "eum": "타",
+    "totalStrokes": 8,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971143295-0.6335083118432616",
@@ -53786,7 +56502,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "꽃송이",
-    "eum": "타"
+    "eum": "타",
+    "totalStrokes": 6,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143297-0.3479581553573231",
@@ -53796,7 +56514,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "길고둥글",
-    "eum": "타"
+    "eum": "타",
+    "totalStrokes": 13,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143299-0.9613279165491482",
@@ -53806,7 +56526,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "짐실을",
-    "eum": "타"
+    "eum": "타",
+    "totalStrokes": 13,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971143304-0.03537459951672728",
@@ -53816,7 +56538,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "쫄",
-    "eum": "탁"
+    "eum": "탁",
+    "totalStrokes": 11,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143305-0.7685301581691608",
@@ -53826,7 +56550,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "터질",
-    "eum": "탁"
+    "eum": "탁",
+    "totalStrokes": 8,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971143307-0.6028280667428411",
@@ -53836,7 +56562,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "쪼갤/딱따기",
-    "eum": "탁"
+    "eum": "탁",
+    "totalStrokes": 9,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143309-0.4424777252907278",
@@ -53846,7 +56574,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "터질",
-    "eum": "탄"
+    "eum": "탄",
+    "totalStrokes": 14,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971143313-0.3556002006446307",
@@ -53856,7 +56586,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "긴걸상",
-    "eum": "탑"
+    "eum": "탑",
+    "totalStrokes": 14,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143314-0.8009722117607492",
@@ -53866,7 +56598,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "호탕할",
-    "eum": "탕"
+    "eum": "탕",
+    "totalStrokes": 8,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971143316-0.4876395365311359",
@@ -53876,7 +56610,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "국고/재물",
-    "eum": "탕"
+    "eum": "탕",
+    "totalStrokes": 8,
+    "radical": "巾"
   },
   {
     "id": "sanggong-4_1-1786971143320-0.05137213924822648",
@@ -53886,7 +56622,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "펼",
-    "eum": "터"
+    "eum": "터",
+    "totalStrokes": 18,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971143321-0.9570353650255282",
@@ -53896,7 +56634,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "서러워할",
-    "eum": "통"
+    "eum": "통",
+    "totalStrokes": 14,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143323-0.13873253559991316",
@@ -53906,7 +56646,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "칠",
-    "eum": "추"
+    "eum": "추",
+    "totalStrokes": 14,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143324-0.10099945186958625",
@@ -53916,7 +56658,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "바랠",
-    "eum": "퇴"
+    "eum": "퇴",
+    "totalStrokes": 15,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971143325-0.6095834552931215",
@@ -53926,7 +56670,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "훔칠",
-    "eum": "투"
+    "eum": "투",
+    "totalStrokes": 11,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971143326-0.7544113718757371",
@@ -53936,7 +56682,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "사특할",
-    "eum": "특"
+    "eum": "특",
+    "totalStrokes": 15,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143328-0.2501503364861104",
@@ -53946,7 +56694,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "엿볼",
-    "eum": "틈"
+    "eum": "틈",
+    "totalStrokes": 18,
+    "radical": "門"
   },
   {
     "id": "sanggong-4_1-1786971143361-0.13614042287117512",
@@ -53956,7 +56706,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "꽃잎/날름",
-    "eum": "판"
+    "eum": "판",
+    "totalStrokes": 19,
+    "radical": "瓜"
   },
   {
     "id": "sanggong-4_1-1786971143364-0.438944348391219",
@@ -53966,7 +56718,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "힘들일",
-    "eum": "판"
+    "eum": "판",
+    "totalStrokes": 16,
+    "radical": "辛"
   },
   {
     "id": "sanggong-4_1-1786971143368-0.9960480539477415",
@@ -53976,7 +56730,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "염불소리",
-    "eum": "패"
+    "eum": "패",
+    "totalStrokes": 10,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143371-0.2815404863520684",
@@ -53986,7 +56742,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "거스를",
-    "eum": "패"
+    "eum": "패",
+    "totalStrokes": 10,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143375-0.6125621992372593",
@@ -53996,7 +56754,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "피",
-    "eum": "패"
+    "eum": "패",
+    "totalStrokes": 13,
+    "radical": "禾"
   },
   {
     "id": "sanggong-4_1-1786971143379-0.868567233253881",
@@ -54006,7 +56766,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "불을",
-    "eum": "팽"
+    "eum": "팽",
+    "totalStrokes": 16,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971143381-0.36239148597653814",
@@ -54016,7 +56778,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "낮출",
-    "eum": "폄"
+    "eum": "폄",
+    "totalStrokes": 12,
+    "radical": "貝"
   },
   {
     "id": "sanggong-4_1-1786971143384-0.31781421032036994",
@@ -54026,7 +56790,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "채마밭",
-    "eum": "포"
+    "eum": "포",
+    "totalStrokes": 10,
+    "radical": "囗"
   },
   {
     "id": "sanggong-4_1-1786971143387-0.42285053508770076",
@@ -54036,7 +56802,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "물집",
-    "eum": "포"
+    "eum": "포",
+    "totalStrokes": 10,
+    "radical": "疒"
   },
   {
     "id": "sanggong-4_1-1786971143388-0.36959450132788896",
@@ -54046,7 +56814,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "포",
-    "eum": "포"
+    "eum": "포",
+    "totalStrokes": 11,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971143389-0.48908952604450817",
@@ -54056,7 +56826,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "떨기",
-    "eum": "포"
+    "eum": "포",
+    "totalStrokes": 9,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143391-0.4347852826599665",
@@ -54066,7 +56838,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "부들",
-    "eum": "포"
+    "eum": "포",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143393-0.5323885205152271",
@@ -54076,7 +56850,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "도포",
-    "eum": "포"
+    "eum": "포",
+    "totalStrokes": 10,
+    "radical": "衣"
   },
   {
     "id": "sanggong-4_1-1786971143397-0.022786365272024378",
@@ -54086,7 +56862,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "도망갈",
-    "eum": "포"
+    "eum": "포",
+    "totalStrokes": 11,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971143403-0.6797139810481985",
@@ -54096,7 +56874,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "쪼일",
-    "eum": "폭"
+    "eum": "폭",
+    "totalStrokes": 19,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971143406-0.9936334293060505",
@@ -54106,7 +56886,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "표주박",
-    "eum": "표"
+    "eum": "표",
+    "totalStrokes": 16,
+    "radical": "瓜"
   },
   {
     "id": "sanggong-4_1-1786971143415-0.8061979553852705",
@@ -54116,7 +56898,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "벌릴/열",
-    "eum": "파"
+    "eum": "파",
+    "totalStrokes": 18,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971143418-0.9611438243621407",
@@ -54126,7 +56910,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "긁을",
-    "eum": "파"
+    "eum": "파",
+    "totalStrokes": 8,
+    "radical": "爪"
   },
   {
     "id": "sanggong-4_1-1786971143419-0.5153267064653718",
@@ -54136,7 +56922,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "절름발이",
-    "eum": "파"
+    "eum": "파",
+    "totalStrokes": 12,
+    "radical": "足"
   },
   {
     "id": "sanggong-4_1-1786971143420-0.7732809409871015",
@@ -54146,7 +56934,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "금박",
-    "eum": "판"
+    "eum": "판",
+    "totalStrokes": 12,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971143421-0.07350103034897515",
@@ -54156,7 +56946,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "나팔",
-    "eum": "팔"
+    "eum": "팔",
+    "totalStrokes": 5,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143423-0.02185461797742483",
@@ -54166,7 +56958,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "깨뜨릴",
-    "eum": "팔"
+    "eum": "팔",
+    "totalStrokes": 10,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971143426-0.49671774002554847",
@@ -54176,7 +56970,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "이리",
-    "eum": "패"
+    "eum": "패",
+    "totalStrokes": 10,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971143430-0.6599571491868345",
@@ -54186,7 +56982,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "강퍅할",
-    "eum": "퍅"
+    "eum": "퍅",
+    "totalStrokes": 12,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143433-0.16878497457765662",
@@ -54196,7 +56994,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "빨리날",
-    "eum": "편"
+    "eum": "편",
+    "totalStrokes": 15,
+    "radical": "羽"
   },
   {
     "id": "sanggong-4_1-1786971143435-0.4002708074402398",
@@ -54206,7 +57006,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "속일",
-    "eum": "편"
+    "eum": "편",
+    "totalStrokes": 19,
+    "radical": "馬"
   },
   {
     "id": "sanggong-4_1-1786971143440-0.49173655392778615",
@@ -54216,7 +57018,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "부평초",
-    "eum": "평"
+    "eum": "평",
+    "totalStrokes": 12,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143443-0.27662162356675957",
@@ -54226,7 +57030,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "물소리",
-    "eum": "평"
+    "eum": "평",
+    "totalStrokes": 8,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143446-0.17880202409147816",
@@ -54236,7 +57042,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "짖을",
-    "eum": "폐"
+    "eum": "폐",
+    "totalStrokes": 7,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143449-0.4211972955508193",
@@ -54246,7 +57054,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "사랑할",
-    "eum": "폐"
+    "eum": "폐",
+    "totalStrokes": 16,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971143452-0.2267149072716973",
@@ -54256,7 +57066,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "죽을",
-    "eum": "폐"
+    "eum": "폐",
+    "totalStrokes": 18,
+    "radical": "攴"
   },
   {
     "id": "sanggong-4_1-1786971143456-0.719516624653805",
@@ -54266,7 +57078,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "펼",
-    "eum": "포"
+    "eum": "포",
+    "totalStrokes": 7,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971143459-0.31767366240194217",
@@ -54276,7 +57090,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "길",
-    "eum": "포"
+    "eum": "포",
+    "totalStrokes": 9,
+    "radical": "勹"
   },
   {
     "id": "sanggong-4_1-1786971143461-0.49474544440253954",
@@ -54286,7 +57102,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "박",
-    "eum": "포"
+    "eum": "포",
+    "totalStrokes": 11,
+    "radical": "勹"
   },
   {
     "id": "sanggong-4_1-1786971143462-0.11739721241068712",
@@ -54296,7 +57114,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "고함지를",
-    "eum": "포"
+    "eum": "포",
+    "totalStrokes": 8,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143464-0.6726797579877976",
@@ -54306,7 +57126,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "나누어줄",
-    "eum": "표"
+    "eum": "표",
+    "totalStrokes": 10,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971143465-0.39342759109957637",
@@ -54316,7 +57138,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "겁박할",
-    "eum": "표"
+    "eum": "표",
+    "totalStrokes": 13,
+    "radical": "刀"
   },
   {
     "id": "sanggong-4_1-1786971143468-0.13027559679687595",
@@ -54326,7 +57150,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "급할",
-    "eum": "표"
+    "eum": "표",
+    "totalStrokes": 14,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143470-0.5432833204880091",
@@ -54336,7 +57162,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "폭풍",
-    "eum": "표"
+    "eum": "표",
+    "totalStrokes": 21,
+    "radical": "風"
   },
   {
     "id": "sanggong-4_1-1786971143476-0.7536021967560459",
@@ -54346,7 +57174,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "방죽",
-    "eum": "피"
+    "eum": "피",
+    "totalStrokes": 8,
+    "radical": "阜"
   },
   {
     "id": "sanggong-4_1-1786971143480-0.6937786028949303",
@@ -54356,7 +57186,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "필",
-    "eum": "필"
+    "eum": "필",
+    "totalStrokes": 5,
+    "radical": "疋"
   },
   {
     "id": "sanggong-4_1-1786971143498-0.5322301196636858",
@@ -54366,7 +57198,9 @@ export const hanjaMeta = [
     "korcham": "4급",
     "uhmoon": "5급",
     "hun": "검을",
-    "eum": "흑"
+    "eum": "흑",
+    "totalStrokes": 12,
+    "radical": "黑"
   },
   {
     "id": "sanggong-4_1-1786971143562-0.5702229329062851",
@@ -54376,7 +57210,9 @@ export const hanjaMeta = [
     "korcham": "3급",
     "uhmoon": "특급Ⅱ",
     "hun": "놀이",
-    "eum": "희"
+    "eum": "희",
+    "totalStrokes": 16,
+    "radical": "戈"
   },
   {
     "id": "sanggong-4_1-1786971143584-0.34581032453036553",
@@ -54386,7 +57222,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "재갈",
-    "eum": "함"
+    "eum": "함",
+    "totalStrokes": 14,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971143589-0.6729442352576718",
@@ -54396,7 +57234,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "마실",
-    "eum": "합"
+    "eum": "합",
+    "totalStrokes": 9,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143591-0.21779140969786337",
@@ -54406,7 +57246,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "합",
-    "eum": "합"
+    "eum": "합",
+    "totalStrokes": 11,
+    "radical": "皿"
   },
   {
     "id": "sanggong-4_1-1786971143594-0.3737700898929506",
@@ -54416,7 +57258,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "조개",
-    "eum": "합"
+    "eum": "합",
+    "totalStrokes": 12,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971143596-0.691037159663577",
@@ -54426,7 +57270,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "합문",
-    "eum": "합"
+    "eum": "합",
+    "totalStrokes": 14,
+    "radical": "門"
   },
   {
     "id": "sanggong-4_1-1786971143601-0.6431148405753301",
@@ -54436,7 +57282,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "거룻배",
-    "eum": "항"
+    "eum": "항",
+    "totalStrokes": 8,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143603-0.6416629180328947",
@@ -54446,7 +57294,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "항문",
-    "eum": "항"
+    "eum": "항",
+    "totalStrokes": 7,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971143604-0.6235065010718484",
@@ -54456,7 +57306,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "기침",
-    "eum": "해"
+    "eum": "해",
+    "totalStrokes": 9,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143606-0.936977127581004",
@@ -54466,7 +57318,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "게",
-    "eum": "해"
+    "eum": "해",
+    "totalStrokes": 19,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971143609-0.2655374052590027",
@@ -54476,7 +57330,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "꾸짖을",
-    "eum": "핵"
+    "eum": "핵",
+    "totalStrokes": 8,
+    "radical": "力"
   },
   {
     "id": "sanggong-4_1-1786971143612-0.55120410082618",
@@ -54486,7 +57342,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "먹일/양식",
-    "eum": "향"
+    "eum": "향",
+    "totalStrokes": 15,
+    "radical": "食"
   },
   {
     "id": "sanggong-4_1-1786971143617-0.4524306939927957",
@@ -54496,7 +57354,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "쉴",
-    "eum": "헐"
+    "eum": "헐",
+    "totalStrokes": 13,
+    "radical": "欠"
   },
   {
     "id": "sanggong-4_1-1786971143621-0.9300859052812767",
@@ -54506,7 +57366,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급",
     "hun": "붉을",
-    "eum": "혁"
+    "eum": "혁",
+    "totalStrokes": 11,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971143623-0.13026484687205897",
@@ -54516,7 +57378,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "엿볼",
-    "eum": "현"
+    "eum": "현",
+    "totalStrokes": 9,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971143628-0.2629757579726679",
@@ -54526,7 +57390,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "뱃전",
-    "eum": "현"
+    "eum": "현",
+    "totalStrokes": 11,
+    "radical": "舟"
   },
   {
     "id": "sanggong-4_1-1786971143631-0.7993430712574974",
@@ -54536,7 +57402,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "머리",
-    "eum": "혈"
+    "eum": "혈",
+    "totalStrokes": 9,
+    "radical": "頁"
   },
   {
     "id": "sanggong-4_1-1786971143635-0.6863703878014021",
@@ -54546,7 +57414,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "낄",
-    "eum": "협"
+    "eum": "협",
+    "totalStrokes": 7,
+    "radical": "大"
   },
   {
     "id": "sanggong-4_1-1786971143638-0.7965069603880574",
@@ -54556,7 +57426,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "갈비",
-    "eum": "협"
+    "eum": "협",
+    "totalStrokes": 10,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971143639-0.709081866698914",
@@ -54566,7 +57438,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "콩꼬투리",
-    "eum": "협"
+    "eum": "협",
+    "totalStrokes": 11,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143641-0.9369328700620997",
@@ -54576,7 +57450,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "사람이름",
-    "eum": "형"
+    "eum": "형",
+    "totalStrokes": 21,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143647-0.3619692358017772",
@@ -54586,7 +57462,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "신",
-    "eum": "혜"
+    "eum": "혜",
+    "totalStrokes": 15,
+    "radical": "革"
   },
   {
     "id": "sanggong-4_1-1786971143660-0.15609926941141095",
@@ -54596,7 +57474,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "아름다운옥",
-    "eum": "혼"
+    "eum": "혼",
+    "totalStrokes": 13,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971143662-0.6939896098145587",
@@ -54606,7 +57486,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "홀",
-    "eum": "홀"
+    "eum": "홀",
+    "totalStrokes": 10,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971143668-0.18606015760220485",
@@ -54616,7 +57498,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "그림",
-    "eum": "화"
+    "eum": "화",
+    "totalStrokes": 13,
+    "radical": "田"
   },
   {
     "id": "sanggong-4_1-1786971143673-0.5197028047471112",
@@ -54626,7 +57510,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "벼슬",
-    "eum": "환"
+    "eum": "환",
+    "totalStrokes": 9,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971143683-0.8871654615351092",
@@ -54636,7 +57522,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "어리둥절할",
-    "eum": "황"
+    "eum": "황",
+    "totalStrokes": 13,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143687-0.6708845857817497",
@@ -54646,7 +57534,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "해자",
-    "eum": "황"
+    "eum": "황",
+    "totalStrokes": 12,
+    "radical": "阜"
   },
   {
     "id": "sanggong-4_1-1786971143694-0.6340004107617904",
@@ -54656,7 +57546,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "회",
-    "eum": "회"
+    "eum": "회",
+    "totalStrokes": 17,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971143697-0.3813194522752802",
@@ -54666,7 +57558,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "올빼미",
-    "eum": "효"
+    "eum": "효",
+    "totalStrokes": 11,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143698-0.20919274835291257",
@@ -54676,7 +57570,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "사귈/가로그을",
-    "eum": "효"
+    "eum": "효",
+    "totalStrokes": 4,
+    "radical": "爻"
   },
   {
     "id": "sanggong-4_1-1786971143699-0.027374544678761548",
@@ -54686,7 +57582,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "삭힐",
-    "eum": "효"
+    "eum": "효",
+    "totalStrokes": 14,
+    "radical": "酉"
   },
   {
     "id": "sanggong-4_1-1786971143702-0.6778668905737191",
@@ -54696,7 +57594,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "맡을",
-    "eum": "후"
+    "eum": "후",
+    "totalStrokes": 13,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143703-0.6964252110375552",
@@ -54706,7 +57606,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "썩을",
-    "eum": "후"
+    "eum": "후",
+    "totalStrokes": 6,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143704-0.12527313820040387",
@@ -54716,7 +57618,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "무리",
-    "eum": "훈"
+    "eum": "훈",
+    "totalStrokes": 13,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971143706-0.17628654812936928",
@@ -54726,7 +57630,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
     "hun": "공",
-    "eum": "훈"
+    "eum": "훈",
+    "totalStrokes": 12,
+    "radical": "力"
   },
   {
     "id": "sanggong-4_1-1786971143714-0.043793561881014464",
@@ -54736,7 +57642,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "풀",
-    "eum": "훼"
+    "eum": "훼",
+    "totalStrokes": 5,
+    "radical": "十"
   },
   {
     "id": "sanggong-4_1-1786971143722-0.2817146098413065",
@@ -54746,7 +57654,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "숨길/꺼릴",
-    "eum": "휘"
+    "eum": "휘",
+    "totalStrokes": 16,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971143725-0.6242909268364295",
@@ -54756,7 +57666,9 @@ export const hanjaMeta = [
     "korcham": "2급",
     "uhmoon": "1급",
     "hun": "불쌍할",
-    "eum": "휼"
+    "eum": "휼",
+    "totalStrokes": 9,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143742-0.38186928166704903",
@@ -54766,7 +57678,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "큰집",
-    "eum": "하"
+    "eum": "하",
+    "totalStrokes": 12,
+    "radical": "厂"
   },
   {
     "id": "sanggong-4_1-1786971143744-0.9672551199580527",
@@ -54776,7 +57690,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "여름",
-    "eum": "하"
+    "eum": "하",
+    "totalStrokes": 9,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971143746-0.705029980338993",
@@ -54786,7 +57702,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "새우",
-    "eum": "하"
+    "eum": "하",
+    "totalStrokes": 20,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971143748-0.6030409156848167",
@@ -54796,7 +57714,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "입벌릴",
-    "eum": "하"
+    "eum": "하",
+    "totalStrokes": 7,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143749-0.5468464670158083",
@@ -54806,7 +57726,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "클",
-    "eum": "하"
+    "eum": "하",
+    "totalStrokes": 14,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143750-0.4482930169281105",
@@ -54816,7 +57738,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "숫돌",
-    "eum": "하"
+    "eum": "하",
+    "totalStrokes": 14,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971143753-0.4703819161949955",
@@ -54826,7 +57750,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "엄숙할",
-    "eum": "학"
+    "eum": "학",
+    "totalStrokes": 13,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143754-0.7852818684797926",
@@ -54836,7 +57762,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "사나울",
-    "eum": "한"
+    "eum": "한",
+    "totalStrokes": 10,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143757-0.3300927755815749",
@@ -54846,7 +57774,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "넓고클",
-    "eum": "한"
+    "eum": "한",
+    "totalStrokes": 19,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143758-0.31801257137298233",
@@ -54856,7 +57786,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "드물",
-    "eum": "한"
+    "eum": "한",
+    "totalStrokes": 7,
+    "radical": "网"
   },
   {
     "id": "sanggong-4_1-1786971143759-0.1923460014298033",
@@ -54866,7 +57798,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "물이름",
-    "eum": "한"
+    "eum": "한",
+    "totalStrokes": 15,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143761-0.784321148235268",
@@ -54876,7 +57810,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "재갈",
-    "eum": "함"
+    "eum": "함",
+    "totalStrokes": 11,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143762-0.39222676940760537",
@@ -54886,7 +57822,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "소리칠",
-    "eum": "함"
+    "eum": "함",
+    "totalStrokes": 12,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143763-0.45773015615878565",
@@ -54896,7 +57834,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "난간",
-    "eum": "함"
+    "eum": "함",
+    "totalStrokes": 18,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143765-0.5102916452583846",
@@ -54906,7 +57846,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "문짝",
-    "eum": "합"
+    "eum": "합",
+    "totalStrokes": 18,
+    "radical": "門"
   },
   {
     "id": "sanggong-4_1-1786971143767-0.9351271506960845",
@@ -54916,7 +57858,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "강직할/짝",
-    "eum": "항"
+    "eum": "항",
+    "totalStrokes": 6,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971143769-0.6076618387770063",
@@ -54926,7 +57870,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "항아",
-    "eum": "항"
+    "eum": "항",
+    "totalStrokes": 14,
+    "radical": "女"
   },
   {
     "id": "sanggong-4_1-1786971143772-0.3365450067434337",
@@ -54936,7 +57882,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "차꼬",
-    "eum": "항"
+    "eum": "항",
+    "totalStrokes": 10,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143775-0.6009413397392063",
@@ -54946,7 +57894,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "항아리",
-    "eum": "항"
+    "eum": "항",
+    "totalStrokes": 9,
+    "radical": "缶"
   },
   {
     "id": "sanggong-4_1-1786971143777-0.5806875654217089",
@@ -54956,7 +57906,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "땅가장자리",
-    "eum": "해"
+    "eum": "해",
+    "totalStrokes": 9,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971143778-0.006598120906052385",
@@ -54966,7 +57918,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "어린아이",
-    "eum": "해"
+    "eum": "해",
+    "totalStrokes": 9,
+    "radical": "子"
   },
   {
     "id": "sanggong-4_1-1786971143780-0.23485275033567243",
@@ -54976,7 +57930,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "이슬",
-    "eum": "해"
+    "eum": "해",
+    "totalStrokes": 19,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143784-0.5872268285516268",
@@ -54986,7 +57942,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "웃을",
-    "eum": "해"
+    "eum": "해",
+    "totalStrokes": 8,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143788-0.9901951477215012",
@@ -54996,7 +57954,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "마름풀",
-    "eum": "행"
+    "eum": "행",
+    "totalStrokes": 10,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143789-0.4948861084255297",
@@ -55006,7 +57966,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "길잡을",
-    "eum": "향"
+    "eum": "향",
+    "totalStrokes": 19,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143791-0.6035328029189986",
@@ -55016,7 +57978,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "불",
-    "eum": "허"
+    "eum": "허",
+    "totalStrokes": 15,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143792-0.9910606264742164",
@@ -55026,7 +57990,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "나무이름",
-    "eum": "헌"
+    "eum": "헌",
+    "totalStrokes": 20,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971143794-0.4397564044426583",
@@ -55036,7 +58002,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "불꽃",
-    "eum": "염"
+    "eum": "염",
+    "totalStrokes": 12,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971143795-0.84892098068555",
@@ -55046,7 +58014,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "고요할",
-    "eum": "혁"
+    "eum": "혁",
+    "totalStrokes": 8,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971143799-0.34689962168203925",
@@ -55056,7 +58026,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "눈불거질",
-    "eum": "현"
+    "eum": "현",
+    "totalStrokes": 12,
+    "radical": "目"
   },
   {
     "id": "sanggong-4_1-1786971143800-0.2762222025388902",
@@ -55066,7 +58038,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "무늬",
-    "eum": "현"
+    "eum": "현",
+    "totalStrokes": 12,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971143802-0.6756561633953037",
@@ -55076,7 +58050,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "자랑할",
-    "eum": "현"
+    "eum": "현",
+    "totalStrokes": 11,
+    "radical": "行"
   },
   {
     "id": "sanggong-4_1-1786971143805-0.7607597301264497",
@@ -55086,7 +58062,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "햇빛",
-    "eum": "현"
+    "eum": "현",
+    "totalStrokes": 9,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971143808-0.21269289789386414",
@@ -55096,7 +58074,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "소리",
-    "eum": "현"
+    "eum": "현",
+    "totalStrokes": 8,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143811-0.17953000649864503",
@@ -55106,7 +58086,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "영리할",
-    "eum": "현"
+    "eum": "현",
+    "totalStrokes": 15,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971143814-0.20431520779796541",
@@ -55116,7 +58098,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "지혜로울",
-    "eum": "현"
+    "eum": "현",
+    "totalStrokes": 20,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971143816-0.9379348650834268",
@@ -55126,7 +58110,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "팔",
-    "eum": "현"
+    "eum": "현",
+    "totalStrokes": 8,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143819-0.9491806284924987",
@@ -55136,7 +58122,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "외로울",
-    "eum": "혈"
+    "eum": "혈",
+    "totalStrokes": 3,
+    "radical": "子"
   },
   {
     "id": "sanggong-4_1-1786971143821-0.7266035940907578",
@@ -55146,7 +58134,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "가위",
-    "eum": "협"
+    "eum": "협",
+    "totalStrokes": 15,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971143823-0.4406777881946996",
@@ -55156,7 +58146,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "뺨",
-    "eum": "협"
+    "eum": "협",
+    "totalStrokes": 16,
+    "radical": "頁"
   },
   {
     "id": "sanggong-4_1-1786971143825-0.07974408507389641",
@@ -55166,7 +58158,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "실개천",
-    "eum": "형"
+    "eum": "형",
+    "totalStrokes": 14,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143828-0.8120054804712478",
@@ -55176,7 +58170,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "멀",
-    "eum": "형"
+    "eum": "형",
+    "totalStrokes": 9,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971143830-0.9886762083843003",
@@ -55186,7 +58182,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "줄",
-    "eum": "형"
+    "eum": "형",
+    "totalStrokes": 18,
+    "radical": "金"
   },
   {
     "id": "sanggong-4_1-1786971143831-0.06057730190436128",
@@ -55196,7 +58194,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "별반짝거릴",
-    "eum": "혜"
+    "eum": "혜",
+    "totalStrokes": 15,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971143834-0.06559501696518122",
@@ -55206,7 +58206,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "지름길",
-    "eum": "혜"
+    "eum": "혜",
+    "totalStrokes": 17,
+    "radical": "足"
   },
   {
     "id": "sanggong-4_1-1786971143836-0.9902016977848678",
@@ -55216,7 +58218,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "식혜",
-    "eum": "혜"
+    "eum": "혜",
+    "totalStrokes": 19,
+    "radical": "酉"
   },
   {
     "id": "sanggong-4_1-1786971143837-0.08283936628786448",
@@ -55226,7 +58230,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "밝을",
-    "eum": "혜"
+    "eum": "혜",
+    "totalStrokes": 15,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971143840-0.2935173080380289",
@@ -55236,7 +58242,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "초목이우거진산",
-    "eum": "호"
+    "eum": "호",
+    "totalStrokes": 8,
+    "radical": "山"
   },
   {
     "id": "sanggong-4_1-1786971143842-0.3097014508088133",
@@ -55246,7 +58254,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물가",
-    "eum": "호"
+    "eum": "호",
+    "totalStrokes": 14,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143843-0.038687831511391435",
@@ -55256,7 +58266,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급Ⅱ",
     "hun": "넓을",
-    "eum": "호"
+    "eum": "호",
+    "totalStrokes": 15,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143846-0.23764556389073443",
@@ -55266,7 +58278,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "박",
-    "eum": "호"
+    "eum": "호",
+    "totalStrokes": 11,
+    "radical": "瓜"
   },
   {
     "id": "sanggong-4_1-1786971143850-0.05670442977327672",
@@ -55276,7 +58290,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "흰깁",
-    "eum": "호"
+    "eum": "호",
+    "totalStrokes": 16,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971143852-0.919094186792109",
@@ -55286,7 +58302,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "지황",
-    "eum": "호"
+    "eum": "호",
+    "totalStrokes": 8,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143855-0.3143245827997023",
@@ -55296,7 +58314,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물외/마늘",
-    "eum": "호"
+    "eum": "호",
+    "totalStrokes": 13,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143858-0.35551117371648333",
@@ -55306,7 +58326,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "다북쑥",
-    "eum": "호"
+    "eum": "호",
+    "totalStrokes": 14,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143860-0.40816204391034994",
@@ -55316,7 +58338,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "나비",
-    "eum": "호"
+    "eum": "호",
+    "totalStrokes": 15,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971143867-0.31541101809368677",
@@ -55326,7 +58350,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "흰빛",
-    "eum": "호"
+    "eum": "호",
+    "totalStrokes": 15,
+    "radical": "白"
   },
   {
     "id": "sanggong-4_1-1786971143871-0.1983618782911405",
@@ -55336,7 +58362,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "떠들썩할",
-    "eum": "홍"
+    "eum": "홍",
+    "totalStrokes": 9,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143874-0.39563310481226155",
@@ -55346,7 +58374,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "수은",
-    "eum": "홍"
+    "eum": "홍",
+    "totalStrokes": 7,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143880-0.5335182990445622",
@@ -55356,7 +58386,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "어지러울",
-    "eum": "홍"
+    "eum": "홍",
+    "totalStrokes": 10,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971143885-0.3901953167500123",
@@ -55366,7 +58398,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "지껄일",
-    "eum": "화"
+    "eum": "화",
+    "totalStrokes": 18,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971143886-0.19232068690491178",
@@ -55376,7 +58410,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "움킬",
-    "eum": "확"
+    "eum": "확",
+    "totalStrokes": 23,
+    "radical": "手"
   },
   {
     "id": "sanggong-4_1-1786971143888-0.075187952213293",
@@ -55386,7 +58422,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "굳을",
-    "eum": "확"
+    "eum": "확",
+    "totalStrokes": 15,
+    "radical": "石"
   },
   {
     "id": "sanggong-4_1-1786971143893-0.723277760285349",
@@ -55396,7 +58434,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "홀아비",
-    "eum": "환"
+    "eum": "환",
+    "totalStrokes": 21,
+    "radical": "魚"
   },
   {
     "id": "sanggong-4_1-1786971143895-0.4773911014802308",
@@ -55406,7 +58446,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "넓을",
-    "eum": "활"
+    "eum": "활",
+    "totalStrokes": 17,
+    "radical": "谷"
   },
   {
     "id": "sanggong-4_1-1786971143897-0.47907992905388463",
@@ -55416,7 +58458,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "휘장",
-    "eum": "황"
+    "eum": "황",
+    "totalStrokes": 13,
+    "radical": "巾"
   },
   {
     "id": "sanggong-4_1-1786971143905-0.8090135825499736",
@@ -55426,7 +58470,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "들뜰",
-    "eum": "황"
+    "eum": "황",
+    "totalStrokes": 13,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971143907-0.24125737346941678",
@@ -55436,7 +58482,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "밝을",
-    "eum": "황"
+    "eum": "황",
+    "totalStrokes": 10,
+    "radical": "日"
   },
   {
     "id": "sanggong-4_1-1786971143911-0.17346523641167488",
@@ -55446,7 +58494,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "웅덩이",
-    "eum": "황"
+    "eum": "황",
+    "totalStrokes": 12,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143913-0.5641136773682933",
@@ -55456,7 +58506,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "웅덩이",
-    "eum": "황"
+    "eum": "황",
+    "totalStrokes": 15,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143916-0.2066691559337921",
@@ -55466,7 +58518,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "대숲",
-    "eum": "황"
+    "eum": "황",
+    "totalStrokes": 15,
+    "radical": "竹"
   },
   {
     "id": "sanggong-4_1-1786971143920-0.3400317372534667",
@@ -55476,7 +58530,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "황충",
-    "eum": "황"
+    "eum": "황",
+    "totalStrokes": 15,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971143922-0.8105889169508222",
@@ -55486,7 +58542,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "급할",
-    "eum": "황"
+    "eum": "황",
+    "totalStrokes": 13,
+    "radical": "辵"
   },
   {
     "id": "sanggong-4_1-1786971143928-0.48059211835568083",
@@ -55496,7 +58554,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "물돌아모일",
-    "eum": "회"
+    "eum": "회",
+    "totalStrokes": 13,
+    "radical": "匚"
   },
   {
     "id": "sanggong-4_1-1786971143933-0.6279268358873574",
@@ -55506,7 +58566,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "교활할",
-    "eum": "회"
+    "eum": "회",
+    "totalStrokes": 16,
+    "radical": "犬"
   },
   {
     "id": "sanggong-4_1-1786971143936-0.7064325136296556",
@@ -55516,7 +58578,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "회향",
-    "eum": "회"
+    "eum": "회",
+    "totalStrokes": 10,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143938-0.35739985811521857",
@@ -55526,7 +58590,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "회충",
-    "eum": "회"
+    "eum": "회",
+    "totalStrokes": 12,
+    "radical": "虫"
   },
   {
     "id": "sanggong-4_1-1786971143942-0.2309336460753867",
@@ -55536,7 +58602,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "집울릴",
-    "eum": "횡"
+    "eum": "횡",
+    "totalStrokes": 8,
+    "radical": "宀"
   },
   {
     "id": "sanggong-4_1-1786971143947-0.5591297071729772",
@@ -55546,7 +58614,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "성낼",
-    "eum": "효"
+    "eum": "효",
+    "totalStrokes": 10,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143955-0.2724739247895205",
@@ -55556,7 +58626,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "뒤섞일",
-    "eum": "효"
+    "eum": "효",
+    "totalStrokes": 11,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971143957-0.9944392686887881",
@@ -55566,7 +58638,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "안주",
-    "eum": "효"
+    "eum": "효",
+    "totalStrokes": 8,
+    "radical": "肉"
   },
   {
     "id": "sanggong-4_1-1786971143959-0.48432502182492676",
@@ -55576,7 +58650,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "흰빛",
-    "eum": "효"
+    "eum": "효",
+    "totalStrokes": 15,
+    "radical": "白"
   },
   {
     "id": "sanggong-4_1-1786971143960-0.9657888944831942",
@@ -55586,7 +58662,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "김오를",
-    "eum": "효"
+    "eum": "효",
+    "totalStrokes": 14,
+    "radical": "欠"
   },
   {
     "id": "sanggong-4_1-1786971143962-0.08054788055555684",
@@ -55596,7 +58674,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "울부짖을",
-    "eum": "후"
+    "eum": "후",
+    "totalStrokes": 7,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143963-0.7106293841653061",
@@ -55606,7 +58686,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "과녁",
-    "eum": "후"
+    "eum": "후",
+    "totalStrokes": 12,
+    "radical": "巾"
   },
   {
     "id": "sanggong-4_1-1786971143964-0.8896472765095179",
@@ -55616,7 +58698,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "따스할",
-    "eum": "후"
+    "eum": "후",
+    "totalStrokes": 13,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971143966-0.934204545563363",
@@ -55626,7 +58710,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "옥이름",
-    "eum": "후"
+    "eum": "후",
+    "totalStrokes": 10,
+    "radical": "玉"
   },
   {
     "id": "sanggong-4_1-1786971143969-0.6419311034657076",
@@ -55636,7 +58722,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "두터울",
-    "eum": "후"
+    "eum": "후",
+    "totalStrokes": 9,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971143970-0.3764082779851913",
@@ -55646,7 +58734,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "질나발",
-    "eum": "훈"
+    "eum": "훈",
+    "totalStrokes": 13,
+    "radical": "土"
   },
   {
     "id": "sanggong-4_1-1786971143975-0.4267818523951763",
@@ -55656,7 +58746,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "죽을",
-    "eum": "훙"
+    "eum": "훙",
+    "totalStrokes": 17,
+    "radical": "艸"
   },
   {
     "id": "sanggong-4_1-1786971143981-0.44179040008194026",
@@ -55666,7 +58758,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "밝을",
-    "eum": "훤"
+    "eum": "훤",
+    "totalStrokes": 13,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971143983-0.0823689742511784",
@@ -55676,7 +58770,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "부리",
-    "eum": "훼"
+    "eum": "훼",
+    "totalStrokes": 12,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971143985-0.11928003771412043",
@@ -55686,7 +58782,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "빛날",
-    "eum": "휘"
+    "eum": "휘",
+    "totalStrokes": 13,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971143988-0.5605949778621532",
@@ -55696,7 +58794,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "기",
-    "eum": "휘"
+    "eum": "휘",
+    "totalStrokes": 15,
+    "radical": "麻"
   },
   {
     "id": "sanggong-4_1-1786971143992-0.1849062137122114",
@@ -55706,7 +58806,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "밭이랑",
-    "eum": "휴"
+    "eum": "휴",
+    "totalStrokes": 11,
+    "radical": "田"
   },
   {
     "id": "sanggong-4_1-1786971143996-0.12650471959188592",
@@ -55716,7 +58818,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "도요새",
-    "eum": "휼"
+    "eum": "휼",
+    "totalStrokes": 23,
+    "radical": "鳥"
   },
   {
     "id": "sanggong-4_1-1786971143997-0.2554487354674353",
@@ -55726,7 +58830,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "흉악할",
-    "eum": "흉"
+    "eum": "흉",
+    "totalStrokes": 6,
+    "radical": "儿"
   },
   {
     "id": "sanggong-4_1-1786971143999-0.45788932789496883",
@@ -55736,7 +58842,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "용솟음칠",
-    "eum": "흉"
+    "eum": "흉",
+    "totalStrokes": 9,
+    "radical": "水"
   },
   {
     "id": "sanggong-4_1-1786971144002-0.4946269145055884",
@@ -55746,7 +58854,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "기뻐할",
-    "eum": "흔"
+    "eum": "흔",
+    "totalStrokes": 7,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971144003-0.9595819702386631",
@@ -55756,7 +58866,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "말더듬을",
-    "eum": "흘"
+    "eum": "흘",
+    "totalStrokes": 6,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971144004-0.1628306669153371",
@@ -55766,7 +58878,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "질낮은실",
-    "eum": "흘"
+    "eum": "흘",
+    "totalStrokes": 9,
+    "radical": "糸"
   },
   {
     "id": "sanggong-4_1-1786971144006-0.7323874716925933",
@@ -55776,7 +58890,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "이를",
-    "eum": "흘"
+    "eum": "흘",
+    "totalStrokes": 10,
+    "radical": "言"
   },
   {
     "id": "sanggong-4_1-1786971144007-0.4153593743800402",
@@ -55786,7 +58902,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "1급",
     "hun": "흠향할",
-    "eum": "흠"
+    "eum": "흠",
+    "totalStrokes": 13,
+    "radical": "欠"
   },
   {
     "id": "sanggong-4_1-1786971144011-0.2826334952615106",
@@ -55796,7 +58914,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "쌍희",
-    "eum": "희"
+    "eum": "희",
+    "totalStrokes": 22,
+    "radical": "口"
   },
   {
     "id": "sanggong-4_1-1786971144012-0.4949288800088384",
@@ -55806,7 +58926,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "기쁠",
-    "eum": "희"
+    "eum": "희",
+    "totalStrokes": 15,
+    "radical": "心"
   },
   {
     "id": "sanggong-4_1-1786971144015-0.17570079587246445",
@@ -55816,7 +58938,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
     "hun": "빛날",
-    "eum": "희"
+    "eum": "희",
+    "totalStrokes": 16,
+    "radical": "火"
   },
   {
     "id": "sanggong-4_1-1786971144016-0.6331640409156467",
@@ -55826,7 +58950,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": "특급",
     "hun": "나무이름",
-    "eum": "희"
+    "eum": "희",
+    "totalStrokes": 16,
+    "radical": "木"
   },
   {
     "id": "sanggong-4_1-1786971144021-0.25947425351673603",
@@ -55836,7 +58962,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "희미할",
-    "eum": "희"
+    "eum": "희",
+    "totalStrokes": 9,
+    "radical": "人"
   },
   {
     "id": "sanggong-4_1-1786971144024-0.5235323191112158",
@@ -55846,7 +58974,9 @@ export const hanjaMeta = [
     "korcham": "1급",
     "uhmoon": null,
     "hun": "빛날",
-    "eum": "희"
+    "eum": "희",
+    "totalStrokes": 11,
+    "radical": "火"
   },
   {
     "id": "uhmoon-특급-1",
