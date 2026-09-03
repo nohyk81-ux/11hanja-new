@@ -41,7 +41,7 @@ export default function HanjaStory() {
               transition: 'transform 0.2s, box-shadow 0.2s'
             }}
           >
-            <div style={{ padding: '1.75rem' }}>
+            <div style={{ padding: '1.75rem', textAlign: 'left' }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--gray-500)', fontSize: '0.875rem', marginBottom: '0.5rem' }}>
                 <Calendar size={14} />
                 <span>{story.date}</span>
