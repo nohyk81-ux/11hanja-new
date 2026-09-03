@@ -40201,7 +40201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-0",
     "character": "車",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "수레 거",
     "daehan": null,
     "korcham": "9급",
     "uhmoon": "7급Ⅱ",
@@ -40211,7 +40211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-1",
     "character": "果",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "실과 과",
     "daehan": null,
     "korcham": "9급",
     "uhmoon": "6급Ⅱ",
@@ -40221,7 +40221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-2",
     "character": "兒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아이 아",
     "daehan": null,
     "korcham": "9급",
     "uhmoon": "5급Ⅱ",
@@ -40231,7 +40231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-3",
     "character": "角",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뿔 각",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "6급Ⅱ",
@@ -40241,7 +40241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-4",
     "character": "曲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "굽을 곡",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "5급",
@@ -40251,7 +40251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-5",
     "character": "金",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쇠 금",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "8급",
@@ -40261,7 +40261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-6",
     "character": "能",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "능할 능",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "5급Ⅱ",
@@ -40271,7 +40271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-7",
     "character": "法",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "법 법",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "5급Ⅱ",
@@ -40281,7 +40281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-8",
     "character": "兵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "병사 병",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "5급Ⅱ",
@@ -40291,7 +40291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-9",
     "character": "不",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아닐 불",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": null,
@@ -40301,7 +40301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-10",
     "character": "史",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사기 사",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "5급Ⅱ",
@@ -40311,7 +40311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-11",
     "character": "臣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "신하 신",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "5급Ⅱ",
@@ -40321,7 +40321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-12",
     "character": "失",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잃을 실",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "6급",
@@ -40331,7 +40331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-13",
     "character": "業",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "업 업",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "6급Ⅱ",
@@ -40341,7 +40341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-14",
     "character": "由",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "말미암을 유",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "6급",
@@ -40351,7 +40351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-15",
     "character": "因",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "인할 인",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "5급",
@@ -40361,7 +40361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-16",
     "character": "者",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "놈 자",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "6급",
@@ -40371,7 +40371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-17",
     "character": "初",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "처음 초",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "5급",
@@ -40381,7 +40381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-18",
     "character": "表",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "겉 표",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "6급Ⅱ",
@@ -40391,7 +40391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-19",
     "character": "風",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "바람 풍",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "6급Ⅱ",
@@ -40401,7 +40401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-20",
     "character": "幸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "다행 행",
     "daehan": null,
     "korcham": "8급",
     "uhmoon": "6급Ⅱ",
@@ -40411,7 +40411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-21",
     "character": "加",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "더할 가",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급",
@@ -40421,7 +40421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-22",
     "character": "決",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "결단할 결",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40431,7 +40431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-23",
     "character": "界",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지경 계",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
@@ -40441,7 +40441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-24",
     "character": "告",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고할 고",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40451,7 +40451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-25",
     "character": "考",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "생각할 고",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급",
@@ -40461,7 +40461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-26",
     "character": "公",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "공평할 공",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
@@ -40471,7 +40471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-27",
     "character": "過",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지날 과",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40481,7 +40481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-28",
     "character": "圖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "그림 도",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
@@ -40491,7 +40491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-29",
     "character": "度",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "법도 도",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급",
@@ -40501,7 +40501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-30",
     "character": "童",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아이 동",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
@@ -40511,7 +40511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-31",
     "character": "例",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "법식 례",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급",
@@ -40521,7 +40521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-32",
     "character": "美",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아름다울 미",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급",
@@ -40531,7 +40531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-33",
     "character": "反",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돌이킬/돌아올 반",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
@@ -40541,7 +40541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-34",
     "character": "病",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "병 병",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급",
@@ -40551,7 +40551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-35",
     "character": "服",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옷 복",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급",
@@ -40561,7 +40561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-36",
     "character": "奉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "받들 봉",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40571,7 +40571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-37",
     "character": "消",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사라질 소",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
@@ -40581,7 +40581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-38",
     "character": "習",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "익힐 습",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급",
@@ -40591,7 +40591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-39",
     "character": "始",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비로소 시",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
@@ -40601,7 +40601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-40",
     "character": "實",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "열매 실",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40611,7 +40611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-41",
     "character": "野",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "들 야",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급",
@@ -40621,7 +40621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-42",
     "character": "藥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "약 약",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
@@ -40631,7 +40631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-43",
     "character": "兩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "두 량",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": null,
@@ -40641,7 +40641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-44",
     "character": "洋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "큰바다 양",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급",
@@ -40651,7 +40651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-45",
     "character": "要",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "요긴할 요",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40661,7 +40661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-46",
     "character": "雲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "구름 운",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40671,7 +40671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-47",
     "character": "醫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "의원 의",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급",
@@ -40681,7 +40681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-48",
     "character": "材",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "재목 재",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40691,7 +40691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-49",
     "character": "典",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "법 전",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40701,7 +40701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-50",
     "character": "展",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "펼 전",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40711,7 +40711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-51",
     "character": "戰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "싸움 전",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
@@ -40721,7 +40721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-52",
     "character": "定",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "정할 정",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급",
@@ -40731,7 +40731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-53",
     "character": "庭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뜰 정",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
@@ -40741,7 +40741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-54",
     "character": "族",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "겨레 족",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급",
@@ -40751,7 +40751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-55",
     "character": "注",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부을 주",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
@@ -40761,7 +40761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-56",
     "character": "止",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "그칠 지",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급",
@@ -40771,7 +40771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-57",
     "character": "紙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "종이 지",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "7급",
@@ -40781,7 +40781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-58",
     "character": "集",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "모을 집",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급Ⅱ",
@@ -40791,7 +40791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-59",
     "character": "充",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "채울 충",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40801,7 +40801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-60",
     "character": "品",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물건 품",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40811,7 +40811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-61",
     "character": "必",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "반드시 필",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40821,7 +40821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-62",
     "character": "化",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "될 화",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "5급Ⅱ",
@@ -40831,7 +40831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-63",
     "character": "畫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "그림 화",
     "daehan": null,
     "korcham": "7급",
     "uhmoon": "6급",
@@ -40841,7 +40841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-64",
     "character": "可",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옳을 가",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급",
@@ -40851,7 +40851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-65",
     "character": "感",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "느낄 감",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -40861,7 +40861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-66",
     "character": "客",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "손 객",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -40871,7 +40871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-67",
     "character": "結",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "맺을 결",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -40881,7 +40881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-68",
     "character": "敬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "공경 경",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -40891,7 +40891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-69",
     "character": "郡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고을 군",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -40901,7 +40901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-70",
     "character": "吉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "길할 길",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급",
@@ -40911,7 +40911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-71",
     "character": "德",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "큰 덕",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -40921,7 +40921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-72",
     "character": "動",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "움직일 동",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "7급Ⅱ",
@@ -40931,7 +40931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-73",
     "character": "落",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "떨어질 락",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급",
@@ -40941,7 +40941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-74",
     "character": "禮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예도 례",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -40951,7 +40951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-75",
     "character": "路",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "길 로",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -40961,7 +40961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-76",
     "character": "流",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "흐를 류",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -40971,7 +40971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-77",
     "character": "亡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "망할 망",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급",
@@ -40981,7 +40981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-78",
     "character": "發",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "필 발",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
@@ -40991,7 +40991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-79",
     "character": "福",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "복 복",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -41001,7 +41001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-80",
     "character": "仕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "섬길 사",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -41011,7 +41011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-81",
     "character": "思",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "생각 사",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급",
@@ -41021,7 +41021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-82",
     "character": "算",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "셈 산",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "7급",
@@ -41031,7 +41031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-83",
     "character": "相",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "서로 상",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -41041,7 +41041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-84",
     "character": "席",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "자리 석",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -41051,7 +41051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-85",
     "character": "雪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "눈 설",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
@@ -41061,7 +41061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-86",
     "character": "省",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "살필 성",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
@@ -41071,7 +41071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-87",
     "character": "洗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "씻을 세",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -41081,7 +41081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-88",
     "character": "孫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "손자 손",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -41091,7 +41091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-89",
     "character": "數",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "셈 수",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "7급",
@@ -41101,7 +41101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-90",
     "character": "順",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "순할 순",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -41111,7 +41111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-91",
     "character": "式",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "법 식",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -41121,7 +41121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-92",
     "character": "陽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "볕 양",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -41131,7 +41131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-93",
     "character": "運",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옮길 운",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
@@ -41141,7 +41141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-94",
     "character": "園",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "동산 원",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -41151,7 +41151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-95",
     "character": "油",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기름 유",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -41161,7 +41161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-96",
     "character": "再",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "두 재",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급",
@@ -41171,7 +41171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-97",
     "character": "在",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "있을 재",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -41181,7 +41181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-98",
     "character": "的",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "과녁 적",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -41191,7 +41191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-99",
     "character": "題",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "제목 제",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
@@ -41201,7 +41201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-100",
     "character": "知",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "알 지",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -41211,7 +41211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-101",
     "character": "參",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "참여할 참",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -41221,7 +41221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-102",
     "character": "淸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "맑을 청",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
@@ -41231,7 +41231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-103",
     "character": "體",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "몸 체",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
@@ -41241,7 +41241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-104",
     "character": "宅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "집 택",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "5급Ⅱ",
@@ -41251,7 +41251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-105",
     "character": "特",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "특별할 특",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -41261,7 +41261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-106",
     "character": "豐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "풍년 풍",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "특급",
@@ -41271,7 +41271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-107",
     "character": "現",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나타날 현",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급Ⅱ",
@@ -41281,7 +41281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-108",
     "character": "號",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이름 호",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -41291,7 +41291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-109",
     "character": "訓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가르칠 훈",
     "daehan": null,
     "korcham": "6급",
     "uhmoon": "6급",
@@ -41301,7 +41301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-110",
     "character": "貴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "귀할 귀",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "5급",
@@ -41311,7 +41311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-111",
     "character": "根",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뿌리 근",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "6급",
@@ -41321,7 +41321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-112",
     "character": "勞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "수고로울 로",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
@@ -41331,7 +41331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-113",
     "character": "堂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "집 당",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "6급Ⅱ",
@@ -41341,7 +41341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-114",
     "character": "良",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어질 량",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
@@ -41351,7 +41351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-115",
     "character": "歷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지날 력",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
@@ -41361,7 +41361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-116",
     "character": "賣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "팔 매",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "5급",
@@ -41371,7 +41371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-117",
     "character": "氷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "얼음 빙",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "5급",
@@ -41381,7 +41381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-118",
     "character": "使",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "하여금/부릴 사",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "6급",
@@ -41391,7 +41391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-119",
     "character": "速",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빠를 속",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "6급",
@@ -41401,7 +41401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-120",
     "character": "勝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이길 승",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "6급",
@@ -41411,7 +41411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-121",
     "character": "愛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사랑 애",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "6급",
@@ -41421,7 +41421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-122",
     "character": "漁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고기잡을 어",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "5급",
@@ -41431,7 +41431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-123",
     "character": "然",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "그럴 연",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "7급",
@@ -41441,7 +41441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-124",
     "character": "溫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "따뜻할 온",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "6급",
@@ -41451,7 +41451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-125",
     "character": "勇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "날랠 용",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "6급Ⅱ",
@@ -41461,7 +41461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-126",
     "character": "飮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마실 음",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "6급Ⅱ",
@@ -41471,7 +41471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-127",
     "character": "以",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "써 이",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
@@ -41481,7 +41481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-128",
     "character": "章",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "글 장",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "6급",
@@ -41491,7 +41491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-129",
     "character": "第",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "차례 제",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "6급Ⅱ",
@@ -41501,7 +41501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-130",
     "character": "卒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마칠 졸",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
@@ -41511,7 +41511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-131",
     "character": "窓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "창 창",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "6급Ⅱ",
@@ -41521,7 +41521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-132",
     "character": "責",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꾸짖을 책",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
@@ -41531,7 +41531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-133",
     "character": "河",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물 하",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "5급",
@@ -41541,7 +41541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-new-134",
     "character": "凶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "흉할 흉",
     "daehan": null,
     "korcham": "5급",
     "uhmoon": "5급Ⅱ",
@@ -41551,7 +41551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139045-0.7796072653898851",
     "character": "輕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가벼울 경",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "5급",
@@ -41561,7 +41561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139048-0.8459987998663718",
     "character": "苦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쓸 고",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "6급",
@@ -41571,7 +41571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139070-0.3224966887066556",
     "character": "格",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "격식 격",
     "daehan": null,
     "korcham": "3급",
     "uhmoon": "5급Ⅱ",
@@ -41581,7 +41581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139113-0.36353979588046104",
     "character": "球",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "공 구",
     "daehan": null,
     "korcham": "3급",
     "uhmoon": "6급Ⅱ",
@@ -41591,7 +41591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139127-0.9139115691246582",
     "character": "級",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "등급 급",
     "daehan": null,
     "korcham": "3급",
     "uhmoon": "6급",
@@ -41601,7 +41601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139140-0.6708717492164175",
     "character": "哥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "성 가",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41611,7 +41611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139147-0.20306711723297688",
     "character": "訶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꾸짖을 가",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41621,7 +41621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139149-0.6735189203928129",
     "character": "跏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "책상다리할 가",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41631,7 +41631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139158-0.8415966373379999",
     "character": "桿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "막대 간",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41641,7 +41641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139161-0.4917649063230506",
     "character": "癎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "간질 간",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41651,7 +41651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139171-0.9503789366480324",
     "character": "褐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "갈색/굵은베 갈",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41661,7 +41661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139177-0.1486879180745896",
     "character": "嵌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "끼울 감",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41671,7 +41671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139181-0.7043197607022728",
     "character": "疳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "감질 감",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41681,7 +41681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139184-0.7214688262543146",
     "character": "紺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "감색/연보라 감",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41691,7 +41691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139187-0.8433888978692141",
     "character": "龕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "감실 감",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41701,7 +41701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139192-0.7129924119743107",
     "character": "崗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "언덕 강",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급Ⅱ",
@@ -41711,7 +41711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139206-0.13952890170710996",
     "character": "腱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "힘줄 건",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41721,7 +41721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139209-0.2164252560349872",
     "character": "黔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "검을 검",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41731,7 +41731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139212-0.5565311436791275",
     "character": "偈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "불시 게",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41741,7 +41741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139216-0.3902435130327533",
     "character": "覡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "박수 격",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41751,7 +41751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139218-0.1850712015266951",
     "character": "繭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고치 견",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41761,7 +41761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139230-0.06076160214451665",
     "character": "磬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "경쇠 경",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41771,7 +41771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139232-0.7884044541170755",
     "character": "脛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "정강이 경",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41781,7 +41781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139235-0.359160496699356",
     "character": "頸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "목 경",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41791,7 +41791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139237-0.18754501741128604",
     "character": "悸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "두근거릴 계",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41801,7 +41801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139242-0.14920047566050032",
     "character": "谿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "시내 계",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41811,7 +41811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139246-0.3875032016140959",
     "character": "攷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "상고할 고",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41821,7 +41821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139250-0.09506957109113268",
     "character": "藁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "짚 고",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41831,7 +41831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139252-0.6094356660739078",
     "character": "袴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "바지 고",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41841,7 +41841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139253-0.6595920531813642",
     "character": "誥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "깨우칠 고",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41851,7 +41851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139254-0.05563547969863436",
     "character": "錮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "막을 고",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41861,7 +41861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139258-0.9435522963355107",
     "character": "袞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "곤룡포 곤",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41871,7 +41871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139264-0.7577507785919071",
     "character": "顆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "낱알 과",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41881,7 +41881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139265-0.44049635562093914",
     "character": "槨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "외관 곽",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41891,7 +41891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139270-0.1738776703074142",
     "character": "罐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물동이 관",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41901,7 +41901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139272-0.7322821501613274",
     "character": "适",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빠를 괄",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41911,7 +41911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139273-0.8343222450412756",
     "character": "壙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뫼구덩이 광",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41921,7 +41921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139278-0.16257265559142198",
     "character": "乖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어그러질 괴",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41931,7 +41931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139285-0.18497202700079374",
     "character": "咬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물/새소리 교",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41941,7 +41941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139292-0.7367760810763514",
     "character": "轎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가마 교",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41951,7 +41951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139296-0.1957997837320019",
     "character": "勾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "굽을 구",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41961,7 +41961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139300-0.17376954993024352",
     "character": "毬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "제기/공 구",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41971,7 +41971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139306-0.7015452003029053",
     "character": "臼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "절구 구",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -41981,7 +41981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139311-0.22875662400447916",
     "character": "逑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "짝 구",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -41991,7 +41991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139314-0.5579032934132939",
     "character": "鉤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "갈고리 구",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -42001,7 +42001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139320-0.06391103752167737",
     "character": "鞫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "국문할 국",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -42011,7 +42011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139321-0.8481469488158278",
     "character": "麴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "누룩 국",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -42021,7 +42021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139323-0.25919086260251123",
     "character": "裙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "치마 군",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -42031,7 +42031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139326-0.16728647875693048",
     "character": "堀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "팔 굴",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -42041,7 +42041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139330-0.014565875382224092",
     "character": "穹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "하늘 궁",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -42051,7 +42051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139335-0.2424296249629746",
     "character": "捲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거둘/말 권",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -42061,7 +42061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139337-0.5966041856706524",
     "character": "櫃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "궤짝 궤",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -42071,7 +42071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139339-0.3035722873217551",
     "character": "晷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "해그림자 귀",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -42081,7 +42081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139342-0.18159699227668102",
     "character": "硅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "규소 규",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -42091,7 +42091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139345-0.45297480385821076",
     "character": "筠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "대껍질 균",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -42101,7 +42101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139353-0.6801737489094599",
     "character": "覲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뵐 근",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -42111,7 +42111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139355-0.060589649909777665",
     "character": "芩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "풀이름 금",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -42121,7 +42121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139365-0.7556698773675258",
     "character": "朞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돌 기",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -42131,7 +42131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139371-0.3310549977199677",
     "character": "畸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뙈기밭/불구 기",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -42141,7 +42141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139372-0.8648830991499044",
     "character": "碁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "바둑 기",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -42151,7 +42151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139373-0.004157010802063099",
     "character": "祇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지신 기",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -42161,7 +42161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139378-0.5758998762300331",
     "character": "羈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "굴레/나그네 기",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -42171,7 +42171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139381-0.23140962853292824",
     "character": "饑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "주릴 기",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -42181,7 +42181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139386-0.7948137983534819",
     "character": "呵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꾸짖을 가",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -42191,7 +42191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139388-0.6315988406396721",
     "character": "枷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "칼/도리깨 가",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42201,7 +42201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139390-0.1919569789118849",
     "character": "珂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥이름 가",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42211,7 +42211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139391-0.882170133878043",
     "character": "痂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "헌데딱지 가",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42221,7 +42221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139393-0.08460626255209003",
     "character": "茄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가지 가",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42231,7 +42231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139396-0.9216236023109688",
     "character": "慤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "정성/삼갈 각",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42241,7 +42241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139401-0.6821651835441006",
     "character": "柬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가릴 간",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42251,7 +42251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139403-0.5108079647353322",
     "character": "磵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "시내 간",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42261,7 +42261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139405-0.1735560894159479",
     "character": "稈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "볏짚 간",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42271,7 +42271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139407-0.4632699304255494",
     "character": "栞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "새길 간",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -42281,7 +42281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139410-0.45110024956662553",
     "character": "乫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "땅이름 갈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42291,7 +42291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139412-0.3474544720107936",
     "character": "曷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어찌 갈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42301,7 +42301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139416-0.23554695759471456",
     "character": "蝎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "전갈 갈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42311,7 +42311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139418-0.0013895504619799715",
     "character": "坎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "구덩이 감",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42321,7 +42321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139420-0.4865551295681628",
     "character": "戡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이길 감",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42331,7 +42331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139422-0.9911322004320001",
     "character": "橄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "감람나무 감",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42341,7 +42341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139424-0.11274512014763693",
     "character": "鑒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거울 감",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42351,7 +42351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139425-0.2724371724035263",
     "character": "胛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어깻죽지 갑",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42361,7 +42361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139427-0.5074250514228096",
     "character": "閘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "수문 갑",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -42371,7 +42371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139429-0.7746080169822487",
     "character": "畺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지경 강",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42381,7 +42381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139432-0.9387040994568511",
     "character": "舡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "배 강",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42391,7 +42391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139434-0.7147610788102933",
     "character": "鱇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아귀 강",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42401,7 +42401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139436-0.6092756825039674",
     "character": "嫝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "계집 강",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -42411,7 +42411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139438-0.5615332884542237",
     "character": "跭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뛸 항",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -42421,7 +42421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139440-0.866143201249296",
     "character": "愾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "성낼 개",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -42431,7 +42431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139442-0.8033945112551981",
     "character": "盖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "덮을 개",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42441,7 +42441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139443-0.2726872367167078",
     "character": "鎧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "갑옷 개",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42451,7 +42451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139444-0.5240814752467575",
     "character": "玠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "큰홀 개",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -42461,7 +42461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139446-0.4019685559977132",
     "character": "喀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "토할 객",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42471,7 +42471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139449-0.0806773847041935",
     "character": "粳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "메벼 갱",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42481,7 +42481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139452-0.4021279908225329",
     "character": "倨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거만할 거",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -42491,7 +42491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139454-0.08588450013876237",
     "character": "据",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "일할/의거할 거",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42501,7 +42501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139456-0.8569835016644888",
     "character": "炬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "횃불 거",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42511,7 +42511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139458-0.23465668528991301",
     "character": "祛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "떨어없앨 거",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42521,7 +42521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139460-0.9338680544764846",
     "character": "踞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "걸어앉을 거",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42531,7 +42531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139465-0.6282560172667548",
     "character": "鋸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "톱 거",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42541,7 +42541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139470-0.5101796152878154",
     "character": "蹇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "절 건",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42551,7 +42551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139472-0.3239738273580357",
     "character": "騫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이지러질 건",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42561,7 +42561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139476-0.9125279457945591",
     "character": "劒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "칼 검",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42571,7 +42571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139478-0.34715067020827084",
     "character": "瞼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "눈시울 검",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42581,7 +42581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139480-0.11580618325492043",
     "character": "鈐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "자물쇠 검",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42591,7 +42591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139481-0.01246920520981587",
     "character": "迲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "자래 겁",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42601,7 +42601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139484-0.21716882709774266",
     "character": "膈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가슴 격",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -42611,7 +42611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139488-0.7217431722337836",
     "character": "慊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "앙심먹을 겸",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42621,7 +42621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139489-0.5485341563775336",
     "character": "箝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "재갈 겸",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42631,7 +42631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139490-0.8324364282634822",
     "character": "鉗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "집게 겸",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42641,7 +42641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139495-0.4775608941989947",
     "character": "勍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "굳셀 경",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42651,7 +42651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139499-0.2962821594020538",
     "character": "烱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빛날 형",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42661,7 +42661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139500-0.5406113546302019",
     "character": "璥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥이름 경",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42671,7 +42671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139502-0.35932011634693206",
     "character": "絅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "당길/홑옷 경",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42681,7 +42681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139508-0.430718749692658",
     "character": "鶊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꾀꼬리 경",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -42691,7 +42691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139510-0.5309906836208278",
     "character": "囧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빛날 경",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -42701,7 +42701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139511-0.1128050039045051",
     "character": "堺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지경 계",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42711,7 +42711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139513-0.17325016452669484",
     "character": "棨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "중계 계",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42721,7 +42721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139514-0.3284765950770925",
     "character": "磎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "시내 계",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42731,7 +42731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139516-0.6851570416099138",
     "character": "呱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "울 고",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -42741,7 +42741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139518-0.13262043637664966",
     "character": "尻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꽁무니 고",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42751,7 +42751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139522-0.20588025177457447",
     "character": "暠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밝을 고",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42761,7 +42761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139524-0.4449555150629908",
     "character": "槁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마를 고",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42771,7 +42771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139526-0.771638691814957",
     "character": "沽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "살/팔 고",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42781,7 +42781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139532-0.7962217925668057",
     "character": "苽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "줄 고",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42791,7 +42791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139534-0.5964153515843108",
     "character": "菰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "줄풀 고",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42801,7 +42801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139536-0.9622894102416026",
     "character": "蠱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "독벌레/고혹할 고",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42811,7 +42811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139538-0.16471401083380255",
     "character": "辜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "허물 고",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -42821,7 +42821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139540-0.3279983473584517",
     "character": "杲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밝을 고",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -42831,7 +42831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139542-0.0016857190743341244",
     "character": "斛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "휘 곡",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42841,7 +42841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139544-0.6473995569758544",
     "character": "梏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "수갑 곡",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -42851,7 +42851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139548-0.08072992483975994",
     "character": "梱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "문지방 곤",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42861,7 +42861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139550-0.6289509609705133",
     "character": "滾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "넘쳐흐를 곤",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42871,7 +42871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139556-0.7296283316699119",
     "character": "汨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "골몰할 골",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -42881,7 +42881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139560-0.6530987904324416",
     "character": "蚣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지네 공",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42891,7 +42891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139563-0.640461056516591",
     "character": "跨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "넘을 과",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42901,7 +42901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139565-0.9531698156039828",
     "character": "鍋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "노구솥 과",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42911,7 +42911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139571-0.8704147977478291",
     "character": "菅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "왕골 관",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42921,7 +42921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139574-0.5305091948794779",
     "character": "刮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "긁을 괄",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -42931,7 +42931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139575-0.7408870331530236",
     "character": "恝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "괄시할 괄",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42941,7 +42941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139579-0.5637933808346307",
     "character": "筐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "광주리 광",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42951,7 +42951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139581-0.014830253185167619",
     "character": "罫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "줄 괘",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -42961,7 +42961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139583-0.8630599153368503",
     "character": "紘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "벼리 굉",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42971,7 +42971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139587-0.740717576186069",
     "character": "轟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "울릴/수레소리 굉",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -42981,7 +42981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139589-0.1505879498473227",
     "character": "嶠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산길 교",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -42991,7 +42991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139592-0.20085509515812272",
     "character": "皎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "달밝을 교",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43001,7 +43001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139594-0.23294880160632292",
     "character": "翹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "우뚝할 교",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43011,7 +43011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139596-0.015989071162817114",
     "character": "蕎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "메밀 교",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43021,7 +43021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139598-0.883101208906056",
     "character": "蛟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "교룡 교",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43031,7 +43031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139600-0.6499206127563617",
     "character": "餃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "교자 교",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43041,7 +43041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139603-0.6059952822133324",
     "character": "鮫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "상어 교",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43051,7 +43051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139605-0.5710696798963887",
     "character": "姣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아름다울/아양부릴 교",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -43061,7 +43061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139608-0.29609599843371925",
     "character": "嘔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "게울 구",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43071,7 +43071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139610-0.5957722968769993",
     "character": "坵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "언덕 구",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43081,7 +43081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139612-0.5459100420281487",
     "character": "嶇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "험할 구",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43091,7 +43091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139614-0.7790632043996488",
     "character": "廐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마구간 구",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43101,7 +43101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139621-0.5385246004097224",
     "character": "瞿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "놀랄 구",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43111,7 +43111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139623-0.7127712931616844",
     "character": "絿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "급할 구",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43121,7 +43121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139625-0.5990948262529712",
     "character": "衢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "네거리 구",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43131,7 +43131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139627-0.8081345417442292",
     "character": "謳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "노래 구",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43141,7 +43141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139631-0.8578261789624866",
     "character": "窘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "군색할 군",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43151,7 +43151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139633-0.5375427738326082",
     "character": "芎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "궁궁이 궁",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43161,7 +43161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139635-0.21533946932741643",
     "character": "淃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돌아흐를 권",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43171,7 +43171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139638-0.4951493444357249",
     "character": "獗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "날뛸 궐",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43181,7 +43181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139640-0.8232800490808967",
     "character": "蕨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고사리 궐",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43191,7 +43191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139646-0.7733153598233593",
     "character": "饋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "먹일 궤",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43201,7 +43201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139648-0.4938060535925829",
     "character": "槻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물푸레나무 규",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43211,7 +43211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139650-0.10276527787825218",
     "character": "竅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "구멍 규",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43221,7 +43221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139652-0.16835347527698086",
     "character": "赳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "헌걸찰 규",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43231,7 +43231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139655-0.7438222836878934",
     "character": "糺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "살필 규",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -43241,7 +43241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139657-0.27213893125140987",
     "character": "勻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고를 균",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43251,7 +43251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139660-0.6399317197850393",
     "character": "懃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "은근할 근",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43261,7 +43261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139662-0.9041330819259344",
     "character": "芹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "미나리 근",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43271,7 +43271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139663-0.5909272226871812",
     "character": "菫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "씀바귀 근",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43281,7 +43281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139665-0.2344979402741032",
     "character": "嫤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -43291,7 +43291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139667-0.8330227723629406",
     "character": "妗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "외숙모 금",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43301,7 +43301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139669-0.15005788911856688",
     "character": "擒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사로잡을 금",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43311,7 +43311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139673-0.7759682189487803",
     "character": "檎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "능금 금",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43321,7 +43321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139675-0.06005202958484179",
     "character": "伋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "생각할 급",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43331,7 +43331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139681-0.35320932584319864",
     "character": "夔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "조심할 기",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43341,7 +43341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139688-0.13947289739764268",
     "character": "祁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "클 기",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43351,7 +43351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139691-0.8461762225500594",
     "character": "耭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밭갈 기",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43361,7 +43361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139693-0.08979271996876881",
     "character": "肌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "살 기",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43371,7 +43371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139702-0.09113631826667834",
     "character": "稘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기약할 기",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -43381,7 +43381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139704-0.8806416843320439",
     "character": "拮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "일할 길",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43391,7 +43391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139714-0.44757133940854255",
     "character": "儺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "푸닥거리 나",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -43401,7 +43401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139715-0.8356269924231416",
     "character": "拿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잡을 나",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -43411,7 +43411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139718-0.7907854826464048",
     "character": "撚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비빌 년",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -43421,7 +43421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139719-0.9958915568022093",
     "character": "拈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "집을 념",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -43431,7 +43431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139720-0.9310481375348787",
     "character": "弩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쇠뇌 노",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -43441,7 +43441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139723-0.8624100444967233",
     "character": "訥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "말더듬거릴 눌",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -43451,7 +43451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139728-0.9929125070054198",
     "character": "喇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나팔 라",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43461,7 +43461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139729-0.28810470325754245",
     "character": "挐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잡을 나",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -43471,7 +43471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139730-0.02036880939992458",
     "character": "煖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "더울 난",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43481,7 +43481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139732-0.10850653273003963",
     "character": "枏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "녹나무 남",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43491,7 +43491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139735-0.9751722697785312",
     "character": "衲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기울 납",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43501,7 +43501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139738-0.3750110279711286",
     "character": "秊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "해 년",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43511,7 +43511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139742-0.2914184123482332",
     "character": "捻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비틀 념",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43521,7 +43521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139744-0.8283305161598804",
     "character": "寗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "차라리 녕",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43531,7 +43531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139746-0.12240928493231806",
     "character": "瑙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마노 노",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43541,7 +43541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139748-0.6223470363930231",
     "character": "駑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "둔한말 노",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43551,7 +43551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139750-0.30130956189312086",
     "character": "嫩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어릴 눈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43561,7 +43561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139752-0.9868362167937353",
     "character": "杻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "싸리 뉴",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43571,7 +43571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139756-0.8781127116098275",
     "character": "柅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "굄목 니",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -43581,7 +43581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139758-0.1684772033694245",
     "character": "待",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기다릴 대",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "6급",
@@ -43591,7 +43591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139779-0.5078842984193956",
     "character": "蛋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "새알 단",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -43601,7 +43601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139781-0.7330877867317895",
     "character": "袒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옷벗어멜 단",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -43611,7 +43611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139785-0.29919057582592246",
     "character": "湛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "즐길 담",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -43621,7 +43621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139795-0.4674862029809379",
     "character": "幢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기 당",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -43631,7 +43631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139806-0.8340598264440026",
     "character": "悳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "큰 덕",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급Ⅱ",
@@ -43641,7 +43641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139815-0.018960911291420413",
     "character": "賭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "내기 도",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -43651,7 +43651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139820-0.42367228733894013",
     "character": "牘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "편지 독",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -43661,7 +43661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139823-0.3565917256764387",
     "character": "禿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "대머리 독",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -43671,7 +43671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139826-0.9777055743445761",
     "character": "旽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밝을 돈",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -43681,7 +43681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139828-0.329127664333247",
     "character": "沌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "엉길 돈",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -43691,7 +43691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139842-0.5506602688457828",
     "character": "胴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "큰창자/몸통 동",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -43701,7 +43701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139845-0.7714109559364879",
     "character": "兜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "투구 두",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -43711,7 +43711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139853-0.7411938850962613",
     "character": "遯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "도망할 돈",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -43721,7 +43721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139866-0.13824908231918553",
     "character": "爹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아비 다",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -43731,7 +43731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139869-0.3648397641896376",
     "character": "亶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "진실로 단",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43741,7 +43741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139871-0.8368794509441205",
     "character": "彖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "판단할 단",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43751,7 +43751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139873-0.0662014017167285",
     "character": "簞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "소쿠리 단",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43761,7 +43761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139875-0.4001042398784894",
     "character": "鄲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "한단 단",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43771,7 +43771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139878-0.2690278525707389",
     "character": "澾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "미끄러울 달",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43781,7 +43781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139880-0.05598749821202065",
     "character": "獺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "수달 달",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43791,7 +43791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139883-0.06476823711764579",
     "character": "啖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "씹을 담",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43801,7 +43801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139885-0.435951524114212",
     "character": "坍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "무너질 담",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43811,7 +43811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139892-0.7903949866764508",
     "character": "憺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "참담할 담",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43821,7 +43821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139894-0.3224245269228496",
     "character": "聃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "귓바퀴없을 담",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43831,7 +43831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139896-0.7058891264756585",
     "character": "蕁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지모 담",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43841,7 +43841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139901-0.33737596142141435",
     "character": "錟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "창 담",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43851,7 +43851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139905-0.21902309124374086",
     "character": "戇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어리석을 당",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43861,7 +43861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139911-0.31475987977237807",
     "character": "坮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돈대 대",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43871,7 +43871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139918-0.8984883495261222",
     "character": "黛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "눈썹그릴 대",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43881,7 +43881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139920-0.22413117437052",
     "character": "旲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밝을 태",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -43891,7 +43891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139923-0.9735495030638073",
     "character": "嶋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "섬 도",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43901,7 +43901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139925-0.7365440711517246",
     "character": "掉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "흔들 도",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43911,7 +43911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139931-0.13266985316687774",
     "character": "櫂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "상앗대 도",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43921,7 +43921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139934-0.5511163549621801",
     "character": "淘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쌀일 도",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43931,7 +43931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139937-0.8365711545529869",
     "character": "滔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물넘칠 도",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43941,7 +43941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139939-0.1370474659667561",
     "character": "睹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "볼 도",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -43951,7 +43951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139941-0.579821870348058",
     "character": "覩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "볼 도",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43961,7 +43961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139944-0.5704953844853682",
     "character": "韜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "감출 도",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43971,7 +43971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139947-0.004330161724308557",
     "character": "纛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "둑 독",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43981,7 +43981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139956-0.2552555586590899",
     "character": "仝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "한가지 동",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -43991,7 +43991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139960-0.8319891191762898",
     "character": "蝀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "무지개 동",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -44001,7 +44001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139962-0.3310823149019335",
     "character": "膧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "살찔 동",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -44011,7 +44011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139965-0.6202591801811409",
     "character": "曈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밝아올 동",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -44021,7 +44021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139968-0.2548639230483867",
     "character": "彤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "붉은칠할 동",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -44031,7 +44031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139970-0.009724720167834766",
     "character": "烔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뜨거울 동",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -44041,7 +44041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139974-0.13188640889892",
     "character": "竇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "구멍 두",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44051,7 +44051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139977-0.9305078748362603",
     "character": "荳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "팥 두",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44061,7 +44061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139979-0.09909091454925933",
     "character": "逗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "머무를 두",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44071,7 +44071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139982-0.8373488342472496",
     "character": "阧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "언덕 두",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -44081,7 +44081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139985-0.03158054086035966",
     "character": "臀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "볼기 둔",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -44091,7 +44091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139988-0.4132920166088746",
     "character": "芚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "싹돋을 둔",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44101,7 +44101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139990-0.7481404386312083",
     "character": "嶝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고개 등",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44111,7 +44111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139992-0.16762102889008124",
     "character": "橙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "귤/걸상 등",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -44121,7 +44121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971139998-0.6200352517536837",
     "character": "凉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "서늘할 량",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "특급Ⅱ",
@@ -44131,7 +44131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140002-0.913149638843392",
     "character": "綠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "푸를 록",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "6급",
@@ -44141,7 +44141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140005-0.7542698040659064",
     "character": "李",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "오얏 리",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "6급",
@@ -44151,7 +44151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140047-0.4760355134760429",
     "character": "蘿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "담쟁이 라",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -44161,7 +44161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140049-0.6390267737983457",
     "character": "癩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "문둥이 라",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44171,7 +44171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140056-0.3121939402220213",
     "character": "駱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "낙타 락",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44181,7 +44181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140061-0.9466726920325147",
     "character": "鸞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "난새 란",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44191,7 +44191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140065-0.51361241881126",
     "character": "蠟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밀 랍",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44201,7 +44201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140072-0.6244589011067715",
     "character": "樑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "들보 량",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급Ⅱ",
@@ -44211,7 +44211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140075-0.7537407708982359",
     "character": "儷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "짝 려",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -44221,7 +44221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140077-0.31364632369265066",
     "character": "藜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "명아주 려",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -44231,7 +44231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140079-0.08033055261834143",
     "character": "驢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나귀 려",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -44241,7 +44241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140088-0.09905449929678245",
     "character": "濾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거를 려",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44251,7 +44251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140091-0.05312919631762236",
     "character": "瀝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "스밀 력",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44261,7 +44261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140093-0.05616606522141099",
     "character": "礫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "조약돌 력",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44271,7 +44271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140104-0.01951265662466828",
     "character": "殮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "염할 렴",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44281,7 +44281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140106-0.03510749451178752",
     "character": "翎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "깃 령",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -44291,7 +44291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140114-0.5495672825244429",
     "character": "櫓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "노/방패 로",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -44301,7 +44301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140119-0.21410604683360923",
     "character": "鹵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "개펄 로",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -44311,7 +44311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140121-0.07453926346086359",
     "character": "麓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산기슭 록",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44321,7 +44321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140126-0.651770771948178",
     "character": "瀨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "여울 뢰",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -44331,7 +44331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140128-0.4701431754881824",
     "character": "牢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "우리 뢰",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44341,7 +44341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140132-0.9721590459198207",
     "character": "寮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "동관 료",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44351,7 +44351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140136-0.7692183574819831",
     "character": "婁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "끌 루",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -44361,7 +44361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140142-0.1195142430596452",
     "character": "溜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "처마물 류",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44371,7 +44371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140144-0.31908721284137365",
     "character": "榴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "석류 류",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -44381,7 +44381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140146-0.5946657466918981",
     "character": "瘤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "혹 류",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44391,7 +44391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140155-0.853949913317837",
     "character": "勒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "굴레 륵",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44401,7 +44401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140158-0.025923283775657002",
     "character": "廩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쌀곳간 름",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급",
@@ -44411,7 +44411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140165-0.12076375020239427",
     "character": "稜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "모날 릉",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44421,7 +44421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140171-0.0923295095168668",
     "character": "釐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "다스릴 리",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44431,7 +44431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140173-0.4324701316635352",
     "character": "鯉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잉어 리",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -44441,7 +44441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140179-0.8116101877843048",
     "character": "罹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "걸릴 리",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44451,7 +44451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140182-0.6262524133230098",
     "character": "裡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "속 리",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44461,7 +44461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140188-0.9256818906559483",
     "character": "燐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "도깨비불 린",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -44471,7 +44471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140195-0.22364788778159195",
     "character": "邏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "순라 라",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -44481,7 +44481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140197-0.45569951882011484",
     "character": "剆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "벨 락",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -44491,7 +44491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140198-0.6029361298758923",
     "character": "欒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "단란할 란",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44501,7 +44501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140202-0.4491512309929855",
     "character": "嵐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아지랑이 람",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44511,7 +44511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140203-0.8870253617460179",
     "character": "擥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잡을 람",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44521,7 +44521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140205-0.7831284224900608",
     "character": "攬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잡을 람",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44531,7 +44531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140206-0.8975696333946582",
     "character": "欖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "감람나무 람",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44541,7 +44541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140210-0.9028370131786713",
     "character": "纜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "닻줄 람",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44551,7 +44551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140213-0.6647395681558383",
     "character": "瑯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "법랑 랑",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44561,7 +44561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140216-0.6788545701515691",
     "character": "螂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사마귀 랑",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44571,7 +44571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140219-0.8617112466530371",
     "character": "徠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "올 래",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44581,7 +44581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140222-0.1069525974770914",
     "character": "粮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "양식 량",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44591,7 +44591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140225-0.043821191792822844",
     "character": "粱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기장 량",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -44601,7 +44601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140230-0.4283508649069575",
     "character": "櫚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "종려나무 려",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44611,7 +44611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140232-0.5190524917545072",
     "character": "蠣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "굴 려",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44621,7 +44621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140239-0.69246165084342",
     "character": "孌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아름다울 련",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -44631,7 +44631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140247-0.42093424424813863",
     "character": "岺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산깊을 령",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44641,7 +44641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140249-0.31458765736862127",
     "character": "笭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "다래끼 령",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44651,7 +44651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140251-0.6653166492917906",
     "character": "逞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쾌할 령",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -44661,7 +44661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140255-0.826189775652332",
     "character": "囹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥 령",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -44671,7 +44671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140257-0.8464505231892966",
     "character": "羚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "영양 령",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44681,7 +44681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140260-0.8155637811743974",
     "character": "聆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "들을 령",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44691,7 +44691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140265-0.7389498601331154",
     "character": "泠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "맑을 령",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -44701,7 +44701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140267-0.2693276596574372",
     "character": "澧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물이름 례",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44711,7 +44711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140269-0.8525238204274892",
     "character": "擄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "노략질할 로",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -44721,7 +44721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140271-0.3895696389794433",
     "character": "潞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물이름 로",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44731,7 +44731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140273-0.16564542981032737",
     "character": "瀘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물이름 로",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44741,7 +44741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140275-0.8527328463132954",
     "character": "輅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "수레 로",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44751,7 +44751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140278-0.9189107568585236",
     "character": "嚧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "웃을 로",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -44761,7 +44761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140280-0.4224534105834886",
     "character": "菉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "조개풀 록",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44771,7 +44771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140282-0.8878896703621066",
     "character": "碌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "푸른돌 록",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -44781,7 +44781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140285-0.042902889462740124",
     "character": "朧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "몽롱할 롱",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44791,7 +44791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140290-0.4218904402630703",
     "character": "壟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밭두둑 롱",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -44801,7 +44801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140292-0.022945331011453796",
     "character": "賚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "줄 뢰",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44811,7 +44811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140296-0.6811325286984887",
     "character": "磊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돌무더기 뢰",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -44821,7 +44821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140298-0.040469960246624304",
     "character": "蓼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "여뀌 료",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44831,7 +44831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140300-0.3478579507498921",
     "character": "廖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "공허할 료",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44841,7 +44841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140303-0.17179554359593363",
     "character": "聊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "애오라지 료",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -44851,7 +44851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140306-0.7965012458449012",
     "character": "燎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "횃불 료",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -44861,7 +44861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140308-0.7106976909225514",
     "character": "縷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "실오리 루",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44871,7 +44871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140310-0.41763628506624306",
     "character": "瘻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부스럼 루",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44881,7 +44881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140312-0.3907414353992662",
     "character": "蔞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물쑥 루",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44891,7 +44891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140316-0.3525367178122607",
     "character": "鏤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "새길 루",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44901,7 +44901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140319-0.028759983085753338",
     "character": "旒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "깃발 류",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44911,7 +44911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140321-0.08506921336128648",
     "character": "瀏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "맑을 류",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44921,7 +44921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140323-0.010784156782403409",
     "character": "瑠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "유리 류",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44931,7 +44931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140328-0.25128893149971254",
     "character": "錀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쇠 륜",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -44941,7 +44941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140333-0.5024076411706369",
     "character": "厘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "다스릴 리",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44951,7 +44951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140335-0.7768063573550519",
     "character": "唎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "소리 리",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44961,7 +44961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140338-0.19073992529131412",
     "character": "浬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "해리 리",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44971,7 +44971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140340-0.9357714771874714",
     "character": "犁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쟁기 려",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44981,7 +44981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140342-0.24850748515141086",
     "character": "狸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "삵 리",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -44991,7 +44991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140344-0.8616898118185355",
     "character": "羸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "야윌 리",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45001,7 +45001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140351-0.31004913725799943",
     "character": "涖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "임할 리",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -45011,7 +45011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140353-0.4606264709200436",
     "character": "藺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "골풀 린",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45021,7 +45021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140360-0.3413150821953439",
     "character": "撛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "끌 련",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -45031,7 +45031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140362-0.05146696402346218",
     "character": "鄰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이웃 린",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -45041,7 +45041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140364-0.2254692781515032",
     "character": "砬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돌소리 립",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45051,7 +45051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140368-0.8587832373114495",
     "character": "買",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "살 매",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "5급",
@@ -45061,7 +45061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140410-0.2630205905084989",
     "character": "卍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "만 만",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45071,7 +45071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140413-0.5017657396375836",
     "character": "彎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "굽을 만",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45081,7 +45081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140421-0.9177179531126893",
     "character": "輓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "끌/애도할 만",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45091,7 +45091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140423-0.04514507999327455",
     "character": "抹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지울 말",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45101,7 +45101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140427-0.1326785984392247",
     "character": "芒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "까끄라기 망",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45111,7 +45111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140438-0.26927869701284135",
     "character": "皿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "그릇 명",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45121,7 +45121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140443-0.0495014682898689",
     "character": "瑁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "대모 모",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -45131,7 +45131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140457-0.08517257755494667",
     "character": "蕪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거칠 무",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45141,7 +45141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140459-0.8789644205867061",
     "character": "誣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "속일 무",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45151,7 +45151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140461-0.7867356825916646",
     "character": "吻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "입술 문",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -45161,7 +45161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140469-0.5901431736852413",
     "character": "愍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "슬퍼할 민",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -45171,7 +45171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140473-0.14803939851454773",
     "character": "碼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마노 마",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45181,7 +45181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140476-0.2195654561571695",
     "character": "万",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "일만 만",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45191,7 +45191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140478-0.5749662587775937",
     "character": "巒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "멧부리 만",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45201,7 +45201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140481-0.6043868296487872",
     "character": "饅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "만두 만",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -45211,7 +45211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140483-0.21545877988989925",
     "character": "鰻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뱀장어 만",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -45221,7 +45221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140486-0.3738528425561841",
     "character": "唜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "끝 말",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45231,7 +45231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140490-0.9366912279917073",
     "character": "襪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "버선 말",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -45241,7 +45241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140494-0.04211947075624489",
     "character": "輞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "바퀴테 망",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45251,7 +45251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140499-0.27741403972005496",
     "character": "陌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밭두둑길 맥",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45261,7 +45261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140502-0.3276085993616318",
     "character": "驀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뛰어넘을 맥",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45271,7 +45271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140504-0.5191878751862058",
     "character": "氓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "백성 맹",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45281,7 +45281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140506-0.7774771527611116",
     "character": "冪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "덮을 멱",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45291,7 +45291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140509-0.7171289867040056",
     "character": "眄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "곁눈질할 면",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -45301,7 +45301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140511-0.21207753142507457",
     "character": "緬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "멀 면",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -45311,7 +45311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140513-0.7676555241235338",
     "character": "暝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "저물 명",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -45321,7 +45321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140515-0.3662795643533773",
     "character": "椧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "홈통 명",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45331,7 +45331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140518-0.20425339650104646",
     "character": "瞑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "눈감을 명",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45341,7 +45341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140520-0.8500903472636144",
     "character": "茗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "차싹 명",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45351,7 +45351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140522-0.9117912076128997",
     "character": "蓂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "명협 명",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45361,7 +45361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140524-0.3086022734427575",
     "character": "螟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "멸구 명",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -45371,7 +45371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140527-0.1580131715608587",
     "character": "慏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "힘쓸 민",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -45381,7 +45381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140529-0.09375900004606785",
     "character": "洺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "강이름 명",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -45391,7 +45391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140531-0.16911829896550146",
     "character": "袂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "소매 몌",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -45401,7 +45401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140533-0.5442723559200933",
     "character": "姆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "여스승 모",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45411,7 +45411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140537-0.42220768893393357",
     "character": "摹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "모뜰 모",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45421,7 +45421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140539-0.08720659514798346",
     "character": "眸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "눈동자 모",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45431,7 +45431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140541-0.8318743327170921",
     "character": "芼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나물 모",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45441,7 +45441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140542-0.9207903338212271",
     "character": "鶩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "집오리 목",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45451,7 +45451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140544-0.45355228116615376",
     "character": "朦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "몽롱할 몽",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45461,7 +45461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140546-0.6759368417235082",
     "character": "杳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아득할 묘",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -45471,7 +45471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140548-0.06780776768124319",
     "character": "渺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아득할/물질펀할 묘",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -45481,7 +45481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140550-0.7127366113206633",
     "character": "竗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "묘할 묘",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45491,7 +45491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140556-0.9440123245670446",
     "character": "无",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "없을 무",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45501,7 +45501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140558-0.6332697746164984",
     "character": "楙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "모과나무 무",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45511,7 +45511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140561-0.800088002996785",
     "character": "繆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "얽을 무",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45521,7 +45521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140563-0.07291561197377905",
     "character": "們",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "무리 문",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45531,7 +45531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140564-0.5184559052611368",
     "character": "刎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "목자를 문",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45541,7 +45541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140569-0.4970220221139293",
     "character": "雯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "구름무늬 문",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45551,7 +45551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140573-0.8328129270632082",
     "character": "沕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아득할 물",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45561,7 +45561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140575-0.8022865538607422",
     "character": "媚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아첨할/예쁠 미",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -45571,7 +45571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140578-0.4930562257822989",
     "character": "嵋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산이름 미",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45581,7 +45581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140580-0.5539933734263783",
     "character": "梶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나무끝 미",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45591,7 +45591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140582-0.33168705134338095",
     "character": "楣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "인중방 미",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45601,7 +45601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140586-0.6189751957112378",
     "character": "湄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물가 미",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45611,7 +45611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140589-0.7326145698618538",
     "character": "謎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "수수께끼 미",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45621,7 +45621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140592-0.10140672142063611",
     "character": "黴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기미낄 미",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45631,7 +45631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140593-0.5328811603028353",
     "character": "媄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 미",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -45641,7 +45641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140594-0.2493365622574516",
     "character": "嵄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산이름 매",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -45651,7 +45651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140595-0.6933919220393451",
     "character": "躾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예절 미",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -45661,7 +45661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140597-0.8675047532927561",
     "character": "媺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아름다울 미",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -45671,7 +45671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140601-0.4957219443485701",
     "character": "泯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빠질 민",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45681,7 +45681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140605-0.7279912357600637",
     "character": "緡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돈꿰미 민",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -45691,7 +45691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140606-0.5279069261715312",
     "character": "暋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "강할/번민할 민",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -45701,7 +45701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140609-0.3592502356305465",
     "character": "潣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물졸졸흐를 민",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -45711,7 +45711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140610-0.26896567271929694",
     "character": "砇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돌 분",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -45721,7 +45721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140611-0.46481399695629944",
     "character": "謐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고요할 밀",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -45731,7 +45731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140613-0.8199924099317226",
     "character": "朴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "성 박",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "6급",
@@ -45741,7 +45741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140646-0.19797618209085144",
     "character": "峯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "봉우리 봉",
     "daehan": null,
     "korcham": "3급",
     "uhmoon": "3급Ⅱ",
@@ -45751,7 +45751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140657-0.3271381487042371",
     "character": "祕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "숨길 비",
     "daehan": null,
     "korcham": "3급",
     "uhmoon": "4급",
@@ -45761,7 +45761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140662-0.24857811569224286",
     "character": "剝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "벗길 박",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45771,7 +45771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140664-0.09933548674548265",
     "character": "搏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "두드릴 박",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45781,7 +45781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140666-0.16509771931867456",
     "character": "箔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "발 박",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45791,7 +45791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140670-0.9703752749033965",
     "character": "攀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "더위잡을 반",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45801,7 +45801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140672-0.9392253320404569",
     "character": "斑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아롱질 반",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45811,7 +45811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140674-0.6756726079101203",
     "character": "槃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쟁반 반",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45821,7 +45821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140675-0.5322922267033674",
     "character": "泮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "얼음풀릴/학교 반",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -45831,7 +45831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140677-0.011103886374334682",
     "character": "礬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "백반 반",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45841,7 +45841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140680-0.06787462343987438",
     "character": "撥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "다스릴 발",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45851,7 +45851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140684-0.7591269993602269",
     "character": "醱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "술괼 발",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45861,7 +45861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140686-0.6633430099585651",
     "character": "幇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "도울 방",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45871,7 +45871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140689-0.24237350632569188",
     "character": "枋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "다목 방",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45881,7 +45881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140690-0.2988451548694544",
     "character": "榜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "방붙일 방",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45891,7 +45891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140695-0.514227144961237",
     "character": "盃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잔 배",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -45901,7 +45901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140696-0.008707380445659996",
     "character": "胚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아기밸 배",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45911,7 +45911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140701-0.611624969660529",
     "character": "栢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "측백 백",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -45921,7 +45921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140703-0.7092100582800961",
     "character": "幡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기 번",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -45931,7 +45931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140705-0.07773819332041909",
     "character": "樊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "울 번",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -45941,7 +45941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140707-0.2363314157847195",
     "character": "燔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "구울 번",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -45951,7 +45951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140710-0.8944699520315951",
     "character": "藩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "울타리 번",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45961,7 +45961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140712-0.32999057136819754",
     "character": "梵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "불경 범",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45971,7 +45971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140713-0.8600769549082088",
     "character": "泛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뜰 범",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45981,7 +45981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140716-0.24855348093334362",
     "character": "癖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "버릇 벽",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -45991,7 +45991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140723-0.42797750886652874",
     "character": "幷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아우를 병",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -46001,7 +46001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140730-0.04285899961220563",
     "character": "騈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쌍말 변",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -46011,7 +46011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140734-0.2625060250366741",
     "character": "洑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "스며흐를 복",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46021,7 +46021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140744-0.5326759524578047",
     "character": "茯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "복령 복",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -46031,7 +46031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140767-0.040506406360195424",
     "character": "趺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가부좌할 부",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -46041,7 +46041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140774-0.31878362130817695",
     "character": "棚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사다리 붕",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46051,7 +46051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140779-0.5592086114575869",
     "character": "沸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "끓을 비",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46061,7 +46061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140783-0.9339754812734576",
     "character": "痺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "저릴 비",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46071,7 +46071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140784-0.7760431350247688",
     "character": "砒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비상 비",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46081,7 +46081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140787-0.9002101196819605",
     "character": "翡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물총새 비",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46091,7 +46091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140790-0.18172217083997988",
     "character": "裨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "도울 비",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46101,7 +46101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140794-0.8274054653626292",
     "character": "殯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빈소 빈",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46111,7 +46111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140799-0.08166359816477631",
     "character": "樸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "순박할 박",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46121,7 +46121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140802-0.629656362359048",
     "character": "粕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지게미 박",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46131,7 +46131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140803-0.6991754803671015",
     "character": "膊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "팔뚝 박",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46141,7 +46141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140804-0.6003441263386272",
     "character": "雹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "우박 박",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46151,7 +46151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140807-0.7259736743661857",
     "character": "拌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "버릴 반",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46161,7 +46161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140808-0.09080341055183017",
     "character": "瘢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "흉터 반",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46171,7 +46171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140809-0.7464753473156528",
     "character": "盼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "눈예쁠 반",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46181,7 +46181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140810-0.7146937990648773",
     "character": "絆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "얽어맬 반",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46191,7 +46191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140811-0.06093740764244715",
     "character": "蟠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "서릴 반",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46201,7 +46201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140814-0.5731557811773116",
     "character": "魃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가물 발",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46211,7 +46211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140816-0.2788733068295908",
     "character": "尨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "삽살개 방",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46221,7 +46221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140822-0.9841386294838461",
     "character": "磅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돌떨어지는소리 방",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46231,7 +46231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140824-0.8171334777640117",
     "character": "舫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쌍배 방",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46241,7 +46241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140826-0.8345026967559201",
     "character": "蒡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "우엉 방",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46251,7 +46251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140827-0.6080469634155918",
     "character": "蚌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "조개 방",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46261,7 +46261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140835-0.689104317862104",
     "character": "焙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "불쬘 배",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46271,7 +46271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140837-0.39844564243919633",
     "character": "裴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "성 배",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46281,7 +46281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140839-0.9821328134363374",
     "character": "褙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "배자 배",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46291,7 +46291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140844-0.6580426940212485",
     "character": "琺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "법랑 법",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46301,7 +46301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140846-0.5249697964103478",
     "character": "劈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쪼갤 벽",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46311,7 +46311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140847-0.8354637603951226",
     "character": "擘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "엄지손가락 벽",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46321,7 +46321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140849-0.4371799512004473",
     "character": "檗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "황벽나무 벽",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46331,7 +46331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140849-0.8169656298978244",
     "character": "蘗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "황경나무 벽",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46341,7 +46341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140851-0.6325862553182855",
     "character": "瞥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "눈깜짝할 별",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46351,7 +46351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140852-0.45420348857273485",
     "character": "鱉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "자라 별",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46361,7 +46361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140853-0.790135279271729",
     "character": "鼈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "자라 별",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46371,7 +46371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140854-0.4078562066024223",
     "character": "襒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옷펄럭일 별",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -46381,7 +46381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140855-0.20494897214090946",
     "character": "昞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밝을 병",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급Ⅱ",
@@ -46391,7 +46391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140860-0.26214386477153606",
     "character": "湺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사람이름 보",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46401,7 +46401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140863-0.8788808097928864",
     "character": "珤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "보배 보",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46411,7 +46411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140865-0.4409546642705172",
     "character": "匐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "길 복",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46421,7 +46421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140867-0.6933300650606415",
     "character": "宓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "성 복",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46431,7 +46431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140870-0.02841577252970162",
     "character": "蔔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "무 복",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46441,7 +46441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140872-0.7265862283411535",
     "character": "輹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "바퀴통 복",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46451,7 +46451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140874-0.8811066582996263",
     "character": "鰒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "전복 복",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46461,7 +46461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140879-0.13753705874154054",
     "character": "乶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "땅이름 볼",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46471,7 +46471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140881-0.11835239683866416",
     "character": "熢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "내자옥할 봉",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46481,7 +46481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140882-0.26999348048345695",
     "character": "咐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "분부할 부",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46491,7 +46491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140883-0.43985011232181137",
     "character": "埠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부두 부",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46501,7 +46501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140886-0.7064035541016656",
     "character": "缶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "장군 부",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46511,7 +46511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140887-0.6189963045657259",
     "character": "艀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거룻배 부",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46521,7 +46521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140888-0.515752516061366",
     "character": "莩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "갈청 부",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46531,7 +46531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140890-0.02346815005306835",
     "character": "駙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부마 부",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46541,7 +46541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140891-0.11118741263066567",
     "character": "鳧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물오리 부",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46551,7 +46551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140894-0.5742930813868778",
     "character": "吩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "분부할 분",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46561,7 +46561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140896-0.8844395191863399",
     "character": "扮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꾸밀 분",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46571,7 +46571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140897-0.07540766994439352",
     "character": "昐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "햇빛 분",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46581,7 +46581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140898-0.29338070482081935",
     "character": "賁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "클 분",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46591,7 +46591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140900-0.4697401673035826",
     "character": "彿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비슷할 불",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46601,7 +46601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140901-0.7747526117822007",
     "character": "硼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "붕사 붕",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46611,7 +46611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140903-0.28047597122316414",
     "character": "繃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "묶을 붕",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46621,7 +46621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140904-0.00971311512630102",
     "character": "憊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고단할 비",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46631,7 +46631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140907-0.441707993221245",
     "character": "斐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아롱질 비",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46641,7 +46641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140909-0.10194318437335481",
     "character": "榧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비자나무 비",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46651,7 +46651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140911-0.9010580245535218",
     "character": "秕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쭉정이 비",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46661,7 +46661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140912-0.8143893688846044",
     "character": "粃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쭉정이 비",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46671,7 +46671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140913-0.24545777015165715",
     "character": "菲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "엷을 비",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46681,7 +46681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140914-0.6691476927387427",
     "character": "蜚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "바퀴 비",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46691,7 +46691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140917-0.07188159599455834",
     "character": "毗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "도울 비",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46701,7 +46701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140919-0.6482198372731799",
     "character": "棐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "도지개 비",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -46711,7 +46711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140921-0.6853032228086341",
     "character": "嚬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "찡그릴 빈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46721,7 +46721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140923-0.2755759116509322",
     "character": "檳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빈랑나무 빈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46731,7 +46731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140925-0.7778111914576165",
     "character": "浜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물가 빈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46741,7 +46741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140927-0.8975211849050663",
     "character": "瀕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물가/가까울 빈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -46751,7 +46751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140931-0.8080941345579056",
     "character": "玭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "진주 빈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46761,7 +46761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140933-0.749352524423042",
     "character": "儐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "인도할 빈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -46771,7 +46771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140935-0.889850327177239",
     "character": "璸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥의무늬 빈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -46781,7 +46781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140937-0.6040235491123959",
     "character": "穦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "벼이삭 비",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -46791,7 +46791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140939-0.5871500890411446",
     "character": "邠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나라이름 빈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -46801,7 +46801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140941-0.43513314590901164",
     "character": "繽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어지러울 빈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -46811,7 +46811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140943-0.3805915826335041",
     "character": "騁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "달릴 빙",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -46821,7 +46821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140948-0.16072668469852147",
     "character": "樹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나무 수",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "6급",
@@ -46831,7 +46831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971140950-0.8959142775594702",
     "character": "宿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잘 숙",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "5급Ⅱ",
@@ -46841,7 +46841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141004-0.47032293123028857",
     "character": "術",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "재주 술",
     "daehan": null,
     "korcham": "3급",
     "uhmoon": "6급Ⅱ",
@@ -46851,7 +46851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141016-0.956204582915535",
     "character": "僿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잘게부술 사",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -46861,7 +46861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141030-0.44476079822440906",
     "character": "砂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "모래 사",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -46871,7 +46871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141037-0.5439785785573124",
     "character": "莎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사초 사",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -46881,7 +46881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141041-0.5691354773795777",
     "character": "麝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사향노루 사",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46891,7 +46891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141044-0.24695493550200254",
     "character": "刪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "깎을 산",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46901,7 +46901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141049-0.432614773608608",
     "character": "煞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "죽일 살",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46911,7 +46911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141052-0.09025302837356441",
     "character": "衫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "적삼 삼",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -46921,7 +46921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141054-0.10155324654326914",
     "character": "滲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "스밀 삼",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46931,7 +46931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141055-0.7240154406693075",
     "character": "澁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "떫을 삽",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46941,7 +46941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141066-0.5328492116221462",
     "character": "犀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "무소 서",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46951,7 +46951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141067-0.49621907539030796",
     "character": "筮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "점대 서",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -46961,7 +46961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141068-0.1859936532523876",
     "character": "胥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "서로 서",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46971,7 +46971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141070-0.8765695919055648",
     "character": "薯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "감자 서",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -46981,7 +46981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141071-0.2625524461279699",
     "character": "鋤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "호미 서",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -46991,7 +46991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141072-0.40147504470813744",
     "character": "黍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기장 서",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47001,7 +47001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141073-0.36709969865409064",
     "character": "鼠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쥐 서",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47011,7 +47011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141075-0.5727563694183262",
     "character": "潟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "개펄 석",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47021,7 +47021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141081-0.5372120471962109",
     "character": "癬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "버짐 선",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -47031,7 +47031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141087-0.9491693870411221",
     "character": "蟬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "매미 선",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -47041,7 +47041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141089-0.3360860559404878",
     "character": "詵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "말전할/많을 선",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -47051,7 +47051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141094-0.7742504341302601",
     "character": "屑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가루 설",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47061,7 +47061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141103-0.3789161374954184",
     "character": "贍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "넉넉할 섬",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -47071,7 +47071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141113-0.2468901388374546",
     "character": "塑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "흙빚을 소",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47081,7 +47081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141116-0.18916862381207333",
     "character": "宵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밤 소",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47091,7 +47091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141118-0.2508461845247383",
     "character": "梳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "얼레빗 소",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47101,7 +47101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141120-0.06221956001451545",
     "character": "瀟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물이름 소",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -47111,7 +47111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141122-0.6680992715159865",
     "character": "疎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "성길 소",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47121,7 +47121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141124-0.4738313991843116",
     "character": "簫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "퉁소 소",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47131,7 +47131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141127-0.80467356728867",
     "character": "蕭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쓸쓸할 소",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47141,7 +47141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141133-0.24117118542047666",
     "character": "贖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "속죄할 속",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47151,7 +47151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141138-0.5251424862903485",
     "character": "飡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밥 손",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -47161,7 +47161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141147-0.20453090200072066",
     "character": "漱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "양치할 수",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -47171,7 +47171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141148-0.39547226906584343",
     "character": "燧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "봉화 수",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -47181,7 +47181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141162-0.7657294969093953",
     "character": "藪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "숲 수",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -47191,7 +47191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141170-0.0706886887265149",
     "character": "鬚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "수염 수",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -47201,7 +47201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141173-0.8651797824467828",
     "character": "楯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "난간 순",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -47211,7 +47211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141193-0.7909641289589685",
     "character": "褶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사마치/주름 습",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -47221,7 +47221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141198-0.8382690854342213",
     "character": "匙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "숟가락 시",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47231,7 +47231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141206-0.5943421743626002",
     "character": "翅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "날개 시",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -47241,7 +47241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141208-0.27790677994701607",
     "character": "諡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "시호 시",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47251,7 +47251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141211-0.13886403877189535",
     "character": "柿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "감 시",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -47261,7 +47261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141228-0.3319386468823341",
     "character": "乍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잠깐 사",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47271,7 +47271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141230-0.1127290035047741",
     "character": "些",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "적을 사",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -47281,7 +47281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141232-0.3416168835650567",
     "character": "伺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "엿볼 사",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47291,7 +47291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141235-0.8548268757189137",
     "character": "俟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기다릴 사",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47301,7 +47301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141238-0.5538233520469757",
     "character": "柶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "숟가락/윷 사",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47311,7 +47311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141240-0.5711487763827354",
     "character": "梭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "북 사",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47321,7 +47321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141242-0.9275016903185357",
     "character": "渣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "찌끼 사",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47331,7 +47331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141243-0.7872615711817775",
     "character": "篩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "체 사",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47341,7 +47341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141244-0.6377882397486879",
     "character": "蓑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "도롱이 사",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -47351,7 +47351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141245-0.4153503182383046",
     "character": "駟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사마 사",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47361,7 +47361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141247-0.26656336206254505",
     "character": "糸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "실 사",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -47371,7 +47371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141248-0.785899746860593",
     "character": "汕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "오구 산",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47381,7 +47381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141250-0.5861750966906977",
     "character": "疝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산증 산",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -47391,7 +47391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141252-0.846897307756587",
     "character": "蒜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마늘 산",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47401,7 +47401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141254-0.13259416035775962",
     "character": "霰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "싸락눈 산",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47411,7 +47411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141256-0.43337495243422386",
     "character": "乷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "땅이름 살",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47421,7 +47421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141258-0.809821188595943",
     "character": "芟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "풀벨 삼",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47431,7 +47431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141261-0.826257520420911",
     "character": "鈒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "새길 삽",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47441,7 +47441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141263-0.9438651713804118",
     "character": "颯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "바람소리 삽",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47451,7 +47451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141265-0.251020119711845",
     "character": "孀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "홀어미 상",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -47461,7 +47461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141267-0.26843595009188503",
     "character": "峠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고개 상",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47471,7 +47471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141269-0.99825453547138",
     "character": "廂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "곁채 상",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47481,7 +47481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141271-0.626869691214733",
     "character": "橡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "상수리 상",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47491,7 +47491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141274-0.21473150377204853",
     "character": "牀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "평상 상",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47501,7 +47501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141276-0.6610713301809016",
     "character": "觴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잔 상",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -47511,7 +47511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141279-0.9580337305135465",
     "character": "賽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "굿할 새",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47521,7 +47521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141283-0.3310550491921924",
     "character": "墅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "농막 서",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47531,7 +47531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141286-0.47793410524905966",
     "character": "捿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "깃들일 서",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47541,7 +47541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141288-0.45507184923624955",
     "character": "栖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "깃들일 서",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47551,7 +47551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141290-0.10793114710954044",
     "character": "絮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "솜 서",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47561,7 +47561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141293-0.04912226055881552",
     "character": "諝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "슬기 서",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -47571,7 +47571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141295-0.9966210015420575",
     "character": "藇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아름다울 서",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -47581,7 +47581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141299-0.9072184691009025",
     "character": "蓆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "클 석",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47591,7 +47591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141301-0.9554204808292864",
     "character": "僊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "춤훨훨출 선",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47601,7 +47601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141303-0.6924310540383711",
     "character": "敾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사람이름 선",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47611,7 +47611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141307-0.07071248805609509",
     "character": "蘚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이끼 선",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47621,7 +47621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141309-0.4418600584703254",
     "character": "跣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "맨발 선",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47631,7 +47631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141310-0.8908010157978452",
     "character": "鐥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "대야 선",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47641,7 +47641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141311-0.1761442087621916",
     "character": "饍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "반찬 선",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47651,7 +47651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141314-0.20006799426393973",
     "character": "嫙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 선",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -47661,7 +47661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141317-0.5459331971981576",
     "character": "洩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "샐 설",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -47671,7 +47671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141322-0.6254797097841213",
     "character": "齧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "깨물 설",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47681,7 +47681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141324-0.8317500349088727",
     "character": "蔎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "풀이름 설",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -47691,7 +47691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141327-0.11294119437557493",
     "character": "剡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "날카로울 염",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47701,7 +47701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141330-0.38160522734075975",
     "character": "宬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "서고 성",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47711,7 +47711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141332-0.5886721517497255",
     "character": "猩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "성성이 성",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47721,7 +47721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141335-0.30790707181098975",
     "character": "筬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "바디 성",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47731,7 +47731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141337-0.8411268066660298",
     "character": "腥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비릴 성",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47741,7 +47741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141343-0.22279937591478105",
     "character": "貹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "재물 지",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -47751,7 +47751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141344-0.0735439046089078",
     "character": "笹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가는대 세",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47761,7 +47761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141346-0.30875186846411107",
     "character": "忕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "버릇 태",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -47771,7 +47771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141349-0.5518708008436336",
     "character": "溯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거슬러올라갈 소",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47781,7 +47781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141352-0.8499727378849282",
     "character": "甦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "깨어날 소",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -47791,7 +47791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141354-0.7408456697459236",
     "character": "瘙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "피부병 소",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -47801,7 +47801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141356-0.9087525068824561",
     "character": "篠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "조릿대 소",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47811,7 +47811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141359-0.9200367622754799",
     "character": "銷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쇠녹일 소",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47821,7 +47821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141364-0.5630232780273225",
     "character": "愫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "정성 소",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -47831,7 +47831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141365-0.3215520577301588",
     "character": "穌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "깨어날 소",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -47841,7 +47841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141368-0.7426323278017479",
     "character": "涑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물이름 속",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47851,7 +47851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141371-0.17598900257497352",
     "character": "謖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "일어날 속",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47861,7 +47861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141373-0.8561743834266935",
     "character": "蓀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "향풀 손",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47871,7 +47871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141382-0.10343455353262188",
     "character": "嗽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기침할 수",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47881,7 +47881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141384-0.5384391883923701",
     "character": "峀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산굴 수",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47891,7 +47891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141386-0.2972094862346566",
     "character": "璲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "패옥 수",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47901,7 +47901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141389-0.1844116351407339",
     "character": "脩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "길 수",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47911,7 +47911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141392-0.6772242553976356",
     "character": "茱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "수유 수",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47921,7 +47921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141394-0.9938685279437584",
     "character": "蓚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "수산 수",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47931,7 +47931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141396-0.09621182622825819",
     "character": "邃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "깊을 수",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47941,7 +47941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141398-0.14788445973828268",
     "character": "銹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쇳녹날 수",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47951,7 +47951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141402-0.7608625707257427",
     "character": "濉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물이름 수",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -47961,7 +47961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141405-0.26212458515204917",
     "character": "賥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "재물 취",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -47971,7 +47971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141408-0.10677189870395898",
     "character": "潚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물맑을 숙",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -47981,7 +47981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141414-0.8284304795594634",
     "character": "菽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "콩 숙",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -47991,7 +47991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141417-0.48500260124300254",
     "character": "徇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부릴/조리돌릴 순",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48001,7 +48001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141418-0.4625125966745838",
     "character": "恂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "미쁠/무서울 순",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48011,7 +48011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141420-0.9425191856115737",
     "character": "栒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나무이름 순",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48021,7 +48021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141421-0.2740409081018127",
     "character": "橓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "무궁화나무 순",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48031,7 +48031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141424-0.6165517767538625",
     "character": "蓴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "순채 순",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48041,7 +48041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141425-0.3165673664684555",
     "character": "蕣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "무궁화 순",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48051,7 +48051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141428-0.745566778819536",
     "character": "鉥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돗바늘 술",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48061,7 +48061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141429-0.28981943703199053",
     "character": "崧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산높을 숭",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48071,7 +48071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141430-0.5809752197644473",
     "character": "蝨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이 슬",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48081,7 +48081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141433-0.28010685427247384",
     "character": "蠅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "파리 승",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48091,7 +48091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141435-0.27949113608893084",
     "character": "榺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나무이름 박",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -48101,7 +48101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141437-0.22810521459306",
     "character": "氶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "받들 승",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -48111,7 +48111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141440-0.39016605822044137",
     "character": "塍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "두렁 승",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -48121,7 +48121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141442-0.40739467079378455",
     "character": "嘶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "말울/목쉴 시",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48131,7 +48131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141443-0.1782496152648737",
     "character": "屎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "똥 시",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48141,7 +48141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141446-0.8020339648810175",
     "character": "蒔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "모종할 시",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48151,7 +48151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141447-0.033897031271101",
     "character": "蓍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "시초 시",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48161,7 +48161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141448-0.28846055835230644",
     "character": "豕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돼지 시",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48171,7 +48171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141449-0.3619731803766111",
     "character": "豺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "승냥이 시",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -48181,7 +48181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141451-0.7212824438888022",
     "character": "偲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "힘쓸 시",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -48191,7 +48191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141458-0.2833411304869178",
     "character": "篒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "땅이름 식",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48201,7 +48201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141460-0.9913650815844769",
     "character": "侁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "걷는모양 신",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48211,7 +48211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141461-0.4956308359449102",
     "character": "呻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "읊조릴 신",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -48221,7 +48221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141462-0.9185673482948632",
     "character": "宸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "대궐 신",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -48231,7 +48231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141463-0.3996651114842569",
     "character": "燼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "불탄끝 신",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -48241,7 +48241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141465-0.5428165232315905",
     "character": "藎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "조개풀 신",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48251,7 +48251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141466-0.5118145270394426",
     "character": "蜃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "큰조개 신",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -48261,7 +48261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141469-0.10177625156625092",
     "character": "璶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥돌 신",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -48271,7 +48271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141473-0.46036278308450296",
     "character": "芯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "골풀 심",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48281,7 +48281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141475-0.8260032816916936",
     "character": "諶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "믿을 심",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48291,7 +48291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141481-0.4421933701330575",
     "character": "億",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "억 억",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "5급",
@@ -48301,7 +48301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141485-0.7184989553220174",
     "character": "如",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "같을 여",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "4급Ⅱ",
@@ -48311,7 +48311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141541-0.2709293977966052",
     "character": "院",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "집 원",
     "daehan": null,
     "korcham": "3급",
     "uhmoon": "5급",
@@ -48321,7 +48321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141562-0.20400008864281394",
     "character": "任",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "맡길 임",
     "daehan": null,
     "korcham": "3급",
     "uhmoon": "5급Ⅱ",
@@ -48331,7 +48331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141564-0.15917877567187955",
     "character": "俄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아까 아",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48341,7 +48341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141569-0.8756176217846029",
     "character": "蛾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "누에나방 아",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48351,7 +48351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141573-0.9268227991773261",
     "character": "鵝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거위 아",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48361,7 +48361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141577-0.7451102378903893",
     "character": "顎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "턱 악",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48371,7 +48371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141590-0.7658190242788678",
     "character": "秧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "모 앙",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48381,7 +48381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141600-0.27231970383899806",
     "character": "掖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "낄/겨드랑이 액",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48391,7 +48391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141617-0.3540431089219862",
     "character": "釀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "술빚을 양",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48401,7 +48401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141620-0.01879884105460672",
     "character": "堰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "둑 언",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48411,7 +48411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141625-0.12496045304549042",
     "character": "孼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "서자 얼",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48421,7 +48421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141627-0.5872606697881951",
     "character": "儼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "엄연할 엄",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48431,7 +48431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141629-0.46946071904136866",
     "character": "繹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "풀 역",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48441,7 +48441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141631-0.11162459241175948",
     "character": "椽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "서까래 연",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48451,7 +48451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141633-0.17536929638445142",
     "character": "烟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "연기 연",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48461,7 +48461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141636-0.3109888434019277",
     "character": "鳶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "솔개 연",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48471,7 +48471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141637-0.3523544339880238",
     "character": "涅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "열반 녈",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48481,7 +48481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141640-0.8460669281063092",
     "character": "焰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "불꽃 염",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48491,7 +48491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141645-0.06275207675382188",
     "character": "髥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "구레나룻 염",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48501,7 +48501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141647-0.7877178197392636",
     "character": "暎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비칠 영",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급Ⅱ",
@@ -48511,7 +48511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141649-0.3122733339081156",
     "character": "瀛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "바다 영",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48521,7 +48521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141661-0.1160600911254841",
     "character": "睿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "슬기 예",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급Ⅱ",
@@ -48531,7 +48531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141663-0.039499920028415736",
     "character": "穢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "더러울 예",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48541,7 +48541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141676-0.8370417067251439",
     "character": "鰲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "자라 오",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48551,7 +48551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141681-0.1621477556584151",
     "character": "瘟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "염병 온",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48561,7 +48561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141685-0.39006681557255785",
     "character": "蘊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쌓을 온",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48571,7 +48571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141688-0.7728276921002715",
     "character": "兀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "우뚝할 올",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48581,7 +48581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141691-0.39926120648813834",
     "character": "饔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아침밥 옹",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48591,7 +48591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141694-0.784155563409325",
     "character": "窩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "움집 와",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48601,7 +48601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141695-0.21283368232025102",
     "character": "蛙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "개구리 와",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48611,7 +48611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141702-0.037164922457942895",
     "character": "頑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "완고할 완",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48621,7 +48621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141711-0.371203348493214",
     "character": "矮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "난쟁이 왜",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48631,7 +48631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141713-0.3221697830542669",
     "character": "巍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "높고클 외",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48641,7 +48641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141726-0.7648119696899015",
     "character": "褥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "요 욕",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48651,7 +48651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141732-0.1572260528567998",
     "character": "熔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "녹을 용",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "2급",
@@ -48661,7 +48661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141743-0.21500943461420718",
     "character": "盂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "바리 우",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48671,7 +48671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141745-0.9068061071763132",
     "character": "禑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "복 우",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48681,7 +48681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141754-0.3750425275285104",
     "character": "隕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "떨어질 운",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48691,7 +48691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141762-0.16195471646484694",
     "character": "萎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "시들 위",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48701,7 +48701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141764-0.8204921015948636",
     "character": "葦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "갈대 위",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48711,7 +48711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141776-0.6059984417458056",
     "character": "釉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "유약 유",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48721,7 +48721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141778-0.2541726865895365",
     "character": "鍮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "놋쇠 유",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48731,7 +48731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141781-0.2868809193654086",
     "character": "毓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "키울 육",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48741,7 +48741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141788-0.7187020478826185",
     "character": "絨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가는베 융",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48751,7 +48751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141792-0.7826223628732362",
     "character": "蔭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "그늘 음",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48761,7 +48761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141794-0.8576495219822371",
     "character": "揖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "읍할 읍",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48771,7 +48771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141808-0.7308862995347429",
     "character": "蟻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "개미 의",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48781,7 +48781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141814-0.23272339767985373",
     "character": "彛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "떳떳할 이",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48791,7 +48791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141819-0.43707322302515506",
     "character": "餌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "미끼 이",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48801,7 +48801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141823-0.7910824562196584",
     "character": "靭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "질길 인",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -48811,7 +48811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141830-0.7097352821456457",
     "character": "荏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "들깨 임",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -48821,7 +48821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141834-0.13202528607689656",
     "character": "莪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "다북쑥 아",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48831,7 +48831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141836-0.20696552122289735",
     "character": "鴉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "갈까마귀 아",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48841,7 +48841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141838-0.0618416196139816",
     "character": "妸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 아",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -48851,7 +48851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141840-0.6356120824785862",
     "character": "婀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아름다울 아",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -48861,7 +48861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141841-0.2638928810730352",
     "character": "幄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "장막 악",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48871,7 +48871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141843-0.9508993711048551",
     "character": "渥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비젖을/두터울 악",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48881,7 +48881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141844-0.6248010616162809",
     "character": "鄂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "땅이름 악",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48891,7 +48891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141845-0.713021856769939",
     "character": "鍔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "칼날 악",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48901,7 +48901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141847-0.4822308207094598",
     "character": "鰐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "악어 악",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48911,7 +48911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141848-0.7749925905926595",
     "character": "齷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "악착할 악",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48921,7 +48921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141850-0.2493495357986223",
     "character": "鮟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아귀 안",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48931,7 +48931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141855-0.2268589453954366",
     "character": "岩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "바위 암",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48941,7 +48941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141856-0.6506607101028064",
     "character": "唵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "움켜먹을 암",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48951,7 +48951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141859-0.4108264398118653",
     "character": "狎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "친압할 압",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -48961,7 +48961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141861-0.6430378459119747",
     "character": "怏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "원망할 앙",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -48971,7 +48971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141863-0.5216559508091007",
     "character": "昂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "높을 앙",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -48981,7 +48981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141865-0.4602908290700062",
     "character": "靄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아지랑이 애",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -48991,7 +48991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141867-0.9335237884182718",
     "character": "扼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잡을 액",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49001,7 +49001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141870-0.5959734934131208",
     "character": "縊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "목맬 액",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49011,7 +49011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141872-0.7924866362201208",
     "character": "罌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "양병 앵",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49021,7 +49021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141875-0.17725235180408938",
     "character": "揶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "야유할 야",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49031,7 +49031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141877-0.6619292865294626",
     "character": "椰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "야자나무 야",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49041,7 +49041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141881-0.8225039646995848",
     "character": "葯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꽃밥 약",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49051,7 +49051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141883-0.26918533401253",
     "character": "蒻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부들 약",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49061,7 +49061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141886-0.6901219071830108",
     "character": "佯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거짓 양",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49071,7 +49071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141888-0.43468661374462436",
     "character": "恙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "병/근심할 양",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49081,7 +49081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141891-0.9680863806145706",
     "character": "敭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "날릴 양",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49091,7 +49091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141893-0.5903743578557442",
     "character": "暘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "해돋을 양",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49101,7 +49101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141895-0.8138519156180837",
     "character": "瀁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물깊을 양",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49111,7 +49111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141898-0.46407940318673424",
     "character": "煬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "녹일 양",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49121,7 +49121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141900-0.35299229472105986",
     "character": "痒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가려울 양",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49131,7 +49131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141902-0.8930978515168301",
     "character": "禳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빌 양",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49141,7 +49141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141905-0.7877957184447961",
     "character": "穰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "볏줄기 양",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49151,7 +49151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141909-0.8431066250690707",
     "character": "昜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "볕 양",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -49161,7 +49161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141911-0.973860848330914",
     "character": "圄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥 어",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49171,7 +49171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141912-0.3953338021813967",
     "character": "瘀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어혈질 어",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49181,7 +49181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141914-0.030736042020111265",
     "character": "齬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이어긋날 어",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49191,7 +49191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141915-0.26144184173451335",
     "character": "唹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "웃을 오",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -49201,7 +49201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141919-0.7044941118984988",
     "character": "臆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가슴 억",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49211,7 +49211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141922-0.9932084125301853",
     "character": "偃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쓰러질 언",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49221,7 +49221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141924-0.896594606158584",
     "character": "嫣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아름다울 언",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -49231,7 +49231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141926-0.7373267568316625",
     "character": "蘖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "싹 얼",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49241,7 +49241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141932-0.9820417688813132",
     "character": "淹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "담글 엄",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49251,7 +49251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141935-0.4304131462882389",
     "character": "円",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "둥글 원",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49261,7 +49261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141937-0.7177153988538996",
     "character": "歟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어조사 여",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49271,7 +49271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141939-0.4430048060513885",
     "character": "璵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥 여",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49281,7 +49281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141940-0.4611187804829555",
     "character": "礖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돌 여",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49291,7 +49291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141942-0.016965509954357527",
     "character": "艅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "배이름 여",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49301,7 +49301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141943-0.6362859982757663",
     "character": "茹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꼭두서니 여",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49311,7 +49311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141944-0.4721594892532395",
     "character": "轝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "수레 여",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49321,7 +49321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141945-0.716025165023579",
     "character": "妤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 여",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -49331,7 +49331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141948-0.30895227218028865",
     "character": "嚥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "침삼킬 연",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49341,7 +49341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141949-0.48362249302727545",
     "character": "堧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빈땅 연",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49351,7 +49351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141953-0.7847142201986624",
     "character": "挻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "당길 연",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49361,7 +49361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141957-0.6477514612469936",
     "character": "涎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "침 연",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49371,7 +49371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141962-0.6120065383662344",
     "character": "縯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "길 연",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49381,7 +49381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141964-0.9971397846164709",
     "character": "娫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 연",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -49391,7 +49391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141967-0.8475962556346475",
     "character": "瑌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥이름 경",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -49401,7 +49401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141970-0.7203521280615645",
     "character": "曣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밝을 연",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -49411,7 +49411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141972-0.2683926989006721",
     "character": "醼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잔치 연",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -49421,7 +49421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141974-0.4949074398894172",
     "character": "兗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "땅이름 연",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -49431,7 +49431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141977-0.13772941812387085",
     "character": "苒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "풀우거질 염",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49441,7 +49441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141978-0.6227038812827903",
     "character": "艷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고울 염",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -49451,7 +49451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141982-0.517282631377881",
     "character": "熀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빛날 황",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -49461,7 +49461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141985-0.039802082445607234",
     "character": "嶸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산가파를 영",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49471,7 +49471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141989-0.7152573136982529",
     "character": "潁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물이름 영",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49481,7 +49481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141990-0.7715826596491702",
     "character": "濚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물졸졸흐를 영",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49491,7 +49491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141992-0.5414987765306737",
     "character": "獰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사나울 녕",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49501,7 +49501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141995-0.42821635423462756",
     "character": "霙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "진눈깨비 영",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49511,7 +49511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971141996-0.18126914343141987",
     "character": "咏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "읊을 영",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -49521,7 +49521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142000-0.5464544036012717",
     "character": "倪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어릴 예",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49531,7 +49531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142003-0.07225772365360361",
     "character": "汭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물굽이 예",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49541,7 +49541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142005-0.9586623222307716",
     "character": "猊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사자 예",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49551,7 +49551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142007-0.17195401110940323",
     "character": "蘂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꽃술 예",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49561,7 +49561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142009-0.15599071909790074",
     "character": "詣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이를 예",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49571,7 +49571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142011-0.9175726031173804",
     "character": "霓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "암무지개 예",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49581,7 +49581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142013-0.1200186999938434",
     "character": "堄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "성가퀴 예",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -49591,7 +49591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142015-0.4534472824505492",
     "character": "埶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "심을 예",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -49601,7 +49601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142017-0.8013875072558294",
     "character": "橤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "드리울 예",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -49611,7 +49611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142019-0.24536961684216796",
     "character": "玴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥이름 억",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -49621,7 +49621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142022-0.6476724549330946",
     "character": "俉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "맞이할 오",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49631,7 +49631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142024-0.638309862678145",
     "character": "塢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산언덕 오",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49641,7 +49641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142028-0.8351546318320402",
     "character": "懊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "한할 오",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49651,7 +49651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142030-0.17021958400310688",
     "character": "敖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거만할 오",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49661,7 +49661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142034-0.95038724554587",
     "character": "澳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물굽이 오",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49671,7 +49671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142035-0.5636865238533941",
     "character": "熬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "볶을 오",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49681,7 +49681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142036-0.036792089424721786",
     "character": "獒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사나운개 오",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49691,7 +49691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142038-0.9234086821128943",
     "character": "筽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "버들고리 오",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49701,7 +49701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142039-0.23838613556491728",
     "character": "蜈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지네 오",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49711,7 +49711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142040-0.7802765474807656",
     "character": "鼇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "자라 오",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49721,7 +49721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142042-0.3743892484661694",
     "character": "浯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "강이름 오",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -49731,7 +49731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142044-0.989453243723458",
     "character": "縕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "묵은솜 온",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49741,7 +49741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142047-0.38913175511201414",
     "character": "瓮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "독 옹",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49751,7 +49751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142048-0.9840490097267387",
     "character": "癰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "종기 옹",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49761,7 +49761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142050-0.3122873117804579",
     "character": "窪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "웅덩이 와",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49771,7 +49771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142051-0.642744668093864",
     "character": "蝸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "달팽이 와",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49781,7 +49781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142053-0.940194381299109",
     "character": "宛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "완연할 완",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49791,7 +49791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142055-0.25532640023315956",
     "character": "椀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "주발 완",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49801,7 +49801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142056-0.5417785921015262",
     "character": "琓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나라이름 완",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49811,7 +49811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142058-0.42547305255125967",
     "character": "碗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "주발 완",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49821,7 +49821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142060-0.9782123697034294",
     "character": "脘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "중완 완",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49831,7 +49831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142061-0.5545504220947509",
     "character": "豌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "완두 완",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49841,7 +49841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142064-0.8075215486508438",
     "character": "妧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 원",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -49851,7 +49851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142065-0.7619950176968318",
     "character": "岏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산높을 완",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -49861,7 +49861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142067-0.6651097125996432",
     "character": "娃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 왜",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49871,7 +49871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142070-0.45973415143073326",
     "character": "嵬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "높을 외",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49881,7 +49881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142075-0.4021990298182734",
     "character": "嶢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "높을 요",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49891,7 +49891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142077-0.04089344720767485",
     "character": "拗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "우길 요",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49901,7 +49901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142079-0.6250794886227459",
     "character": "撓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "휠 뇨",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49911,7 +49911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142081-0.30484770446652076",
     "character": "橈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "노/꺾어질 요",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49921,7 +49921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142083-0.7454793829683829",
     "character": "燿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비칠/빛날 요",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49931,7 +49931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142086-0.8770202474440583",
     "character": "繇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "성할 요",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49941,7 +49941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142089-0.5995903942624928",
     "character": "繞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "두를 요",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49951,7 +49951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142091-0.935882042364798",
     "character": "蟯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "요충 요",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49961,7 +49961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142093-0.30226233393862567",
     "character": "邀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "맞을 요",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -49971,7 +49971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142095-0.018522816843638767",
     "character": "暚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밝을 요",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -49981,7 +49981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142097-0.8642706370956929",
     "character": "縟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "화문놓을 욕",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -49991,7 +49991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142100-0.7145418445896072",
     "character": "俑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "허수아비 용",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50001,7 +50001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142102-0.8694915423296506",
     "character": "冗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "한산할 용",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50011,7 +50011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142104-0.10259645535779316",
     "character": "慂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "권할 용",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50021,7 +50021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142106-0.2599455743885878",
     "character": "涌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물 솟을",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -50031,7 +50031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142109-0.45283224207552863",
     "character": "甬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "종꼭지 용",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50041,7 +50041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142110-0.9271892142628978",
     "character": "聳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "솟을 용",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -50051,7 +50051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142112-0.8787233225390909",
     "character": "傛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "용렬할 용",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50061,7 +50061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142114-0.9549363823006469",
     "character": "旴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "해뜰 우",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50071,7 +50071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142116-0.5371491448025145",
     "character": "紆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "얽힐 우",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50081,7 +50081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142118-0.957211796659557",
     "character": "芋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "토란 우",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50091,7 +50091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142119-0.8773458730735044",
     "character": "藕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "연뿌리 우",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50101,7 +50101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142121-0.5246836635120217",
     "character": "雩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기우제 우",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50111,7 +50111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142124-0.4650384270442449",
     "character": "扜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "당길 우",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50121,7 +50121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142125-0.636753716679515",
     "character": "勖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "힘쓸 욱",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50131,7 +50131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142129-0.06238923778868688",
     "character": "栯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나무이름 욱",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50141,7 +50141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142132-0.4712015187142865",
     "character": "稶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "무성할 욱",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50151,7 +50151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142135-0.47893942043431326",
     "character": "橒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나무이름 운",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50161,7 +50161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142140-0.5236107726527004",
     "character": "熉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "노란모양 운",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50171,7 +50171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142142-0.70641389874693",
     "character": "蕓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "평지 운",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50181,7 +50181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142144-0.6582233432520462",
     "character": "夽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "탄식할 우",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50191,7 +50191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142146-0.31495896585682626",
     "character": "賱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "재물 윤",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50201,7 +50201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142148-0.014666436183946696",
     "character": "亐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "땅이름 울",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50211,7 +50211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142153-0.5468505437570984",
     "character": "湲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물졸졸흐를 원",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50221,7 +50221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142154-0.02597410166562064",
     "character": "爰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이에 원",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50231,7 +50231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142159-0.42947290868677435",
     "character": "褑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옷이름 원",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50241,7 +50241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142161-0.936935486528273",
     "character": "鉞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "도끼 월",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50251,7 +50251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142163-0.43034564517721374",
     "character": "蔿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "애기풀 위",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50261,7 +50261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142165-0.9870548832109363",
     "character": "蝟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고슴도치 위",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50271,7 +50271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142166-0.21786721295743716",
     "character": "褘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "휘장 위",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50281,7 +50281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142169-0.3225409509539874",
     "character": "揄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "야유할 유",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -50291,7 +50291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142173-0.34875359948630613",
     "character": "楢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "졸참나무 유",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50301,7 +50301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142177-0.8555398959748365",
     "character": "萸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "수유 유",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50311,7 +50311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142178-0.44939994126773664",
     "character": "諛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아첨할 유",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -50321,7 +50321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142180-0.4191264823402737",
     "character": "逾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "넘을 유",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50331,7 +50331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142181-0.4355927071356738",
     "character": "琟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥이름 위",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50341,7 +50341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142183-0.90070401242034",
     "character": "曘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "햇빛 유",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -50351,7 +50351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142184-0.7810193667668203",
     "character": "婑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 와",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50361,7 +50361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142189-0.34476345458473046",
     "character": "贇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 윤",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50371,7 +50371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142191-0.909856613431851",
     "character": "昀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빛날 윤",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50381,7 +50381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142192-0.2901604151877387",
     "character": "聿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "붓 율",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50391,7 +50391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142193-0.3392993158043943",
     "character": "燏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빛날 율",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50401,7 +50401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142195-0.5759471132967728",
     "character": "瀜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물깊고넓을 융",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50411,7 +50411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142196-0.2908721640050025",
     "character": "慇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "은근할 은",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50421,7 +50421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142198-0.018097027040661517",
     "character": "溵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물이름 은",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -50431,7 +50431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142199-0.3578769067706694",
     "character": "珢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥이름 은",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50441,7 +50441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142201-0.05597475982290745",
     "character": "濦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물이름 은",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50451,7 +50451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142203-0.9051166411884213",
     "character": "听",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "웃을 은",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50461,7 +50461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142205-0.7560973355685502",
     "character": "蘟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "풀이름 은",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50471,7 +50471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142207-0.6810123363627627",
     "character": "檼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마룻대/도지개 은",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -50481,7 +50481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142210-0.8269033117514083",
     "character": "檃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나무이름 은",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50491,7 +50491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142212-0.6667960692614588",
     "character": "訢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기뻐할 흔",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50501,7 +50501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142214-0.21858946183338135",
     "character": "艤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "배댈 의",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50511,7 +50511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142217-0.8297950438265265",
     "character": "薏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "율무 의",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50521,7 +50521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142220-0.5997448344328404",
     "character": "痍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "상처 이",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -50531,7 +50531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142223-0.12843768904893693",
     "character": "肄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "익힐 이",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50541,7 +50541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142225-0.5786752911770251",
     "character": "苡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "율무 이",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50551,7 +50551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142227-0.49689743478969683",
     "character": "荑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "흰비름 이",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50561,7 +50561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142233-0.7652931404200987",
     "character": "飴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "엿 이",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50571,7 +50571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142235-0.9305419115867951",
     "character": "媐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기쁠 희",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50581,7 +50581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142237-0.3879791864004768",
     "character": "杝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나무이름 이",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -50591,7 +50591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142241-0.9875743918611195",
     "character": "熤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빛날 이",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50601,7 +50601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142242-0.9099169333697533",
     "character": "湮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "묻힐 인",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -50611,7 +50611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142243-0.43600958387768296",
     "character": "絪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기운 인",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50621,7 +50621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142244-0.025076568601738125",
     "character": "茵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "자리/사철쑥 인",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50631,7 +50631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142246-0.6268414005419388",
     "character": "蚓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지렁이 인",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -50641,7 +50641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142247-0.6677116216100363",
     "character": "靷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가슴걸이 인",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50651,7 +50651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142249-0.9656260002608197",
     "character": "朄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "북소리 인",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50661,7 +50661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142251-0.5508929271511147",
     "character": "芢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "풀이름 인",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -50671,7 +50671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142253-0.3940206910095111",
     "character": "佚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "편안 일",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -50681,7 +50681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142256-0.16360256086128477",
     "character": "妊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아이밸 임",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "2급",
@@ -50691,7 +50691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142259-0.7110114075396784",
     "character": "恁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "생각할 임",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50701,7 +50701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142263-0.0431198575181817",
     "character": "卄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "스물 입",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50711,7 +50711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142268-0.7124214225553821",
     "character": "芿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "새풀싹 잉",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -50721,7 +50721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142269-0.8329459914585545",
     "character": "昨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어제 작",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "6급Ⅱ",
@@ -50731,7 +50731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142272-0.6988992475408863",
     "character": "赤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "붉을 적",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "5급",
@@ -50741,7 +50741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142307-0.8781817588029222",
     "character": "州",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고을 주",
     "daehan": null,
     "korcham": "3급",
     "uhmoon": "5급Ⅱ",
@@ -50751,7 +50751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142332-0.4543584764095795",
     "character": "姉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "손윗누이 자",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "4급",
@@ -50761,7 +50761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142344-0.722026487969993",
     "character": "綽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "너그러울 작",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -50771,7 +50771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142351-0.23961006934609652",
     "character": "棧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사다리 잔",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -50781,7 +50781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142354-0.6041325475844366",
     "character": "岑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산높을 잠",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -50791,7 +50791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142357-0.7170825081076383",
     "character": "簪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비녀 잠",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -50801,7 +50801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142359-0.5580968427924511",
     "character": "仗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "의장 장",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -50811,7 +50811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142364-0.5730458106825914",
     "character": "欌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "장롱 장",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -50821,7 +50821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142365-0.9423047217253628",
     "character": "漿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "즙 장",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -50831,7 +50831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142367-0.8079640480560369",
     "character": "獐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "노루 장",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급Ⅱ",
@@ -50841,7 +50841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142370-0.38954405315858753",
     "character": "贓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "장물 장",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -50851,7 +50851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142371-0.7901356700632611",
     "character": "醬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "장 장",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -50861,7 +50861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142374-0.969985046278169",
     "character": "滓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "찌끼 재",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -50871,7 +50871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142378-0.31720332947317054",
     "character": "諍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "간할 쟁",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -50881,7 +50881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142380-0.643172628134258",
     "character": "儲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쌓을 저",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -50891,7 +50891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142384-0.6238297718264143",
     "character": "杵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "공이 저",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -50901,7 +50901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142390-0.1277315745367199",
     "character": "渚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물가 저",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -50911,7 +50911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142392-0.9486418132913026",
     "character": "猪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돼지 저",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -50921,7 +50921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142395-0.7777742247370408",
     "character": "疽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "종기 저",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -50931,7 +50931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142399-0.16840816980914297",
     "character": "苧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "모시 저",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -50941,7 +50941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142402-0.4488740707345551",
     "character": "藷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "감자 저",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -50951,7 +50951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142408-0.27019359025668066",
     "character": "狄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "오랑캐 적",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -50961,7 +50961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142411-0.2057541624787187",
     "character": "翟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꿩 적",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -50971,7 +50971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142414-0.27734937822834105",
     "character": "謫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "귀양갈 적",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -50981,7 +50981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142419-0.9560220870515979",
     "character": "佃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밭갈 전",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -50991,7 +50991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142425-0.13166744356783255",
     "character": "塼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "벽돌 전",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51001,7 +51001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142432-0.5346936424774363",
     "character": "氈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "담 전",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51011,7 +51011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142434-0.9773328692671419",
     "character": "澱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "앙금 전",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51021,7 +51021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142437-0.5274034691101592",
     "character": "煎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "달일 전",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51031,7 +51031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142440-0.12085502024627592",
     "character": "箋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기록할 전",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51041,7 +51041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142442-0.3502189816573229",
     "character": "箭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "살 전",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51051,7 +51051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142443-0.8844294125419601",
     "character": "篆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "전자 전",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51061,7 +51061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142444-0.09576149438642512",
     "character": "纏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "얽을 전",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51071,7 +51071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142447-0.4902922545617403",
     "character": "鈿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비녀 전",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51081,7 +51081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142449-0.28378667572920724",
     "character": "截",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "끊을 절",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51091,7 +51091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142451-0.9246842682440813",
     "character": "浙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "강이름 절",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51101,7 +51101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142454-0.03265973006287848",
     "character": "岾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고개 재",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51111,7 +51111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142456-0.594821987968845",
     "character": "点",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "점 점",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51121,7 +51121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142475-0.45860098557878537",
     "character": "臍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "배꼽 제",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51131,7 +51131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142477-0.053465113303975076",
     "character": "霽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "갤 제",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51141,7 +51141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142488-0.9238486980472748",
     "character": "漕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "배로실어나를 조",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51151,7 +51151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142493-0.3277505330475051",
     "character": "稠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빽빽할 조",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51161,7 +51161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142495-0.3530307750740356",
     "character": "粗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거칠 조",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51171,7 +51171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142499-0.2095388454092575",
     "character": "藻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마름 조",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51181,7 +51181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142505-0.6506745560741619",
     "character": "躁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "조급할 조",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51191,7 +51191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142511-0.9277551764241184",
     "character": "阻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "막힐 조",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51201,7 +51201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142513-0.8471244069783663",
     "character": "雕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아로새길 조",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51211,7 +51211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142516-0.2151341449051306",
     "character": "簇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가는대 족",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51221,7 +51221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142518-0.40819388986210303",
     "character": "鏃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "살촉 족",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51231,7 +51231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142526-0.8918201602683795",
     "character": "挫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꺾을 좌",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51241,7 +51241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142530-0.551391721283738",
     "character": "籌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산가지/헤아릴 주",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51251,7 +51251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142532-0.9964675412013178",
     "character": "紬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "명주 주",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51261,7 +51261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142533-0.9065724136988055",
     "character": "蛛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거미 주",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51271,7 +51271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142537-0.686048951315931",
     "character": "冑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "투구 주",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51281,7 +51281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142538-0.6244699770625602",
     "character": "粥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "죽 죽",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51291,7 +51291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142544-0.10766162534499235",
     "character": "拯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "건질 증",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51301,7 +51301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142546-0.316633204631958",
     "character": "甑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "시루 증",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51311,7 +51311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142550-0.6461772843805665",
     "character": "砥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "숫돌 지",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -51321,7 +51321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142565-0.39732558365059345",
     "character": "疹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마마 진",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51331,7 +51331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142572-0.8771600873752645",
     "character": "帙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "책권차례 질",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51341,7 +51341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142575-0.4177955313613644",
     "character": "膣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "음도 질",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -51351,7 +51351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142581-0.7714397083116334",
     "character": "孜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부지런할 자",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51361,7 +51361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142582-0.26714872378621646",
     "character": "茨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "남가새 자",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51371,7 +51371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142583-0.5228327534984477",
     "character": "蔗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사탕수수 자",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51381,7 +51381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142585-0.7073866672229754",
     "character": "勺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "구기 작",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51391,7 +51391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142586-0.5136026980844391",
     "character": "嚼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "씹을 작",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51401,7 +51401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142588-0.06491817857452153",
     "character": "斫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쪼갤 작",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51411,7 +51411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142590-0.32903454074198146",
     "character": "孱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "잔약할 잔",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51421,7 +51421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142592-0.29332078234223213",
     "character": "潺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물졸졸흐를 잔",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51431,7 +51431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142597-0.8578519544983693",
     "character": "檣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돛대 장",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51441,7 +51441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142599-0.19688327746829248",
     "character": "牆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "담 장",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51451,7 +51451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142601-0.8246702230084983",
     "character": "臧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "착할 장",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51461,7 +51461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142603-0.022208439572554806",
     "character": "渽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "강이름 재",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51471,7 +51471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142605-0.05239878401436693",
     "character": "齎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가질 재",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51481,7 +51481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142607-0.4484307142141468",
     "character": "箏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "악기이름 쟁",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51491,7 +51491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142610-0.8075589766272907",
     "character": "佇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "우두커니설 저",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51501,7 +51501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142613-0.7104862972960685",
     "character": "姐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "맏누이 저",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51511,7 +51511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142614-0.723869533310786",
     "character": "樗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가죽나무 저",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51521,7 +51521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142616-0.29672018035524683",
     "character": "狙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "원숭이/엿볼 저",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51531,7 +51531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142619-0.8594553688297146",
     "character": "紵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "모시 저",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51541,7 +51541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142621-0.45440195670285877",
     "character": "菹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "김치 저",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51551,7 +51551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142624-0.4278983799085846",
     "character": "詛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "저주할 저",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51561,7 +51561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142628-0.6279163031831827",
     "character": "這",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이 저",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51571,7 +51571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142629-0.6243203072348459",
     "character": "雎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물수리 저",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51581,7 +51581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142631-0.11110271658490944",
     "character": "齟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이어긋날 저",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51591,7 +51591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142632-0.46854173592935566",
     "character": "勣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "공 적",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51601,7 +51601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142633-0.9804778772009919",
     "character": "吊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "조상할 조",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51611,7 +51611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142634-0.35244653690353633",
     "character": "荻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물억새 적",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51621,7 +51621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142635-0.6918447092859462",
     "character": "鏑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "살촉 적",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51631,7 +51631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142637-0.8247918151330982",
     "character": "悛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고칠 전",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51641,7 +51641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142639-0.04505722676161139",
     "character": "畑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "화전 전",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51651,7 +51651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142641-0.35138601127496794",
     "character": "癲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "미칠 전",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51661,7 +51661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142642-0.8039305953770804",
     "character": "筌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "통발 전",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51671,7 +51671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142643-0.652391815196825",
     "character": "輾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돌아누울 전",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51681,7 +51681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142645-0.07707673006776539",
     "character": "鐫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "새길 전",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51691,7 +51691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142646-0.8441194801708184",
     "character": "顫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "떨 전",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51701,7 +51701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142647-0.7354101500837453",
     "character": "餞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "보낼 전",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51711,7 +51711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142649-0.01934687823854342",
     "character": "癤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부스럼 절",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51721,7 +51721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142651-0.2174330424055697",
     "character": "霑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "젖을 점",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51731,7 +51731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142652-0.14938748878921848",
     "character": "鮎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "메기 점",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51741,7 +51741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142654-0.5278567777539027",
     "character": "摺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "접을 접",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51751,7 +51751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142659-0.9573049936707108",
     "character": "檉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "능수버들 정",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51761,7 +51761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142662-0.7752090339860145",
     "character": "渟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물괼 정",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51771,7 +51771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142664-0.6198283051069289",
     "character": "瀞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "맑을 정",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51781,7 +51781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142668-0.11351338300678249",
     "character": "睛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "눈동자 정",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51791,7 +51791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142671-0.30345572492457873",
     "character": "諪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "조정할 정",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51801,7 +51801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142676-0.7524308511500659",
     "character": "霆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "벼락 정",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51811,7 +51811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142677-0.4202792526469188",
     "character": "婷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아름다울 정",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -51821,7 +51821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142686-0.37381600808674387",
     "character": "涏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물결곧을 정",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -51831,7 +51831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142688-0.005361581909641311",
     "character": "埩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "땅이름 증",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -51841,7 +51841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142691-0.028089088325829903",
     "character": "佂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "두려울 정",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -51851,7 +51851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142693-0.5919511997592991",
     "character": "妌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 정",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -51861,7 +51861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142696-0.9111501546498111",
     "character": "啼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "울 제",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51871,7 +51871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142698-0.0013856285109912214",
     "character": "薺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "냉이 제",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51881,7 +51881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142701-0.5722427942766363",
     "character": "醍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "제호 제",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51891,7 +51891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142705-0.6827057883525162",
     "character": "晁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아침 조",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51901,7 +51901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142706-0.1133350290926296",
     "character": "璪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "면류관장식 조",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51911,7 +51911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142712-0.09621485108727179",
     "character": "繰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고치켤 조",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51921,7 +51921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142713-0.2292329366556468",
     "character": "蚤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "벼룩 조",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -51931,7 +51931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142714-0.6614783459085573",
     "character": "猝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "갑자기 졸",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51941,7 +51941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142716-0.09766608987646674",
     "character": "慫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "권할 종",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51951,7 +51951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142723-0.4920685056975721",
     "character": "踵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "발꿈치 종",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -51961,7 +51961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142725-0.5803104566723295",
     "character": "瑽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "패옥소리 종",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -51971,7 +51971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142726-0.9845517973824996",
     "character": "椶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "종려나무 종",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -51981,7 +51981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142728-0.858897292703054",
     "character": "柊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나무이름 종",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -51991,7 +51991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142729-0.5759279376856618",
     "character": "侏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "난쟁이 주",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52001,7 +52001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142730-0.7243053847860601",
     "character": "姝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 주",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52011,7 +52011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142737-0.6280002048453833",
     "character": "綢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빽빽할 주",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52021,7 +52021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142741-0.20738687214871954",
     "character": "酎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "진한술 주",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52031,7 +52031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142744-0.8535507094672369",
     "character": "燽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "드러날 주",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -52041,7 +52041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142745-0.44351453991724565",
     "character": "鉒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쇠 주",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -52051,7 +52051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142747-0.757430126393522",
     "character": "拄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "버틸 주",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -52061,7 +52061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142748-0.772758181090417",
     "character": "皗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "흰빛 주",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -52071,7 +52071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142750-0.9670501889869594",
     "character": "寯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "모을 준",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52081,7 +52081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142754-0.8545039782825352",
     "character": "樽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "술통 준",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -52091,7 +52091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142761-0.1511625106847755",
     "character": "蠢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꾸물거릴 준",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -52101,7 +52101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142764-0.08634387441370084",
     "character": "逡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물러갈 준",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52111,7 +52111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142771-0.9795808542655778",
     "character": "葰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "풀이름 수",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -52121,7 +52121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142774-0.16220531116654224",
     "character": "竴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "대이름 준",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -52131,7 +52131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142779-0.8754841328415481",
     "character": "葺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기울 즙",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -52141,7 +52141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142784-0.872026573234885",
     "character": "繒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비단 증",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52151,7 +52151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142790-0.21684599324680665",
     "character": "枳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "탱자 지",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -52161,7 +52161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142793-0.88137197919416",
     "character": "漬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "적실 지",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52171,7 +52171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142796-0.2987629893931406",
     "character": "芷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "구릿대 지",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52181,7 +52181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142798-0.839675126216258",
     "character": "蜘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거미 지",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52191,7 +52191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142801-0.4356690594122863",
     "character": "贄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "폐백 지",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52201,7 +52201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142805-0.49171850300248954",
     "character": "洔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물가 지",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -52211,7 +52211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142807-0.15057137090948292",
     "character": "厎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "숫돌 지",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -52221,7 +52221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142809-0.984033897757535",
     "character": "晋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "진나라 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급Ⅱ",
@@ -52231,7 +52231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142812-0.6364030239808283",
     "character": "唇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "놀랄 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52241,7 +52241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142814-0.8993552621666538",
     "character": "嗔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "성낼 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -52251,7 +52251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142817-0.04211465181890117",
     "character": "搢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꽂을 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52261,7 +52261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142819-0.5011843949210633",
     "character": "桭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "처마 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52271,7 +52271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142821-0.01849574513106389",
     "character": "榛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "개암나무 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52281,7 +52281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142822-0.30268297044197945",
     "character": "殄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "끊을/다할 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52291,7 +52291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142823-0.907925442642261",
     "character": "溱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "많을 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52301,7 +52301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142825-0.5653292190551442",
     "character": "璡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥돌 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52311,7 +52311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142827-0.2312326747461091",
     "character": "畛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밭두렁 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52321,7 +52321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142828-0.23769731415555406",
     "character": "瞋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부릅뜰 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52331,7 +52331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142830-0.10120130982975029",
     "character": "縉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꽂을 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52341,7 +52341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142833-0.09115579090577275",
     "character": "臻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이를 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52351,7 +52351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142835-0.9493244875834745",
     "character": "蔯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사철쑥 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52361,7 +52361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142836-0.1854037992415848",
     "character": "袗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "홑옷 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52371,7 +52371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142839-0.6470054955320469",
     "character": "抮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "당길 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -52381,7 +52381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142841-0.44273710041997427",
     "character": "鉁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쇠 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -52391,7 +52391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142842-0.9278748303119007",
     "character": "蓁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "우거질 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -52401,7 +52401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142843-0.3945214711731504",
     "character": "昣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밝을 진",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -52411,7 +52411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142845-0.17385204414263744",
     "character": "侄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어리석을 질",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52421,7 +52421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142848-0.7546588821855779",
     "character": "桎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "차꼬 질",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -52431,7 +52431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142852-0.13615640618183344",
     "character": "蛭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거머리 질",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52441,7 +52441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142856-0.46381741650261565",
     "character": "迭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "갈마들 질",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -52451,7 +52451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142860-0.04780332388217112",
     "character": "朕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나 짐",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -52461,7 +52461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142863-0.6150585301005461",
     "character": "緝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거둘 즙",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52471,7 +52471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142864-0.6055467176738312",
     "character": "鏶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쇳조각 집",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52481,7 +52481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142903-0.5716839526585881",
     "character": "箚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "글/찌를 차",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -52491,7 +52491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142905-0.023911721662313257",
     "character": "搾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "짤 착",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52501,7 +52501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142907-0.9863502275107817",
     "character": "窄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "좁을 착",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52511,7 +52511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142909-0.8525272759745944",
     "character": "鑿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뚫을 착",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52521,7 +52521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142915-0.3049878369455794",
     "character": "竄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "도망할/내칠 찬",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -52531,7 +52531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142922-0.901010209003775",
     "character": "饌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "반찬 찬",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52541,7 +52541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142926-0.5450071260546997",
     "character": "僭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "주제넘을 참",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52551,7 +52551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142929-0.8145789791106312",
     "character": "站",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "역 마을",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52561,7 +52561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142931-0.6742680033518651",
     "character": "讖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예언 참",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52571,7 +52571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142932-0.7303461762551622",
     "character": "倡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "광대 창",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52581,7 +52581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142933-0.7795179867631734",
     "character": "娼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "창녀 창",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52591,7 +52591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142938-0.3790571822033868",
     "character": "槍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "창 창",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52601,7 +52601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142942-0.7031862821964899",
     "character": "脹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부을 창",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52611,7 +52611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142946-0.2150760749404088",
     "character": "柵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "울타리 책",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52621,7 +52621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142947-0.8115690112053993",
     "character": "擲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "던질 척",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52631,7 +52631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142951-0.3873152266800036",
     "character": "喘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "숨찰 천",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52641,7 +52641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142953-0.813942013648992",
     "character": "穿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뚫을 천",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52651,7 +52651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142955-0.8304422385664518",
     "character": "闡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밝힐 천",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52661,7 +52661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142962-0.7730076020426245",
     "character": "簽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이름둘 첨",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -52671,7 +52671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142964-0.6330616117417422",
     "character": "詹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이를 첨",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -52681,7 +52681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142968-0.8198116673968225",
     "character": "疊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거듭 첩",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52691,7 +52691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142972-0.1164492880940956",
     "character": "貼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "붙일 첩",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52701,7 +52701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142973-0.7193650548444689",
     "character": "菁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "순무 청",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -52711,7 +52711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142976-0.13274306250413215",
     "character": "椒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산초나무 초",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -52721,7 +52721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142979-0.2622064178804401",
     "character": "炒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "볶을 초",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52731,7 +52731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142980-0.6072776287660145",
     "character": "硝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "화약 초",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52741,7 +52741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142981-0.6097287258566898",
     "character": "礁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "암초 초",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52751,7 +52751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142984-0.3758578781737336",
     "character": "醋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "초 초",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52761,7 +52761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142986-0.08506964608471601",
     "character": "醮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "초례 초",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -52771,7 +52771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142988-0.33149232023370445",
     "character": "釥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "작을 초",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": null,
@@ -52781,7 +52781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142997-0.07592789196419625",
     "character": "摠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거느릴 총",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -52791,7 +52791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971142999-0.4479543217488339",
     "character": "撮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "모을/사진찍을 촬",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52801,7 +52801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143003-0.7430423348652475",
     "character": "椎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쇠몽치/등골 추",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52811,7 +52811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143009-0.24007927713788257",
     "character": "芻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꼴 추",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52821,7 +52821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143013-0.48587942085400493",
     "character": "酋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "우두머리 추",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52831,7 +52831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143018-0.44046404298048647",
     "character": "竺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "천축 축",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -52841,7 +52841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143023-0.6538740004263596",
     "character": "朮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "삽주 출",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -52851,7 +52851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143033-0.7911321060414661",
     "character": "鷲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "독수리 취",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -52861,7 +52861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143039-0.44095004955630357",
     "character": "痴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어리석을 치",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -52871,7 +52871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143044-0.9365908306236826",
     "character": "穉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어릴 치",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -52881,7 +52881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143046-0.5786202005225162",
     "character": "緻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빽빽할 치",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52891,7 +52891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143053-0.5639374161729672",
     "character": "鍼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "침 침",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -52901,7 +52901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143058-0.33138171614549683",
     "character": "侘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "자랑할/실의할 차",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52911,7 +52911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143061-0.5617847793512261",
     "character": "嗟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "탄식할 차",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -52921,7 +52921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143063-0.734410691552436",
     "character": "嵯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산높고험할 차",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52931,7 +52931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143068-0.14792491032318145",
     "character": "釵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비녀 채",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52941,7 +52941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143070-0.780045314891131",
     "character": "硨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "돌이름 차",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -52951,7 +52951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143071-0.7029633902029474",
     "character": "奲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "너그러울 차",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -52961,7 +52961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143072-0.09148721545337557",
     "character": "姹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 타",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -52971,7 +52971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143074-0.939974108821236",
     "character": "齪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "악착할 착",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52981,7 +52981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143076-0.5068022489798059",
     "character": "簒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빼앗을 찬",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -52991,7 +52991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143080-0.14144698770911912",
     "character": "攢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "모을 찬",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -53001,7 +53001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143081-0.8945840897707751",
     "character": "巑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "높이솟을 찬",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -53011,7 +53011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143083-0.8932416614219729",
     "character": "紮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "묶을 찰",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53021,7 +53021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143087-0.26047757408857297",
     "character": "漲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "넘칠 창",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53031,7 +53031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143089-0.10813066254914816",
     "character": "猖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "미쳐날뛸 창",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53041,7 +53041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143090-0.658240430760135",
     "character": "艙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부두 창",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53051,7 +53051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143096-0.6667126535939266",
     "character": "寨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "목책 채",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53061,7 +53061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143099-0.9693624945502755",
     "character": "砦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "목책 채",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53071,7 +53071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143101-0.9933666836985674",
     "character": "琗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥이름 창",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -53081,7 +53081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143103-0.23086715011475323",
     "character": "棌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나무이름 채",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -53091,7 +53091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143106-0.8331976011891832",
     "character": "婇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "예쁠 채",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -53101,7 +53101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143111-0.2910313181766674",
     "character": "倜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "얽매이지않을 척",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53111,7 +53111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143114-0.8669687817974967",
     "character": "慽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "근심할 척",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53121,7 +53121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143118-0.4683693501136439",
     "character": "蹠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밟을 척",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53131,7 +53131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143124-0.9071234772851314",
     "character": "擅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "멋대로할 천",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53141,7 +53141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143127-0.6154418002477412",
     "character": "韆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "그네 천",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53151,7 +53151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143129-0.31253578034878304",
     "character": "玔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥고리 천",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53161,7 +53161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143132-0.8326593752254657",
     "character": "舛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어그러질 천",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53171,7 +53171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143137-0.3472659428614078",
     "character": "茜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꼭두서니 천",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -53181,7 +53181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143139-0.001693910744537952",
     "character": "輟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "그칠 철",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53191,7 +53191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143142-0.09301010485573946",
     "character": "沾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "젖을 첨",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53201,7 +53201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143145-0.0800464171286871",
     "character": "甛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "달 첨",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53211,7 +53211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143149-0.8286535551611458",
     "character": "堞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "성가퀴 첩",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53221,7 +53221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143152-0.241523622322932",
     "character": "睫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "속눈썹 첩",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53231,7 +53231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143153-0.20782969741225865",
     "character": "輒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "문득 첩",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53241,7 +53241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143154-0.4910624573648109",
     "character": "鯖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "청어 청",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53251,7 +53251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143156-0.8021840480393793",
     "character": "剃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "머리깎을 체",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53261,7 +53261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143157-0.4287694530469687",
     "character": "涕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "눈물 체",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53271,7 +53271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143159-0.3170101576251413",
     "character": "剿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "끊을/노략질할 초",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53281,7 +53281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143160-0.4693142495828134",
     "character": "憔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "파리할 초",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53291,7 +53291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143161-0.04529978456362249",
     "character": "梢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나무끝 초",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53301,7 +53301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143162-0.21453479181178348",
     "character": "稍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "점점 초",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53311,7 +53311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143164-0.40883270923649784",
     "character": "艸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "풀 초",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53321,7 +53321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143165-0.06356219110456263",
     "character": "苕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "완두 초",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53331,7 +53331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143167-0.5143228747297974",
     "character": "貂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "담비 초",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53341,7 +53341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143168-0.9460981347874656",
     "character": "酢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "초 초",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53351,7 +53351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143169-0.06366686608377148",
     "character": "岧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "산높을 초",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -53361,7 +53361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143170-0.22083101932199545",
     "character": "矗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "우뚝솟을 촉",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53371,7 +53371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143172-0.21387137380278276",
     "character": "忖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "헤아릴 촌",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53381,7 +53381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143173-0.8805370252284738",
     "character": "邨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마을 촌",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53391,7 +53391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143175-0.9222392121976986",
     "character": "悤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "바쁠 총",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53401,7 +53401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143177-0.40779714523594557",
     "character": "憁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "실심할 총",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53411,7 +53411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143179-0.5526425880580387",
     "character": "蔥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "파 총",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53421,7 +53421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143180-0.04032038864992882",
     "character": "総",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거느릴 총",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -53431,7 +53431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143182-0.7269865559357678",
     "character": "湫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "늪 추",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53441,7 +53441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143183-0.8322401518313242",
     "character": "皺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "주름질 추",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53451,7 +53451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143185-0.5922536815262659",
     "character": "萩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "다북쑥 추",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53461,7 +53461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143186-0.5765529652281313",
     "character": "諏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가릴 추",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53471,7 +53471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143187-0.5478317179870899",
     "character": "鎚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쇠망치 추",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53481,7 +53481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143189-0.5557996714172075",
     "character": "雛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "새새끼 추",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53491,7 +53491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143190-0.2717823124946196",
     "character": "騶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마부 추",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53501,7 +53501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143191-0.46773275565343764",
     "character": "鰍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "미꾸라지 추",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53511,7 +53511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143193-0.9246157252297795",
     "character": "筑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "악기이름 축",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53521,7 +53521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143194-0.9819094391149272",
     "character": "蹙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "찡그릴/움츠릴 축",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53531,7 +53531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143198-0.17064884130804214",
     "character": "悴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "파리할 췌",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53541,7 +53541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143199-0.04609058575659819",
     "character": "膵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "췌장 췌",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53551,7 +53551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143202-0.8081574358516557",
     "character": "贅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "혹 췌",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53561,7 +53561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143204-0.5641665855703933",
     "character": "嘴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부리 취",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53571,7 +53571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143207-0.4069707648037342",
     "character": "驟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빠를 취",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53581,7 +53581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143209-0.8157466839015702",
     "character": "厠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뒷간 측",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53591,7 +53591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143211-0.23457056515229258",
     "character": "嗤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비웃을 치",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53601,7 +53601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143212-0.966384662192674",
     "character": "幟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기 치",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53611,7 +53611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143213-0.5255670910189009",
     "character": "梔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "치자나무 치",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53621,7 +53621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143215-0.5149000819058757",
     "character": "淄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "강이름 치",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53631,7 +53631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143217-0.672655899733873",
     "character": "痔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "치질 치",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53641,7 +53641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143219-0.3263332231032733",
     "character": "緇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "검을 치",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53651,7 +53651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143221-0.23241600616596192",
     "character": "蚩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어리석을 치",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53661,7 +53661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143223-0.6831398932690329",
     "character": "輜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "짐수레 치",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53671,7 +53671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143226-0.33736428793070694",
     "character": "飭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "신칙할 칙",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53681,7 +53681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143228-0.04672538642180968",
     "character": "柒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옻 칠",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53691,7 +53691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143232-0.738230690984334",
     "character": "砧",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "다듬잇돌 침",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53701,7 +53701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143255-0.1640519643943512",
     "character": "舵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "키 타",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -53711,7 +53711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143256-0.7380704985577407",
     "character": "陀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "비탈질/부처 타",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -53721,7 +53721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143257-0.06117703256147633",
     "character": "駝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "낙타 타",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -53731,7 +53731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143269-0.01529677989555478",
     "character": "笞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "볼기칠 태",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -53741,7 +53741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143274-0.43197183443137843",
     "character": "撑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "버틸 탱",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -53751,7 +53751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143282-0.0006076606663174555",
     "character": "腿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "넓적다리 퇴",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -53761,7 +53761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143285-0.1769535858157223",
     "character": "頹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "무너질 퇴",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -53771,7 +53771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143292-0.4216209978408928",
     "character": "拖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "끌 타",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53781,7 +53781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143295-0.6335083118432616",
     "character": "朶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꽃송이 타",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53791,7 +53791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143297-0.3479581553573231",
     "character": "楕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "길고둥글 타",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53801,7 +53801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143299-0.9613279165491482",
     "character": "馱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "짐실을 타",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53811,7 +53811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143304-0.03537459951672728",
     "character": "啄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쫄 탁",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53821,7 +53821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143305-0.7685301581691608",
     "character": "坼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "터질 탁",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53831,7 +53831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143307-0.6028280667428411",
     "character": "柝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쪼갤/딱따기 탁",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53841,7 +53841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143309-0.4424777252907278",
     "character": "綻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "터질 탄",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53851,7 +53851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143313-0.3556002006446307",
     "character": "榻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "긴걸상 탑",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53861,7 +53861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143314-0.8009722117607492",
     "character": "宕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "호탕할 탕",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53871,7 +53871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143316-0.4876395365311359",
     "character": "帑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "국고/재물 탕",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53881,7 +53881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143320-0.05137213924822648",
     "character": "攄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "펼 터",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53891,7 +53891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143321-0.9570353650255282",
     "character": "慟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "서러워할 통",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53901,7 +53901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143323-0.13873253559991316",
     "character": "槌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "칠 추",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53911,7 +53911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143324-0.10099945186958625",
     "character": "褪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "바랠 퇴",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53921,7 +53921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143325-0.6095834552931215",
     "character": "偸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "훔칠 투",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53931,7 +53931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143326-0.7544113718757371",
     "character": "慝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사특할 특",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -53941,7 +53941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143328-0.2501503364861104",
     "character": "闖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "엿볼 틈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -53951,7 +53951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143361-0.13614042287117512",
     "character": "瓣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꽃잎/날름 판",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -53961,7 +53961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143364-0.438944348391219",
     "character": "辦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "힘들일 판",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -53971,7 +53971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143368-0.9960480539477415",
     "character": "唄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "염불소리 패",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -53981,7 +53981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143371-0.2815404863520684",
     "character": "悖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거스를 패",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -53991,7 +53991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143375-0.6125621992372593",
     "character": "稗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "피 패",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54001,7 +54001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143379-0.868567233253881",
     "character": "膨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "불을 팽",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54011,7 +54011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143381-0.36239148597653814",
     "character": "貶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "낮출 폄",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54021,7 +54021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143384-0.31781421032036994",
     "character": "圃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "채마밭 포",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54031,7 +54031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143387-0.42285053508770076",
     "character": "疱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물집 포",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54041,7 +54041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143388-0.36959450132788896",
     "character": "脯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "포 포",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54051,7 +54051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143389-0.48908952604450817",
     "character": "苞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "떨기 포",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54061,7 +54061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143391-0.4347852826599665",
     "character": "蒲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부들 포",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54071,7 +54071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143393-0.5323885205152271",
     "character": "袍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "도포 포",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54081,7 +54081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143397-0.022786365272024378",
     "character": "逋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "도망갈 포",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54091,7 +54091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143403-0.6797139810481985",
     "character": "曝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쪼일 폭",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54101,7 +54101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143406-0.9936334293060505",
     "character": "瓢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "표주박 표",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54111,7 +54111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143415-0.8061979553852705",
     "character": "擺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "벌릴/열 파",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54121,7 +54121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143418-0.9611438243621407",
     "character": "爬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "긁을 파",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54131,7 +54131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143419-0.5153267064653718",
     "character": "跛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "절름발이 파",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54141,7 +54141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143420-0.7732809409871015",
     "character": "鈑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "금박 판",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54151,7 +54151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143421-0.07350103034897515",
     "character": "叭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나팔 팔",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54161,7 +54161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143423-0.02185461797742483",
     "character": "捌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "깨뜨릴 팔",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54171,7 +54171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143426-0.49671774002554847",
     "character": "狽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이리 패",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54181,7 +54181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143430-0.6599571491868345",
     "character": "愎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "강퍅할 퍅",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54191,7 +54191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143433-0.16878497457765662",
     "character": "翩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빨리날 편",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54201,7 +54201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143435-0.4002708074402398",
     "character": "騙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "속일 편",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54211,7 +54211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143440-0.49173655392778615",
     "character": "萍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부평초 평",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54221,7 +54221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143443-0.27662162356675957",
     "character": "泙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물소리 평",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -54231,7 +54231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143446-0.17880202409147816",
     "character": "吠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "짖을 폐",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54241,7 +54241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143449-0.4211972955508193",
     "character": "嬖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사랑할 폐",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54251,7 +54251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143452-0.2267149072716973",
     "character": "斃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "죽을 폐",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54261,7 +54261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143456-0.719516624653805",
     "character": "佈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "펼 포",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54271,7 +54271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143459-0.31767366240194217",
     "character": "匍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "길 포",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54281,7 +54281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143461-0.49474544440253954",
     "character": "匏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "박 포",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54291,7 +54291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143462-0.11739721241068712",
     "character": "咆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고함지를 포",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54301,7 +54301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143464-0.6726797579877976",
     "character": "俵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나누어줄 표",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54311,7 +54311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143465-0.39342759109957637",
     "character": "剽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "겁박할 표",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54321,7 +54321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143468-0.13027559679687595",
     "character": "慓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "급할 표",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54331,7 +54331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143470-0.5432833204880091",
     "character": "飇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "폭풍 표",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54341,7 +54341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143476-0.7536021967560459",
     "character": "陂",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "방죽 피",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54351,7 +54351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143480-0.6937786028949303",
     "character": "疋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "필 필",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54361,7 +54361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143498-0.5322301196636858",
     "character": "黑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "검을 흑",
     "daehan": null,
     "korcham": "4급",
     "uhmoon": "5급",
@@ -54371,7 +54371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143562-0.5702229329062851",
     "character": "戱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "놀이 희",
     "daehan": null,
     "korcham": "3급",
     "uhmoon": "특급Ⅱ",
@@ -54381,7 +54381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143584-0.34581032453036553",
     "character": "銜",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "재갈 함",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54391,7 +54391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143589-0.6729442352576718",
     "character": "哈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마실 합",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54401,7 +54401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143591-0.21779140969786337",
     "character": "盒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "합 합",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54411,7 +54411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143594-0.3737700898929506",
     "character": "蛤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "조개 합",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54421,7 +54421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143596-0.691037159663577",
     "character": "閤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "합문 합",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54431,7 +54431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143601-0.6431148405753301",
     "character": "杭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "거룻배 항",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54441,7 +54441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143603-0.6416629180328947",
     "character": "肛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "항문 항",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54451,7 +54451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143604-0.6235065010718484",
     "character": "咳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기침 해",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54461,7 +54461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143606-0.936977127581004",
     "character": "蟹",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "게 해",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54471,7 +54471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143609-0.2655374052590027",
     "character": "劾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "꾸짖을 핵",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54481,7 +54481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143612-0.55120410082618",
     "character": "餉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "먹일/양식 향",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54491,7 +54491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143617-0.4524306939927957",
     "character": "歇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쉴 헐",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54501,7 +54501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143621-0.9300859052812767",
     "character": "焃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "붉을 혁",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급",
@@ -54511,7 +54511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143623-0.13026484687205897",
     "character": "俔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "엿볼 현",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54521,7 +54521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143628-0.2629757579726679",
     "character": "舷",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뱃전 현",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54531,7 +54531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143631-0.7993430712574974",
     "character": "頁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "머리 혈",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54541,7 +54541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143635-0.6863703878014021",
     "character": "夾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "낄 협",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54551,7 +54551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143638-0.7965069603880574",
     "character": "脇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "갈비 협",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54561,7 +54561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143639-0.709081866698914",
     "character": "莢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "콩꼬투리 협",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54571,7 +54571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143641-0.9369328700620997",
     "character": "灐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사람이름 형",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54581,7 +54581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143647-0.3619692358017772",
     "character": "鞋",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "신 혜",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54591,7 +54591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143660-0.15609926941141095",
     "character": "琿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "아름다운옥 혼",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54601,7 +54601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143662-0.6939896098145587",
     "character": "笏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "홀 홀",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54611,7 +54611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143668-0.18606015760220485",
     "character": "畵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "그림 화",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54621,7 +54621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143673-0.5197028047471112",
     "character": "宦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "벼슬 환",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54631,7 +54631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143683-0.8871654615351092",
     "character": "慌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어리둥절할 황",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54641,7 +54641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143687-0.6708845857817497",
     "character": "隍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "해자 황",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54651,7 +54651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143694-0.6340004107617904",
     "character": "膾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "회 회",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54661,7 +54661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143697-0.3813194522752802",
     "character": "梟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "올빼미 효",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54671,7 +54671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143698-0.20919274835291257",
     "character": "爻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사귈/가로그을 효",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54681,7 +54681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143699-0.027374544678761548",
     "character": "酵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "삭힐 효",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54691,7 +54691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143702-0.6778668905737191",
     "character": "嗅",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "맡을 후",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54701,7 +54701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143703-0.6964252110375552",
     "character": "朽",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "썩을 후",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54711,7 +54711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143704-0.12527313820040387",
     "character": "暈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "무리 훈",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54721,7 +54721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143706-0.17628654812936928",
     "character": "勛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "공 훈",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "특급Ⅱ",
@@ -54731,7 +54731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143714-0.043793561881014464",
     "character": "卉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "풀 훼",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54741,7 +54741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143722-0.2817146098413065",
     "character": "諱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "숨길/꺼릴 휘",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54751,7 +54751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143725-0.6242909268364295",
     "character": "恤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "불쌍할 휼",
     "daehan": null,
     "korcham": "2급",
     "uhmoon": "1급",
@@ -54761,7 +54761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143742-0.38186928166704903",
     "character": "厦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "큰집 하",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54771,7 +54771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143744-0.9672551199580527",
     "character": "昰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "여름 하",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54781,7 +54781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143746-0.705029980338993",
     "character": "鰕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "새우 하",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54791,7 +54791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143748-0.6030409156848167",
     "character": "呀",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "입벌릴 하",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -54801,7 +54801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143749-0.5468464670158083",
     "character": "嘏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "클 하",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -54811,7 +54811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143750-0.4482930169281105",
     "character": "碬",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "숫돌 하",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -54821,7 +54821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143753-0.4703819161949955",
     "character": "嗃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "엄숙할 학",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -54831,7 +54831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143754-0.7852818684797926",
     "character": "悍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "사나울 한",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54841,7 +54841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143757-0.3300927755815749",
     "character": "瀚",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "넓고클 한",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54851,7 +54851,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143758-0.31801257137298233",
     "character": "罕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "드물 한",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54861,7 +54861,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143759-0.1923460014298033",
     "character": "澖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물이름 한",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -54871,7 +54871,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143761-0.784321148235268",
     "character": "啣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "재갈 함",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54881,7 +54881,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143762-0.39222676940760537",
     "character": "喊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "소리칠 함",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54891,7 +54891,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143763-0.45773015615878565",
     "character": "檻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "난간 함",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54901,7 +54901,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143765-0.5102916452583846",
     "character": "闔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "문짝 합",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54911,7 +54911,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143767-0.9351271506960845",
     "character": "伉",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "강직할/짝 항",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54921,7 +54921,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143769-0.6076618387770063",
     "character": "嫦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "항아 항",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54931,7 +54931,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143772-0.3365450067434337",
     "character": "桁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "차꼬 항",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54941,7 +54941,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143775-0.6009413397392063",
     "character": "缸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "항아리 항",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -54951,7 +54951,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143777-0.5806875654217089",
     "character": "垓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "땅가장자리 해",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54961,7 +54961,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143778-0.006598120906052385",
     "character": "孩",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어린아이 해",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54971,7 +54971,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143780-0.23485275033567243",
     "character": "瀣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이슬 해",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -54981,7 +54981,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143784-0.5872268285516268",
     "character": "咍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "웃을 해",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -54991,7 +54991,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143788-0.9901951477215012",
     "character": "荇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "마름풀 행",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55001,7 +55001,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143789-0.4948861084255297",
     "character": "嚮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "길잡을 향",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55011,7 +55011,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143791-0.6035328029189986",
     "character": "噓",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "불 허",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55021,7 +55021,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143792-0.9910606264742164",
     "character": "櫶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나무이름 헌",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55031,7 +55031,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143794-0.4397564044426583",
     "character": "焱",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "불꽃 염",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -55041,7 +55041,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143795-0.84892098068555",
     "character": "侐",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "고요할 혁",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -55051,7 +55051,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143799-0.34689962168203925",
     "character": "睍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "눈불거질 현",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55061,7 +55061,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143800-0.2762222025388902",
     "character": "絢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "무늬 현",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55071,7 +55071,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143802-0.6756561633953037",
     "character": "衒",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "자랑할 현",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55081,7 +55081,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143805-0.7607597301264497",
     "character": "昡",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "햇빛 현",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -55091,7 +55091,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143808-0.21269289789386414",
     "character": "呟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "소리 현",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -55101,7 +55101,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143811-0.17953000649864503",
     "character": "儇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "영리할 현",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -55111,7 +55111,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143814-0.20431520779796541",
     "character": "譞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지혜로울 현",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -55121,7 +55121,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143816-0.9379348650834268",
     "character": "怰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "팔 현",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -55131,7 +55131,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143819-0.9491806284924987",
     "character": "孑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "외로울 혈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55141,7 +55141,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143821-0.7266035940907578",
     "character": "鋏",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "가위 협",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55151,7 +55151,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143823-0.4406777881946996",
     "character": "頰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뺨 협",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55161,7 +55161,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143825-0.07974408507389641",
     "character": "滎",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "실개천 형",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55171,7 +55171,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143828-0.8120054804712478",
     "character": "逈",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "멀 형",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55181,7 +55181,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143830-0.9886762083843003",
     "character": "鎣",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "줄 형",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55191,7 +55191,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143831-0.06057730190436128",
     "character": "暳",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "별반짝거릴 혜",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55201,7 +55201,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143834-0.06559501696518122",
     "character": "蹊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지름길 혜",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55211,7 +55211,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143836-0.9902016977848678",
     "character": "醯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "식혜 혜",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55221,7 +55221,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143837-0.08283936628786448",
     "character": "寭",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밝을 혜",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -55231,7 +55231,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143840-0.2935173080380289",
     "character": "岵",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "초목이우거진산 호",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55241,7 +55241,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143842-0.3097014508088133",
     "character": "滸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물가 호",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55251,7 +55251,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143843-0.038687831511391435",
     "character": "澔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "넓을 호",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급Ⅱ",
@@ -55261,7 +55261,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143846-0.23764556389073443",
     "character": "瓠",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "박 호",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55271,7 +55271,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143850-0.05670442977327672",
     "character": "縞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "흰깁 호",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55281,7 +55281,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143852-0.919094186792109",
     "character": "芦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지황 호",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55291,7 +55291,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143855-0.3143245827997023",
     "character": "葫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물외/마늘 호",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55301,7 +55301,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143858-0.35551117371648333",
     "character": "蒿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "다북쑥 호",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55311,7 +55311,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143860-0.40816204391034994",
     "character": "蝴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나비 호",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55321,7 +55321,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143867-0.31541101809368677",
     "character": "皞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "흰빛 호",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -55331,7 +55331,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143871-0.1983618782911405",
     "character": "哄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "떠들썩할 홍",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55341,7 +55341,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143874-0.39563310481226155",
     "character": "汞",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "수은 홍",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55351,7 +55351,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143880-0.5335182990445622",
     "character": "訌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "어지러울 홍",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55361,7 +55361,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143885-0.3901953167500123",
     "character": "譁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "지껄일 화",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55371,7 +55371,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143886-0.19232068690491178",
     "character": "攫",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "움킬 확",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55381,7 +55381,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143888-0.075187952213293",
     "character": "碻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "굳을 확",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55391,7 +55391,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143893-0.723277760285349",
     "character": "鰥",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "홀아비 환",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55401,7 +55401,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143895-0.4773911014802308",
     "character": "豁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "넓을 활",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55411,7 +55411,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143897-0.47907992905388463",
     "character": "幌",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "휘장 황",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55421,7 +55421,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143905-0.8090135825499736",
     "character": "愰",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "들뜰 황",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55431,7 +55431,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143907-0.24125737346941678",
     "character": "晄",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밝을 황",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55441,7 +55441,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143911-0.17346523641167488",
     "character": "湟",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "웅덩이 황",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55451,7 +55451,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143913-0.5641136773682933",
     "character": "潢",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "웅덩이 황",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55461,7 +55461,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143916-0.2066691559337921",
     "character": "篁",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "대숲 황",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55471,7 +55471,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143920-0.3400317372534667",
     "character": "蝗",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "황충 황",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55481,7 +55481,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143922-0.8105889169508222",
     "character": "遑",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "급할 황",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55491,7 +55491,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143928-0.48059211835568083",
     "character": "匯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "물돌아모일 회",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55501,7 +55501,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143933-0.6279268358873574",
     "character": "獪",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "교활할 회",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55511,7 +55511,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143936-0.7064325136296556",
     "character": "茴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "회향 회",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55521,7 +55521,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143938-0.35739985811521857",
     "character": "蛔",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "회충 회",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55531,7 +55531,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143942-0.2309336460753867",
     "character": "宖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "집울릴 횡",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55541,7 +55541,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143947-0.5591297071729772",
     "character": "哮",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "성낼 효",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55551,7 +55551,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143955-0.2724739247895205",
     "character": "淆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "뒤섞일 효",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55561,7 +55561,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143957-0.9944392686887881",
     "character": "肴",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "안주 효",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55571,7 +55571,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143959-0.48432502182492676",
     "character": "皛",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "흰빛 효",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -55581,7 +55581,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143960-0.9657888944831942",
     "character": "歊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "김오를 효",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -55591,7 +55591,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143962-0.08054788055555684",
     "character": "吼",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "울부짖을 후",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55601,7 +55601,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143963-0.7106293841653061",
     "character": "帿",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "과녁 후",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55611,7 +55611,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143964-0.8896472765095179",
     "character": "煦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "따스할 후",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55621,7 +55621,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143966-0.934204545563363",
     "character": "珝",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "옥이름 후",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55631,7 +55631,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143969-0.6419311034657076",
     "character": "垕",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "두터울 후",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -55641,7 +55641,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143970-0.3764082779851913",
     "character": "塤",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "질나발 훈",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55651,7 +55651,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143975-0.4267818523951763",
     "character": "薨",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "죽을 훙",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55661,7 +55661,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143981-0.44179040008194026",
     "character": "煊",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밝을 훤",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55671,7 +55671,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143983-0.0823689742511784",
     "character": "喙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "부리 훼",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55681,7 +55681,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143985-0.11928003771412043",
     "character": "煇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빛날 휘",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55691,7 +55691,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143988-0.5605949778621532",
     "character": "麾",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기 휘",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55701,7 +55701,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143992-0.1849062137122114",
     "character": "畦",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "밭이랑 휴",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55711,7 +55711,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143996-0.12650471959188592",
     "character": "鷸",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "도요새 휼",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55721,7 +55721,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143997-0.2554487354674353",
     "character": "兇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "흉악할 흉",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55731,7 +55731,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971143999-0.45788932789496883",
     "character": "洶",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "용솟음칠 흉",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55741,7 +55741,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971144002-0.4946269145055884",
     "character": "忻",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기뻐할 흔",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -55751,7 +55751,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971144003-0.9595819702386631",
     "character": "吃",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "말더듬을 흘",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55761,7 +55761,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971144004-0.1628306669153371",
     "character": "紇",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "질낮은실 흘",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55771,7 +55771,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971144006-0.7323874716925933",
     "character": "訖",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "이를 흘",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55781,7 +55781,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971144007-0.4153593743800402",
     "character": "歆",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "흠향할 흠",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "1급",
@@ -55791,7 +55791,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971144011-0.2826334952615106",
     "character": "囍",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "쌍희 희",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55801,7 +55801,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971144012-0.4949288800088384",
     "character": "憘",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "기쁠 희",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55811,7 +55811,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971144015-0.17570079587246445",
     "character": "熺",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빛날 희",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급Ⅱ",
@@ -55821,7 +55821,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971144016-0.6331640409156467",
     "character": "橲",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "나무이름 희",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": "특급",
@@ -55831,7 +55831,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971144021-0.25947425351673603",
     "character": "俙",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "희미할 희",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,
@@ -55841,7 +55841,7 @@ export const hanjaMeta = [
   {
     "id": "sanggong-4_1-1786971144024-0.5235323191112158",
     "character": "烯",
-    "hunEum": "TODO: 뜻음",
+    "hunEum": "빛날 희",
     "daehan": null,
     "korcham": "1급",
     "uhmoon": null,

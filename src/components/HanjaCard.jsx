@@ -13,7 +13,9 @@ export default function HanjaCard({ hanja, isSelected, onToggleSelect, onPreview
 
       <div className="hanja-char-display">{hanja.character}</div>
 
-      <div className="hanja-huneum">{hanja.hunEum}</div>
+      <div className="hanja-huneum">
+        {hanja.hunEum || `${hanja.hun || ''} ${hanja.eum || ''}`.trim()}
+      </div>
 
       <div className="hanja-meta">
         <span>총 {hanja.totalStrokes}획</span>
