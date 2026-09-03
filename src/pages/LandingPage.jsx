@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen, Layers, Printer, Sparkles, ArrowRight, FileText, CheckCircle2, ChevronRight } from 'lucide-react';
+import { BookOpen, Layers, Printer, ArrowRight, FileText, CheckCircle2, ChevronRight } from 'lucide-react';
 import { useSeo } from '../utils/useSeo';
 
 export default function LandingPage() {
@@ -10,24 +10,9 @@ export default function LandingPage() {
   );
 
   return (
-    <div className="landing-page-container" style={{ maxWidth: '1000px', margin: '0 auto', padding: '2.5rem 1rem 3.5rem 1rem', textAlign: 'center' }}>
-      {/* Brand Logo Header */}
-      <div style={{ display: 'inline-flex', alignItems: 'center', gap: '10px', marginBottom: '2.5rem' }}>
-        <div style={{ background: '#059669', color: '#ffffff', fontWeight: 800, width: '46px', height: '46px', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '1.6rem', boxShadow: '0 4px 12px rgba(5, 150, 105, 0.25)' }}>
-          日
-        </div>
-        <div style={{ textAlign: 'left' }}>
-          <div style={{ fontSize: '1.75rem', fontWeight: 800, color: '#0f172a', lineHeight: 1.1 }}>일일한자</div>
-          <div style={{ fontSize: '0.85rem', color: '#64748b', fontWeight: 600, letterSpacing: '0.05em' }}>11HANJA.COM</div>
-        </div>
-      </div>
-
+    <div className="landing-page-container" style={{ maxWidth: '1000px', margin: '0 auto', padding: '3rem 1rem 4rem 1rem', textAlign: 'center' }}>
       {/* Hero Section */}
       <section style={{ marginBottom: '3rem' }}>
-        <div style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', background: '#ecfdf5', color: '#059669', padding: '6px 16px', borderRadius: '20px', fontSize: '0.9rem', fontWeight: 600, marginBottom: '1.25rem' }}>
-          <Sparkles size={16} />
-          <span>매일 10분! 스스로 익히는 무료 한자 학습</span>
-        </div>
         <h1 style={{ fontSize: 'clamp(1.8rem, 4vw, 2.6rem)', color: '#0f172a', fontWeight: 800, margin: '0 0 1rem 0', letterSpacing: '-0.02em', lineHeight: 1.3 }}>
           오늘 어떤 한자 공부를 해볼까요?
         </h1>
