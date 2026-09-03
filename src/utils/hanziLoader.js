@@ -1,6 +1,6 @@
 // 한국 한자(정자체) 모양이 중국(hanzi-writer-data)과 다를 때, 
 // 자체 제작한 로컬 데이터를 최우선으로 사용하기 위한 오버라이드 목록
-const LOCAL_OVERRIDES = ['擧', '敎', '産', '直', '絲', '線', '給', '練', '終', '細', '純', '紀', '織', '玕'];
+const LOCAL_OVERRIDES = ['平', '擧', '敎', '産', '直', '絲', '線', '給', '練', '終', '細', '純', '紀', '織', '玕'];
 
 // 한국 전통 강희자전체에 대응하는 표준 CJK 획순 대체 매핑
 const KANGXI_FALLBACK_MAP = {
@@ -28,7 +28,7 @@ export const loadHanziData = (rawChar, onComplete) => {
   // 로컬 오버라이드 대상이면 로컬 JSON을 즉시 사용
   if (LOCAL_OVERRIDES.includes(char) || LOCAL_OVERRIDES.includes(rawChar)) {
     const target = LOCAL_OVERRIDES.includes(char) ? char : rawChar;
-    fetch(`/data/strokes-hw/${encodeURIComponent(target)}.json?v=18`)
+    fetch(`/data/strokes-hw/${encodeURIComponent(target)}.json?v=19`)
       .then(res => res.json())
       .then(data => onComplete(data))
       .catch(err => {
