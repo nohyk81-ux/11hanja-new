@@ -1132,3 +1132,32 @@ body {
   0%, 100% { opacity: 1; transform: scale(1); }
   50% { opacity: 0.5; transform: scale(0.95); }
 }
+
+/* Content & Policy Pages Responsive Styles */
+.content-page-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 2.5rem 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  text-align: left;
+  word-break: keep-all;
+  line-height: 1.8;
+}
+
+@media (max-width: 640px) {
+  .content-page-card {
+    padding: 1.5rem 1rem !important;
+    border-radius: 12px;
+  }
+  .content-page-card h1 {
+    font-size: 1.45rem !important;
+  }
+  .content-page-card h2 {
+    font-size: 1.15rem !important;
+  }
+  .content-page-card p,
+  .content-page-card li {
+    font-size: 0.95rem !important;
+  }
+}
+

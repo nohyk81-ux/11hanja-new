@@ -22,7 +22,7 @@ export default function AboutPage() {
         </Link>
       </div>
 
-      <article style={{ background: 'white', borderRadius: '16px', padding: '2.5rem 2rem', boxShadow: '0 4px 12px rgba(0,0,0,0.06)', textAlign: 'left' }}>
+      <article className="content-page-card">
         <header style={{ borderBottom: '1px solid #e2e8f0', paddingBottom: '1.5rem', marginBottom: '2rem' }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '0.5rem' }}>
             <BookOpen size={28} style={{ color: 'var(--primary)' }} />

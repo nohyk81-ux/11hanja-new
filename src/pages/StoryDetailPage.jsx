@@ -56,7 +56,7 @@ export default function StoryDetailPage() {
         </button>
       </nav>
 
-      <article style={{ background: 'white', borderRadius: '16px', padding: '2.5rem 2rem', boxShadow: '0 4px 12px rgba(0,0,0,0.06)', textAlign: 'left' }}>
+      <article className="content-page-card">
         <header style={{ borderBottom: '1px solid #e2e8f0', paddingBottom: '1.5rem', marginBottom: '2rem' }}>
           <div style={{ display: 'inline-block', background: '#e0f2fe', color: '#0369a1', fontSize: '0.85rem', fontWeight: 600, padding: '4px 10px', borderRadius: '6px', marginBottom: '0.75rem' }}>
             한자 교육 & 칼럼
