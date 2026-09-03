@@ -76,7 +76,7 @@ export default function LandingPage() {
             </h2>
             <p style={{ color: '#334155', fontSize: '1.08rem', lineHeight: 1.65, margin: '0 0 2.25rem 0', wordBreak: 'keep-all', fontWeight: 500 }}>
               공인 급수별 맞춤 학습지 A4<br />
-              무료 인쇄 및 오늘의 5자 즉시 출력
+              무료 인쇄 및 랜덤 5자 즉시 출력
             </p>
           </div>
 
