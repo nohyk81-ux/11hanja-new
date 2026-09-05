@@ -46,6 +46,18 @@
 
   <!-- Educational Story Articles (High Content Value for AdSense) -->
   <url>
+    <loc>https://www.11hanja.com/story/13</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.11hanja.com/story/12</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://www.11hanja.com/story/11</loc>
     <lastmod>2026-08-18</lastmod>
     <changefreq>monthly</changefreq>
