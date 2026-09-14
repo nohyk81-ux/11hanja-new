@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, BookOpen, CheckCircle2, Award, HelpCircle, FileText, Sparkles } from 'lucide-react';
 import { useSeo } from '../utils/useSeo';
 
 export default function LandingPage() {
@@ -175,6 +175,166 @@ export default function LandingPage() {
           </Link>
         </div>
       </section>
+
+      {/* Educational Guide & SEO Editorial Section for Google Quality & AdSense Review */}
+      <article
+        className="landing-editorial-guide"
+        style={{
+          marginTop: '4.5rem',
+          textAlign: 'left',
+          background: '#ffffff',
+          borderRadius: '24px',
+          border: '1px solid #e2e8f0',
+          padding: 'clamp(1.5rem, 4vw, 3rem)',
+          boxShadow: '0 4px 20px -2px rgba(15, 23, 42, 0.05)',
+          color: '#1e293b',
+          lineHeight: 1.75
+        }}
+      >
+        <header style={{ borderBottom: '2px solid #f1f5f9', paddingBottom: '1.5rem', marginBottom: '2.5rem' }}>
+          <div style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', background: '#ecfdf5', color: '#059669', padding: '4px 12px', borderRadius: '20px', fontSize: '0.85rem', fontWeight: 700, marginBottom: '0.75rem' }}>
+            <Sparkles size={14} />
+            <span>무료 급수 한자 학습 플랫폼</span>
+          </div>
+          <h2 style={{ fontSize: 'clamp(1.5rem, 3vw, 2rem)', color: '#0f172a', fontWeight: 800, margin: '0 0 0.75rem 0', letterSpacing: '-0.02em' }}>
+            일일한자 완벽 가이드: 급수 한자 공부법과 무료 학습지 활용 노하우
+          </h2>
+          <p style={{ color: '#64748b', fontSize: '1.05rem', margin: 0 }}>
+            유아·초등학생의 기초 문해력 향상부터 취업·승진을 위한 국가공인 자격증 취득까지, 하루 10분 일일한자와 함께 완성해 보세요.
+          </p>
+        </header>
+
+        {/* Section 1: 일일한자 소개 */}
+        <section style={{ marginBottom: '2.75rem' }}>
+          <h3 style={{ display: 'flex', alignItems: 'center', gap: '8px', fontSize: '1.3rem', color: '#0f172a', fontWeight: 700, marginBottom: '1rem' }}>
+            <BookOpen size={22} color="#059669" />
+            <span>1. 일일한자는 어떤 서비스인가요?</span>
+          </h3>
+          <p style={{ marginBottom: '1rem', color: '#334155' }}>
+            <strong>일일한자(11HANJA.COM)</strong>는 회원가입이나 유료 결제 없이 누구나 자유롭게 이용할 수 있는 <strong>100% 무료 한자 교육 포털</strong>입니다.
+            우리나라 대표 3대 공인 검정기관인 <strong>한국어문회(5,978자), 대한검정회, 대한상공회의소</strong>의 급수 체계를 완벽하게 분류 지원하며,
+            공부하고 싶은 한자만 쏙쏙 골라 클릭 한 번으로 나만의 <strong>A4 맞춤 쓰기 학습지</strong>를 인쇄할 수 있습니다.
+          </p>
+          <p style={{ color: '#334155' }}>
+            또한, 글자를 쓸 때 헷갈리기 쉬운 획순을 인터랙티브 <strong>벡터 획순 애니메이션</strong>으로 실시간 제공하여,
+            눈으로 순서를 확인하고 손으로 직접 따라 써보며 뇌에 한자의 구조를 입체적으로 각인할 수 있도록 설계되었습니다.
+          </p>
+        </section>
+
+        {/* Section 2: 3대 검정기관 비교 */}
+        <section style={{ marginBottom: '2.75rem' }}>
+          <h3 style={{ display: 'flex', alignItems: 'center', gap: '8px', fontSize: '1.3rem', color: '#0f172a', fontWeight: 700, marginBottom: '1rem' }}>
+            <Award size={22} color="#059669" />
+            <span>2. 국내 3대 한자 공인검정기관 비교 분석</span>
+          </h3>
+          <p style={{ marginBottom: '1.25rem', color: '#334155' }}>
+            한자 자격증을 준비할 때 가장 중요한 것은 응시 목적에 맞는 검정기관을 올바르게 선택하는 것입니다.
+            일일한자에서는 상단 기관 선택 탭을 통해 언제든 목표 기관 기준의 배정 한자를 전환하여 학습할 수 있습니다.
+          </p>
+
+          <div style={{ overflowX: 'auto', marginBottom: '1.25rem' }}>
+            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.92rem', textAlign: 'left' }}>
+              <thead>
+                <tr style={{ background: '#f8fafc', borderBottom: '2px solid #cbd5e1' }}>
+                  <th style={{ padding: '10px 14px', color: '#0f172a', fontWeight: 700 }}>검정기관</th>
+                  <th style={{ padding: '10px 14px', color: '#0f172a', fontWeight: 700 }}>출제 방식</th>
+                  <th style={{ padding: '10px 14px', color: '#0f172a', fontWeight: 700 }}>난이도</th>
+                  <th style={{ padding: '10px 14px', color: '#0f172a', fontWeight: 700 }}>추천 대상</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr style={{ borderBottom: '1px solid #e2e8f0' }}>
+                  <td style={{ padding: '10px 14px', fontWeight: 600, color: '#059669' }}>한국어문회</td>
+                  <td style={{ padding: '10px 14px' }}>주관식 쓰기 중심 (70~80%)</td>
+                  <td style={{ padding: '10px 14px' }}>최상 (전통적 권위)</td>
+                  <td style={{ padding: '10px 14px' }}>정통 한문 실력파, 대입·사학과 수험생</td>
+                </tr>
+                <tr style={{ borderBottom: '1px solid #e2e8f0' }}>
+                  <td style={{ padding: '10px 14px', fontWeight: 600, color: '#059669' }}>대한검정회</td>
+                  <td style={{ padding: '10px 14px' }}>객관식 + 주관식 균형</td>
+                  <td style={{ padding: '10px 14px' }}>중간 (실용적 조화)</td>
+                  <td style={{ padding: '10px 14px' }}>유아, 초·중등생, 방과후 한자 학습</td>
+                </tr>
+                <tr>
+                  <td style={{ padding: '10px 14px', fontWeight: 600, color: '#059669' }}>대한상공회의소</td>
+                  <td style={{ padding: '10px 14px' }}>100% 객관식 CBT (읽기 중심)</td>
+                  <td style={{ padding: '10px 14px' }}>중하 (단기 합격)</td>
+                  <td style={{ padding: '10px 14px' }}>취업 준비생, 공기업·대기업 직장인</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        {/* Section 3: 한자 공부 4단계 루틴 */}
+        <section style={{ marginBottom: '2.75rem' }}>
+          <h3 style={{ display: 'flex', alignItems: 'center', gap: '8px', fontSize: '1.3rem', color: '#0f172a', fontWeight: 700, marginBottom: '1rem' }}>
+            <CheckCircle2 size={22} color="#059669" />
+            <span>3. 일일한자로 완성하는 4단계 한자 암기 공식</span>
+          </h3>
+          <ol style={{ paddingLeft: '1.25rem', margin: 0, color: '#334155' }}>
+            <li style={{ marginBottom: '0.75rem' }}>
+              <strong>1단계: 훈음(뜻과 소리) 소리 내어 읽기</strong> - 눈으로 글자 모양을 보고 입으로 "하늘 천, 따 지, 평평할 평"처럼 소리 내어 리듬감 있게 읽습니다.
+            </li>
+            <li style={{ marginBottom: '0.75rem' }}>
+              <strong>2단계: 부수(部首)를 통한 의미 파악</strong> - 한자의 80% 이상은 부수가 뜻을 나타냅니다. 물 수(氵)가 들어가면 물과 관련되고, 나무 목(木)이 들어가면 식물과 관련된다는 원리를 이해합니다.
+            </li>
+            <li style={{ marginBottom: '0.75rem' }}>
+              <strong>3단계: 바른 획순(필순)으로 손글씨 쓰기</strong> - 일일한자의 맞춤 A4 노트를 인쇄하여 격자 칸 안에서 균형을 잡으며 또박또박 씁니다. 손을 움직일 때 뇌의 기억 중추가 강력하게 자극됩니다.
+            </li>
+            <li>
+              <strong>4단계: 교과서 및 일상 단어로 확장하기</strong> - 오늘 배운 한자가 들어간 단어(예: 平 ➔ 平和 평화, 水平線 수평선)를 찾아보며 실전 어휘력으로 연결합니다.
+            </li>
+          </ol>
+        </section>
+
+        {/* Section 4: 문해력과 한자 어휘력 */}
+        <section style={{ marginBottom: '2.75rem' }}>
+          <h3 style={{ display: 'flex', alignItems: 'center', gap: '8px', fontSize: '1.3rem', color: '#0f172a', fontWeight: 700, marginBottom: '1rem' }}>
+            <FileText size={22} color="#059669" />
+            <span>4. 초등 문해력을 결정짓는 교과서 한자어의 힘</span>
+          </h3>
+          <p style={{ marginBottom: '1rem', color: '#334155' }}>
+            우리말 어휘의 70% 이상, 그리고 <strong>초·중·고 교과서 학습 도구어의 90% 이상은 한자어</strong>로 이루어져 있습니다.
+            초등학교 3학년 이후 수학(분수, 직사각형), 과학(광합성, 증발), 사회(민주주의, 수출/수입)에서 갑자기 학업 격차가 벌어지는 원인은 개념을 구성하는 한자 어휘를 이해하지 못하기 때문입니다.
+          </p>
+          <p style={{ color: '#334155' }}>
+            한자를 아는 아이는 낯선 단어를 보더라도 글자의 뜻을 조합해 스스로 개념을 유추해 낼 수 있는 <strong>'자기주도 어휘력'</strong>을 갖추게 됩니다.
+            하루 10분, 일일한자의 '랜덤 5자' 학습지로 자녀의 평생 문해력 기본기를 다져주세요.
+          </p>
+        </section>
+
+        {/* Section 5: 자주 묻는 질문 FAQ */}
+        <section style={{ marginBottom: '1.5rem' }}>
+          <h3 style={{ display: 'flex', alignItems: 'center', gap: '8px', fontSize: '1.3rem', color: '#0f172a', fontWeight: 700, marginBottom: '1.25rem' }}>
+            <HelpCircle size={22} color="#059669" />
+            <span>5. 자주 묻는 질문 (FAQ)</span>
+          </h3>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+            <div style={{ background: '#f8fafc', borderRadius: '12px', padding: '1rem 1.25rem', border: '1px solid #e2e8f0' }}>
+              <div style={{ fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Q. 학습지 생성과 인쇄는 정말 완전 무료인가요?</div>
+              <div style={{ color: '#475569', fontSize: '0.95rem' }}>네, 일일한자의 모든 한자 데이터 조회, 획순 연습, 그리고 A4 학습지 인쇄 기능은 회원가입이나 결제 없이 100% 무료로 이용하실 수 있습니다.</div>
+            </div>
+            <div style={{ background: '#f8fafc', borderRadius: '12px', padding: '1rem 1.25rem', border: '1px solid #e2e8f0' }}>
+              <div style={{ fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Q. 스마트폰이나 태블릿에서도 인쇄가 가능한가요?</div>
+              <div style={{ color: '#475569', fontSize: '0.95rem' }}>네, 모바일 브라우저에서도 '학습지 만들기' 후 [인쇄하기] 버튼을 누르시면 PDF 저장 또는 무선 프린터(Wi-Fi AirPrint 등)로 즉시 출력이 가능합니다.</div>
+            </div>
+            <div style={{ background: '#f8fafc', borderRadius: '12px', padding: '1rem 1.25rem', border: '1px solid #e2e8f0' }}>
+              <div style={{ fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Q. 초보자는 몇 급부터 시작하는 것이 좋은가요?</div>
+              <div style={{ color: '#475569', fontSize: '0.95rem' }}>처음 시작하는 유아 및 초등학생은 가장 기초적인 50자로 구성된 <strong>8급</strong>부터 시작하는 것을 강력히 추천합니다. 성취감을 느끼며 자연스럽게 7급, 6급으로 올라갈 수 있습니다.</div>
+            </div>
+          </div>
+        </section>
+
+        {/* Story Link Footer */}
+        <footer style={{ marginTop: '2.5rem', paddingTop: '1.5rem', borderTop: '1px solid #f1f5f9', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem' }}>
+          <span style={{ color: '#64748b', fontSize: '0.95rem' }}>더 깊이 있는 한자 공부법과 유래가 궁금하신가요?</span>
+          <Link to="/story" style={{ color: '#059669', fontWeight: 700, textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px' }}>
+            <span>한자 이야기 칼럼 전체 보기</span>
+            <ArrowRight size={16} />
+          </Link>
+        </footer>
+      </article>
     </div>
   );
 }
