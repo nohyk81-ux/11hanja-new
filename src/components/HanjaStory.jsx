@@ -1,19 +1,25 @@
-import React from 'react';
-import { Calendar, FileText, ArrowRight, BookOpen } from 'lucide-react';
+import React, { useState } from 'react';
+import { Calendar, FileText, ArrowRight, BookOpen, ArrowUpDown, ArrowDownUp } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { STORY_DATABASE } from '../data/storyData';
 import { useSeo } from '../utils/useSeo';
 import '../styles/main.css';
 
 export default function HanjaStory() {
+  const [sortOrder, setSortOrder] = useState('asc'); // 'asc' = 1편부터 순서대로, 'desc' = 최신순
+
   useSeo(
     '한자 이야기 & 급수 시험 칼럼 - 일일한자 | 11HANJA.COM',
     '급수 한자 시험 대비 비법, 사자성어의 숨은 유래, 획순의 과학적 원리, 초등 한자 교육 가이드 등 일일한자가 들려주는 유익하고 흥미진진한 한자 칼럼 모음입니다.'
   );
 
+  const sortedStories = [...STORY_DATABASE].sort((a, b) => {
+    return sortOrder === 'asc' ? a.id - b.id : b.id - a.id;
+  });
+
   return (
     <div className="story-container" style={{ maxWidth: '840px', margin: '0 auto', padding: '2rem 1rem' }}>
-      <header style={{ marginBottom: '2.5rem', textAlign: 'center' }}>
+      <header style={{ marginBottom: '2rem', textAlign: 'center' }}>
         <div style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', background: '#e0f2fe', color: '#0369a1', padding: '6px 14px', borderRadius: '20px', fontSize: '0.9rem', fontWeight: 600, marginBottom: '0.75rem' }}>
           <BookOpen size={16} />
           <span>일일한자 교육 칼럼</span>
@@ -27,8 +33,60 @@ export default function HanjaStory() {
         </p>
       </header>
 
+      {/* Sorting & Filter Control Toolbar */}
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem', flexWrap: 'wrap', gap: '0.75rem' }}>
+        <span style={{ fontSize: '0.95rem', color: '#64748b', fontWeight: 600 }}>
+          총 <strong style={{ color: 'var(--primary)' }}>{STORY_DATABASE.length}편</strong>의 교육 칼럼
+        </span>
+
+        <div style={{ display: 'inline-flex', background: '#f1f5f9', padding: '3px', borderRadius: '10px', border: '1px solid #e2e8f0' }}>
+          <button
+            onClick={() => setSortOrder('asc')}
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '5px',
+              padding: '6px 14px',
+              borderRadius: '8px',
+              border: 'none',
+              background: sortOrder === 'asc' ? '#ffffff' : 'transparent',
+              color: sortOrder === 'asc' ? '#0f172a' : '#64748b',
+              fontWeight: sortOrder === 'asc' ? 700 : 500,
+              fontSize: '0.875rem',
+              cursor: 'pointer',
+              boxShadow: sortOrder === 'asc' ? '0 2px 5px rgba(0,0,0,0.06)' : 'none',
+              transition: 'all 0.15s'
+            }}
+          >
+            <ArrowUpDown size={14} />
+            <span>1편부터 순서대로</span>
+          </button>
+          <button
+            onClick={() => setSortOrder('desc')}
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '5px',
+              padding: '6px 14px',
+              borderRadius: '8px',
+              border: 'none',
+              background: sortOrder === 'desc' ? '#ffffff' : 'transparent',
+              color: sortOrder === 'desc' ? '#0f172a' : '#64748b',
+              fontWeight: sortOrder === 'desc' ? 700 : 500,
+              fontSize: '0.875rem',
+              cursor: 'pointer',
+              boxShadow: sortOrder === 'desc' ? '0 2px 5px rgba(0,0,0,0.06)' : 'none',
+              transition: 'all 0.15s'
+            }}
+          >
+            <ArrowDownUp size={14} />
+            <span>최신순</span>
+          </button>
+        </div>
+      </div>
+
       <div className="story-list" style={{ display: 'flex', flexDirection: 'column', gap: '1.25rem' }}>
-        {STORY_DATABASE.map((story) => (
+        {sortedStories.map((story) => (
           <article 
             key={story.id} 
             className="story-card" 
