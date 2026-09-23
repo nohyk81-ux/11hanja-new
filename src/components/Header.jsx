@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink, Link, useLocation } from 'react-router-dom';
-import { BookOpen, HelpCircle, Layers, Bell, Mail } from 'lucide-react';
+import { BookOpen, HelpCircle, Layers, Bell, Mail, PenTool } from 'lucide-react';
 
 export default function Header({ onOpenNotice, onOpenContact }) {
   const location = useLocation();
@@ -22,21 +22,28 @@ export default function Header({ onOpenNotice, onOpenContact }) {
             className={`nav-btn ${location.pathname.startsWith('/grade') ? 'active' : ''}`}
           >
             <BookOpen size={18} />
-            학습지 만들기
+            <span>학습지 만들기</span>
+          </NavLink>
+          <NavLink
+            to="/custom"
+            className={({ isActive }) => `nav-btn ${isActive ? 'active' : ''}`}
+          >
+            <PenTool size={18} />
+            <span>내마음대로 학습지 만들기</span>
           </NavLink>
           <NavLink
             to="/stroke/8GR"
             className={`nav-btn ${location.pathname.startsWith('/stroke') ? 'active' : ''}`}
           >
             <Layers size={18} />
-            획순 연습하기
+            <span>획순 연습하기</span>
           </NavLink>
           <NavLink
             to="/story"
             className={({ isActive }) => `nav-btn ${isActive ? 'active' : ''}`}
           >
             <BookOpen size={18} />
-            한자 이야기
+            <span>한자 이야기</span>
           </NavLink>
         </nav>
 

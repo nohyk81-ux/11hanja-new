@@ -13,6 +13,7 @@ import AboutPage from './pages/AboutPage';
 import FaqPage from './pages/FaqPage';
 import StoryDetailPage from './pages/StoryDetailPage';
 import LandingPage from './pages/LandingPage';
+import CustomWorksheetPage from './pages/CustomWorksheetPage';
 import { HANJA_DATABASE } from './data/hanjaData';
 import { GR_TO_GRADE, GRADE_TO_GR } from './utils/gradeMapping';
 import './styles/main.css';
@@ -33,6 +34,10 @@ function AppContent() {
   const [activeMenu, setActiveMenu] = useState('practice');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedHanjaIds, setSelectedHanjaIds] = useState([]);
+  const [customHanjaList, setCustomHanjaList] = useState([]);
+  const [customWordList, setCustomWordList] = useState([]);
+  const [isCustomMode, setIsCustomMode] = useState(false);
+  const [isWordMode, setIsWordMode] = useState(false);
   const [isWorksheetOpen, setIsWorksheetOpen] = useState(false);
   const [showNotice, setShowNotice] = useState(false);
   const [showContact, setShowContact] = useState(false);
@@ -40,6 +45,14 @@ function AppContent() {
   const [showFaq, setShowFaq] = useState(false);
   const [showGuide, setShowGuide] = useState(false);
   const [isPreparingPrint, setIsPreparingPrint] = useState(false);
+
+  // Close worksheet preview and reset custom mode on navigation
+  useEffect(() => {
+    setIsWorksheetOpen(false);
+    setIsCustomMode(false);
+    setIsWordMode(false);
+    setCustomWordList([]);
+  }, [location.pathname]);
 
   const filteredHanjaList = useMemo(() => {
     return HANJA_DATABASE.filter((item) => {
@@ -79,8 +92,11 @@ function AppContent() {
   };
 
   const selectedHanjaList = useMemo(() => {
+    if (isCustomMode) {
+      return customHanjaList;
+    }
     return HANJA_DATABASE.filter((h) => selectedHanjaIds.includes(h.id));
-  }, [selectedHanjaIds]);
+  }, [isCustomMode, customHanjaList, selectedHanjaIds]);
 
   const handleGenerateWorksheet = () => {
     if (selectedHanjaIds.length === 0) {
@@ -93,11 +109,45 @@ function AppContent() {
       return;
     }
     
+    setIsCustomMode(false);
+    setIsWordMode(false);
+    setCustomWordList([]);
     setIsPreparingPrint(true);
     setTimeout(() => {
       setIsPreparingPrint(false);
       setIsWorksheetOpen(true);
     }, 3000);
+  };
+
+  const handleGenerateCustomWorksheet = (payload) => {
+    const items = Array.isArray(payload) ? payload : payload?.items || [];
+    const wordMode = Array.isArray(payload) ? false : !!payload?.isWordMode;
+
+    if (!items || items.length === 0) {
+      alert(wordMode ? '학습지를 생성할 단어가 없습니다. 단어를 입력해 주세요.' : '학습지를 생성할 한자가 없습니다. 한자를 입력해 주세요.');
+      return;
+    }
+
+    if (items.length > 30) {
+      alert(wordMode ? '단어 학습지는 한 번에 최대 30단어까지만 생성할 수 있습니다. 30단어 이하로 조절해 주세요.' : '학습지는 한 번에 최대 30자까지만 생성할 수 있습니다. 30자 이하로 조절해 주세요.');
+      return;
+    }
+
+    if (wordMode) {
+      setCustomWordList(items);
+      setIsWordMode(true);
+      setIsCustomMode(true);
+    } else {
+      setCustomHanjaList(items);
+      setIsWordMode(false);
+      setIsCustomMode(true);
+    }
+
+    setIsPreparingPrint(true);
+    setTimeout(() => {
+      setIsPreparingPrint(false);
+      setIsWorksheetOpen(true);
+    }, 1200);
   };
 
   const handleRandom5Generate = () => {
@@ -226,6 +276,14 @@ function AppContent() {
               />
             } 
           />
+          <Route 
+            path="/custom" 
+            element={
+              <div style={{ display: isWorksheetOpen ? 'none' : 'block' }}>
+                <CustomWorksheetPage onGenerateCustomWorksheet={handleGenerateCustomWorksheet} />
+              </div>
+            } 
+          />
           <Route path="/story" element={<HanjaStory />} />
           <Route path="/story/:id" element={<StoryDetailPage />} />
           <Route path="/about" element={<AboutPage />} />
@@ -238,9 +296,14 @@ function AppContent() {
         {isWorksheetOpen && (
           <WorksheetViewer
             selectedHanjaList={selectedHanjaList}
+            selectedWordList={customWordList}
+            isWordMode={isWordMode}
             onClose={() => {
               setIsWorksheetOpen(false);
               setSelectedHanjaIds([]);
+              setIsCustomMode(false);
+              setIsWordMode(false);
+              setCustomWordList([]);
             }}
           />
         )}

@@ -1,6 +1,68 @@
 import React, { useState, useEffect } from 'react';
 import { loadHanziData } from '../utils/hanziLoader';
-export default function PrintWorksheet({ selectedHanjaList, printMode, currentPage = 0 }) {
+export default function PrintWorksheet({
+  selectedHanjaList = [],
+  selectedWordList = [],
+  isWordMode = false,
+  printMode,
+  currentPage = 0
+}) {
+  if (isWordMode) {
+    if (!selectedWordList || selectedWordList.length === 0) return null;
+
+    const wordGridPages = groupWordsIntoGridPages(selectedWordList, 6);
+
+    if (printMode === 'word-row') {
+      return (
+        <>
+          {wordGridPages.map((pageData, pageIndex) => (
+            <A4WordRowSheet
+              key={`word-row-page-${pageIndex}`}
+              pageChars={pageData.pageChars}
+              pageWords={pageData.pageWords}
+              pageIndex={pageIndex}
+              totalPages={wordGridPages.length}
+              isActive={pageIndex === currentPage}
+            />
+          ))}
+        </>
+      );
+    }
+
+    if (printMode === 'word-summary') {
+      return (
+        <>
+          {wordGridPages.map((pageData, pageIndex) => (
+            <A4WordSummarySheet
+              key={`word-summary-page-${pageIndex}`}
+              pageChars={pageData.pageChars}
+              pageWords={pageData.pageWords}
+              pageIndex={pageIndex}
+              totalPages={wordGridPages.length}
+              isActive={pageIndex === currentPage}
+            />
+          ))}
+        </>
+      );
+    }
+
+    // Default fallback: Word Summary Sheet (단어 가로쓰기)
+    return (
+      <>
+        {wordGridPages.map((pageData, pageIndex) => (
+          <A4WordSummarySheet
+            key={`word-summary-page-${pageIndex}`}
+            pageChars={pageData.pageChars}
+            pageWords={pageData.pageWords}
+            pageIndex={pageIndex}
+            totalPages={wordGridPages.length}
+            isActive={pageIndex === currentPage}
+          />
+        ))}
+      </>
+    );
+  }
+
   if (!selectedHanjaList || selectedHanjaList.length === 0) return null;
 
   if (printMode === 'summary') {
@@ -272,3 +334,204 @@ function A4SummaryHanjaSheet({ selectedHanjaList }) {
     </div>
   );
 }
+// Word Worksheet Pagination Helper: Group characters into pages (legacy helper)
+export function groupCharsIntoPages(allChars = [], charsPerPage = 6) {
+  if (!allChars || allChars.length === 0) return [];
+  const pages = [];
+  for (let i = 0; i < allChars.length; i += charsPerPage) {
+    pages.push(allChars.slice(i, i + charsPerPage));
+  }
+  return pages;
+}
+
+// Word Worksheet Pagination Helper: Group whole words into grid pages (max 6 columns per page)
+export function groupWordsIntoGridPages(wordList = [], maxColsPerPage = 6) {
+  if (!wordList || wordList.length === 0) return [];
+  const pages = [];
+  let currentPageWords = [];
+  let currentCharsCount = 0;
+
+  for (const wordItem of wordList) {
+    const chars = wordItem.chars || [];
+    const len = chars.length;
+    if (len === 0) continue;
+
+    // If single word has more than maxColsPerPage (e.g. 7+ chars), chunk it across pages
+    if (len > maxColsPerPage) {
+      if (currentPageWords.length > 0) {
+        pages.push({
+          pageWords: currentPageWords,
+          pageChars: currentPageWords.flatMap((w) => w.chars || [])
+        });
+        currentPageWords = [];
+        currentCharsCount = 0;
+      }
+      for (let i = 0; i < len; i += maxColsPerPage) {
+        const chunkChars = chars.slice(i, i + maxColsPerPage);
+        pages.push({
+          pageWords: [{ ...wordItem, chars: chunkChars, word: chunkChars.map((c) => c.char).join('') }],
+          pageChars: chunkChars
+        });
+      }
+      continue;
+    }
+
+    // If adding this word exceeds maxColsPerPage, push current page and start a new one
+    if (currentCharsCount + len > maxColsPerPage) {
+      if (currentPageWords.length > 0) {
+        pages.push({
+          pageWords: currentPageWords,
+          pageChars: currentPageWords.flatMap((w) => w.chars || [])
+        });
+      }
+      currentPageWords = [wordItem];
+      currentCharsCount = len;
+    } else {
+      currentPageWords.push(wordItem);
+      currentCharsCount += len;
+    }
+  }
+
+  if (currentPageWords.length > 0) {
+    pages.push({
+      pageWords: currentPageWords,
+      pageChars: currentPageWords.flatMap((w) => w.chars || [])
+    });
+  }
+
+  return pages;
+}
+
+// Word Mode 1: Summary Sheet (단어 가로 묶음 쓰기 - 1행 단어 전체 6칸 + 아래 5행 가로 반복 쓰기)
+function A4WordSummarySheet({ pageChars = [], pageWords = [], pageIndex = 0, totalPages = 1, isActive = true }) {
+  const wordsTitle = pageWords.map((w) => w.word).join(' · ') || pageChars.map((c) => c.char).join('');
+  const readingsTitle = pageWords.map((w) => w.reading).join(' · ') || pageChars.map((c) => c.eum).join('');
+
+  return (
+    <div className={`a4-page ${isActive ? 'active-page' : 'hidden-page'}`}>
+      <div className="a4-header">
+        <div className="a4-title-group">
+          <h2>일일한자 단어 쓰기 연습지{wordsTitle ? ` (${wordsTitle})` : ''}</h2>
+          <p>{readingsTitle ? `독음: [${readingsTitle}] • ` : ''}매일 10분! 스스로 익히는 단어 쓰기 교재 • 11HANJA.COM</p>
+        </div>
+        <div className="a4-user-info">
+          <div className="info-field">날짜: <span className="info-line"></span></div>
+          <div className="info-field">이름: <span className="info-line"></span></div>
+          <div className="info-field">확인: <span className="info-line" style={{ width: '35px' }}></span></div>
+        </div>
+      </div>
+
+      <div className="worksheet-grid-6x6">
+        {Array.from({ length: 36 }).map((_, index) => {
+          const row = Math.floor(index / 6);
+          const col = index % 6;
+          const charItem = col < pageChars.length ? pageChars[col] : null;
+          const isModel = row === 0;
+
+          return (
+            <div
+              key={index}
+              className={`practice-box ${!isModel ? 'blank-cell' : ''}`}
+            >
+              <div className="practice-square">
+                <div className="crosshair-h"></div>
+                <div className="crosshair-v"></div>
+
+                {/* Row 0 is the Model word character */}
+                {isModel && charItem && (
+                  <div className="char-content" style={{ fontSize: '38pt' }}>
+                    {charItem.char}
+                  </div>
+                )}
+              </div>
+
+              {/* Hun-Eum field */}
+              <div className="huneum-field">
+                {charItem ? (
+                  <span style={{ color: isModel ? '#000' : '#334155', fontWeight: isModel ? 700 : 600 }}>
+                    {charItem.hunEum || ''}
+                  </span>
+                ) : (
+                  <span style={{ fontSize: '7.5pt', color: '#cbd5e1' }}>훈 / 음</span>
+                )}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      <div className="a4-footer">
+        <span>일일한자 단어 쓰기 노트{wordsTitle ? ` (${wordsTitle} | ${readingsTitle})` : ''} • 페이지 {pageIndex + 1}/{totalPages}</span>
+        <span>출처: 일일한자 (11hanja.com) - 무단 전재 및 재배포 금지</span>
+      </div>
+    </div>
+  );
+}
+
+// Word Mode 2: Row Sheet (글자별 한 줄씩 쓰기 - 1행당 1글자 6칸, 6행으로 A4 전체 채움)
+function A4WordRowSheet({ pageChars = [], pageWords = [], pageIndex = 0, totalPages = 1, isActive = true }) {
+  const wordsTitle = pageWords.map((w) => w.word).join(' · ') || pageChars.map((c) => c.char).join('');
+  const readingsTitle = pageWords.map((w) => w.reading).join(' · ') || pageChars.map((c) => c.eum).join('');
+
+  return (
+    <div className={`a4-page ${isActive ? 'active-page' : 'hidden-page'}`}>
+      <div className="a4-header">
+        <div className="a4-title-group">
+          <h2>일일한자 단어 낱자 쓰기 연습지{wordsTitle ? ` (${wordsTitle})` : ''}</h2>
+          <p>{readingsTitle ? `독음: [${readingsTitle}] • ` : ''}매일 10분! 스스로 익히는 단어 쓰기 교재 • 11HANJA.COM</p>
+        </div>
+        <div className="a4-user-info">
+          <div className="info-field">날짜: <span className="info-line"></span></div>
+          <div className="info-field">이름: <span className="info-line"></span></div>
+          <div className="info-field">확인: <span className="info-line" style={{ width: '35px' }}></span></div>
+        </div>
+      </div>
+
+      <div className="worksheet-grid-6x6">
+        {Array.from({ length: 36 }).map((_, index) => {
+          const row = Math.floor(index / 6);
+          const col = index % 6;
+          const charItem = row < pageChars.length ? pageChars[row] : null;
+          const isModel = col === 0;
+
+          return (
+            <div
+              key={index}
+              className={`practice-box ${!isModel ? 'blank-cell' : ''}`}
+            >
+              <div className="practice-square">
+                <div className="crosshair-h"></div>
+                <div className="crosshair-v"></div>
+
+                {/* Col 0 is the Model character */}
+                {isModel && charItem && (
+                  <div className="char-content" style={{ fontSize: '38pt' }}>
+                    {charItem.char}
+                  </div>
+                )}
+              </div>
+
+              {/* Hun-Eum field */}
+              <div className="huneum-field">
+                {charItem ? (
+                  <span style={{ color: isModel ? '#000' : '#334155', fontWeight: isModel ? 700 : 600 }}>
+                    {charItem.hunEum || ''}
+                  </span>
+                ) : (
+                  <span style={{ fontSize: '7.5pt', color: '#cbd5e1' }}>훈 / 음</span>
+                )}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      <div className="a4-footer">
+        <span>일일한자 단어 낱자 쓰기 노트{wordsTitle ? ` (${wordsTitle} | ${readingsTitle})` : ''} • 페이지 {pageIndex + 1}/{totalPages}</span>
+        <span>출처: 일일한자 (11hanja.com) - 무단 전재 및 재배포 금지</span>
+      </div>
+    </div>
+  );
+}
+
+

@@ -6,7 +6,7 @@ import { useSeo } from '../utils/useSeo';
 import '../styles/main.css';
 
 export default function HanjaStory() {
-  const [sortOrder, setSortOrder] = useState('asc'); // 'asc' = 1편부터 순서대로, 'desc' = 최신순
+  const [sortOrder, setSortOrder] = useState('desc'); // 'desc' = 최신순 (기본값), 'asc' = 1편부터 순서대로
 
   useSeo(
     '한자 이야기 & 급수 시험 칼럼 - 일일한자 | 11HANJA.COM',
@@ -41,27 +41,6 @@ export default function HanjaStory() {
 
         <div style={{ display: 'inline-flex', background: '#f1f5f9', padding: '3px', borderRadius: '10px', border: '1px solid #e2e8f0' }}>
           <button
-            onClick={() => setSortOrder('asc')}
-            style={{
-              display: 'inline-flex',
-              alignItems: 'center',
-              gap: '5px',
-              padding: '6px 14px',
-              borderRadius: '8px',
-              border: 'none',
-              background: sortOrder === 'asc' ? '#ffffff' : 'transparent',
-              color: sortOrder === 'asc' ? '#0f172a' : '#64748b',
-              fontWeight: sortOrder === 'asc' ? 700 : 500,
-              fontSize: '0.875rem',
-              cursor: 'pointer',
-              boxShadow: sortOrder === 'asc' ? '0 2px 5px rgba(0,0,0,0.06)' : 'none',
-              transition: 'all 0.15s'
-            }}
-          >
-            <ArrowUpDown size={14} />
-            <span>1편부터 순서대로</span>
-          </button>
-          <button
             onClick={() => setSortOrder('desc')}
             style={{
               display: 'inline-flex',
@@ -81,6 +60,27 @@ export default function HanjaStory() {
           >
             <ArrowDownUp size={14} />
             <span>최신순</span>
+          </button>
+          <button
+            onClick={() => setSortOrder('asc')}
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '5px',
+              padding: '6px 14px',
+              borderRadius: '8px',
+              border: 'none',
+              background: sortOrder === 'asc' ? '#ffffff' : 'transparent',
+              color: sortOrder === 'asc' ? '#0f172a' : '#64748b',
+              fontWeight: sortOrder === 'asc' ? 700 : 500,
+              fontSize: '0.875rem',
+              cursor: 'pointer',
+              boxShadow: sortOrder === 'asc' ? '0 2px 5px rgba(0,0,0,0.06)' : 'none',
+              transition: 'all 0.15s'
+            }}
+          >
+            <ArrowUpDown size={14} />
+            <span>1편부터 순서대로</span>
           </button>
         </div>
       </div>

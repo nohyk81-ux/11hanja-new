@@ -10,7 +10,7 @@ export default function LandingPage() {
   );
 
   return (
-    <div className="landing-page-container" style={{ maxWidth: '860px', margin: '0 auto', padding: '3.5rem 1rem 4.5rem 1rem', textAlign: 'center' }}>
+    <div className="landing-page-container" style={{ maxWidth: '1100px', margin: '0 auto', padding: '3.5rem 1rem 4.5rem 1rem', textAlign: 'center' }}>
       {/* Hero Title */}
       <section style={{ marginBottom: '3rem' }}>
         <h1 style={{ fontSize: 'clamp(1.9rem, 4vw, 2.7rem)', color: '#0f172a', fontWeight: 800, margin: '0 0 1rem 0', letterSpacing: '-0.02em', lineHeight: 1.3 }}>
@@ -21,7 +21,7 @@ export default function LandingPage() {
         </p>
       </section>
 
-      {/* 2 Main Gateway Cards (Mockup Design) */}
+      {/* 3 Main Gateway Cards */}
       <section className="landing-grid">
         {/* Card 1: 학습지 만들기 */}
         <div
@@ -35,7 +35,7 @@ export default function LandingPage() {
             flexDirection: 'column',
             justifyContent: 'space-between',
             textAlign: 'center',
-            padding: '2.75rem 2rem 2.25rem 2rem'
+            padding: '2.5rem 1.75rem 2.25rem 1.75rem'
           }}
         >
           <div>
@@ -71,10 +71,10 @@ export default function LandingPage() {
               </svg>
             </div>
 
-            <h2 style={{ fontSize: '1.65rem', color: '#0f172a', fontWeight: 800, margin: '0 0 0.85rem 0', letterSpacing: '-0.02em' }}>
+            <h2 style={{ fontSize: '1.5rem', color: '#0f172a', fontWeight: 800, margin: '0 0 0.85rem 0', letterSpacing: '-0.02em' }}>
               📖 학습지 만들기
             </h2>
-            <p style={{ color: '#334155', fontSize: '1.08rem', lineHeight: 1.65, margin: '0 0 2.25rem 0', wordBreak: 'keep-all', fontWeight: 500 }}>
+            <p style={{ color: '#334155', fontSize: '1.02rem', lineHeight: 1.6, margin: '0 0 2rem 0', wordBreak: 'keep-all', fontWeight: 500 }}>
               공인 급수별 맞춤 학습지 A4<br />
               무료 인쇄 및 랜덤 5자 즉시 출력
             </p>
@@ -90,21 +90,99 @@ export default function LandingPage() {
               gap: '8px',
               background: '#059669',
               color: '#ffffff',
-              padding: '0.95rem 1.5rem',
+              padding: '0.9rem 1.25rem',
               borderRadius: '14px',
               textDecoration: 'none',
               fontWeight: 700,
-              fontSize: '1.1rem',
+              fontSize: '1.05rem',
               boxShadow: '0 4px 14px rgba(5, 150, 105, 0.28)',
               transition: 'background 0.2s'
             }}
           >
-            <span>학습지 만들러 가기</span>
-            <ArrowRight size={20} />
+            <span>급수별 만들기</span>
+            <ArrowRight size={18} />
           </Link>
         </div>
 
-        {/* Card 2: 획순 연습하기 */}
+        {/* Card 2: 내마음대로 학습지 만들기 */}
+        <div
+          className="gateway-card"
+          style={{
+            background: '#ffffff',
+            borderRadius: '24px',
+            border: '2.5px solid #7c3aed',
+            boxShadow: '0 12px 30px -6px rgba(124, 58, 237, 0.14)',
+            display: 'flex',
+            flexDirection: 'column',
+            justifyContent: 'space-between',
+            textAlign: 'center',
+            padding: '2.5rem 1.75rem 2.25rem 1.75rem',
+            position: 'relative'
+          }}
+        >
+          {/* Badge */}
+          <div style={{ position: 'absolute', top: '-13px', right: '20px', background: '#7c3aed', color: '#fff', fontSize: '0.78rem', fontWeight: 700, padding: '3px 10px', borderRadius: '12px', boxShadow: '0 2px 6px rgba(124, 58, 237, 0.3)' }}>
+            NEW 신규 기능
+          </div>
+
+          <div>
+            {/* Mockup Illustration: Custom Sheet + Pen + Sparkles */}
+            <div style={{ margin: '0 auto 1.5rem auto', width: '100px', height: '90px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+              <svg width="96" height="90" viewBox="0 0 100 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+                {/* Background Sheet */}
+                <rect x="20" y="10" width="50" height="72" rx="6" fill="#ffffff" stroke="#7c3aed" strokeWidth="2.5" />
+                {/* Header banner */}
+                <rect x="27" y="18" width="36" height="7" rx="2" fill="#ede9fe" />
+                {/* Grid / dotted lines */}
+                <line x1="27" y1="33" x2="63" y2="33" stroke="#a78bfa" strokeWidth="1.8" strokeLinecap="round" strokeDasharray="3 3" />
+                <line x1="27" y1="43" x2="56" y2="43" stroke="#cbd5e1" strokeWidth="1.8" strokeLinecap="round" />
+                <line x1="27" y1="53" x2="63" y2="53" stroke="#a78bfa" strokeWidth="1.8" strokeLinecap="round" strokeDasharray="3 3" />
+                <line x1="27" y1="63" x2="50" y2="63" stroke="#cbd5e1" strokeWidth="1.8" strokeLinecap="round" />
+                {/* Pen Writing */}
+                <g transform="rotate(22 66 45)">
+                  <rect x="62" y="12" width="10" height="48" rx="3" fill="#7c3aed" stroke="#1e293b" strokeWidth="2" />
+                  <polygon points="62,60 72,60 67,74" fill="#f59e0b" stroke="#1e293b" strokeWidth="2" />
+                </g>
+                {/* Sparkle Stars */}
+                <circle cx="16" cy="24" r="3" fill="#f59e0b" />
+                <circle cx="82" cy="74" r="3" fill="#f59e0b" />
+              </svg>
+            </div>
+
+            <h2 style={{ fontSize: '1.5rem', color: '#0f172a', fontWeight: 800, margin: '0 0 0.85rem 0', letterSpacing: '-0.02em' }}>
+              ✏️ 내마음대로 학습지
+            </h2>
+            <p style={{ color: '#334155', fontSize: '1.02rem', lineHeight: 1.6, margin: '0 0 2rem 0', wordBreak: 'keep-all', fontWeight: 500 }}>
+              원하는 한자 직접 입력·사자성어<br />
+              6,111자 DB 자동 연동 맞춤 인쇄
+            </p>
+          </div>
+
+          <Link
+            to="/custom"
+            className="gateway-card-btn"
+            style={{
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              gap: '8px',
+              background: '#7c3aed',
+              color: '#ffffff',
+              padding: '0.9rem 1.25rem',
+              borderRadius: '14px',
+              textDecoration: 'none',
+              fontWeight: 700,
+              fontSize: '1.05rem',
+              boxShadow: '0 4px 14px rgba(124, 58, 237, 0.28)',
+              transition: 'background 0.2s'
+            }}
+          >
+            <span>내마음대로 만들기</span>
+            <ArrowRight size={18} />
+          </Link>
+        </div>
+
+        {/* Card 3: 획순 연습하기 */}
         <div
           className="gateway-card"
           style={{
@@ -116,7 +194,7 @@ export default function LandingPage() {
             flexDirection: 'column',
             justifyContent: 'space-between',
             textAlign: 'center',
-            padding: '2.75rem 2rem 2.25rem 2rem'
+            padding: '2.5rem 1.75rem 2.25rem 1.75rem'
           }}
         >
           <div>
@@ -142,10 +220,10 @@ export default function LandingPage() {
               </svg>
             </div>
 
-            <h2 style={{ fontSize: '1.65rem', color: '#0f172a', fontWeight: 800, margin: '0 0 0.85rem 0', letterSpacing: '-0.02em' }}>
+            <h2 style={{ fontSize: '1.5rem', color: '#0f172a', fontWeight: 800, margin: '0 0 0.85rem 0', letterSpacing: '-0.02em' }}>
               ✍️ 획순 연습하기
             </h2>
-            <p style={{ color: '#334155', fontSize: '1.08rem', lineHeight: 1.65, margin: '0 0 2.25rem 0', wordBreak: 'keep-all', fontWeight: 500 }}>
+            <p style={{ color: '#334155', fontSize: '1.02rem', lineHeight: 1.6, margin: '0 0 2rem 0', wordBreak: 'keep-all', fontWeight: 500 }}>
               살아 움직이는 애니메이션으로<br />
               바른 획순 완벽 마스터
             </p>
@@ -161,17 +239,17 @@ export default function LandingPage() {
               gap: '8px',
               background: '#2563eb',
               color: '#ffffff',
-              padding: '0.95rem 1.5rem',
+              padding: '0.9rem 1.25rem',
               borderRadius: '14px',
               textDecoration: 'none',
               fontWeight: 700,
-              fontSize: '1.1rem',
+              fontSize: '1.05rem',
               boxShadow: '0 4px 14px rgba(37, 99, 235, 0.28)',
               transition: 'background 0.2s'
             }}
           >
-            <span>획순 연습하러 가기</span>
-            <ArrowRight size={20} />
+            <span>획순 연습하기</span>
+            <ArrowRight size={18} />
           </Link>
         </div>
       </section>
@@ -215,8 +293,11 @@ export default function LandingPage() {
             우리나라 대표 3대 공인 검정기관인 <strong>한국어문회(5,978자), 대한검정회, 대한상공회의소</strong>의 급수 체계를 완벽하게 분류 지원하며,
             공부하고 싶은 한자만 쏙쏙 골라 클릭 한 번으로 나만의 <strong>A4 맞춤 쓰기 학습지</strong>를 인쇄할 수 있습니다.
           </p>
+          <p style={{ marginBottom: '1rem', color: '#334155' }}>
+            또한, 내가 공부하고 싶은 한자나 단어, 사자성어, 가족 이름을 직접 입력하여 맞춤형 쓰기 노트를 만드는 <strong>'내마음대로 학습지 만들기'</strong> 기능도 제공하여, 정형화된 급수 한자를 넘어 개별 학습 목적에 최적화된 공부가 가능합니다.
+          </p>
           <p style={{ color: '#334155' }}>
-            또한, 글자를 쓸 때 헷갈리기 쉬운 획순을 인터랙티브 <strong>벡터 획순 애니메이션</strong>으로 실시간 제공하여,
+            아울러, 글자를 쓸 때 헷갈리기 쉬운 획순을 인터랙티브 <strong>벡터 획순 애니메이션</strong>으로 실시간 제공하여,
             눈으로 순서를 확인하고 손으로 직접 따라 써보며 뇌에 한자의 구조를 입체적으로 각인할 수 있도록 설계되었습니다.
           </p>
         </section>
@@ -322,6 +403,10 @@ export default function LandingPage() {
             <div style={{ background: '#f8fafc', borderRadius: '12px', padding: '1rem 1.25rem', border: '1px solid #e2e8f0' }}>
               <div style={{ fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Q. 초보자는 몇 급부터 시작하는 것이 좋은가요?</div>
               <div style={{ color: '#475569', fontSize: '0.95rem' }}>처음 시작하는 유아 및 초등학생은 가장 기초적인 50자로 구성된 <strong>8급</strong>부터 시작하는 것을 강력히 추천합니다. 성취감을 느끼며 자연스럽게 7급, 6급으로 올라갈 수 있습니다.</div>
+            </div>
+            <div style={{ background: '#f8fafc', borderRadius: '12px', padding: '1rem 1.25rem', border: '1px solid #e2e8f0' }}>
+              <div style={{ fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Q. 급수표에 없는 한자나 사자성어도 학습지로 만들 수 있나요?</div>
+              <div style={{ color: '#475569', fontSize: '0.95rem' }}>네! 상단 메뉴의 <strong>[내마음대로 학습지 만들기]</strong>를 이용하시면 원하는 한자를 직접 입력하거나 복사하여 붙여넣기만 하면 6,111자 DB와 자동 연동되어 나만의 맞춤 A4 학습지를 즉시 제작하실 수 있습니다.</div>
             </div>
           </div>
         </section>
