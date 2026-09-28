@@ -111,6 +111,31 @@ export default function StoryDetailPage() {
           })}
         </section>
 
+        {/* 참고문헌 및 공식 출처 */}
+        {story.sources && story.sources.length > 0 && (
+          <div style={{
+            background: '#f8fafc',
+            border: '1px solid #e2e8f0',
+            borderLeft: '4px solid #0284c7',
+            borderRadius: '0 10px 10px 0',
+            padding: '1.25rem 1.5rem',
+            marginTop: '2.5rem',
+            marginBottom: '1rem'
+          }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#0369a1', fontWeight: 700, fontSize: '0.98rem', marginBottom: '0.65rem' }}>
+              <BookOpen size={17} />
+              <span>참고문헌 및 공식 출처 (References)</span>
+            </div>
+            <ul style={{ margin: 0, paddingLeft: '1.2rem', color: '#475569', fontSize: '0.9rem', lineHeight: '1.8' }}>
+              {story.sources.map((src, idx) => (
+                <li key={idx} style={{ marginBottom: idx === story.sources.length - 1 ? 0 : '0.35rem' }}>
+                  {src}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
         {/* 하단 학습지 홍보 배너 */}
         <div style={{ background: 'linear-gradient(135deg, #f0fdf4 0%, #e0f2fe 100%)', padding: '1.5rem', borderRadius: '12px', border: '1px solid #bbf7d0', marginTop: '3rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '1rem' }}>
           <div>
