@@ -56,12 +56,132 @@ function createHtmlPage({ title, description, canonicalUrl, ogType = 'article', 
 }
 
 function savePage(routePath, htmlContent) {
+  if (!routePath || routePath === '/' || routePath === '') {
+    fs.writeFileSync(path.join(distDir, 'index.html'), htmlContent, 'utf8');
+    return;
+  }
+
+  // 1. Directory index: dist/{routePath}/index.html (e.g. /privacy/ or /story/1/)
   const targetDir = path.join(distDir, routePath);
   if (!fs.existsSync(targetDir)) {
     fs.mkdirSync(targetDir, { recursive: true });
   }
   fs.writeFileSync(path.join(targetDir, 'index.html'), htmlContent, 'utf8');
+
+  // 2. Direct HTML: dist/{routePath}.html (e.g. /privacy or /story/1)
+  // Prevents Cloudflare 308 redirect when requested without trailing slash!
+  const directHtmlPath = path.join(distDir, `${routePath}.html`);
+  const directHtmlDir = path.dirname(directHtmlPath);
+  if (!fs.existsSync(directHtmlDir)) {
+    fs.mkdirSync(directHtmlDir, { recursive: true });
+  }
+  fs.writeFileSync(directHtmlPath, htmlContent, 'utf8');
 }
+
+// 0. Main Landing Page (/)
+const homeBody = `
+  <div style="max-width: 1040px; margin: 2rem auto; padding: 0 1.25rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #1e293b; line-height: 1.7;">
+    <header style="text-align: center; margin-bottom: 3rem; border-bottom: 2px solid #f1f5f9; padding-bottom: 2rem;">
+      <h1 style="font-size: 2.3rem; color: #0f172a; margin: 0 0 1rem 0; font-weight: 800; letter-spacing: -0.02em;">
+        오늘 어떤 한자 공부를 해볼까요?
+      </h1>
+      <p style="font-size: 1.2rem; color: #059669; font-weight: 700; margin: 0 0 0.5rem 0;">
+        매일 10분! 스스로 익히는 급수 한자 교재 및 무료 A4 학습지 인쇄 서비스
+      </p>
+      <p style="font-size: 1.02rem; color: #64748b; margin: 0; max-width: 760px; margin: 0 auto; line-height: 1.6;">
+        일일한자(11HANJA.COM)는 유아부터 초·중·고 학생, 성인 수험생까지 누구나 회원가입 없이 무료로 공인 급수별 배정한자 학습과 쓰기 연습, 인터랙티브 획순 시각화 및 맞춤형 인쇄 학습지를 제작할 수 있는 개방형 한자 교육 플랫폼입니다.
+      </p>
+    </header>
+
+    <section style="margin-bottom: 3.5rem;">
+      <h2 style="font-size: 1.45rem; color: #0f172a; border-left: 4px solid #059669; padding-left: 0.75rem; margin-bottom: 1.5rem;">
+        🎯 일일한자 핵심 학습 서비스 바로가기
+      </h2>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
+        <div style="background: #ffffff; border: 2px solid #e2e8f0; border-radius: 16px; padding: 1.75rem; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.25rem; margin: 0 0 0.75rem 0; color: #059669;">📖 급수별 학습지 만들기</h3>
+          <p style="color: #475569; font-size: 0.98rem; margin-bottom: 1.25rem; line-height: 1.6;">
+            한국어문회, 대한검정회, 대한상공회의소의 8급부터 특급까지 배정한자를 선택하여 나만의 맞춤 A4 쓰기 노트를 3초 만에 생성하고 인쇄하세요.
+          </p>
+          <a href="/grade/8GR?board=uhmoon" style="display: inline-block; background: #059669; color: white; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-weight: 600;">한국어문회 8급 시작하기 →</a>
+        </div>
+        <div style="background: #ffffff; border: 2px solid #e2e8f0; border-radius: 16px; padding: 1.75rem; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.25rem; margin: 0 0 0.75rem 0; color: #0284c7;">✍️ 한자 획순 애니메이션 연습</h3>
+          <p style="color: #475569; font-size: 0.98rem; margin-bottom: 1.25rem; line-height: 1.6;">
+            획순이 헷갈리는 한자를 붓의 움직임 그대로 SVG 애니메이션으로 확인하고, 가이드라인에 맞춰 마우스나 터치로 직접 써보며 필순을 완벽히 마스터합니다.
+          </p>
+          <a href="/stroke/8GR?board=uhmoon" style="display: inline-block; background: #0284c7; color: white; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-weight: 600;">획순 연습 바로가기 →</a>
+        </div>
+        <div style="background: #ffffff; border: 2px solid #e2e8f0; border-radius: 16px; padding: 1.75rem; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+          <h3 style="font-size: 1.25rem; margin: 0 0 0.75rem 0; color: #7c3aed;">📝 단어·사자성어 맞춤 학습지</h3>
+          <p style="color: #475569; font-size: 0.98rem; margin-bottom: 1.25rem; line-height: 1.6;">
+            공부하고 싶은 단어나 고사성어를 직접 입력하면 A4 용지 36칸 전체 채움 가로쓰기 연습장 및 한 줄 쓰기 맞춤형 학습지를 즉시 출력합니다.
+          </p>
+          <a href="/custom" style="display: inline-block; background: #7c3aed; color: white; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-weight: 600;">맞춤 단어 학습지 만들기 →</a>
+        </div>
+      </div>
+    </section>
+
+    <section style="margin-bottom: 3.5rem; background: #f8fafc; padding: 2rem; border-radius: 16px; border: 1px solid #e2e8f0;">
+      <h2 style="font-size: 1.4rem; color: #0f172a; margin-top: 0; margin-bottom: 1rem;">
+        🏛️ 국내 3대 한자 검정기관 급수 체계 완전 정복
+      </h2>
+      <p style="color: #334155; line-height: 1.8;">
+        한국어 어휘의 다수를 차지하는 한자어(漢字語)는 초·중·고 학습 문해력의 근간입니다. 일일한자는 대한민국 공인 3대 검정기관의 급수 기준을 완벽 지원합니다.
+      </p>
+      <ul style="color: #475569; line-height: 1.8; margin-bottom: 1.5rem;">
+        <li><strong>한국어문회 (5,978자):</strong> 국내에서 가장 권위 있고 깊이 있는 급수 시험으로 정자(正字) 위주의 쓰기 능력과 학술적 문해력을 기르는 데 최적화되어 있습니다.</li>
+        <li><strong>대한검정회:</strong> 실생활에 자주 쓰이는 실용한자 위주로 구성되어 있어 유아 및 초등학생의 첫 급수 취득에 높은 성취도를 제공합니다.</li>
+        <li><strong>대한상공회의소:</strong> 직장인, 대학생, 공기업 취업 및 승진 가산점에 특화된 실무 한자 시험 체계입니다.</li>
+      </ul>
+      <p style="color: #64748b; font-size: 0.95rem; margin: 0;">
+        💡 8급(50자), 7급(150자), 6급(300자)부터 준4급, 4급, 3급, 2급, 1급, 특급까지 단계별 맞춤 인쇄지를 무료로 경험하세요.
+      </p>
+    </section>
+
+    <section style="margin-bottom: 3.5rem;">
+      <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.25rem;">
+        <h2 style="font-size: 1.4rem; color: #0f172a; border-left: 4px solid #059669; padding-left: 0.75rem; margin: 0;">
+          📚 일일한자 추천 교육 칼럼 & 시험 가이드 (총 30편)
+        </h2>
+        <a href="/story" style="color: #059669; font-weight: 700; text-decoration: none; font-size: 0.95rem;">칼럼 전체보기 →</a>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1rem;">
+        ${STORY_DATABASE.map(s => `
+          <article style="background: white; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.25rem;">
+            <div style="font-size: 0.8rem; color: #059669; font-weight: 700; margin-bottom: 0.35rem;">제${s.id}편 • ${s.date}</div>
+            <h3 style="font-size: 1.05rem; margin: 0 0 0.5rem 0; line-height: 1.4;">
+              <a href="/story/${s.id}" style="color: #0f172a; text-decoration: none;">${s.title}</a>
+            </h3>
+            <p style="color: #64748b; font-size: 0.88rem; line-height: 1.5; margin: 0 0 0.75rem 0;">${s.summary}</p>
+            <a href="/story/${s.id}" style="color: #0284c7; font-size: 0.88rem; font-weight: 600; text-decoration: underline;">칼럼 전문 읽기 →</a>
+          </article>
+        `).join('\n')}
+      </div>
+    </section>
+
+    <section style="border-top: 1px solid #e2e8f0; padding-top: 2rem; margin-top: 3rem; text-align: center; color: #64748b; font-size: 0.95rem;">
+      <p style="margin-bottom: 1rem;">
+        <a href="/privacy" style="color: #0f172a; font-weight: 700; text-decoration: none; margin: 0 10px;">개인정보처리방침</a> |
+        <a href="/about" style="color: #475569; text-decoration: none; margin: 0 10px;">서비스 소개</a> |
+        <a href="/faq" style="color: #475569; text-decoration: none; margin: 0 10px;">자주 묻는 질문</a> |
+        <a href="/contact" style="color: #475569; text-decoration: none; margin: 0 10px;">문의하기</a> |
+        <a href="/story" style="color: #475569; text-decoration: none; margin: 0 10px;">한자 이야기 칼럼</a>
+      </p>
+      <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">
+        © 2026 일일한자 (11HANJA.COM) - 매일 10분, 스스로 익히는 무료 급수 한자 학습지. All rights reserved.
+      </p>
+    </section>
+  </div>
+`;
+
+savePage('', createHtmlPage({
+  title: '일일한자 - 검정기관별 무료 급수 한자 학습지 만들기 & 획순 연습',
+  description: '한국어문회·대한검정회·상공회의소 검정기관별 급수 한자학습, 쓰기, 획순 가이드 및 맞춤형 A4 학습지 인쇄까지 회원가입 없이 무료로 이용하세요.',
+  canonicalUrl: 'https://www.11hanja.com/',
+  ogType: 'website',
+  bodyHtml: homeBody
+}));
 
 // 1. /privacy
 const privacyBody = `
@@ -338,4 +458,4 @@ for (const story of STORY_DATABASE) {
   }));
 }
 
-console.log(`Successfully generated static pre-rendered pages for all ${STORY_DATABASE.length} stories, privacy, about, faq, contact, custom, and story catalog!`);
+console.log(`Successfully generated static pre-rendered pages for all ${STORY_DATABASE.length} stories, home (/), privacy, about, faq, contact, custom, and story catalog!`);
