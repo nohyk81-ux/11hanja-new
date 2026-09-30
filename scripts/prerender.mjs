@@ -49,8 +49,8 @@ function createHtmlPage({ title, description, canonicalUrl, ogType = 'article', 
   // Inject into root
   html = html.replace('<div id="root"></div>', `<div id="root">${wrappedContent}</div>`);
 
-  // Also replace noscript with this page's content for non-JS bots
-  html = html.replace(/<noscript>[\s\S]*?<\/noscript>/, `<noscript>${wrappedContent}</noscript>`);
+  // Remove noscript tag so crawlers don't see duplicate content
+  html = html.replace(/<noscript>[\s\S]*?<\/noscript>/, '');
 
   return html;
 }
