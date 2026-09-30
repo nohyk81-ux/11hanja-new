@@ -40,7 +40,7 @@ export default function PrivacyPage() {
             1. 개인정보 수집 항목 및 방법
           </h2>
           <p>
-            본 서비스는 <strong>회원가입 및 로그인이 필요 없는 무료 공공 교육 서비스</strong>입니다.
+            본 서비스는 <strong>회원가입 및 로그인이 필요 없는 무료 한자 학습 서비스</strong>입니다.
           </p>
           <ul style={{ paddingLeft: '1.2rem', marginTop: '0.5rem', marginBottom: '1rem' }}>
             <li><strong>기본 이용 시:</strong> 이름, 주민등록번호, 연락처, 이메일 등 어떠한 개인식별정보도 일체 요구하거나 데이터베이스에 수집·저장하지 않습니다.</li>
