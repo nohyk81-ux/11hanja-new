@@ -242,7 +242,7 @@ const aboutBody = `
     <section>
       <h2 style="font-size: 1.3rem; color: #0f172a; border-left: 4px solid #059669; padding-left: 0.75rem;">1. 일일한자(11HANJA.COM)의 탄생 배경</h2>
       <p>한국어 어휘에서 한자가 차지하는 비중은 연구 결과에 따라 다르지만 상당히 높으며, 교과서 주요 학습 개념의 상당부분은 <strong>한자어(漢字語)</strong>로 이루어져 있습니다. 하지만 많은 학생들이 비싼 학습지 구독료나 학원비, 복잡한 회원가입 절차 때문에 한자 학습의 진입 장벽을 느끼고 있습니다.</p>
-      <p><strong>일일한자</strong>는 유아부터 초·중·고 학생, 국가공인 한자 자격증을 준비하는 성인 및 취업 준비생까지 <strong>누구나 아무런 조건 없이 100% 무료</strong>로 최고의 한자 학습 환경을 누릴 수 있도록 개발된 개방형 교육 웹 플랫폼입니다.</p>
+      <p><strong>일일한자</strong>는 유아부터 초·중·고 학생, 국가공인 한자 자격증을 준비하는 성인 및 취업 준비생까지 <strong>누구나 별도 결제 없이 무료</strong>로 충실한 한자 학습 환경을 이용할 수 있도록 개발된 개방형 교육 웹 플랫폼입니다.</p>
       <h2 style="font-size: 1.3rem; color: #0f172a; margin-top: 2rem; border-left: 4px solid #059669; padding-left: 0.75rem;">2. 일일한자만의 4대 핵심 기능</h2>
       <ul>
         <li><strong>국내 3대 한자 검정기관 급수 지원:</strong> 한국어문회(5,978자), 대한검정회, 대한상공회의소의 급수 기준에 맞춰 학습할 수 있습니다.</li>
@@ -276,7 +276,7 @@ const faqBody = `
     </header>
     <section>
       <div style="background: #f8fafc; padding: 1.25rem 1.5rem; border-radius: 12px; border: 1px solid #e2e8f0; margin-bottom: 1.25rem;">
-        <h2 style="font-size: 1.1rem; color: #0f172a; margin: 0 0 0.5rem 0;">Q. 일일한자의 모든 서비스는 정말 100% 무료인가요?</h2>
+        <h2 style="font-size: 1.1rem; color: #0f172a; margin: 0 0 0.5rem 0;">Q. 일일한자의 모든 서비스는 정말 무료인가요?</h2>
         <p style="margin: 0; color: #475569;">네, 일일한자는 회원가입이나 결제 없이 모든 급수의 한자 데이터 조회, 인터랙티브 획순 연습, PDF A4 학습지 생성 및 인쇄 기능을 무료로 제공합니다.</p>
       </div>
       <div style="background: #f8fafc; padding: 1.25rem 1.5rem; border-radius: 12px; border: 1px solid #e2e8f0; margin-bottom: 1.25rem;">
@@ -338,7 +338,7 @@ const customBody = `
     <section>
       <h2 style="font-size: 1.3rem; color: #0f172a; border-left: 4px solid #059669; padding-left: 0.75rem;">주요 지원 모드 안내</h2>
       <ul>
-        <li><strong>단어 가로쓰기 (A4 36칸 전체 채움):</strong> 1행에 단어의 글자들을 나란히 배치하고, 2~6행 전체 30칸을 해당 글자들의 반복 쓰기 연습칸으로 100% 꽉 채웁니다.</li>
+        <li><strong>단어 가로쓰기 (A4 36칸 전체 채움):</strong> 1행에 단어의 글자들을 나란히 배치하고, 2~6행 전체 30칸을 해당 글자들의 반복 쓰기 연습칸으로 구성합니다.</li>
         <li><strong>글자별 한 줄 쓰기:</strong> 1행당 1글자씩 보기 1칸과 직접 쓰기 5칸을 배치하여 총 6글자를 한눈에 익힙니다.</li>
       </ul>
     </section>

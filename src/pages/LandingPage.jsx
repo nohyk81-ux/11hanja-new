@@ -289,7 +289,7 @@ export default function LandingPage() {
             <span>1. 일일한자는 어떤 서비스인가요?</span>
           </h3>
           <p style={{ marginBottom: '1rem', color: '#334155' }}>
-            <strong>일일한자(11HANJA.COM)</strong>는 회원가입이나 유료 결제 없이 누구나 자유롭게 이용할 수 있는 <strong>100% 무료 한자 교육 포털</strong>입니다.
+            <strong>일일한자(11HANJA.COM)</strong>는 회원가입이나 유료 결제 없이 누구나 자유롭게 이용할 수 있는 <strong>무료 한자 교육 포털</strong>입니다.
             우리나라 대표 3대 공인 검정기관인 <strong>한국어문회(5,978자), 대한검정회, 대한상공회의소</strong>의 급수 체계에 맞춰 분류 학습할 수 있으며,
             공부하고 싶은 한자만 쏙쏙 골라 클릭 한 번으로 나만의 <strong>A4 맞춤 쓰기 학습지</strong>를 인쇄할 수 있습니다.
           </p>
@@ -338,7 +338,7 @@ export default function LandingPage() {
                 </tr>
                 <tr>
                   <td style={{ padding: '10px 14px', fontWeight: 600, color: '#059669' }}>대한상공회의소</td>
-                  <td style={{ padding: '10px 14px' }}>100% 객관식 CBT (읽기 중심)</td>
+                  <td style={{ padding: '10px 14px' }}>전 문항 객관식 CBT (읽기 중심)</td>
                   <td style={{ padding: '10px 14px' }}>중하 (단기 합격)</td>
                   <td style={{ padding: '10px 14px' }}>취업 준비생, 공기업·대기업 직장인</td>
                 </tr>
@@ -394,7 +394,7 @@ export default function LandingPage() {
           <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
             <div style={{ background: '#f8fafc', borderRadius: '12px', padding: '1rem 1.25rem', border: '1px solid #e2e8f0' }}>
               <div style={{ fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Q. 학습지 생성과 인쇄는 정말 완전 무료인가요?</div>
-              <div style={{ color: '#475569', fontSize: '0.95rem' }}>네, 일일한자의 모든 한자 데이터 조회, 획순 연습, 그리고 A4 학습지 인쇄 기능은 회원가입이나 결제 없이 100% 무료로 이용하실 수 있습니다.</div>
+              <div style={{ color: '#475569', fontSize: '0.95rem' }}>네, 일일한자의 모든 한자 데이터 조회, 획순 연습, 그리고 A4 학습지 인쇄 기능은 회원가입이나 결제 없이 전면 무료로 이용하실 수 있습니다.</div>
             </div>
             <div style={{ background: '#f8fafc', borderRadius: '12px', padding: '1rem 1.25rem', border: '1px solid #e2e8f0' }}>
               <div style={{ fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Q. 스마트폰이나 태블릿에서도 인쇄가 가능한가요?</div>
