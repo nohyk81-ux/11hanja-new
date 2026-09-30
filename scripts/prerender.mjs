@@ -124,7 +124,7 @@ const homeBody = `
 
     <section style="margin-bottom: 3.5rem; background: #f8fafc; padding: 2rem; border-radius: 16px; border: 1px solid #e2e8f0;">
       <h2 style="font-size: 1.4rem; color: #0f172a; margin-top: 0; margin-bottom: 1rem;">
-        🏛️ 국내 3대 한자 검정기관 급수 체계 완전 정복
+        🏛️ 국내 3대 한자 검정기관 급수 체계 상세 안내
       </h2>
       <p style="color: #334155; line-height: 1.8;">
         한국어 어휘의 다수를 차지하는 한자어(漢字語)는 초·중·고 학습 문해력의 근간입니다. 일일한자는 대한민국 공인 3대 검정기관의 급수 기준에 맞춰 학습할 수 있습니다.
