@@ -225,7 +225,7 @@ export default function LandingPage() {
             </h2>
             <p style={{ color: '#334155', fontSize: '1.02rem', lineHeight: 1.6, margin: '0 0 2rem 0', wordBreak: 'keep-all', fontWeight: 500 }}>
               살아 움직이는 애니메이션으로<br />
-              바른 획순 완벽 마스터
+              바른 획순 단계별 연습
             </p>
           </div>
 
@@ -275,7 +275,7 @@ export default function LandingPage() {
             <span>무료 급수 한자 학습 플랫폼</span>
           </div>
           <h2 style={{ fontSize: 'clamp(1.5rem, 3vw, 2rem)', color: '#0f172a', fontWeight: 800, margin: '0 0 0.75rem 0', letterSpacing: '-0.02em' }}>
-            일일한자 완벽 가이드: 급수 한자 공부법과 무료 학습지 활용 노하우
+            일일한자 활용 가이드: 급수 한자 공부법과 무료 학습지 이용 노하우
           </h2>
           <p style={{ color: '#64748b', fontSize: '1.05rem', margin: 0 }}>
             유아·초등학생의 기초 문해력 향상부터 취업·승진을 위한 국가공인 자격증 취득까지, 하루 10분 일일한자와 함께 완성해 보세요.
@@ -290,7 +290,7 @@ export default function LandingPage() {
           </h3>
           <p style={{ marginBottom: '1rem', color: '#334155' }}>
             <strong>일일한자(11HANJA.COM)</strong>는 회원가입이나 유료 결제 없이 누구나 자유롭게 이용할 수 있는 <strong>100% 무료 한자 교육 포털</strong>입니다.
-            우리나라 대표 3대 공인 검정기관인 <strong>한국어문회(5,978자), 대한검정회, 대한상공회의소</strong>의 급수 체계를 완벽하게 분류 지원하며,
+            우리나라 대표 3대 공인 검정기관인 <strong>한국어문회(5,978자), 대한검정회, 대한상공회의소</strong>의 급수 체계에 맞춰 분류 학습할 수 있으며,
             공부하고 싶은 한자만 쏙쏙 골라 클릭 한 번으로 나만의 <strong>A4 맞춤 쓰기 학습지</strong>를 인쇄할 수 있습니다.
           </p>
           <p style={{ marginBottom: '1rem', color: '#334155' }}>
