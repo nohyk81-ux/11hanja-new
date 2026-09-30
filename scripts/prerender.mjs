@@ -108,7 +108,7 @@ const homeBody = `
         <div style="background: #ffffff; border: 2px solid #e2e8f0; border-radius: 16px; padding: 1.75rem; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
           <h3 style="font-size: 1.25rem; margin: 0 0 0.75rem 0; color: #0284c7;">✍️ 한자 획순 애니메이션 연습</h3>
           <p style="color: #475569; font-size: 0.98rem; margin-bottom: 1.25rem; line-height: 1.6;">
-            획순이 헷갈리는 한자를 붓의 움직임 그대로 SVG 애니메이션으로 확인하고, 가이드라인에 맞춰 마우스나 터치로 직접 써보며 필순을 완벽히 마스터합니다.
+            획순이 헷갈리는 한자를 붓의 움직임 그대로 SVG 애니메이션으로 확인하고, 가이드라인에 맞춰 마우스나 터치로 직접 써보며 필순을 반복해서 연습할 수 있습니다.
           </p>
           <a href="/stroke/8GR?board=uhmoon" style="display: inline-block; background: #0284c7; color: white; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-weight: 600;">획순 연습 바로가기 →</a>
         </div>
