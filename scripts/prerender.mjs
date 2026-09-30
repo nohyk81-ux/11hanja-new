@@ -262,7 +262,7 @@ const aboutBody = `
 
 savePage('about', createHtmlPage({
   title: '일일한자 활용가이드 & 서비스 소개 | 11HANJA.COM',
-  description: '일일한자(11HANJA.COM)의 탄생 배경, 4대 핵심 기능 및 한자 학습 효과 극대화 비법을 상세히 소개합니다.',
+  description: '일일한자(11HANJA.COM)의 탄생 배경, 4대 핵심 기능 및 효과적인 한자 학습 가이드를 상세히 소개합니다.',
   canonicalUrl: 'https://www.11hanja.com/about',
   bodyHtml: aboutBody
 }));
