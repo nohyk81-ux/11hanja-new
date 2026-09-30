@@ -303,7 +303,7 @@ export const STORY_DATABASE = [
     "id": 26,
     "title": "눈으로 열 번 보는 것보다 손으로 한 번 쓰는 것이 효과적인 뇌과학적 이유",
     "date": "2026-09-16",
-    "summary": "디지털 타이핑 시대에 왜 '연필로 종이에 직접 쓰는 한자 공부'가 두뇌 발달과 장기 기억(Long-term Memory)에 압도적으로 유리한지 뇌과학적 원리를 통해 알아봅니다.",
+    "summary": "디지털 타이핑 시대에 직접 쓰는 학습은 한자 형태와 획순을 익히는 데 활용할 수 있습니다. 손으로 직접 쓰며 익히는 한자 공부법의 원리와 효과를 알아봅니다.",
     "sources": [
       "와일더 펜필드(Wilder Penfield) - 대뇌 피질 감각·운동 호문쿨루스(Homunculus) 신경해부학 모델",
       "Pam A. Mueller & Daniel M. Oppenheimer (2014) - 《The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking》 Psychological Science",
