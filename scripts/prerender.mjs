@@ -250,6 +250,12 @@ const aboutBody = `
         <li><strong>살아 움직이는 인터랙티브 획순 가이드:</strong> 붓의 획순을 생동감 넘치는 SVG 애니메이션으로 시각화하고 직접 손글씨로 따라 쓸 수 있습니다.</li>
         <li><strong>하루 5자 데일리 루틴 추천:</strong> '랜덤 5자' 추출 기능으로 매일 아침 가벼운 테스트지를 만들 수 있습니다.</li>
       </ul>
+      <h2 style="font-size: 1.3rem; color: #0f172a; margin-top: 2rem; border-left: 4px solid #059669; padding-left: 0.75rem;">3. 효과적인 한자 학습법 추천</h2>
+      <ol style="padding-left: 1.3rem; line-height: 1.8;">
+        <li style="margin-bottom: 0.75rem;"><strong>하루 5자씩 꾸준히:</strong> 처음부터 무리하게 20~30자씩 외우기보다, 매일 아침 '랜덤 5자 학습지' 1장을 출력하여 10분간 손글씨로 써보는 습관이 뇌의 장기기억 형성에 가장 효과적입니다.</li>
+        <li style="margin-bottom: 0.75rem;"><strong>획순 눈으로 익히기:</strong> 글씨를 손으로 쓰기 전 [획순 연습하기] 메뉴에서 획순 애니메이션을 2~3회 관찰하세요. 바른 획순은 글씨의 균형을 잡고 암기 속도를 기존보다 빠르게 높일 수 있습니다.</li>
+        <li style="margin-bottom: 0.75rem;"><strong>한자 이야기 칼럼 읽기:</strong> 한자의 유래, 사자성어의 숨은 고사, 어휘력 확장 비결을 다룬 한자 이야기 칼럼을 함께 읽어보시면 한자에 대한 호기심이 한층 깊어집니다.</li>
+      </ol>
     </section>
   </div>
 `;
