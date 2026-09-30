@@ -56,7 +56,7 @@ export default function AboutPage() {
                 <span>국내 3대 한자 검정기관 전면 호환</span>
               </div>
               <p style={{ margin: 0, fontSize: '0.95rem', color: '#475569', lineHeight: 1.6 }}>
-                가장 널리 응시하는 <strong>한국어문회(5,978자)</strong>, <strong>대한검정회</strong>, <strong>대한상공회의소</strong>의 급수 체계를 완벽 지원하여 원하는 시험 기관에 맞춰 학습할 수 있습니다.
+                가장 널리 응시하는 <strong>한국어문회(5,978자)</strong>, <strong>대한검정회</strong>, <strong>대한상공회의소</strong>의 급수 기준에 맞춰 원하는 시험 기관의 한자를 학습할 수 있습니다.
               </p>
             </div>
 
