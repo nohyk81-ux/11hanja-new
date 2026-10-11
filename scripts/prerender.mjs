@@ -357,7 +357,7 @@ const storyListBody = `
   <div style="max-width: 840px; margin: 2rem auto; padding: 0 1rem; line-height: 1.8; color: #334155;">
     <header style="border-bottom: 1px solid #e2e8f0; padding-bottom: 1.5rem; margin-bottom: 2rem; text-align: center;">
       <h1 style="font-size: 2rem; color: #0f172a; margin: 0 0 0.75rem 0;">한자 이야기 & 교육 칼럼 (총 ${STORY_DATABASE.length}편)</h1>
-      <p style="color: #64748b; font-size: 1.05rem; margin: 0;">한자 공부의 핵심 비법부터 재미있는 역사와 어원까지, 일일한자가 정성껏 전해드리는 유익한 칼럼 모음입니다.</p>
+      <p style="color: #64748b; font-size: 1.05rem; margin: 0;">한자 공부의 기초 원리부터 재미있는 역사와 어원까지, 일일한자가 정성껏 전해드리는 유익한 칼럼 모음입니다.</p>
     </header>
     <section>
       <div style="display: flex; flex-direction: column; gap: 1.5rem;">
@@ -378,7 +378,7 @@ const storyListBody = `
 
 savePage('story', createHtmlPage({
   title: '한자 이야기 & 급수 시험 칼럼 - 일일한자 | 11HANJA.COM',
-  description: '급수 한자 시험 대비 비법, 사자성어의 숨은 유래, 획순의 과학적 원리, 초등 한자 교육 가이드 등 일일한자가 들려주는 유익하고 흥미진진한 한자 칼럼 모음입니다.',
+  description: '급수 한자 시험 대비 전략, 사자성어의 숨은 유래, 획순의 과학적 원리, 초등 한자 교육 가이드 등 일일한자가 들려주는 유익하고 흥미진진한 한자 칼럼 모음입니다.',
   canonicalUrl: 'https://www.11hanja.com/story',
   bodyHtml: storyListBody
 }));

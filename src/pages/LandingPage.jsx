@@ -291,7 +291,7 @@ export default function LandingPage() {
           <p style={{ marginBottom: '1rem', color: '#334155' }}>
             <strong>일일한자(11HANJA.COM)</strong>는 회원가입이나 유료 결제 없이 누구나 자유롭게 이용할 수 있는 <strong>무료 한자 교육 포털</strong>입니다.
             우리나라 대표 3대 공인 검정기관인 <strong>한국어문회(5,978자), 대한검정회, 대한상공회의소</strong>의 급수 체계에 맞춰 분류 학습할 수 있으며,
-            공부하고 싶은 한자만 쏙쏙 골라 클릭 한 번으로 나만의 <strong>A4 맞춤 쓰기 학습지</strong>를 인쇄할 수 있습니다.
+            공부하고 싶은 한자만 자유롭게 선택하여 클릭 한 번으로 나만의 <strong>A4 맞춤 쓰기 학습지</strong>를 인쇄할 수 있습니다.
           </p>
           <p style={{ marginBottom: '1rem', color: '#334155' }}>
             또한, 내가 공부하고 싶은 한자나 단어, 사자성어, 가족 이름을 직접 입력하여 맞춤형 쓰기 노트를 만드는 <strong>'내마음대로 학습지 만들기'</strong> 기능도 제공하여, 정형화된 급수 한자를 넘어 개별 학습 목적에 최적화된 공부가 가능합니다.

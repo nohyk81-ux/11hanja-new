@@ -10,7 +10,7 @@ export default function HanjaStory() {
 
   useSeo(
     '한자 이야기 & 급수 시험 칼럼 - 일일한자 | 11HANJA.COM',
-    '급수 한자 시험 대비 비법, 사자성어의 숨은 유래, 획순의 과학적 원리, 초등 한자 교육 가이드 등 일일한자가 들려주는 유익하고 흥미진진한 한자 칼럼 모음입니다.'
+    '급수 한자 시험 대비 전략, 사자성어의 숨은 유래, 획순의 과학적 원리, 초등 한자 교육 가이드 등 일일한자가 들려주는 유익하고 흥미진진한 한자 칼럼 모음입니다.'
   );
 
   const sortedStories = [...STORY_DATABASE].sort((a, b) => {
@@ -29,7 +29,7 @@ export default function HanjaStory() {
           한자 이야기
         </h1>
         <p style={{ color: 'var(--gray-500)', lineHeight: '1.6', fontSize: '1.05rem', maxWidth: '600px', margin: '0 auto' }}>
-          한자 공부의 핵심 비법부터 재미있는 역사와 어원까지, 일일한자가 정성껏 전해드리는 유익한 이야기입니다.
+          한자 공부의 기초 원리부터 재미있는 역사와 어원까지, 일일한자가 정성껏 전해드리는 유익한 이야기입니다.
         </p>
       </header>
 
