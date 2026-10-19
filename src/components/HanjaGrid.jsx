@@ -28,7 +28,7 @@ export default function HanjaGrid({
   const title = currentSeo.title;
   const description = currentSeo.description;
 
-  useSeo(`${title} - 일일한자`, description);
+  useSeo(`${title} - 일일한자`, description, { noindex: true });
 
   return (
     <div>

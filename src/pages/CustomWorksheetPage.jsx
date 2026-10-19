@@ -23,7 +23,8 @@ const isValidRadical = (rad) => {
 export default function CustomWorksheetPage({ onGenerateCustomWorksheet }) {
   useSeo(
     '내마음대로 학습지 만들기 - 원하는 한자 직접 입력 A4 쓰기 인쇄 | 일일한자',
-    '원하는 한자를 직접 입력하거나 붙여넣어 나만의 맞춤형 A4 한자 학습지를 생성하고 인쇄하세요. 6,111자 한자 데이터베이스 자동 연동 및 획순 가이드 제공.'
+    '원하는 한자를 직접 입력하거나 붙여넣어 나만의 맞춤형 A4 한자 학습지를 생성하고 인쇄하세요. 6,111자 한자 데이터베이스 자동 연동 및 획순 가이드 제공.',
+    { noindex: true }
   );
 
   const [inputText, setInputText] = useState('大器晩成 轉禍爲福');

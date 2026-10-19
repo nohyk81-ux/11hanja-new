@@ -19,7 +19,7 @@ const baseHtml = fs.readFileSync(baseHtmlPath, 'utf8');
 const storyDataUrl = pathToFileURL(path.resolve(projectRoot, 'src/data/storyData.js')).href;
 const { STORY_DATABASE } = await import(storyDataUrl);
 
-function createHtmlPage({ title, description, canonicalUrl, ogType = 'article', bodyHtml }) {
+function createHtmlPage({ title, description, canonicalUrl, ogType = 'article', bodyHtml, robots = 'index, follow' }) {
   let html = baseHtml;
 
   // Replace Title
@@ -30,6 +30,13 @@ function createHtmlPage({ title, description, canonicalUrl, ogType = 'article', 
 
   // Replace Canonical
   html = html.replace(/<link rel="canonical" href=".*?" \/>/, `<link rel="canonical" href="${canonicalUrl}" />`);
+
+  // Inject or Replace Robots meta tag
+  if (html.includes('<meta name="robots"')) {
+    html = html.replace(/<meta name="robots" content=".*?" \/>/, `<meta name="robots" content="${robots}" />`);
+  } else {
+    html = html.replace('<head>', `<head>\n    <meta name="robots" content="${robots}" />`);
+  }
 
   // Replace OpenGraph & Twitter tags
   html = html.replace(/<meta property="og:title" content=".*?" \/>/, `<meta property="og:title" content="${title}" />`);
@@ -142,12 +149,12 @@ const homeBody = `
     <section style="margin-bottom: 3.5rem;">
       <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.25rem;">
         <h2 style="font-size: 1.4rem; color: #0f172a; border-left: 4px solid #059669; padding-left: 0.75rem; margin: 0;">
-          📚 일일한자 추천 교육 칼럼 & 시험 가이드 (총 30편)
+          📚 일일한자 추천 교육 칼럼 &amp; 사자성어 이야기 (총 ${STORY_DATABASE.length}편)
         </h2>
-        <a href="/story" style="color: #059669; font-weight: 700; text-decoration: none; font-size: 0.95rem;">칼럼 전체보기 →</a>
+        <a href="/story" style="color: #059669; font-weight: 700; text-decoration: none; font-size: 0.95rem;">칼럼 전체보기 (총 ${STORY_DATABASE.length}편) →</a>
       </div>
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1rem;">
-        ${STORY_DATABASE.map(s => `
+        ${[...STORY_DATABASE].sort((a, b) => b.id - a.id).map(s => `
           <article style="background: white; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.25rem;">
             <div style="font-size: 0.8rem; color: #059669; font-weight: 700; margin-bottom: 0.35rem;">제${s.id}편 • ${s.date}</div>
             <h3 style="font-size: 1.05rem; margin: 0 0 0.5rem 0; line-height: 1.4;">
@@ -160,24 +167,145 @@ const homeBody = `
       </div>
     </section>
 
+    <!-- Comprehensive Academic Pedagogical Guide for Crawlers & AdSense Review -->
+    <article style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 2.5rem 2rem; margin-bottom: 3.5rem; text-align: left; line-height: 1.8;">
+      <header style="border-bottom: 2px solid #f1f5f9; padding-bottom: 1.5rem; margin-bottom: 2rem;">
+        <h2 style="font-size: 1.65rem; color: #0f172a; margin: 0 0 0.5rem 0; font-weight: 800;">
+          🎓 한자 학습의 교육학적 원리와 문해력 발달 가이드
+        </h2>
+        <p style="color: #64748b; font-size: 1rem; margin: 0;">
+          언어학 및 인지신경학 연구에 기초한 표의문자 학습 메커니즘, 획순의 기억 효과, 초·중등 교과서 개념어 분석
+        </p>
+      </header>
+
+      <section style="margin-bottom: 2.5rem;">
+        <h3 style="font-size: 1.25rem; color: #0f172a; font-weight: 700; margin-bottom: 0.75rem;">
+          1. 표의문자(表意文字)의 인지 처리 메커니즘과 장기 기억 형성 원리
+        </h3>
+        <p style="color: #334155; margin-bottom: 0.75rem;">
+          한자는 알파벳이나 한글과 같은 음소문자(Phonogram)와 달리, 사물의 형태와 본질적 의미가 글자 구조 안에 압축된 <strong>표의문자(Ideogram)</strong>입니다.
+          인지언어학과 뇌영상 연구에 따르면, 표의문자를 읽고 쓸 때 인간의 뇌는 좌뇌의 언어 분석 중추뿐 아니라 우뇌의 시각·공간 인지 중추를 동시에 활성화하여 복합적인 신경망을 작동시킵니다.
+        </p>
+        <p style="color: #334155; margin-bottom: 0.75rem;">
+          문자의 세 가지 구성 요소인 <strong>형태(자형 形), 소리(독음 聲), 뜻(훈 意)</strong>이 입체적으로 결합하는 이 과정은 정보를 단순한 단기 기억에 머무르게 하지 않고, 깊은 인지적 가공을 거친 <strong>'의미 기억(Semantic Memory)'</strong>으로 전환하도록 돕습니다.
+        </p>
+        <p style="color: #334155;">
+          특히 상형(象形), 지사(指事), 회의(會意), 형성(形聲) 등 한자의 근본적인 조자 원리를 이해하고 학습하면, 낯선 어휘를 접했을 때도 이미 습득한 글자의 뜻을 결합하여 새로운 낱말의 속뜻을 스스로 추론해 내는 고차원적 인지 어휘망(Semantic Network)이 형성됩니다.
+        </p>
+      </section>
+
+      <section style="margin-bottom: 2.5rem;">
+        <h3 style="font-size: 1.25rem; color: #0f172a; font-weight: 700; margin-bottom: 0.75rem;">
+          2. 국내 3대 한자 공인검정기관 출제 체계와 학술적 평가 기준
+        </h3>
+        <p style="color: #334155; margin-bottom: 1rem;">
+          대한민국 공인 한자능력 검정시험은 주관 기관에 따라 평가 철학과 출제 방식에 뚜렷한 특징이 있습니다.
+          각 기관의 배정한자 범위와 출제 성향을 올바르게 이해하면 학습 목적에 부합하는 체계적인 시험 대비가 가능합니다.
+        </p>
+        <div style="overflow-x: auto; margin-bottom: 1rem;">
+          <table style="width: 100%; border-collapse: collapse; font-size: 0.92rem; text-align: left;">
+            <thead>
+              <tr style="background: #f8fafc; border-bottom: 2px solid #cbd5e1;">
+                <th style="padding: 10px 14px; color: #0f172a; font-weight: 700;">검정기관</th>
+                <th style="padding: 10px 14px; color: #0f172a; font-weight: 700;">출제 방식 및 특징</th>
+                <th style="padding: 10px 14px; color: #0f172a; font-weight: 700;">학술적 평가 중점</th>
+                <th style="padding: 10px 14px; color: #0f172a; font-weight: 700;">추천 학습 대상</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-bottom: 1px solid #e2e8f0;">
+                <td style="padding: 10px 14px; font-weight: 600; color: #059669;">한국어문회</td>
+                <td style="padding: 10px 14px;">주관식 쓰기 비중 70~80% (정자 중심)</td>
+                <td style="padding: 10px 14px;">정확한 자형 쓰기와 고전 독해 능력</td>
+                <td style="padding: 10px 14px;">정통 한문 실력 향상, 사학·국문학 수험생</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #e2e8f0;">
+                <td style="padding: 10px 14px; font-weight: 600; color: #059669;">대한검정회</td>
+                <td style="padding: 10px 14px;">객관식과 주관식의 균형적 안배</td>
+                <td style="padding: 10px 14px;">실생활 한자어 활용 및 어휘 유추력</td>
+                <td style="padding: 10px 14px;">유아, 초·중등생, 교과 연계 어휘 학습</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px 14px; font-weight: 600; color: #059669;">대한상공회의소</td>
+                <td style="padding: 10px 14px;">전 문항 객관식 CBT (읽기 및 상용어 중심)</td>
+                <td style="padding: 10px 14px;">실무 경제·비즈니스 문서 이해도</td>
+                <td style="padding: 10px 14px;">취업 준비생, 공기업·대기업 직장인</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section style="margin-bottom: 2.5rem;">
+        <h3 style="font-size: 1.25rem; color: #0f172a; font-weight: 700; margin-bottom: 0.75rem;">
+          3. 인지신경학으로 입증된 손글씨 필기와 바른 획순(필순)의 기억 강화 원리
+        </h3>
+        <p style="color: #334155; margin-bottom: 0.75rem;">
+          디지털 타이핑 환경이 보편화된 오늘날에도 종이에 직접 연필로 글씨를 쓰는 필기 행위는 대체할 수 없는 강력한 인지 훈련으로 평가받습니다.
+          신경해부학의 <strong>'펜필드 호문쿨루스(Penfield's Homunculus)'</strong> 모델에 따르면, 대뇌 운동 피질에서 손가락과 손바닥을 관장하는 영역은 신체 부위 중 가장 넓은 면적을 차지합니다.
+        </p>
+        <p style="color: #334155; margin-bottom: 0.75rem;">
+          키보드 자판을 누르는 동작은 모든 문자에 동일한 압력 자극을 가하지만, 한자를 손글씨로 쓰는 과정은 획의 시작과 끝에서의 필압 조절, 가로획과 세로획의 방향성 감각, 삐침과 파임에서의 속도 제어 등 정밀한 미세 운동 피드백을 수반합니다.
+          이 운동 감각은 시각 정보와 결합하여 <strong>'신체적 운동 기억(Muscle Memory)'</strong>을 형성합니다.
+        </p>
+        <p style="color: #334155;">
+          또한 한자의 획순은 수천 년 동안 인류가 찾아낸 '가장 조화롭고 효율적인 동선'입니다.
+          올바른 획순에 맞추어 사각형 격자 칸 안에서 글씨를 쓰면 글자의 시각적 비례와 공간 균형 감각이 안정되며, 뇌가 복잡한 글자를 하나의 논리적인 덩어리로 묶어 처리(청킹, Chunking)하게 되므로 암기 속도와 지속 기간이 크게 향상됩니다.
+        </p>
+      </section>
+
+      <section style="margin-bottom: 2.5rem;">
+        <h3 style="font-size: 1.25rem; color: #0f172a; font-weight: 700; margin-bottom: 0.75rem;">
+          4. 초등 교과서 개념어의 80%를 지배하는 학습 도구어(Academic Vocabulary)의 중요성
+        </h3>
+        <p style="color: #334155; margin-bottom: 0.75rem;">
+          국립국어원의 어휘 조사 연구에 따르면 한국어 어휘 체계에서 한자어의 비중은 과반 이상이며, 특히 <strong>초·중·고 교과서에 수록된 학습 도구어의 80% 이상</strong>이 한자어로 구성되어 있습니다.
+          초등학교 3~4학년 시기에 과목별 학업 성취도의 격차가 본격적으로 벌어지는 핵심 원인은 일상 구어체가 아닌 교과서 속 개념어를 해석하는 문해력의 차이에서 비롯됩니다.
+        </p>
+        <p style="color: #334155; margin-bottom: 0.75rem;">
+          예를 들어 수학의 <strong>'분수(分數: 나눌 분, 셈 수)'</strong>, 과학의 <strong>'광합성(光合成: 빛 광, 합할 합, 이룰 성)'</strong>, 사회의 <strong>'민주주의(民主主義: 백성 민, 주인 주)'</strong>처럼, 개념어를 구성하는 개별 한자의 훈음을 알고 있는 학생은 긴 설명을 외우지 않고도 글자 자체에서 정의를 직관적으로 파악해 냅니다.
+        </p>
+        <p style="color: #334155;">
+          한자 어휘 지식은 형태와 소리가 같지만 뜻이 다른 동음이의어(同音異義語)를 문맥에 맞게 구별하는 데에도 핵심적인 역할을 합니다.
+          매일 꾸준히 기초 한자를 익히는 습관은 모든 교과 학습의 기초 체력이 되는 독해력과 논리적 사고력을 단단하게 다지는 지름길입니다.
+        </p>
+      </section>
+
+      <section style="margin-bottom: 1.5rem;">
+        <h3 style="font-size: 1.25rem; color: #0f172a; font-weight: 700; margin-bottom: 0.75rem;">
+          5. 사자성어(四字成語)를 통한 철학적 사고력과 인성 함양
+        </h3>
+        <p style="color: #334155; margin-bottom: 0.75rem;">
+          사자성어는 4개의 글자 속에 수천 년 역사 속 선현들의 삶의 굴곡, 결단, 도덕적 성찰을 정교하게 응축해 놓은 동양 인문학의 정수입니다.
+          《논어》, 《서경》, 《채근담》 등의 고전에서 유래한 사자성어는 단순한 수험용 어휘를 넘어 삶의 복잡한 문제를 마주했을 때 균형 있는 시각을 제공합니다.
+        </p>
+        <p style="color: #334155; margin-bottom: 0.75rem;">
+          고난 끝에 찾아오는 참된 결실을 일깨우는 <strong>고진감래(苦盡甘來)</strong>, 철저한 사전 준비의 평온함을 강조하는 <strong>유비무환(有備無患)</strong>, 극단을 경계하고 조화를 권면하는 <strong>과유불급(過猶不及)</strong>, 실패 앞에서도 굴하지 않고 다시 일어서는 회복탄력성을 주는 <strong>칠전팔기(七顚八起)</strong>는 시대를 초월하여 우리의 인격을 다듬는 훌륭한 길잡이가 됩니다.
+        </p>
+        <p style="color: #334155;">
+          사자성어에 얽힌 풍부한 역사적 고사와 자형의 유래를 음미하는 과정은 어린이에게는 올바른 인성 교육의 기회가 되며, 성인에게는 삶의 통찰을 넓히고 언어적 품격을 높여주는 유익한 인문학 수양의 여정이 될 것입니다.
+        </p>
+      </section>
+    </article>
+
     <section style="border-top: 1px solid #e2e8f0; padding-top: 2rem; margin-top: 3rem; text-align: center; color: #64748b; font-size: 0.95rem;">
       <p style="margin-bottom: 1rem;">
         <a href="/privacy" style="color: #0f172a; font-weight: 700; text-decoration: none; margin: 0 10px;">개인정보처리방침</a> |
         <a href="/about" style="color: #475569; text-decoration: none; margin: 0 10px;">서비스 소개</a> |
         <a href="/faq" style="color: #475569; text-decoration: none; margin: 0 10px;">자주 묻는 질문</a> |
         <a href="/contact" style="color: #475569; text-decoration: none; margin: 0 10px;">문의하기</a> |
-        <a href="/story" style="color: #475569; text-decoration: none; margin: 0 10px;">한자 이야기 칼럼</a>
+        <a href="/story" style="color: #475569; text-decoration: none; margin: 0 10px;">한자 이야기 칼럼 (총 ${STORY_DATABASE.length}편)</a>
       </p>
       <p style="font-size: 0.85rem; color: #94a3b8; margin: 0;">
-        © 2026 일일한자 (11HANJA.COM) - 매일 10분, 스스로 익히는 무료 급수 한자 학습지. All rights reserved.
+        © 2026 일일한자 (11HANJA.COM) - 매일 10분, 스스로 익히는 무료 급수 한자 학습지 및 교육 칼럼. All rights reserved.
       </p>
     </section>
   </div>
 `;
 
 savePage('', createHtmlPage({
-  title: '일일한자 - 검정기관별 무료 급수 한자 학습지 만들기 & 획순 연습',
-  description: '한국어문회·대한검정회·상공회의소 검정기관별 급수 한자학습, 쓰기, 획순 가이드 및 맞춤형 A4 학습지 인쇄까지 회원가입 없이 무료로 이용하세요.',
+  title: '일일한자 - 검정기관별 무료 급수 한자 학습지 & 교육 칼럼',
+  description: '한국어문회·대한검정회·상공회의소 검정기관별 급수 한자학습, 쓰기, 획순 가이드 및 38편의 한자 이야기 교육 칼럼을 회원가입 없이 만나보세요.',
   canonicalUrl: 'https://www.11hanja.com/',
   ogType: 'website',
   bodyHtml: homeBody
@@ -349,7 +477,8 @@ savePage('custom', createHtmlPage({
   title: '단어·사자성어 맞춤 한자 학습지 만들기 - 일일한자 | 11HANJA.COM',
   description: '원하는 한자 단어나 사자성어를 직접 입력하여 36칸 A4 가로쓰기 연습장 및 한 줄 쓰기 맞춤 학습지를 무료로 생성하고 인쇄하세요.',
   canonicalUrl: 'https://www.11hanja.com/custom',
-  bodyHtml: customBody
+  bodyHtml: customBody,
+  robots: 'noindex, follow'
 }));
 
 // 6. /story

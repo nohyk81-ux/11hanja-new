@@ -1,1 +1,4 @@
+https://11hanja.com/* https://www.11hanja.com/:splat 301!
+http://11hanja.com/* https://www.11hanja.com/:splat 301!
+http://www.11hanja.com/* https://www.11hanja.com/:splat 301!
 /* /index.html 200
